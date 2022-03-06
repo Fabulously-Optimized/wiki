@@ -1,13 +1,13 @@
 Welcome to the Fabulously Optimized wiki!
 
-[⬇️ Installing modpack](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Install-instructions) | [🆕 Updating modpack](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions) [(resetting settings)](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions#resetting-settings) | [➕ Adding mods](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Adding-more-mods) | [➖ Disabling mods](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Disabling-mods) | [🔧 Configuring mods](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Configuring-the-game)
+[⬇️ Installing modpack](Install%20instructions.md) | [🆕 Updating modpack](Update%20instructions.md) [(resetting settings)](Update%20instructions.md#resetting-settings) | [➕ Adding mods](Adding%20more%20mods.md) | [➖ Disabling mods](Disabling%20mods.md) | [🔧 Configuring mods](Configuring%20the%20game.md)
 
-Getting [🦸 Cape](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Free-cape) | [🌅 Shaders](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Getting-shaders) | [🖼️ Resource packs to work](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Resource-pack-issues)
+Getting [🦸 Cape](Free%20cape.md) | [🌅 Shaders](Getting%20shaders.md) | [🖼️ Resource packs to work](Resource%20pack%20issues.md)
 
-Comparison with [🧰 Forge](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Give-up-Forge) | [🇴​🇫 Optifine](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Give-up-Optifine) | [🔣 Other modpacks](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Principles)
+Comparison with [🧰 Forge](Give%20up%20Forge.md) | [🇴​🇫 Optifine](Give%20up%20Optifine.md) | [🔣 Other modpacks](Principles.md)
 
-You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating mods](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Language-support)
+You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating mods](Language%20support.md)
 
-More info about [🔢 Version support](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Version-support-FAQ) | [🎛️ Changed options](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Changed-options) | [🙅 Mods that won't be added](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Mods-that-won't-be-included) | [🔃 MultiMC (auto-update)](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Auto-updating-MultiMC-pack) | [🗄️ Server setup](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Server-setup)
+More info about [🔢 Version support](Version%20support%20FAQ.md) | [🎛️ Changed options](Changed%20options.md) | [🙅 Mods that won't be added](Mods%20that%20won't%20be%20included.md) | [🔃 MultiMC (auto-update)](MultiMC%20auto-update.md) | [🗄️ Server setup](Server%20setup.md)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
