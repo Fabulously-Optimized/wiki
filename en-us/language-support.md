@@ -2,7 +2,7 @@ I support people using Minecraft in their language and would like to promote tha
 
 ### Translating Mod Menu helper
 
-As of 2.2.0, Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
+Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
 
 1. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
 2. Extract Mod Menu Helper.zip to a folder, then go inside it -> assets -> minecraft -> lang
