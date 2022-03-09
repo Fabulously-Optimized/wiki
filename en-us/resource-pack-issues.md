@@ -62,11 +62,13 @@ See also: [cem#9](https://github.com/dorianpb/cem/issues/9)
 ## Emissive textures
 _Or "making any block light up"._
 
-Currently not supported. See [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7).
+Currently not supported with resource packs, see [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7).
+However, if you can run shaders and want to highlight the ores, use [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) or [Prismarine](https://www.curseforge.com/minecraft/customization/prismarine-shader).
 
 ## Custom sky
 
 _Or "custom skymap"._
 
-Currently not supported. Follow [issue #72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) for details.
+Currently not supported with resource packs, follow [issue #72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) for details.
+Or, if you can run shaders, [BSL](https://bitslablab.com/bslshaders/) can change clouds for example and [AstraLex](https://www.curseforge.com/minecraft/customization/astralex-shader-bsl-edit) can change the sky.
 
