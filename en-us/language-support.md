@@ -55,6 +55,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 1. [Mod Menu](https://hosted.weblate.org/engage/fabric-modmenu/)
 1. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.17/src/main/resources/assets/lambdabettergrass/lang/en_us.json)
 1. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.17/src/main/resources/assets/lambdynlights/lang/en_us.json)
+1. [Zoomify](https://github.com/isXander/Zoomify/blob/1.18/src/main/resources/assets/zoomify/lang/en_us.json)
 1. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.17/src/main/resources/assets/spruceui/lang/en_us.json) (more strings used in LambdaBetterGrass and LambDynamicLights)
 1. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en_us.json)
 1. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
