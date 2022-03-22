@@ -2,7 +2,7 @@
 
 While I only intend to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft! **However, please remove any custom mods before asking for support.**
 
-This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](https://github.com/Madis0/fabulously-optimized/wiki/Install-instructions)
+This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](./install-instructions.md)
 
 #### CurseForge Launcher
 
@@ -58,7 +58,7 @@ Method 2:
 
 ### Other hints
 
-* Need to disable a mod instead? [See this page.](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Disabling-mods)
+* Need to disable a mod instead? [See this page.](./disabling-mods.md)
 * Looking for mods that may improve your use case but were rejected from the modpack? [See this wiki!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod)
 * Want to suggest your mod to everyone? Check out [the issues of this repo](https://github.com/Fabulously-Optimized/fabulously-optimized/issues).
 * Coming from Forge and don't know what to install? Check out the [community list of equivalent mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md).

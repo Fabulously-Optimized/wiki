@@ -1,6 +1,6 @@
 List of mods that have been suggested but will not be included in this pack with reasons, why not. 
 
-Note that I will also not add mods that derive really far from vanilla UX, such as [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) or [REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items). You can always [add them by yourself](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods) ;)
+Note that I will also not add mods that derive really far from vanilla UX, such as [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap) or [REI](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items). You can always [add them by yourself](./adding-more-mods.md) ;)
 
 **This list is no longer updated, [see here for an updated list](https://github.com/Madis0/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod).**
 

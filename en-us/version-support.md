@@ -18,7 +18,7 @@ See the [Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulous
 
 **Note that versions 1.1.2-1.7.0 (MC 1.16.1-1.16.4) and 2.0.0b4 (MC 1.17) [are not safe for multiplayer](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) and are kept just for archival purposes.** Any newer versions listed there are patched and should be upgraded to ASAP.
 
-If you need to use Minecraft 1.15 or older, your best bet is adding [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) or both to your modpack profile [(instructions are here)](https://github.com/Madis0/fabulously-optimized/wiki/Adding-more-mods). See also [why I can't add it for everyone just yet.](https://github.com/Madis0/fabulously-optimized/issues/15#issuecomment-786175477)
+If you need to use Minecraft 1.15 or older, your best bet is adding [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) or both to your modpack profile [(instructions are here)](./adding-more-mods.md). See also [why I can't add it for everyone just yet.](https://github.com/Madis0/fabulously-optimized/issues/15#issuecomment-786175477)
 
 ### Will you backport newer modpack changes to older versions?
 
@@ -59,4 +59,4 @@ Too early to tell, that likely depends on how many Fabric modders will start usi
 
 ### How does the auto-updating MultiMC pack work?
 
-[See this page.](https://github.com/Madis0/fabulously-optimized/wiki/Auto-updating-MultiMC-pack)
+[See this page.](./multimc-auto-update.md)

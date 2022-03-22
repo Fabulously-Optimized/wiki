@@ -3,8 +3,8 @@ One of the goals of Fabulously Optimized is to provide feature parity with [Opti
 Here is the list of Optifine features that are supported in this modpack:
 
 * Performance optimizations - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Madis0/fabulously-optimized#smooth)
-* Shaders - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](https://github.com/Madis0/fabulously-optimized/wiki/Getting-shaders))
-* Capes - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](https://github.com/Madis0/fabulously-optimized/wiki/Free-cape))
+* Shaders - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](./getting-shaders.md))
+* Capes - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](./free-cape.md))
 * Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 * Better Grass/Snow - [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 * Better Trees - [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
@@ -30,6 +30,6 @@ Additionally, you can enjoy:
 
 Parity with Optifine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Madis0/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
-If you're having issues with Optifine's resource pack features, [see this wiki](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Resource-pack-issues).
+If you're having issues with Optifine's resource pack features, [see this wiki](./resource-pack-issues.md).
 
 _See also: [Recommended OptiFine alternatives on Fabric](https://lambdaurora.dev/optifine_alternatives), a list that inspired me to create this modpack in the first place._

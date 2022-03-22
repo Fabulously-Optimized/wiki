@@ -8,4 +8,4 @@ I am aware that since Fabulously Optimized was created, several similar packs ha
 * **Availability** - I support Curseforge Launcher, MultiMC, GDLauncher and even Minecraft Launcher (vanilla), better vanilla support and Modrinth are coming in the future.
 * **Updates** - Fabulously Optimized is meant to work on the latest stable version of Minecraft: Java Edition using the best mods available for it.
 
-See also: [Version support FAQ](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Version-support-FAQ)
+See also: [Version support FAQ](./version-support.md)
