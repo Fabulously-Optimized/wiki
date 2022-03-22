@@ -8,7 +8,7 @@ Getting [🦸 Cape](./en-us/Free-cape.md) | [🌅 Shaders](./en-us/Getting-shade
 
 Comparison with [🧰 Forge](./en-us/Give-up-Forge.md) | [🇴​🇫 Optifine](./en-us/Give-up-Optifine.md) | [🔣 Other modpacks](./en-us/Principles.md)
 
-You can help by [❤️ Supporting the pack](./en-us/CONTRIBUTING.md) | [🌐 Translating mods](./en-us/Language-support.md)
+You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating mods](./en-us/Language-support.md)
 
 More info about [🔢 Version support](./en-us/version-support.md) | [🎛️ Changed options](./en-us/Changed-options.md) | [🙅 Mods that won't be added](./en-us/mods-that-wont-be-included.md) | [🔃 MultiMC (auto-update)](./en-us/multimc-auto-update.md) | [🗄️ Server setup](./en-us/server-setup.md)
 
