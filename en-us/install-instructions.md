@@ -44,9 +44,9 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 1. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 1. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-1. If you want [FO default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options) as well, delete `options.txt` (your vanilla options will be reset)
-1. Launch the installed Fabric profile
-1. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+2. If you want [FO default settings](./changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
+3. Launch the installed Fabric profile
+4. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Madis0/fabulously-optimized/issues/110)!
 

@@ -1,7 +1,7 @@
-Don't like a feature or having a mod conflict? Easiest way to resolve it is to disable the mod. For resource pack-related issues, [see this page](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Resource-pack-issues).
+Don't like a feature or having a mod conflict? Easiest way to resolve it is to disable the mod. For resource pack-related issues, [see this page](./resource-pack-issues.md).
 
 Notes:
-* You can also delete the mod(s), but that will make it harder to [use them later](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Adding-more-mods), unless you remember the mod's name exactly.
+* You can also delete the mod(s), but that will make it harder to [use them later](./adding-more-mods.md), unless you remember the mod's name exactly.
 * Don't disable anything that says "API", other mods need it to work.
 
 ### Mod Menu
@@ -40,7 +40,7 @@ Notes:
 
 ### MultiMC (auto-update)
 
-Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There is a workaround for Linux (and possibly macOS) though, [written here](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Auto-updating-MultiMC-pack#can-i-ignore-some-of-the-mods).
+Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There is a workaround for Linux (and possibly macOS) though, [written here](./multimc-auto-update.md#can-i-ignore-some-of-the-mods).
  
 ### Minecraft Launcher (vanilla)
 

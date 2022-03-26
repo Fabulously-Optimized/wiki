@@ -93,9 +93,9 @@ Currently the only way to update is to "reinstall" the pack.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 1. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 1. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-1. If you want [FO default settings](https://github.com/Madis0/fabulously-optimized/wiki/Changed-options) as well, delete `options.txt` (your vanilla options will be reset)
-1. Launch the installed Fabric profile
-1. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
+2. If you want [FO default settings](./changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
+3. Launch the installed Fabric profile
+4. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
 
 ### Resetting settings
 
@@ -107,12 +107,12 @@ This is made so that you can upgrade without having to reconfigure your options 
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
    * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
-1. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Changed-options))
-1. Open "config" and delete the following:
+2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](./changed-options.md))
+3. Open "config" and delete the following:
    * _fabric_ folder
    * _config.json5_ inside _slightguimodifications_
    * other files, except for 
         * _citresewn.json_
         * _fabric_loader_dependencies.json_
         * _yosbr_ folder
-1. Launch the game and new options are applied.
+4. Launch the game and new options are applied.

@@ -1,6 +1,6 @@
-Fabulously Optimized supports [various Optifine features](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Give-up-Optifine), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in Optifine even if they are broken, so this page should help you fix some of those issues.
+Fabulously Optimized supports [various Optifine features](./give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in Optifine even if they are broken, so this page should help you fix some of those issues.
 
-Before trying any of those things here, though, [make sure you are using the latest version](https://github.com/Fabulously-Optimized/fabulously-optimized/wiki/Update-instructions).
+Before trying any of those things here, though, [make sure you are using the latest version](./update-instructions.md).
 
 ## Broken paths
 
