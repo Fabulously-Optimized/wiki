@@ -10,6 +10,6 @@ Comparison with [🧰 Forge](./en-us/give-up-forge.md) | [🇴​🇫 Optifine](
 
 You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating mods](./en-us/language-support.md)
 
-More info about [🔢 Version support](./en-us/version-support.md) | [🎛️ Changed options](./en-us/changed-options.md) | [🙅 Mods that won't be added](./en-us/mods-that-wont-be-included.md) | [🔃 MultiMC (auto-update)](./en-us/multimc-auto-update.md) | [🗄️ Server setup](./en-us/server-setup.md)
+More info about [🔢 Version support](./en-us/version-support.md) | [🎛️ Changed options](./en-us/changed-options.md) | [🙅 Mods that won't be added](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod) | [🔃 MultiMC (auto-update)](./en-us/multimc-auto-update.md) | [🗄️ Server setup](./en-us/server-setup.md)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
