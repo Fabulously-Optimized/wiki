@@ -8,7 +8,6 @@
   * [Free cape](en-us/free-cape.md)
   * [Getting shaders](en-us/getting-shaders.md)
   * [Give up Forge](en-us/give-up-forge.md)
-  * [Give up Optifine](en-us/give-up-optifine.md)
   * [Install instructions](en-us/install-instructions.md)
   * [Language support](en-us/language-support.md)
   * [Mods that won't be included](en-us/mods-that-wont-be-included.md)
