@@ -33,7 +33,7 @@ Overview of shaders that are compatible with Iris:
 
 If you want simpler shaders, you can also try the the ones that are supported natively in 1.16+ via enabling _Fabulous!_ graphics in settings.
 
-1. [Fabulousity shader resource pac](https://github.com/ScottoMotto/Fabulousity#fabulousity)
+1. [Fabulousity shader resource pack](https://github.com/ScottoMotto/Fabulousity#fabulousity)
 
 {% embed url="https://youtu.be/luzgOwKt6_c?t=126" %}
 
