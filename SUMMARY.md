@@ -1,6 +1,6 @@
 # Table of contents
 
-* [English (US)](README.md)
+* [🇺🇸 English (US)](README.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
   * [Configuring the game](en-us/configuring-the-game.md)
@@ -17,5 +17,5 @@
   * [Server setup](en-us/server-setup.md)
   * [Update instructions](en-us/update-instructions.md)
   * [Version support](en-us/version-support.md)
-* [Estonian](et-ee/README.md)
+* [🇪🇪 Estonian](et-ee/README.md)
   * [test](et-ee/test.md)
