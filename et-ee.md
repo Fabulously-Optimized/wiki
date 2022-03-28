@@ -1,4 +1,4 @@
-# 🇪🇪 Estonian
+# 🇪🇪 Eesti keel
 
 [Viki automaattõlke leiad siit](https://github-com.translate.goog/Fabulously-Optimized/wiki/blob/main/README.md?\_x\_tr\_sl=en&\_x\_tr\_tl=et&\_x\_tr\_hl=et&\_x\_tr\_pto=wapp).&#x20;
 
@@ -10,10 +10,8 @@ Fabulously Optimized'i põhifunktsioonid ning enamus mode on saadaval eesti keel
 2. Vali **Eesti keel (Eesti)**
 3. Vajuta **Done**
 
-Kui soovid midagi küsida, [liitu meie Discordiga](https://discord.com/invite/yxaXtaQqdB) ja kirjuta kanalisse **#support**.&#x20;
+Kui soovid midagi küsida, [liitu meie Discordiga](https://discord.com/invite/yxaXtaQqdB) ja kirjuta kanalisse **#support**. Kuna FO autor on eestlane, saab tuge pakkuda ka eesti keeles, ent inglise keeles kirjutades on suurem võimalus kiire vastus saada.
 
-Kuna FO autor on eestlane, saab tuge pakkuda ka eesti keeles, ent inglise keeles kirjutades on võimalus kiirem vastus saada.
-
-Õpetusvideo:
+Õpetusvideo loojalt LihtsaltSuper:
 
 {% embed url="https://www.youtube.com/watch?v=z0jKe8XgdP0" %}
