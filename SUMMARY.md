@@ -17,5 +17,4 @@
   * [Server setup](en-us/server-setup.md)
   * [Update instructions](en-us/update-instructions.md)
   * [Version support](en-us/version-support.md)
-* [🇪🇪 Estonian](et-ee/README.md)
-  * [test](et-ee/test.md)
+* [🇪🇪 Estonian](et-ee.md)
