@@ -1,4 +1,4 @@
-Some facts about Fabric that can make you reconsider using Forge...
+### Why Fabric?
 
 * **Fabric updates fast** - on the same day as Minecraft itself, and so do many of its mods
 * **Fabric loads fast** - roughly the same as vanilla Minecraft, unlike Forge that takes minutes to open
@@ -9,3 +9,10 @@ Some facts about Fabric that can make you reconsider using Forge...
 * **Fabric is easy** - many launchers are supported, and the [installers are accessible right from the homepage](https://fabricmc.net/use/?page=installer)
 
 Looking for alternative mods to those you've been used to in Forge? [Check this list out!](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md)
+
+### Well What About Optifine?
+As Black Panther once said: "We don't do that here". Instead, check out these [amazing optifine alternatives](https://lambdaurora.dev/optifine_alternatives).
+
+Parity with Optifine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Madis0/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
+
+If you're having issues with Optifine's resource pack features, [see this wiki](./resource-pack-issues.md).
