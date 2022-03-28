@@ -1,4 +1,4 @@
-Fabulously Optimized supports [various Optifine features](./give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in Optifine even if they are broken, so this page should help you fix some of those issues.
+Fabulously Optimized supports [various Optifine features](./give-up-forge.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in Optifine even if they are broken, so this page should help you fix some of those issues.
 
 Before trying any of those things here, though, [make sure you are using the latest version](./update-instructions.md).
 
