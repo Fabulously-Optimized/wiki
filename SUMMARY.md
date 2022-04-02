@@ -3,7 +3,6 @@
 * [🇺🇸 🇺🇸 English (US)](README.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
-  * [Configuring the game](en-us/configuring-the-game.md)
   * [Disabling mods](en-us/disabling-mods.md)
   * [Free cape](en-us/free-cape.md)
   * [Getting shaders](en-us/getting-shaders.md)
