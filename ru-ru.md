@@ -12,6 +12,6 @@
 
 Если у вас есть какие-либо вопросы, [присоединяйтесь к нашему Дискорд](https://discord.gg/yxaXtaQqdB) и пишите в **#support** на английском языке.
 
-Учебное видео от Wiki XamepaStream:
+Обучающее видео от Wiki XamepaStream:
 
 {% embed url="https://www.youtube.com/watch?v=3Oylcgt1nyw" %}
