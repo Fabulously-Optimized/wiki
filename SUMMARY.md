@@ -16,3 +16,4 @@
   * [Update instructions](en-us/update-instructions.md)
   * [Version support](en-us/version-support.md)
 * [🇪🇪 Eesti keel](et-ee.md)
+* [🇷🇺 Русский](russkii.md)
