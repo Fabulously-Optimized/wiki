@@ -13,3 +13,9 @@ You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optim
 More info about [🔢 Version support](en-us/version-support.md) | [🙅 Mods that won't be added](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod) | [🔃 MultiMC (auto-update)](en-us/multimc-auto-update.md) | [🗄️ Server setup](en-us/server-setup.md)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
+
+\---
+
+Detailed installation video by CraftStones:
+
+{% embed url="https://www.youtube.com/watch?v=9HXXyfzUy6Q" %}
