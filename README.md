@@ -6,7 +6,7 @@ Welcome to the Fabulously Optimized wiki!
 
 Getting [🦸 Cape](en-us/free-cape.md) | [🌅 Shaders](en-us/getting-shaders.md) | [🖼️ Resource packs to work](en-us/resource-pack-issues.md)
 
-Comparison with [🇴​🇫 Optifine](en-us/give-up-optifine.md) | [🔣 Other modpacks](en-us/principles.md) [(why use Fabric?)](en-us/principles.md#why-fabric)
+Comparison with [🇴​🇫 Optifine](en-us/give-up-optifine.md) | [🔣 Other modpacks](en-us/principles.md) [(why use Fabric?)](en-us/principles.md#why-use-fabric)
 
 You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating mods](en-us/language-support.md)
 
