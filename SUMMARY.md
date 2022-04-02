@@ -15,4 +15,4 @@
   * [Server setup](en-us/server-setup.md)
   * [Update instructions](en-us/update-instructions.md)
   * [Version support](en-us/version-support.md)
-* [🇪🇪 🇪🇪 Eesti keel](et-ee.md)
+* [🇪🇪 Eesti keel](et-ee.md)
