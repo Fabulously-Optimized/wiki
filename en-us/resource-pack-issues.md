@@ -62,7 +62,7 @@ See also: [cem#9](https://github.com/dorianpb/cem/issues/9)
 ## Emissive textures
 _Or "making any block light up"._
 
-Currently not supported with resource packs, see [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7).
+Currently not supported for blocks, see [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7).
 However, if you can run shaders and want to highlight the ores, use [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) or [Prismarine](https://www.curseforge.com/minecraft/customization/prismarine-shader).
 
 ## Custom sky
