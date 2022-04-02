@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇺🇸 🇺🇸 English (US)](README.md)
+* [🇺🇸 English (US)](README.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
   * [Disabling mods](en-us/disabling-mods.md)
