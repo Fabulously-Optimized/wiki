@@ -42,15 +42,15 @@ See also: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Option
 Since FO 3.3.0, some mods are included to fix vanilla bugs. \
 However, [similar to the mod inclusion policy](principles.md), Fabulously Optimized will not enable bugfixes randomly - they must be meaningful to 70%+ users to get enabled.
 
-| Mojang bug                                            | Description                                                             | Fixed by                                                             |
-| ----------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (soon) |
-| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                            | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (soon) |
-| [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (soon) |
-| [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (soon) |
-| [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (soon) |
-| [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) (soon) |
-| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                            | [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix)        |
+| Mojang bug                                            | Description                                                             | Fixed by                                                      |
+| ----------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                            | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                            | [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix) |
 
 If you'd like to enable more bugfixes for your game, see the fixed bug list for [Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla) and [TieFix](https://github.com/j-tai/TieFix#bugs-fixed).
 
