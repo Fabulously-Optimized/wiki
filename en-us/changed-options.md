@@ -68,7 +68,7 @@ Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
 
 The modpack is already configured for the best performance and simplest experience for most users.&#x20;
 
-If you want to configure something, you'll most likely find it on `Options...` -> `Video Settings...`
+If you want to configure something, you'll most likely find it on `Options...` -> `Video Settings...`. If you have a powerful computer or monitor, you may want to disable Vsync there.
 
 For other things like dynamic lights, better grass and zoom:
 
