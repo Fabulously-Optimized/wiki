@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇺🇸 🇺🇸 English (US)](README.md)
+* [🇺🇸 English (US)](README.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
   * [Disabling mods](en-us/disabling-mods.md)
@@ -15,5 +15,5 @@
   * [Server setup](en-us/server-setup.md)
   * [Update instructions](en-us/update-instructions.md)
   * [Version support](en-us/version-support.md)
-* [🇪🇪 🇪🇪 Eesti keel](et-ee.md)
-* [🇷🇺 🇷🇺 Русский](ru-ru.md)
+* [🇪🇪 Eesti keel](et-ee.md)
+* [🇷🇺 Русский](ru-ru.md)

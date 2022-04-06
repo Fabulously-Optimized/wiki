@@ -14,6 +14,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | gamma                       | Screen brightness                                                                                                                                                                                     | 0.0      | 0.5     | Better view at night and in dark caves, +50% compared to vanilla's Moody, 1.18 parity for other versions                                 |
 | simulationDistance          | Redstone and mob spawning distance                                                                                                                                                                    | 12       | 6       | Better performance regardless of the rendering distance you use                                                                          |
 | guiScale                    | Size of the menu and interface elements                                                                                                                                                               | 0        | 3       | 3 is usable on all screens, 0 (Auto) can get too large on Full HD and larger screens                                                     |
+| maxFps                      | The maximum framerate                                                                                                                                                                                 | 120      | 260     | 260 means "unlimited", this is changed for better UX when VSync is disabled by the user (on fast computers/monitors)                     |
 | resourcePacks               | Adjusts which resource packs are enabled by default                                                                                                                                                   | \[]      | ¹       | Enabled mods' default packs and FO-exclusive Mod Menu Helper                                                                             |
 | tutorialStep                | The next step of [tutorial hints](https://minecraft.fandom.com/wiki/Tutorial\_hints)                                                                                                                  | movement | none    | If you know how to install a modpack, you probably don't need those tutorials anymore                                                    |
 | skipMultiplayerWarning      | Whether to skip [the legal disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen                                                        | false    | true    | I expect my users to already know that the third party servers are not owned or monitored by Mojang Studios or Microsoft                 |
@@ -39,18 +40,21 @@ See also: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Option
 
 ### Fixed bugs
 
-Since FO 3.3.0, some mods are included to fix vanilla bugs. \
+Since FO 3.3.0, some mods are included to fix vanilla bugs.\
 However, [similar to the mod inclusion policy](principles.md), Fabulously Optimized will not enable bugfixes randomly - they must be meaningful to 70%+ users to get enabled.
 
-| Mojang bug                                            | Description                                                             | Fixed by                                                      |
-| ----------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
-| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                            | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
-| [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
-| [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
-| [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
-| [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
-| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                            | [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix) |
+| Mojang bug                                            | Description                                                                | Fixed by                                                      |
+| ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Sleeping in a custom dimension with "natural" set to false causes crash    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
+| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [TieFix](https://www.curseforge.com/minecraft/mc-mods/tiefix) |
+| [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) |
 
 If you'd like to enable more bugfixes for your game, see the fixed bug list for [Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla) and [TieFix](https://github.com/j-tai/TieFix#bugs-fixed).
 
@@ -66,7 +70,7 @@ Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
 
 ### Configuring mods
 
-The modpack is already configured for the best performance and simplest experience for most users.&#x20;
+The modpack is already configured for the best performance and simplest experience for most users.
 
 If you want to configure something, you'll most likely find it on `Options...` -> `Video Settings...`. If you have a powerful computer or monitor, you may want to disable Vsync there.
 
