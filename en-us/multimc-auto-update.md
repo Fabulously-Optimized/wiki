@@ -39,22 +39,12 @@ You'll have to download a new version of the pack that is specific to that Minec
 There is no official procedure for this yet, but RaptaG has made a tutorial and an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. It has been confirmed to work on Linux, may also work for MacOS. Volunteers are free to port it to Windows as well.
  
 **Steps:**
- 
- 1. Installing jq
- 2. Downloading the script
- 3. Selecting the mods that you want to disable
- 4. Setting the scripts as pre-launch and post-exit commands in the MultiMC instance
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. [Download and install jq](https://stedolan.github.io/jq/download/). This is a lightweight program that is needed for automatically adapting this script to any Minecraft version you use.
 2. Download the mod disabling scripts:
-   * Run the following command on a terminal:
+   * Run the following command on a terminal - this will install the files and make them executable:
 `curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod 755 pre-launch.sh post-exit.sh`
-
-You can install them wherever you like, just make sure to enter this place before, by running `cd /path/to/folder` (replace `/path/to/folder` with the folder's location).
-
-This will install the files and make them executable
+   * You can install them wherever you like, just make sure to enter this place before, by running `cd /path/to/folder` (replace `/path/to/folder` with the folder's location).
 
 3. Select the mods to disable
    1. Copy the name of the mod(s) you want to disable
@@ -68,8 +58,7 @@ This will install the files and make them executable
    3. Go to "Settings" and then to "Custom Commands"
    4. Remove the pre-launch command and replace it with `/path/to/folder/pre-launch.sh` (again, replace `/path/to/folder` with the folder where you              installed the scripts
    5. Do the same thing for the post-exit command but with `path/to/folder/post-exit.sh` this time.
-5. That's it! Now, the mods you disabled shouldn't work neither appear inside the mod's menu!
-
+5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
 **FAQ:**
 
