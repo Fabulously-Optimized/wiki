@@ -48,8 +48,8 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
 
 3. Select the mods to disable
    1. Copy the name of the mod(s) you want to disable
-   2. Open `pre-launch.sh` with a text editor (the choice is yours!).
-   3. You'll see in the beggining of it saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. After `=` place the name of the mods you previously copied, one by one.
+   2. Open `pre-launch.sh` with any text editor
+   3. Find the line saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. After `=` place the name of the mods you previously copied, one by one.
    * Note: No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`
 
 4. Setup the scripts to run on your MultiMC (auto-update) instance  
