@@ -36,18 +36,18 @@ You'll have to download a new version of the pack that is specific to that Minec
 
 ### Can I ignore some of the mods?
 
- I (RaptaG) made an better version of [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81) which is more automatical and the only thing need to be added by the user is the mods that will be disabled. It still works on Linux, testers are needed for MacOS and for Windows, anyone willing to port it should do so.
+There is no official procedure for this yet, but RaptaG has made a tutorial and an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. It has been confirmed to work on Linux, may also work for MacOS. Volunteers are free to port it to Windows as well.
  
- **Steps:**
+**Steps:**
  
  1. Installing jq
- 2. Dowloading the script
+ 2. Downloading the script
  3. Selecting the mods that you want to disable
  4. Setting the scripts as pre-launch and post-exit commands in the MultiMC instance
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1) Enter [this](https://stedolan.github.io/jq/download/) website and install `jq`, according to your OS. It is needed for an important part of the script (the Mincraft version for Packwiz) Don't worry about the its size, it is very lightweight!
+1) Enter [this](https://stedolan.github.io/jq/download/) website and install `jq`, according to your OS. It is needed for an important part of the script (the Minecraft version for Packwiz) Don't worry about the its size, it is very lightweight!
 
 2) Inside a teminal run the following command:
 
@@ -59,8 +59,8 @@ This will install the files and make them executable
 
 3) 
 - Copy the name of the mod(s) you want to disable
-- Open `pre-launch.sh` with a text editor (the choise is yours!).
-- You'll see in the beggining of it saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod3=`, `mod4=` and `mod5=`.
+- Open `pre-launch.sh` with a text editor (the choice is yours!).
+- You'll see in the beggining of it saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`.
   After `=` place the name of the mods you previously copied, one by one.
   
   **IMPORTANT:** Whatever you select, **never** remove `mod0=` and `$mod0.jar`
@@ -78,13 +78,11 @@ That's it! Now, the mods you disabled shouldn't work neither appear inside the m
 
 **FAQ:**
 
-What if I want more-less than 6 mods to disable?
+What if I want to disable more or less than 6 mods?
 
 
-The answer is quite simple!
+Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. `mod4=`, `mod5=` in the start and `$mod4.jar\`, `$mod5.jar\` in the end.
 
-Removing: Just remove from the beggining of `pre-launch.sh` the extra mods you don't want (eg. `mod4=`, `mod5=` etc.) and then head to the end of the script where you'll see the extra mods too (`$mod4.jar\`, `$mod5.jar\` etc.).
-
-Adding: What you have to do here is: Add more definitions after `mod5=` (eg. `mod6=`, `mod7=` etc.). Then, near the end of the script, on line 36 copy `mod5.jar\`, press enter after `mod5.jar\`, paste what you copied and replace `5` with the number of the extra mod ( `6`, `7` etc.).
+Adding: Add more rows after `mod5=` (eg. `mod6=`, `mod7=` etc.) at the beginning. Near the end of the script, on line 36, copy `mod5.jar\`, press enter after `mod5.jar\`, paste what you copied and replace `5` with the number of the extra mod ( `6`, `7` etc.).
 
 If you have any problems, you can ask for support in the [Discord server](https://discord.gg/yxaXtaQqdB). This tutorial was made by RaptaG.
