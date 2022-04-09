@@ -36,44 +36,55 @@ You'll have to download a new version of the pack that is specific to that Minec
 
 ### Can I ignore some of the mods?
 
-There is no official procedure for this yet, but a [workaround by Remty5](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81) which has been tested in Linux and will probably work in MacOS, but **not** in Windows.
+ I (RaptaG) made an better version of [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81) which is more automatical and the only thing need to be added by the user is the mods that will be disabled. It still works on Linux, testers are needed for MacOS and for Windows, anyone willing to port it should do so.
+ 
+ **Steps:**
+ 
+ 1. Installing jq
+ 2. Dowloading the script
+ 3. Selecting the mods that you want to disable
+ 4. Setting the scripts as pre-launch and post-exit commands in the MultiMC instance
 
-* First things first you have to install the scripts that will ignore the mods.. Open your file manager and select the folder you want to install the scripts that will ignore the mods you'll select (Suggested: the instance's folder). Then, right click within the folder and select "Open Terminal". If this option does not exist in your Mac, you could use [this](https://www.petenetlive.com/KB/Article/0001060) tutorial (or Google it 😅)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Screenshot-1](https://user-images.githubusercontent.com/77157639/156615703-f113293c-e821-4c94-a891-2fccd0ff8848.png)
+1) Enter [this](https://stedolan.github.io/jq/download/) website and install `jq`, according to your OS. It is needed for an important part of the script (the Mincraft version for Packwiz) Don't worry about the its size, it is very lightweight!
 
-Now, inside the terminal paste the command below:
+2) Inside a teminal run the following command:
 
-`curl -Os https://gist.githubusercontent.com/Remty5/1b8a8d7c842dda56dacebf6db8c10961/raw/c0149c39ef4be375d013fa254b71899fb4bd6105/post-exit.sh && curl -Os https://gist.githubusercontent.com/Remty5/1b8a8d7c842dda56dacebf6db8c10961/raw/c0149c39ef4be375d013fa254b71899fb4bd6105/pre-launch.sh`
+`curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod 755 pre-launch.sh post-exit.sh`
 
-If everything goes well, the scripts are installed!
+You can install them wherever you like, just make sure to enter this place before, by running `cd /path/to/folder` (replace `/path/to/folder` with the folder's location).
 
-Now there are 4 things remaining:
+This will install the files and make them executable
 
-1. upgrade the checksums,
-2. actually select which mods you want to ignore,
-3. upgrade the `pack.toml`
-4. make them work in MultiMC
+3) 
+- Copy the name of the mod(s) you want to disable
+- Open `pre-launch.sh` with a text editor (the choise is yours!).
+- You'll see in the beggining of it saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod3=`, `mod4=` and `mod5=`.
+  After `=` place the name of the mods you previously copied, one by one.
+  
+  **IMPORTANT:** Whatever you select, **never** remove `mod0=` and `$mod0.jar`
 
-*   Within the terminal, run another command:
+4)  
+- Open MultiMC
+- Click on your instance "Edit Instance"
+- Go to "Settings" and then to "Custom Commands"
+- Remove the pre-launch command and replace it with `/path/to/folder/pre-launch.sh` (again, replace `/path/to/folder` with the folder where you              installed the scripts
+- Do the same thing for the post-exit command but with `path/to/folder/post-exit.sh` this time.
 
-    `cd .minecraft && md5sum packwiz.json`
 
-    This will print "`randomnumber` - packwiz.json". Copy **only** the number.
-*   After this is done, open with a text editor the `pre-launch.sh` and on the 12th line where is says
+That's it! Now, the mods you disabled shouldn't work neither appear inside the mod's menu!
 
-    `checksum=101c3431ead01d42ffbc80fecdccf903` replace the big number with the number you copied previously.
 
-    **NOTE:** You'll have to do this every time FO has an upgrade, otherwise the game will crash :(
-*   Now, head to line 20 of the same script
+**FAQ:**
 
-    Here, you have to copy the mods' names you want to ignore from your `mods` folder and add them in order, like it is shown in the script. After each mods' name add a `\`, except from the last one, otherwise it won't work.
-* When a new _Minecraft_ release is out, the `pack.toml` has to be upgraded. So at the end of the line 5 there's a link, which somewhere in it should say a Minecraft version (eg. 1.18.2). So, whenever an update comes, you should edit that part of the link to match the MC version, otherwise [this](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/258) issue will be caused.
-* This is the final step! These scripts have to be run by MultiMC, and this is very simple:
-  1. Open MultiMC, right click your auto-upgrade instance and click "Edit Instance"
-  2. Go to Settings and click "Custom Commands" and enable them
-  3. Here, add to the "Pre-launch command" `/path/to/pre-launch.sh` (replace `/path/to/` with the location you saved the scripts) and to the "Post-exit command" `/path/to/post-exit.sh` (replace `/path/to/` with the location you saved the scripts)
+What if I want more-less than 6 mods to disable?
 
-![Screenshot\_82](https://user-images.githubusercontent.com/77157639/157910323-02015782-7c9d-4a1c-a735-b5f0b75b79df.png)
+
+The answer is quite simple!
+
+Removing: Just remove from the beggining of `pre-launch.sh` the extra mods you don't want (eg. `mod4=`, `mod5=` etc.) and then head to the end of the script where you'll see the extra mods too (`$mod4.jar\`, `$mod5.jar\` etc.).
+
+Adding: What you have to do here is: Add more definitions after `mod5=` (eg. `mod6=`, `mod7=` etc.). Then, near the end of the script, on line 36 copy `mod5.jar\`, press enter after `mod5.jar\`, paste what you copied and replace `5` with the number of the extra mod ( `6`, `7` etc.).
 
 If you have any problems, you can ask for support in the [Discord server](https://discord.gg/yxaXtaQqdB). This tutorial was made by RaptaG.
