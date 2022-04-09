@@ -2,9 +2,9 @@
 
 While I only intend to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft! **However, please remove any custom mods before asking for support.**
 
-This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](./install-instructions.md)
+This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
 
-#### CurseForge Launcher
+### CurseForge Launcher
 
 Method 1:
 
@@ -28,7 +28,7 @@ Method 2:
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-#### GDLauncher:
+### GDLauncher:
 
 1. Open GDLauncher
 2. Right click Fabulously Optimized, click on `Manage`
@@ -36,7 +36,7 @@ Method 2:
 4. Choose any mod you want (make sure it is for Fabric) and click `Download`
 5. Close the sub-window and click on Fabulously Optimized to run the game. You should now have the new mod(s) installed!
 
-#### MultiMC
+### MultiMC/MultiMC (auto-update)
 
 1. Open MultiMC
 2. Click on Fabulously Optimized, then `Instance Folder`
@@ -46,7 +46,7 @@ Method 2:
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
 
-#### Minecraft Launcher (vanilla)
+### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
 2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
@@ -58,7 +58,7 @@ Method 2:
 
 ### Other hints
 
-* Need to disable a mod instead? [See this page.](./disabling-mods.md)
+* Need to disable a mod instead? [See this page.](disabling-mods.md)
 * Looking for mods that may improve your use case but were rejected from the modpack? [See this wiki!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod)
 * Want to suggest your mod to everyone? Check out [the issues of this repo](https://github.com/Fabulously-Optimized/fabulously-optimized/issues).
 * Coming from Forge and don't know what to install? Check out the [community list of equivalent mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md).

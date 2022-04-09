@@ -46,7 +46,7 @@ If you want simpler shaders, you can also try the the ones that are supported na
 
 ### Canvas shaders
 
-[Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) is a mod that provides a new type of shaders that may be better optimized for powerful computers. If you install it, make sure to remove Iris and Sodium as Canvas is incompatible with those.
+[Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) is a mod that provides a new type of shaders that may be better optimized for powerful computers. If you install it, **make sure to remove Sodium, Sodium Extra, Reese's Sodium Settings and Iris** as Canvas is incompatible with those.
 
 * [Lumi Lights resource pack](https://spiralhalo.github.io)
 
