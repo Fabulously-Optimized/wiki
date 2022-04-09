@@ -47,42 +47,35 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1) Enter [this](https://stedolan.github.io/jq/download/) website and install `jq`, according to your OS. It is needed for an important part of the script (the Minecraft version for Packwiz) Don't worry about the its size, it is very lightweight!
-
-2) Inside a teminal run the following command:
-
+1. [Download and install jq](https://stedolan.github.io/jq/download/). This is a lightweight program that is needed for automatically adapting this script to any Minecraft version you use.
+2. Download the mod disabling scripts:
+   * Run the following command on a terminal:
 `curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod 755 pre-launch.sh post-exit.sh`
 
 You can install them wherever you like, just make sure to enter this place before, by running `cd /path/to/folder` (replace `/path/to/folder` with the folder's location).
 
 This will install the files and make them executable
 
-3) 
-- Copy the name of the mod(s) you want to disable
-- Open `pre-launch.sh` with a text editor (the choice is yours!).
-- You'll see in the beggining of it saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`.
-  After `=` place the name of the mods you previously copied, one by one.
-  
-  **IMPORTANT:** Whatever you select, **never** remove `mod0=` and `$mod0.jar`
+3. Select the mods to disable
+   1. Copy the name of the mod(s) you want to disable
+   2. Open `pre-launch.sh` with a text editor (the choice is yours!).
+   3. You'll see in the beggining of it saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. After `=` place the name of the mods you previously copied, one by one.
+   * Note: No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`
 
-4)  
-- Open MultiMC
-- Click on your instance "Edit Instance"
-- Go to "Settings" and then to "Custom Commands"
-- Remove the pre-launch command and replace it with `/path/to/folder/pre-launch.sh` (again, replace `/path/to/folder` with the folder where you              installed the scripts
-- Do the same thing for the post-exit command but with `path/to/folder/post-exit.sh` this time.
-
-
-That's it! Now, the mods you disabled shouldn't work neither appear inside the mod's menu!
+4. Setup the scripts to run on your MultiMC (auto-update) instance  
+   1. Open MultiMC
+   2. Click on your instance "Edit Instance"
+   3. Go to "Settings" and then to "Custom Commands"
+   4. Remove the pre-launch command and replace it with `/path/to/folder/pre-launch.sh` (again, replace `/path/to/folder` with the folder where you              installed the scripts
+   5. Do the same thing for the post-exit command but with `path/to/folder/post-exit.sh` this time.
+5. That's it! Now, the mods you disabled shouldn't work neither appear inside the mod's menu!
 
 
 **FAQ:**
 
 What if I want to disable more or less than 6 mods?
 
-
-Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. `mod4=`, `mod5=` in the start and `$mod4.jar\`, `$mod5.jar\` in the end.
-
-Adding: Add more rows after `mod5=` (eg. `mod6=`, `mod7=` etc.) at the beginning. Near the end of the script, on line 36, copy `mod5.jar\`, press enter after `mod5.jar\`, paste what you copied and replace `5` with the number of the extra mod ( `6`, `7` etc.).
+* Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. `mod4=`, `mod5=` in the start and `$mod4.jar\`, `$mod5.jar\` in the end.
+* Adding: Add more rows after `mod5=` (eg. `mod6=`, `mod7=` etc.) at the beginning. Near the end of the script, on line 36, copy `mod5.jar\`, press enter after `mod5.jar\`, paste what you copied and replace `5` with the number of the extra mod ( `6`, `7` etc.).
 
 If you have any problems, you can ask for support in the [Discord server](https://discord.gg/yxaXtaQqdB). This tutorial was made by RaptaG.
