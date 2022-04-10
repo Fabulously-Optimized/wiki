@@ -75,7 +75,7 @@ You can also translate this wiki. It is up to you, whether you want to do a sing
    * If you want to do a single page, name the file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages).md, e.g. `es_es.md`
    * If you want to do a set of pages, name the first file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages)/readme.md, e.g. `es_es/readme.md`
      * Other pages will then be in that language code folder. You may keep the file names in your language, but please try to keep it ASCII (no non-English characters).
-3. Fill the page(s) with content and click \`Commit new file\`
+3. Fill the page(s) with content and click `Commit new file`
 4. [Create a new pull request](https://github.com/Fabulously-Optimized/wiki/compare).
 5. I'll review your page and if everything seems okay, will accept it!
 6. You can add contents to your pages at any time by repeating this process.&#x20;
