@@ -32,7 +32,7 @@ Or with the launcher already open:
 2. Click the version number you need in the MultiMC (auto-update) section
 3. Drag the ZIP-archive to MultiMC window
 
-#### [GDLauncher](https://gdevs.io)
+### [GDLauncher](https://gdevs.io)
 
 1. Click ➕ on bottom left corner
 2. Select `CurseForge` tab

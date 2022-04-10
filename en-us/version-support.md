@@ -58,7 +58,7 @@ Too early to tell, that likely depends on how many Fabric modders will start usi
 
 #### Will you publish the modpack to Modrinth?
 
-[Yes, as soon as that becomes possible.](https://github.com/Madis0/fabulously-optimized/issues/63)
+[It is actually already there](https://modrinth.com/modpack/fabulously-optimized), but [no supported launchers can install it from there yet.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
 
 #### How does the auto-updating MultiMC pack work?
 

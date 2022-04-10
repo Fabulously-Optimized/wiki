@@ -35,7 +35,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 4. If not, go to Code tab and browse the folders in order: `src` -> `main` -> `resources` -> `assets` -> `(mod's name)` -> `lang` -> `en_us.json`
 5. Open the file and copy its full text
 6. Go back to `lang` folder, click Add file -> Create new file
-7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
+7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.fandom.com/wiki/Language#Languages)
 8. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
 
 ```
@@ -65,3 +65,18 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 13. [CEM](https://github.com/dorianpb/cem/blob/1.18/src/main/resources/assets/cem/lang/en\_us.json)
 14. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
 15. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
+
+### Translating the wiki
+
+You can also translate this wiki. It is up to you, whether you want to do a single overview page or translate multiple pages into your language.
+
+1. [Go to wiki repo](https://github.com/Fabulously-Optimized/wiki) and hit `Fork`
+2. Click `Add file` -> `Create new file`
+   * If you want to do a single page, name the file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages).md, e.g. `es_es.md`
+   * If you want to do a set of pages, name the first file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages)/readme.md, e.g. `es_es/readme.md`
+     * Other pages will then be in that language code folder. You may keep the file names in your language, but please try to keep it ASCII (no non-English characters).
+3. Fill the page(s) with content and click `Commit new file`
+4. [Create a new pull request](https://github.com/Fabulously-Optimized/wiki/compare).
+5. I'll review your page and if everything seems okay, will accept it!
+6. You can add contents to your pages at any time by repeating this process.&#x20;
+   * Make sure you click `🔄Fetch upstream` -> `Fetch and merge` to get the latest changes from the wiki.
