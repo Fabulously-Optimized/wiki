@@ -40,10 +40,22 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
  
 **Steps:**
 
-1. [Download and install jq](https://stedolan.github.io/jq/download/). This is a lightweight program that is needed for automatically adapting this script to any Minecraft version you use.
+1. Open a terminal and run the command below:
+   * MacOS: `brew install jq`
+   * Arch Linux: `sudo pacman -S jq`
+   * Debian-Ubuntu Linux: `sudo apt-get install jq`
+   * Fedora Linux: `sudo dnf install jq`
+   * openSUSE Linux: `sudo zypper install jq`
+
+This will install a program called [jq](https://stedolan.github.io/jq/), needed for automatically adapting this script to any Minecraft version you use.
+
+If don't use any of the distros above, you have to follow [this](https://stedolan.github.io/jq/download/) tutorial.
+
 2. Download the mod disabling scripts:
-   * Run the following command on a terminal - this will install the files and make them executable:
-`curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod 755 pre-launch.sh post-exit.sh`
+   * Open MultiMC, right click your instance and click "Instance Folder"
+   * Inside the folder now, right click and select "Open Terminal here"
+   * Within the terminal, run the following command - this will install the files and make them executable:
+`curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh`
    * You can install them wherever you like, just make sure to enter this place before, by running `cd /path/to/folder` (replace `/path/to/folder` with the folder's location).
 
 3. Select the mods to disable
