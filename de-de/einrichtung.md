@@ -2,13 +2,13 @@
 
 **Magst du Video-Tutorials lieber als Text?** [**Klicke hier!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 
-### [CurseForge Launcher](https://download.curseforge.com)
+### [Curseforge Launcher](https://download.curseforge.com)
 
 1. Gehe zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
-2. Klicke auf `Install` bei der ersten *CurseForge*-Version
+2. Klicke auf `Install` bei der ersten *Curseforge*-Version
 3. Akzeptiere den Download (falls gefragt wird)
 
-Oder, falls der CurseForge-Launcher schon offen ist:
+Oder, falls der Curseforge-Launcher schon offen ist:
 
 1. Wähle *Minecraft* von der Übersicht oder der Seitenleiste
 2. Suche "Fabulously Optimized"
@@ -20,7 +20,7 @@ Oder, falls der CurseForge-Launcher schon offen ist:
 
 1. Gehe zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Drücke `Download` bei der neusten **MultiMC**-Version
-   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der CurseForge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
+   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der Curseforge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
    * Falls du gar keine oder nur eine Mod in der *.zip* siehst, hast du die falsche Version heruntergeladen.
 3. Schiebe das ZIP-Archiv per drag & drop in das *MultiMC*-Fenster
 
@@ -35,7 +35,7 @@ Oder, falls der CurseForge-Launcher schon offen ist:
 #### [GDLauncher](https://gdevs.io)
 
 1. Klicke auf das ➕-Symbol unten links
-2. Wähle den Tab `CurseForge` aus
+2. Wähle den Tab `Curseforge` aus
 3. Suche nach "Fabulously Optimized"
 4. Klicke auf `Download Latest`
 5. Klicke auf das ➡️-Symbol unten rechts
@@ -46,9 +46,9 @@ MacOS und GNU/Linux benötigt Java [Offizielle Homepage](https://www.oracle.com/
 
 1. Installiere den [Fabric Loader](https://fabricmc.net/use/) **Version 0.13.3**
 2. Öffne den *Minecraft Launcher*, klicke `Installations` und dann auf das Ordnersymbol 📂 bei der *Fabric*-Installation
-3. Geh zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) auf *CurseForge*
+3. Geh zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) auf *Curseforge*
 4. Klick auf `Download` bei das neusten **MultiMC Version** des Packs
-   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der CurseForge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
+   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der Curseforge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
    * Falls du gar keine oder nur eine Mod in der *.zip* siehst, hast du die falsche Version heruntergeladen.
 5. Öffne die zip-Datei, gehe zu *Fabulously Optimized x.x.x_* → *.minecraft*
 6. Kopiere alle Ordner des *.minecraft* Ordners des Zip-Archivs zu deinem *.minecraft*-Ordner. Falls gefragt, erlaube das Ersetzen der Dateien und Ordner.
@@ -60,7 +60,7 @@ Ein einfaches Installationsprogramm für den Vanilla-Launcher [ist in Arbeit](ht
 
 ### Andere Launcher
 
-Theoretisch können Launcher, die *CurseForge* Modpacks unterstützten auch FO installieren. Außerdem sollte es eigentlich auch möglich sein, das Modpack über die Vanilla Schritte zu installieren. Allerdings werden andere Launcher von mir nicht aktiv unterstützt.
+Theoretisch können Launcher, die *Curseforge* Modpacks unterstützten auch FO installieren. Außerdem sollte es eigentlich auch möglich sein, das Modpack über die Vanilla Schritte zu installieren. Allerdings werden andere Launcher von mir nicht aktiv unterstützt.
 
 ### Server
 

@@ -18,7 +18,7 @@ Folgende OptiFine-Features werden auch vom Modpack unterstützt:
 * Custom Mobs/Entities (benutzerdefinierte Mobs/Entitäten) - [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)
 * Custom Colors (benutzerdefinierte Farben) - [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)
 * Toggles for animations, particles etc. (Einstellungsmöglichkeiten für Animationen, Partikel usw.) - [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
-* HD Fonts - wird in vanilla Minecraft seit der 1.13 unterstützt, ich habe manche Ressourcenpakete für Schriftarten mit hoher Qualität [auf meinem CurseForge Profil](https://www.curseforge.com/members/robotkoer/projects)
+* HD Fonts - wird in vanilla Minecraft seit der 1.13 unterstützt, ich habe manche Ressourcenpakete für Schriftarten mit hoher Qualität [auf meinem Curseforge Profil](https://www.curseforge.com/members/robotkoer/projects)
 * HD Screenshots - [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
 * Fix for transparent gaps in items (löst ein Problem, bei dem Lücken zwischen Gegenständen sichtbar sind) - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 * Resource pack-customizable splash screen (Startbildschirm, der über ein Ressourcenpaket konfigurierbar ist) - [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)

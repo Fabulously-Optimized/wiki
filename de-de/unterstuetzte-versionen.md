@@ -1,65 +1,66 @@
-# Version support
+# Unterstützte Versionen
 
 ## Versions
 
-#### How often does Fabulously Optimized receive updates?
+#### Wie oft wird *Fabulously Optimized* aktualisiert?
 
-That depends on my time, Mojang releases, Curseforge support (when versions appear in launcher), mod updates, mod additions... there are a lot of factors. I do try to push out a release as soon as possible when Minecraft or some of the more important mods update though.
+Das kommt ganz darauf an, wann *Mojang* was herausbringt, wie es um den *Curseforge* Support steht (wann Versionen im Launcher angezeigt werden), was es für Mod Updates/hinzugefügte Features gibt, usw... es gibt eine Menge Faktoren. Ich versuche allerdings, so schnell wie möglich eine neue Version herauszubringen, wenn *Minecraft* oder manche Mods wichtige Updates benötigen.
 
-#### What versions do you support?
+#### Welche Versionen werden Unterstützt?
 
-I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on Curseforge.
+Ich unterstützte immer nur die neuste "stabile" und die neuste Entwicklungsversion (falls vorhanden), alle anderen älteren Versionen werden nur der Zugänglichkeit halber angezeigt. Um es noch einfacher zu halten, stelle ich nur eine Modpack Version pro *Minecraft*-Version auf *Curseforge* auf sichtbar.
 
-#### Will you support Minecraft snapshots?
+#### Werden auch Snapshots unterstützt (werden)?
 
-No, they are not supported on Curseforge Launcher and are released too fast for me and the modders to keep up with.
+Nein, sie werden nicht vom *Curseforge Launcher* unterstützt und werden viel zu schnell veröffentlicht. Da komme ich und die Mod-Entwickler gar nicht mehr hinterher.
 
-#### What if I want to play on an older Minecraft version?
+#### Kann ich auch ältere Minecraft-Versionen mit *Fabulously Optimized* spielen?
 
-See the [Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) for the existing stable versions down to 1.16.1.
+Siehe die [Curseforge Seite](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) für alle stabilen Versionen bis hin zu 1.16.1 (älter geht's nicht).
 
-**Note that versions 1.1.2-1.7.0 (MC 1.16.1-1.16.4) and 2.0.0b4 (MC 1.17)** [**are not safe for multiplayer**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **and are kept just for archival purposes.** Any newer versions listed there are patched and should be upgraded to ASAP.
+**Die Versionen 1.1.2-1.7.0 (MC 1.16.1-1.16.4) und 2.0.0b4 (MC 1.17)** [**sind nicht sicher für den Mehrspielermodus**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **und werden nur für's Archiv angezeigt.** Alle anderen neueren Versionen haben nicht mehr die Sicherheitslücke. Bitte stelle also sicher, dass du vorsichtig mit diesen Versionen umgehst und sie am besten ganz vermeidest.
 
-If you need to use Minecraft 1.15 or older, your best bet is adding [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) or both to your modpack profile [(instructions are here)](adding-more-mods.md). See also [why I can't add it for everyone just yet.](https://github.com/Madis0/fabulously-optimized/issues/15#issuecomment-786175477)
+Falls du aber auf Servern mit *Minecraft* 1.15 oder älter spielen willst, kannst du [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) oder gleich beide Installieren [(so geht's)](mods-hinzufuegen.md). Außerdem: [hier meine Begründung](https://github.com/Madis0/fabulously-optimized/issues/15#issuecomment-786175477), warum ich ältere Versionen nicht für jeden zur Verfügung stelle.
 
-#### Will you backport newer modpack changes to older versions?
+#### Werden neuere Modpack-Änderungen auf ältere Versionen zurückportiert?
 
-Occasionally yes. Cases may include:
+Hin und wieder. Vor allem wenn;
 
-* a major breakage
-* after introducing a new major stable release
-* major updates to most important mods (e.g. Sodium, Lithium, Phosphor)
+* eine große Sicherheitslücke besteht
+* nach der Einführung einer neuen stabilen Hauptversion
+* große Updates zu den wichtigsten Mods des Modpacks (z.B. Sodium, Lithium, Phosphor)
 
-This is done to help you while you _transition_ to the new version, old Minecraft versions are still unsupported and will not receive full parity.
+Das wird alles getan, um dir den Übergang zu einer neuen Version zu erleichtern. Alte *Minecraft* Versionen sind allerdings nicht unterstützt und haben nicht die übliche Parität.
 
-## Other platforms
+## Andere Plattformen
 
-#### Will you make a [Forge](https://files.minecraftforge.net) modpack?
+#### Wird es ein [Forge](https://files.minecraftforge.net) Modpack für *FO* geben?
 
-No. Forge is slower to update and run and it doesn't have the same capabilities for optimization as Fabric.
+Nein. *Forge* ist langsamer, was Aktualisierungen angeht und es hat nicht so viele Möglichkeiten zur Optimierung wie *Fabric*.
 
-#### Can I use Forge mods in this modpack?
+#### Kann ich *Forge* Mods in diesem Modpack nutzen?
 
-No, but [there are many equivalents anyway](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). There is also work going on to make Forge mods work on Fabric though, if you're a developer [you can check it out](https://patchworkmc.net).
+Nein, aber [es gibt viele Alternativen zu einigen *Forge* Mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). Zudem wird auch daran gearbeitet, *Forge* mods auf *Fabric* laufen zu lassen, also falls du ein Entwickler bist [schau dir das Projekt gerne an](https://patchworkmc.net).
 
-#### Will you make a [Quilt](https://quiltmc.org) modpack?
+#### Wird es ein [*Quilt*](https://quiltmc.org) Modpack für *FO* geben?
 
-Too early to tell, that likely depends on how many Fabric modders will start using that exclusively. See [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+Aktuell kann ich diese Frage nur schwer beantworten. Es kommt darauf an, wie viele *Fabric* Modder es (ausschließlich) verwenden werden. Siehe [*GitHub Issue* #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
 
-#### Can I use Quilt mods in this modpack?
+#### Kann ich *Quilt* Mods in diesem Modpack verwenden?
 
-"Probably not. Quilt mods will eventually have their own metadata format which will likely not be compatible with Fabric." [Source](https://quiltmc.org/faq/)
+> *"Wahrscheinlich nicht. Quilt Mods werden irgendwann ihr eigenes Metadaten-Format haben, was wahrscheinlich dann nicht mit Fabric kompatibel sein wird."*
+[Source](https://quiltmc.org/faq/)
 
-## Distribution
+## Veröffentlichung des Modpacks
 
-#### Will you ever support Minecraft launcher (vanilla) properly?
+#### Wird der *Minecraft launcher* (vanilla) bald "richtig" unterstützt?
 
-[Yes, this is planned](https://github.com/Madis0/fabulously-optimized/issues/110) as soon as packwiz adds support for it!
+[Ja, es wurde schon geplant](https://github.com/Madis0/fabulously-optimized/issues/110), dass *packwiz* dies unterstützt!
 
-#### Will you publish the modpack to Modrinth?
+#### Gibt es das Modpack auch auf *Modrinth*?
 
-[Yes, as soon as that becomes possible.](https://github.com/Madis0/fabulously-optimized/issues/63)
+[Ja! Es wurde vorhin schon geplant und ist nun endlich verfügbar.](https://modrinth.com/modpack/fabulously-optimized) Allerdings können [aktuell keine Launcher darauf zugreifen](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63).
 
-#### How does the auto-updating MultiMC pack work?
+#### Wie kann ich bei *MultiMC* automatische Aktualisierungen einstellen?
 
-[See this page.](multimc-auto-update.md)
+[Siehe hier.](multimc-auto-updates.md)

@@ -4,11 +4,11 @@ Auch wenn ich eigentlich nur Mods in das Modpack getan habe, die zum Vanilla-Sti
 
 Dieses Tutorial geht davon aus, dass du das Modpack bereits installiert und den Launcher geöffnet hast.. [Falls nicht, ließ bitte das hier.](einrichtung.md)
 
-### CurseForge Launcher
+### Curseforge Launcher
 
 Methode 1:
 
-1. Öffne den CurseForge Launcher
+1. Öffne den Curseforge Launcher
 2. Navigiere zu `My Modpacks` und klicke auf `Fabulously Optimized`
 3. Drücke auf das 3 Punkte-Menü und wähle `Profile Options`
 4. Füge den Haken bei `Allow content management for this profile hinzu, und klicke `Done`
@@ -40,7 +40,7 @@ Methode 2:
 
 1. Öffne MultiMC
    1. Drücke auf *Fabulously Optimized*, danach `Instance Folder`
-2. Öffne die [CurseForge Mod-Seite, setze die Spielversion auf "Fabric"](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
+2. Öffne die [Curseforge Mod-Seite, setze die Spielversion auf "Fabric"](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
 3. Wähle eine beliebige Mod und gehe auf die *Files* Seite.
 4. Bitte stelle sicher, dass du die neuste Version für Fabric und deiner *Minecraft* Version installierst.
 5. Nachdem du alles heruntergeladen hast, kopiere die JAR-Datei in dem "Mods"-Ordner des Modpacks.
@@ -50,7 +50,7 @@ Methode 2:
 
 1. Öffne den *Minecraft Launcher*, und klicke auf `Installations`
 2. Klicke auf das Ordnersymbol für das Profil, dass du für das Modpack eingerichtet hast (z.B. *Fabric*)
-3. Öffne die [CurseForge Mod-Seite, setze die Spielversion auf *Fabric*](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
+3. Öffne die [Curseforge Mod-Seite, setze die Spielversion auf *Fabric*](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
 4. Wähle eine beliebige Mod und gehe auf die *Files* Seite.
 5. Bitte stelle sicher, dass du die neuste Version für Fabric und deiner *Minecraft* Version installierst.
 6. Nachdem du alles heruntergeladen hast, kopiere die JAR-Datei in dem "Mods"-Ordner des Modpacks.

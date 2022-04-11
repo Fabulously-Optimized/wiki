@@ -67,8 +67,8 @@ Willst du, dass ein Fehler in Fabulously Optimized behoben wird? Folge diesen Sc
 1. Finde den eigentlichen Fehler [in Mojangs offizieller Fehlersuche](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
 2. Frage ihn an oder überprüfe seinen Status auf [Debugifys Fehlerübersicht](https://github.com/W-OVERFLOW/Debugify/issues)
 3. Sobald der Fehler in Debugify hinzugefügt wurde (oder dies geplant ist), kannst du [eine Anfrage zur Ändern der Einstellungen von FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml) senden
-4. Describe the bug, mention the mod that fixes it and why it is important to 70-80% of users
-5. If accepted, expect the fix to be enabled in the next version of FO :)
+4. Beschreibe das Problem, sage, welche Mod dieses Problem beheben könnte und warum das Problem für zirka 70-80% der Nutzer von *FO* relevant ist.
+5. Wenn dein Fehler (*Issue*) akzeptiert wurde, dann kannst du dich darauf freuen, dass wahrscheinlich schon in der nächsten Version von *FO* behoben ist!
 
 ### Mods konfigurieren
 
