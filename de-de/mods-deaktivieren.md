@@ -51,5 +51,5 @@ Leider geht das hier nicht so einfach, da bei jedem Update alle Dateien neu heru
 2. Klicke das dem Modpack (möglicherweise *Fabric* genannt) entsprechende Ordnersymbol
 3. Wähle `mods`
 4. Benenne die Mod-Datei "modname.jar" zu "modname.jar-old" um (natürlich ist das nur ein Beispiel, nur der Text nach dem **`.`** ist relevant)
-   * Siehst du nur die Modnamen, nicht aber `.jar` am Ende? [So kann man Dateinamenserweiterungen auf Windows aktivieren.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
+   * Siehst du nur die Namen der Mods, nicht aber `.jar` am Ende? [So kann man Dateinamenserweiterungen auf Windows aktivieren.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
    * Wenn du die Mod später wieder aktivieren willst, benenne ihre Datei einfach von "modname.jar-old" zurück zu "modname.jar" um.

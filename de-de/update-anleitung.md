@@ -1,124 +1,130 @@
 # So hältst du das Modpack immer aktuell!
 
-### Curseforge Launcher
+### *Curseforge Launcher*
 
-If you haven't changed the mods:
+Falls du nichts an den Mods geändert hast:
 
-1. Select _Minecraft_ from the grid or sidebar
-2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
-   * Don't see that option? Follow the other instructions below.
-3. Select the topmost version, then `Continue`.
-4. Modpack will now update.
-5. After updating you can run it and check the version difference in the bottom right corner.
+1. Wähle *Minecraft* in der Übersicht oder Seitenleiste
+2. Gehe auf `My Modpacks`, rechtsklicke `Fabulously Optimized`, und drücke auf `⇄ Change Version`
+   * Siehst du diesen Knopf nicht? Dann folge bitte den Schritten weiter unten.
+3. Wähle die neuste Version, dann `Continue`.
+4. Das Modpack sollte sich nun updaten.
+5. Nach dem Update kannst du das Modpack starten und schauen, ob sich die Versionsnummer unten rechts geändert hat.
 
-If you added or removed some mods:
+Falls du manche Mods hinzugefügt oder entfernt hast:
 
-1. Select _Minecraft_ from the grid or sidebar
-2. On My Modpacks, click _Fabulously Optimized_
-3. Click `⫶`
-4. Click `Profile Options`
-5. Uncheck "Allow content management for this profile". You can re-enable content management after the update.
-6. Click `Continue`
-7. Click `⫶`
-8. Click `⇄ Change Version`.
-9. Select the topmost version, then `Continue`.
-10. Modpack will now update.
-11. After updating you can run it and check the version difference in the bottom right corner.
+1. Wähle *Minecraft* in der Übersicht oder Seitenleiste
+2. Gehe auf `My Modpacks`, klicke `Fabulously Optimized`
+3. Gehe auf die Menüpunkte `⫶`
+4. Öffne die `Profile Options`
+5. Wähle "Allow content management for this profile" ab. Du kannst diesen Haken **nach** dem Update sehr gerne auch wieder aktivieren.
+6. Klicke `Continue`
+7. Öffne wieder die Menüpunkte `⫶`
+8. Dann `⇄ Change Version`
+9. Wähle die allerneuste Version aus und drücke `Continue`.
+10. Das Modpack sollte sich nun updaten.
+11. Nach dem Update kannst du das Modpack starten und schauen, ob sich die Versionsnummer unten rechts geändert hat.
 
-### MultiMC
+### *MultiMC*
 
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
+1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
 
-1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
-2. Click `Download` on the latest **MultiMC version**
-   * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Drag the ZIP-archive to MultiMC window
-4. Click that version, then `Minecraft Folder`
-5. Click the previous version, then `Minecraft Folder`
-6. Copy the important files and folders over:
-   * `saves` for your local worlds
-   * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
-   * `screenshots`
-   * `servers.dat` for your multiplayer servers
-   * `options.txt`, if you want to keep your vanilla option changes
-7. Close the folders and run the new version
-8. If everything looks right, delete the old version
+1. Gehe zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
+2. Drücke `Download` bei der neusten **MultiMC**-Version
+   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der Curseforge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
+   * Falls du gar keine oder nur eine Mod in der *.zip* siehst, hast du die falsche Version heruntergeladen.
+3. Schiebe das ZIP-Archiv per drag & drop in das *MultiMC*-Fenster
+4. Drücke auf das neue Profil, dann auf `Minecraft Folder`
+5. Drücke auf das Profil mit der vorherigen Version, und da auch auf `Minecraft Folder`
+6. Um deine alten Daten zu behalten, kopiere folgende wichtige Ordner und Dateien in die neue Version:
+   * `saves` für diene Einzelspieler-Welten
+   * `resourcepacks`, falls du Ressourcenpakete benutzt (kopiere NICHT *Mod Menu Helper*!)
+   * `screenshots` für deine Screenshots
+   * `servers.dat` für deine Mehrspieler-Server
+   * `options.txt`, wenn du deine Spieleinstellungen behalten möchtest
+7. Schließe die Ordner und starte die neuste Version
+8. Wenn alles gut funktioniert, kannst du die alte Version löschen.
 
-### MultiMC (auto-update)
+### *MultiMC* (mit automatischen Aktualisierungen)
 
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
+1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
 
-In most cases:
+In den meisten fällen genügt:
 
-1. Run the existing version, wait for the progress bar to fill up
-2. Check the version difference in the bottom right corner.
+1. Einfach deine vorhandene Instanz starten. Wenn das Modpack aktualisiert wird, dann kann man einen Fortschrittsbalken erkennen
+2. Schaue unten rechts, ob die neue Version des Modpacks angezeigt wird.
 
-To update the Fabric Loader (if you get an error like "mod X needs fabric-loader x.y.z"):
+Um den *Fabric Loader* zu aktualisieren (falls du einen Fehler wie "mod X needs fabric-loader x.y.z" bekommst):
 
-1. Click the instance
-2. Click `Edit Instance`
-3. On Minecraft, select the Fabric Loader, click `Remove`
-4. Click `Install Fabric`, click `OK`
-5. `Close` the window, you can now play the game.
+1. Öffne die Instanz
+2. Klicke `Edit Instance`
+3. Wähle in der Liste `Minecraft`, dann rechts `Fabric Loader` und `Remove`
+4. Drücke `Install Fabric`, dann `OK`
+5. Schließe das Fenster wieder mit `Close`. Nun sollte das Problem behoben sein.
 
-If there is a new Minecraft version or you are lazy to update your Fabric Loader:
+Wenn eine neue *Minecraft* Version veröffentlicht wurde oder wenn du den *Fabric Loader* nicht aktualisieren kannst:
 
-1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
-2. Click the version number you need in the MultiMC (auto-update) section
-3. Drag the ZIP-archive to MultiMC window
-4. Click that version, then `Minecraft Folder`
-5. Click the previous version, then `Minecraft Folder`
-6. Copy the important files and folders over:
-   * `saves` for your local worlds
-   * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
-   * `screenshots`
-   * `servers.dat` for your multiplayer servers
-   * `options.txt`, if you want to keep your vanilla option changes
-7. Close the folders and run the new version
-8. If everything looks right, delete the old version
+1. Gehe zur [Readme vom *FO GitHub*-Repository](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), dann "Alternative downloads"
+2. Wähle die von dir benötigte Version im `MultiMC (auto-update)` 
+3. Schiebe das ZIP-Archiv per drag & drop in das *MultiMC*-Fenster
+4. Drücke auf das neue Profil, dann auf `Minecraft Folder`
+5. Drücke auf das Profil mit der vorherigen Version, und da auch auf `Minecraft Folder`
+6. Um deine alten Daten zu behalten, kopiere folgende wichtige Ordner und Dateien in die neue Version:
+   * `saves` für diene Einzelspieler-Welten
+   * `resourcepacks`, falls du Ressourcenpakete benutzt (kopiere NICHT *Mod Menu Helper*!)
+   * `screenshots` für deine Screenshots
+   * `servers.dat` für deine Mehrspieler-Server
+   * `options.txt`, wenn du deine Spieleinstellungen behalten möchtest
+7. Schließe die Ordner und starte die neuste Version
+8. Wenn alles gut funktioniert, kannst du die alte Version löschen.
 
-### GDLauncher
+### *GDLauncher*
 
-1. Right click the _Fabulously Optimized_ instance
-2. Select `🔧 Manage`
-3. Select `Modpack` from the right
-4. Click `Select a version` and choose the topmost option
-5. Click `Switch Version`
-6. Modpack will now update.
-7. After updating you can run it and check the version difference in the bottom right corner.
+1. Rechtsklicke die *Fabulously Optimized*-Instanz
+2. Wähle `🔧 Manage`
+3. Gehe auf `Modpack` (rechts)
+4. Klicke auf `Select a version` und wähle die neuste Version ganz oben
+5. Drücke `Switch Version`
+6. Das Modpack sollte sich nun updaten.
+7. Nach dem Update kannst du das Modpack starten und schauen, ob sich die Versionsnummer unten rechts geändert hat.
 
-### Minecraft Launcher (the vanilla)
+### *Minecraft Launcher* (vanilla)
 
-Currently the only way to update is to "reinstall" the pack.
+Aktuell kann man die Instanz nur aktualisieren, indem man sie neu installiert.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.13.3**
-2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
-3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on Curseforge
-4. Click `Download` the latest **MultiMC version** of the pack
-   * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-6. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
-8. Launch the installed Fabric profile
-9. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
+1. Installiere den [Fabric Loader](https://fabricmc.net/use/) **Version 0.13.3**
+2. Öffne den *Minecraft Launcher*, klicke `Installations` und dann auf das Ordnersymbol 📂 bei der *Fabric*-Installation
+3. Geh zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) auf *Curseforge*
+4. Klick auf `Download` bei das neusten **MultiMC Version** des Packs
+   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der Curseforge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
+   * Falls du gar keine oder nur eine Mod in der *.zip* siehst, hast du die falsche Version heruntergeladen.
+5. Öffne die zip-Datei, gehe zu *Fabulously Optimized x.x.x_* → *.minecraft*
+6. Kopiere alle Ordner des *.minecraft* Ordners des Zip-Archivs zu deinem *.minecraft*-Ordner. Falls gefragt, erlaube das Ersetzen der Dateien und Ordner.
+7. Wenn du auch die [FO Standard-Einstellungen](geaenderte-optionen.md) aktivieren willst, dann lösche die `options.txt`-Datei (Achtung - deine Einstellungen werden zurückgesetzt)
+8. Starte das soeben installierte *Fabric* Profil
+9. Falls du nun im Hauptmenü des Spiels unten rechts die neue Version des Modpacks angezeigt wird, dann hat's funktioniert!
 
 ### Einstellungen zurücksetzen
 
-Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. However, at some point you may still want to do that in order to get the latest changes. So:
+Da das Modpack `YOSBR` benutzt, werden sich deine Spieleinstellungen nicht zurücksetzen, nachdem du das Modpack aktualisiert [(auch wenn das manchmal so im *Changelog* steht)](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md).
 
-1. Open the modpack folder.
-   * Curseforge Launcher: right click on the modpack tile -> `Open Folder`
-   * MultiMC: right click on the instance -> `Minecraft Folder`
-   * GDLauncher: right click on the instance -> `Open Folder`
-   * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
-2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](changed-options.md))
-3. Open "config" and delete the following:
-   * _fabric_ folder
-   * _config.json5_ inside _slightguimodifications_
-   * other files, except for
-     * _citresewn.json_
-     * _fabric\_loader\_dependencies.json_
-     * _yosbr_ folder
-4. Launch the game and new options are applied.
+Dies ist eigentlich was Gutes, da du deine Einstellungen somit nicht immer neu konfigurieren musst. Allerdings solltest du sie hin und wieder mal zurücksetzen, um sicherzustellen, dass die neusten Funktionen verwendet werden können.
+
+So geht's:
+
+> Bitte schließe vorher das Spiel!
+
+1. Öffne den Modpack Ordner.
+   * *Curseforge Launcher*: rechtsklicke das Modpack → `Open Folder`
+   * *MultiMC*: rechtsklicke die Instanz → `Minecraft Folder`
+   * *GDLauncher*: rechtsklicke die Instanz → `Open Folder`
+   * Vanilla launcher: wechsle zum `Installations`-Tab → beweg den Mauszeiger über die Instanz → klick das Ordnersymbol `📁`
+2. Lösche die `options.txt` wenn du [die vorkonfigurierten Einstellungen des Modpacks](geaenderte-optionen.md) bevorzugst.
+3. Öffne den Ordner `config` und lösche folgendes:
+   * Den Ordner `fabric`
+   * Die Datei `config.json5` im Ordner `slightguimodifications`
+   * Alles andere in diesem Ordner **außer**:
+     * Die Datei `citresewn.json`
+     * Die Datei `fabric_loader_dependencies.json`
+     * Der Ordner `yosbr`
+4. Starte das Spiel. Nun sollten alle Änderungen aktiv sein.

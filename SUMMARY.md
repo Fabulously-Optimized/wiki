@@ -29,7 +29,7 @@
   * 🟢 [Prinzipien](de-de/prinzipien.md)
   * 🟢 [Server einrichten](de-de/server-einrichtung.md)
   * 🔴 [Probleme mit Ressourcenpaketen](de-de/ressourcenpaket-probleme.md)
-  * 🔴 [Anleitung zum Updaten](de-de/update-anleitung.md)
+  * 🟢 [Anleitung zum Updaten](de-de/update-anleitung.md)
   * 🟢 [Unterstützte Versionen](de-de/unterstuetzte-versionen.md)
 
 * [🇪🇪 Eesti keel](et-ee.md)
