@@ -1,10 +1,5 @@
 # 🇩🇪 Deutsch (Deutschland)
 
-## Hinweis
-Die Übersetzung ist gerade im Gange. Der Stand kann [hier](SUMMARY.md) nachverfolgt werden.
-
-***
-
 Willkommen beim Fabulously Optimized Wiki!
 
 [⬇️ Modpack installieren](de-de/einrichtung.md) | [🆕 Modpack aktualisieren](de-de/update-anleitung.md) [(Einstellungen zurücksetzen)](de-de/update-anleitung.md#einstellungen-zurücksetzen) | [➕ Mods hinzufügen](de-de/mods-hinzufuegen.md) | [➖ Mods deaktivieren](de-de/mods-deaktivieren.md) | [🎛️ Geänderte Optionen](de-de/geaenderte-optionen.md) [(behobene Fehler)](de-de/geaenderte-optionen.md#behobene-fehler) [(wie konfiguriere ich Mods?)](de-de/geaenderte-optionen.md#mods-konfigurieren)

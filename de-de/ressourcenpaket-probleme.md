@@ -1,61 +1,61 @@
 # Probleme mit Ressourcenpaketen
 
-Fabulously Optimized supports [various Optifine features](give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in Optifine even if they are broken, so this page should help you fix some of those issues.
+*Fabulously Optimized* unterstützt [einige Funktionen von Optifine](verzichte-auf-optifine.md), darunter auch Extras für Ressourcenpakete. Allerdings kann es hierbei auch Probleme geben. Dieses Tutorial zeigt dir, wie du sie löst!
 
-Before trying any of those things here, though, [make sure you are using the latest version](update-instructions.md).
+Bitte [stelle sicher, dass du die neuste Version von *Fabulously Optimized* nutzt](update-anleitung.md), bevor du versuchst, die Probleme zu beheben.
 
-### Broken paths
+### Falsche Dateipfade
 
-If you see this message while activating a resource pack:
+Siehst du diese Fehlermeldung bei einem Ressourcenpaket?
 
 ![Contains broken paths](https://i.ibb.co/26cMtqr/Screenshot-20211116-191457.png)
 
-This means the resource pack maker is **using spaces or other non-standard characters** in the file or folder names.
+Das heißt, dass der Ersteller des Ressourcenpakets Sonderzeichen in Ordner- oder Dateinamen hat.
 
-If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lightning issues, broken textures...).
+Falls dies der Fall ist, wird das Modpack versuchen diese zu überschreiben. Das kann allerdings zu eine menge Fehler führen(Blöcke mit den falschen Farben oder unsichtbare Blöcke, Probleme mit der Beleuchtung, kaputte Texturen...).
 
-To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`.
+Deswegen solltest du den Ersteller des Ressourcenpakets bitten, nur folgende Zeichen in Datei- und Ordnernamen zu verwenden: `a-z`, `0-9` und `._-`.
 
-### Invisible blocks
+### Unsichtbare Blöcke
 
-This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
+Dieses Problem kann auftreten, wenn das Ressourcenpaket falsche Pfade verwendet und versucht, die Modelle von Blöcken wie z.B. Truhen zu verändern.
 
 **Enhanced Block Entities**
 
-Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
+*Enhanced Block Entities* ist eine Mod in *Fabulously Optimized*, welche das Rendering von Böcken optimiert. Allerdings werden manche Optimierungen von deinem Ressourcenpaket nicht unterstützt.
 
-1. Click `Mods`
-2. Search for "Enhanced Block Entities", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
-3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
-4. Click `Done`
+So kannst du das Problem lösen:
 
-**FastChest and Better Beds**
+1. Öffne im Spielmenü `Mods`
+2. Suche nach "Enhanced Block Entities" und drücke das Einstellungssymbol ![](https://i.ibb.co/j35cBtn/image.png)
+3. Stelle alle Blöcke auf "aus", die Probleme verursachen. Meistens genügt nur `Enhanced Chests`.
+4. Drücke `Done`
 
-Some versions of FO include these mods instead. For chests:
+**FastChest & Better Beds**
 
-1. Click `Mods`
-2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
-3. Disable the mod, click `Done`.
+Manche Versionen von *Fabulously Optimized* haben diese Mods, welche zu Problemen führen können. Folge jeweils den Schritten:
 
-For beds:
+*FastChest*
 
-1. Close the game
-2. Remove or disable the Better Beds mod from your launcher.
-3. Start the game and see if it is fixed.
+1. Öffne im Spielmenü `Mods`
+2. Suche nach "FastChest" und drücke das Einstellungssymbol ![](https://i.ibb.co/j35cBtn/image.png)
+3. Stelle die Mod aus und drücke `Done`.
 
-### Emissive textures
+*Better Beds*
 
-_Or "making any block light up"._
+1. Schließe das Spiel
+2. [Entferne die Mod](mods-deaktivieren.md)
+3. Starte das Spiel und schaue, ob das Problem nun behoben ist.
 
-Coming soon for blocks, see [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7). If you just want to highlight the ores and can run shaders for it, use [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) or [Prismarine](https://www.curseforge.com/minecraft/customization/prismarine-shader).
+### Leuchtende Texturen
 
-### Custom sky
+Wird schon bald unterstützt, siehe [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7). Wenn du aber einfach nur leuchtende Erze usw. haben möchtest, [installiere ruhig die Shader](shader-installieren.md) namens [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) oder [Prismarine](https://www.curseforge.com/minecraft/customization/prismarine-shader).
 
-_Or "custom skymap"._
+### Custom Skymap (benutzerdefinierter Himmel)
 
-Currently not supported with resource packs, follow [issue #72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) for details. Or, if you can run shaders, [BSL](https://bitslablab.com/bslshaders/) can change clouds for example and [AstraLex](https://www.curseforge.com/minecraft/customization/astralex-shader-bsl-edit) can change the sky as well.
+Wird aktuell nicht für Ressourcenpakete unterstützt, siehe [issue #72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) für mehr Info. Du kannst auch [Shader verwenden](shader-installieren.md), beispielsweise ändert [BSL](https://bitslablab.com/bslshaders/) die Wolken und [AstraLex](https://www.curseforge.com/minecraft/customization/astralex-shader-bsl-edit) sogar auch den Himmel.
 
-Other shaders that can provide a custom sky:
+Weitere Shader die das Aussehen des Himmels verändern:
 
 * AstraLex
 * Continuum
@@ -67,23 +67,21 @@ Other shaders that can provide a custom sky:
 * SkyLEX
 * Triliton
 
-Thanks JulienRaptor01 for the shader investigation!
+Danke an *JulienRaptor01* für diese Liste!
 
-### Custom entity models
+### Custom Entity Models (benutzerdefinierte Modelle für Entitäten)
 
-_Or "mobs with a custom shape"._
+Dies wird nur teilweise unterstützt. Hier eine [Liste, **was** unterstützt wird](https://github.com/dorianpb/cem#differences).
 
-Partly supported. [See here for a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
+Wenn dein Modell eigentlich unterstützt wird, aber es nicht richtig angezeigt werden kann, probiere folgendes:
 
-If your resource pack's entities are supported but are still not displayed correctly, you can try this:
+1. Öffne im Spielmenü `Mods`
+2. Suche nach "Custom Entity Models", und klicke den Einstellungsknopf (oben rechts über `Issues`)
+3. Setze "Use model creation fix?" auf `No`
+4. Drücke `Save & Quit` und `Done`
+5. Trete einer Welt bei, halte `F3` (und `Fn` auf einigen Laptops) gedrückt und drücke `T`
+6. Nun wird alles neu geladen.
+7. Wenn es allerdings immer noch nicht funktioniert, setzte die Einstellung von vorhin auf `Yes` und warte bis *CEM* das Problem behebt.
 
-1. Click `Mods`
-2. Search for "Custom Entity Models", click the config button (top right, above `Issues`)
-3. Set "Use model creation fix?" to `No`
-4. Click `Save & Quit` and `Done`
-5. In your world, hold down `F3` (and `Fn` on laptops), press `T`
-6. You'll see a short loading screen. After that, check if the models are displayed correctly.
-7. If they still are not, set that setting back to `Yes` and wait for CEM to implement them.
-
-See also: [cem#9](https://github.com/dorianpb/cem/issues/9)
+Siehe auch: [cem#9](https://github.com/dorianpb/cem/issues/9)
 

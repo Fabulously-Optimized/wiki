@@ -29,7 +29,7 @@ Oder, falls der Curseforge-Launcher schon offen ist:
 1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
 
 1. Gehe zur [GitHub-Readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), und klicke auf "Alternative downloads"
-2. Klicke auf die benötigte Versionsnummer in the *MultiMC (auto-update)*-Sektion
+2. Klicke auf die benötigte Versionsnummer in der *MultiMC (auto-update)*-Sektion
 3. Schiebe das ZIP-Archiv per drag & drop in das *MultiMC*-Fenster
 
 #### [GDLauncher](https://gdevs.io)
@@ -40,7 +40,7 @@ Oder, falls der Curseforge-Launcher schon offen ist:
 4. Klicke auf `Download Latest`
 5. Klicke auf das ➡️-Symbol unten rechts
 
-### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (the vanilla)
+### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 MacOS und GNU/Linux benötigt Java [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download), um den *Fabric* Installer zu starten.
 

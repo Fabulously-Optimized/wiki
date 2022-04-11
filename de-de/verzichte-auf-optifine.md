@@ -5,8 +5,8 @@ Eine der Ziele von Fabulously Optimized ist es, auch die ganzen Funktionen von [
 Folgende OptiFine-Features werden auch vom Modpack unterstützt:
 
 * Performance Optimierungen - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Madis0/fabulously-optimized#smooth)
-* Shader - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](./getting-shaders.md))
-* Capes (Umhänge) - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](./free-cape.md))
+* Shader - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](shader-installieren.md))
+* Capes (Umhänge) - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](kostenloser-umhang.md))
 * Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 * Better Grass/Snow (verbesserte Graß-/Schneetexturen) - [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
 * Better Trees (verbesserte Bäume) - [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
