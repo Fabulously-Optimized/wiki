@@ -4,11 +4,11 @@ While I only intend to add mods that fit vanilla style, you are free to add any 
 
 This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
 
-### CurseForge Launcher
+### Curseforge Launcher
 
 Method 1:
 
-1. Open CurseForge Launcher
+1. Open Curseforge Launcher
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
@@ -40,7 +40,7 @@ Method 2:
 
 1. Open MultiMC
 2. Click on Fabulously Optimized, then `Instance Folder`
-3. Open [CurseForge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
+3. Open [Curseforge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
 4. Choose any mod you want and go to its _Files_ page
 5. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
@@ -50,7 +50,7 @@ Method 2:
 
 1. Open Minecraft Launcher, click on `Installations`
 2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
-3. Open [CurseForge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
+3. Open [Curseforge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
 4. Choose any mod you want and go to its _Files_ page
 5. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.

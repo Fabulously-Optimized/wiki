@@ -16,7 +16,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | guiScale                    | Size of the menu and interface elements                                                                                                                                                               | 0        | 3       | 3 is usable on all screens, 0 (Auto) can get too large on Full HD and larger screens                                                     |
 | maxFps                      | The maximum framerate                                                                                                                                                                                 | 120      | 260     | 260 means "unlimited", this is changed for better UX when VSync is disabled by the user (on fast computers/monitors)                     |
 | resourcePacks               | Adjusts which resource packs are enabled by default                                                                                                                                                   | \[]      | ¹       | Enabled mods' default packs and FO-exclusive Mod Menu Helper                                                                             |
-| tutorialStep                | The next step of [tutorial hints](https://minecraft.fandom.com/wiki/Tutorial\_hints)                                                                                                                  | movement | none    | If you know how to install a modpack, you probably don't need those tutorials anymore                                                    |
+| tutorialStep                | The next step of [tutorial hints](https://minecraft.fandom.com/wiki/Tutorial\_hints)                                                                                                                  | *movement* (Bewegung) | *none* (keiner)    | If you know how to install a modpack, you probably don't need those tutorials anymore                                                    |
 | skipMultiplayerWarning      | Whether to skip [the legal disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen                                                        | false    | true    | I expect my users to already know that the third party servers are not owned or monitored by Mojang Studios or Microsoft                 |
 | joinedFirstServer           | Whether to display the hint for [Social Interactions](https://minecraft.fandom.com/wiki/Social\_Interactions\_screen)                                                                                 | false    | true    | I expect my users to already know that Social Interactions can be opened with P                                                          |
 
@@ -79,8 +79,8 @@ For other things like dynamic lights, better grass and zoom:
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
 3. If the pencil is blue, you can configure the mod by clicking the config button ![](https://i.ibb.co/j35cBtn/image.png)
-   * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason.
-     1. Click `Done` -> `Options...` -> `Resource Packs...` -> `⏵` on "Mod Menu Helper.zip" -> `Done` -> go to point 1 of this tutorial
+     * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason.
+        1. Click `Done` -> `Options...` -> `Resource Packs...` -> `⏵` on "Mod Menu Helper.zip" -> `Done` -> go to point 1 of this tutorial
 
 If you need to disable a mod, [see this wiki page](disabling-mods.md).
 

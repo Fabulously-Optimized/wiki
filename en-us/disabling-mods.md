@@ -17,9 +17,9 @@ Notes:
    * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason.
      1. Click `Done` -> `Options...` -> `Resource Packs...` -> `⏵` on "Mod Menu Helper.zip" -> `Done` -> go to point 1 of this tutorial
 
-### CurseForge Launcher
+### Curseforge Launcher
 
-1. Open CurseForge Launcher
+1. Open Curseforge Launcher
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`

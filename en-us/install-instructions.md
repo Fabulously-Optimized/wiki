@@ -2,10 +2,10 @@
 
 **Prefer video tutorials instead of text?** [**Click here!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 
-### [CurseForge Launcher](https://download.curseforge.com)
+### [Curseforge Launcher](https://download.curseforge.com)
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
-2. Click `Install` on the topmost CurseForge version
+2. Click `Install` on the topmost Curseforge version
 3. Accept the prompt (if asked), download should start
 
 Or with the launcher already open:
@@ -20,7 +20,7 @@ Or with the launcher already open:
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
-   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+   * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. Drag the ZIP-archive to MultiMC window
 
@@ -35,7 +35,7 @@ Or with the launcher already open:
 ### [GDLauncher](https://gdevs.io)
 
 1. Click ➕ on bottom left corner
-2. Select `CurseForge` tab
+2. Select `Curseforge` tab
 3. Search for "Fabulously Optimized"
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
@@ -48,7 +48,7 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on Curseforge
 4. Click `Download` on the latest **MultiMC version** of the pack
-   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+   * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
