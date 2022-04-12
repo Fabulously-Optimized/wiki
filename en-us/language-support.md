@@ -17,7 +17,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 ```
 
 1. Keep the text short and simple, you can add or remove words to make it fit better.
-   * Do not change the color format (paragraph sign), pencil emoji or newlines (\n)
+   * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines (\n)
 2. Test in-game by going into `Options...` -> `Resource Packs...`, deactivating "Mod Menu Helper.zip" and activating "Mod Menu Helper" instead, then looking at `Mods` in your language.
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
    * As you test, you can use F3+J to reload languages.
@@ -78,5 +78,5 @@ You can also translate this wiki. It is up to you, whether you want to do a sing
 3. Fill the page(s) with content and click `Commit new file`
 4. [Create a new pull request](https://github.com/Fabulously-Optimized/wiki/compare).
 5. I'll review your page and if everything seems okay, will accept it!
-6. You can add contents to your pages at any time by repeating this process.&#x20;
+6. You can add contents to your pages at any time by repeating this process.
    * Make sure you click `🔄Fetch upstream` -> `Fetch and merge` to get the latest changes from the wiki.
