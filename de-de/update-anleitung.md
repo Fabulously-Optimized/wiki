@@ -27,7 +27,7 @@ Falls du manche Mods hinzugefügt oder entfernt hast:
 
 ### *MultiMC*
 
-1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
+1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/)
 
 1. Gehe zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Drücke `Download` bei der neusten **MultiMC**-Version
@@ -47,7 +47,7 @@ Falls du manche Mods hinzugefügt oder entfernt hast:
 
 ### *MultiMC* (mit automatischen Aktualisierungen)
 
-1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
+1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/)
 
 In den meisten fällen genügt:
 

@@ -1,6 +1,6 @@
 # Einrichtung des Modpacks
 
-**Magst du Video-Tutorials lieber als Text?** [**Klicke hier!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
+**Magst du Video-Tutorials lieber als Text?** [**Klicke hier!** (Englischsprachig)](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 
 ### [Curseforge Launcher](https://download.curseforge.com)
 
@@ -16,7 +16,7 @@ Oder, falls der Curseforge-Launcher schon offen ist:
 
 ### [MultiMC](https://multimc.org)
 
-1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
+1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/)
 
 1. Gehe zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Drücke `Download` bei der neusten **MultiMC**-Version
@@ -26,7 +26,7 @@ Oder, falls der Curseforge-Launcher schon offen ist:
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
-1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download)
+1.17 benötigt Java 16 oder höher, 1.18 hingegen Java 17 oder höher. [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/)
 
 1. Gehe zur [GitHub-Readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), und klicke auf "Alternative downloads"
 2. Klicke auf die benötigte Versionsnummer in der *MultiMC (auto-update)*-Sektion
@@ -42,7 +42,7 @@ Oder, falls der Curseforge-Launcher schon offen ist:
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-MacOS und GNU/Linux benötigt Java [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), [Adoptium](https://adoptium.net/download), um den *Fabric* Installer zu starten.
+MacOS und GNU/Linux benötigt Java [Offizielle Homepage](https://www.oracle.com/java/technologies/downloads/), um den *Fabric* Installer zu starten.
 
 1. Installiere den [Fabric Loader](https://fabricmc.net/use/) **Version 0.13.3**
 2. Öffne den *Minecraft Launcher*, klicke `Installations` und dann auf das Ordnersymbol 📂 bei der *Fabric*-Installation
