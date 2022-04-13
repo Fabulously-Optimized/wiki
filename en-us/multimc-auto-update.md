@@ -53,7 +53,7 @@ If don't use any of the distros above, you have to follow [this](https://stedola
 
 2. Download the mod disabling scripts:
    * Open MultiMC, right click your instance and click "Instance Folder"
-   * Inside the folder now, right click and select "Open Terminal here"
+   * Inside the folder now, right click and select "Open Terminal here" (to access this option in MacOS, follow [this](https://www.petenetlive.com/KB/Article/0001060) tutorial)
    * Within the terminal, run the following command - this will install the files and make them executable:
 `curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh`
    * You can install them wherever you like, just make sure to enter this place before, by running `cd /path/to/folder` (replace `/path/to/folder` with the folder's location).
