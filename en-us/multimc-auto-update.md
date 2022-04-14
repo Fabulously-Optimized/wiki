@@ -45,32 +45,36 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
    * Debian-Ubuntu Linux: `sudo apt-get install jq`
    * Fedora Linux: `sudo dnf install jq`
    * openSUSE Linux: `sudo zypper install jq`
+   * Other distros/macOS: [follow this tutorial](https://stedolan.github.io/jq/download/)
 
 This will install a program called [jq](https://stedolan.github.io/jq/), needed for automatically adapting this script to any Minecraft version you use.
 
-If don't use any of the distros above or MacOS, you have to follow [this](https://stedolan.github.io/jq/download/) tutorial.
-
 2. Download the mod disabling scripts:
-   * Open MultiMC, right click your instance and click "Instance Folder"
-   * Inside the folder now, right click and select "Open Terminal here" (to access this option in MacOS, follow [this](https://www.petenetlive.com/KB/Article/0001060) tutorial)
-   * Within the terminal, run the following command - this will install the files and make them executable:
-
-`curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh`
-
- If you want to install them somewhere else, open up a terminal and run `cd /path/to/folder` (replace `/path/to/folder` with the folder's location), before running the command above.
+   1. Open MultiMC, right click your instance and click "Instance Folder"
+   2. Inside the folder right click and select "Open Terminal here"
+       * On macOS, [follow this tutorial](https://www.petenetlive.com/KB/Article/0001060) to get that option
+   3. Within the terminal, run the following command - this will install the files and make them executable:
+```
+curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh
+```
+   If you want to install them somewhere else, run `cd /path/to/folder` (where `/path/to/folder` is the path to your folder's location) before running the command above.
 
 3. Select the mods to disable
    1. Copy the name of the mod(s) you want to disable
    2. Open `pre-launch.sh` with any text editor
-   3. Find the line saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. After `=` place the name of the mods you previously copied, one by one.
-   * Note: No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`. Also, you might need to change the name of your disabled mod(s) if they upgrade, with the new ones.
+   3. Find the line saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. 
+      After `=` place the name of the mods you previously copied, one by one.
+      * No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`. 
+      * Mod names may change with modpack updates so you'll need to update them here again.
 
 4. Setup the scripts to run on your MultiMC (auto-update) instance  
    1. Open MultiMC
    2. Click on your instance "Edit Instance"
    3. Go to "Settings" and then to "Custom Commands"
-   4. Remove the pre-launch command and replace it with `../pre-launch.sh`, if you've installed them inside the instance, otherwise replace it with `/path/to/folder/pre-launch.sh` (change `/path/to/folder` with the folder where you've installed the scripts
-   5. Do the same thing for the post-exit command but with `../post-exit.sh` or `path/to/folder/post-exit.sh` this time.
+   4. Remove the pre-launch command and replace it with `../pre-launch.sh`
+       * If you've installed it elsewhere, use `/path/to/folder/pre-launch.sh` (where `/path/to/folder` is the path to the folder)
+   5. Do the same thing for the post-exit command but with `../post-exit.sh` this time.
+       * Or `path/to/folder/post-exit.sh` (where `/path/to/folder` is the path to the folder)
 5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
 **FAQ:**
