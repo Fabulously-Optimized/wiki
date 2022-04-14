@@ -70,8 +70,8 @@ If don't use any of the distros above, you have to follow [this](https://stedola
    1. Open MultiMC
    2. Click on your instance "Edit Instance"
    3. Go to "Settings" and then to "Custom Commands"
-   4. Remove the pre-launch command and replace it with `/path/to/folder/pre-launch.sh` (again, replace `/path/to/folder` with the folder where you              installed the scripts
-   5. Do the same thing for the post-exit command but with `path/to/folder/post-exit.sh` this time.
+   4. Remove the pre-launch command and replace it with `../pre-launch.sh`, if you've installed them inside the instance, otherwise replace it with `/path/to/folder/pre-launch.sh` (change `/path/to/folder` with the folder where you've installed the scripts
+   5. Do the same thing for the post-exit command but with `../post-exit.sh` or `path/to/folder/post-exit.sh` this time.
 5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
 **FAQ:**
