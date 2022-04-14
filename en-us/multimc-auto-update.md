@@ -48,7 +48,7 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
 
 This will install a program called [jq](https://stedolan.github.io/jq/), needed for automatically adapting this script to any Minecraft version you use.
 
-If don't use any of the distros above or use MacOS, you have to follow [this](https://stedolan.github.io/jq/download/) tutorial.
+If don't use any of the distros above or MacOS, you have to follow [this](https://stedolan.github.io/jq/download/) tutorial.
 
 2. Download the mod disabling scripts:
    * Open MultiMC, right click your instance and click "Instance Folder"
