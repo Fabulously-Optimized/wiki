@@ -54,7 +54,7 @@ If don't use any of the distros above, you have to follow [this](https://stedola
 2. Download the mod disabling scripts:
    * Open MultiMC, right click your instance and click "Instance Folder"
    * Inside the folder now, right click and select "Open Terminal here" (to access this option in MacOS, follow [this](https://www.petenetlive.com/KB/Article/0001060) tutorial)
-   * Within the terminal, run the following command - this will install the files and make them executable:\
+   * Within the terminal, run the following command - this will install the files and make them executable:
 
 `curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh`
 
@@ -64,7 +64,7 @@ If don't use any of the distros above, you have to follow [this](https://stedola
    1. Copy the name of the mod(s) you want to disable
    2. Open `pre-launch.sh` with any text editor
    3. Find the line saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. After `=` place the name of the mods you previously copied, one by one.
-   * Note: No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`
+   * Note: No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`. Also, you might need to change the name of you disabled mod if they upgrade, with the new ones.
 
 4. Setup the scripts to run on your MultiMC (auto-update) instance  
    1. Open MultiMC
