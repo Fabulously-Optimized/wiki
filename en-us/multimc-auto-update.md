@@ -41,15 +41,14 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
 **Steps:**
 
 1. Open a terminal and run the command below:
-   * MacOS: `brew install jq`
-   * Arch Linux: `sudo pacman -S jq`
+   * Arch Linux: `sudo pacman -S jq --needed`
    * Debian-Ubuntu Linux: `sudo apt-get install jq`
    * Fedora Linux: `sudo dnf install jq`
    * openSUSE Linux: `sudo zypper install jq`
 
 This will install a program called [jq](https://stedolan.github.io/jq/), needed for automatically adapting this script to any Minecraft version you use.
 
-If don't use any of the distros above, you have to follow [this](https://stedolan.github.io/jq/download/) tutorial.
+If don't use any of the distros above or use MacOS, you have to follow [this](https://stedolan.github.io/jq/download/) tutorial.
 
 2. Download the mod disabling scripts:
    * Open MultiMC, right click your instance and click "Instance Folder"
