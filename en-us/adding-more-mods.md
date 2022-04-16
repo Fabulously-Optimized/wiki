@@ -22,7 +22,6 @@ Method 2:
 
 1. [Open Curseforge site](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499\&filter-sort=4), search for a compatible mod
 2. On the compatible version, click Install
-   * You **will** get an error if you click install on the wrong version (e.g. if 1.16.5 Forge is the default), even if the correct one is available as well
 3. Curseforge Launcher opens. Click `Select a profile`
 4. Select "Fabulously Optimized", click `Install`
 5. The mod will be added to the FO profile
