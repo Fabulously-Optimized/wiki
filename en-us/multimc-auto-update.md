@@ -81,7 +81,7 @@ curl -Os https://raw.githubusercontent.com/RaptaG/fabulously-optimized/main/Pack
 
 What if I want to disable more or less than 6 mods?
 
-* Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. `mod4=`, `mod5=` in the start and `$mod4.jar\`, `$mod5.jar\` in the end.
-* Adding: Add more rows after `mod5=` (eg. `mod6=`, `mod7=` etc.) at the beginning. Near the end of the script, on line 36, copy `mod5.jar\`, press enter after `mod5.jar\`, paste what you copied and replace `5` with the number of the extra mod ( `6`, `7` etc.).
+* Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. from lines 10 & 11 `mod4=`, `mod5=` and `$mod4.jar\`, `$mod5.jar\` from lines 35 & 36, if you want to have 4 mods disabled.
+* Adding: Press `Enter` in the end of line 11 and type `mod6=` for example. Then, in the end of line 36, press again `Enter` and type `$mod6.jar\`. Repeat the same for more mods by just changing the number (`mod6=` to `mod7=` and `$mod6.jar\` to `$mod7.jar\` etc.).
 
 If you have any problems, you can ask for support in the [Discord server](https://discord.gg/yxaXtaQqdB). This tutorial was made by RaptaG.
