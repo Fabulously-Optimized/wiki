@@ -4,7 +4,7 @@ Fabulously Optimized supports [various Optifine features](give-up-optifine.md), 
 
 Before trying any of those things here, though, [make sure you are using the latest version](update-instructions.md).
 
-### Broken paths
+## Broken paths
 
 If you see this message while activating a resource pack:
 
@@ -16,11 +16,11 @@ If this is the case, the modpack will warn you and allow overriding it, but note
 
 To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`.
 
-### Invisible blocks
+## Invisible blocks
 
 This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
 
-**Enhanced Block Entities**
+### Enhanced Block Entities
 
 Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
 
@@ -29,7 +29,7 @@ Enhanced Block Entities is the mod that makes various blocks faster on latest ve
 3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
 4. Click `Done`
 
-**FastChest and Better Beds**
+### FastChest and Better Beds
 
 Some versions of FO include these mods instead. For chests:
 
@@ -43,13 +43,14 @@ For beds:
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
 
-### Emissive textures
+## Emissive textures
 
 _Or "making any block light up"._
 
 Coming soon for blocks, see [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7). If you just want to highlight the ores and can run shaders for it, use [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) or [Prismarine](https://www.curseforge.com/minecraft/customization/prismarine-shader).
+[Entities are fully supported.](https://github.com/Traben-0/Entity_Texture_Features#compatibility)
 
-### Custom sky
+## Custom sky
 
 _Or "custom skymap"._
 
@@ -69,7 +70,7 @@ Other shaders that can provide a custom sky:
 
 Thanks JulienRaptor01 for the shader investigation!
 
-### Custom entity models
+## Custom entity models
 
 _Or "mobs with a custom shape"._
 
