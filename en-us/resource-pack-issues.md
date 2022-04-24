@@ -31,13 +31,15 @@ Enhanced Block Entities is the mod that makes various blocks faster on latest ve
 
 #### FastChest and Better Beds
 
-Some versions of FO include these mods instead. For chests:
+Some versions of FO include these mods instead. 
+
+Chests:
 
 1. Click `Mods`
 2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
 3. Disable the mod, click `Done`.
 
-For beds:
+Beds:
 
 1. Close the game
 2. Remove or disable the Better Beds mod from your launcher.
