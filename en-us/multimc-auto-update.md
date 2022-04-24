@@ -36,44 +36,52 @@ You'll have to download a new version of the pack that is specific to that Minec
 
 ### Can I ignore some of the mods?
 
-There is no official procedure for this yet, but a [workaround by Remty5](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81) which has been tested in Linux and will probably work in MacOS, but **not** in Windows.
+There is no official procedure for this yet, but RaptaG has made a tutorial and an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. It has been confirmed to work on Linux, may also work for MacOS. Volunteers are free to port it to Windows as well.
+ 
+**Steps:**
 
-* First things first you have to install the scripts that will ignore the mods.. Open your file manager and select the folder you want to install the scripts that will ignore the mods you'll select (Suggested: the instance's folder). Then, right click within the folder and select "Open Terminal". If this option does not exist in your Mac, you could use [this](https://www.petenetlive.com/KB/Article/0001060) tutorial (or Google it 😅)
+1. Open a terminal and run the command below:
+   * Arch Linux: `sudo pacman -S jq --needed`
+   * Debian-Ubuntu Linux: `sudo apt-get install jq`
+   * Fedora Linux: `sudo dnf install jq`
+   * openSUSE Linux: `sudo zypper install jq`
+   * Other distros/macOS: [follow this tutorial](https://stedolan.github.io/jq/download/)
 
-![Screenshot-1](https://user-images.githubusercontent.com/77157639/156615703-f113293c-e821-4c94-a891-2fccd0ff8848.png)
+This will install a program called [jq](https://stedolan.github.io/jq/), needed for automatically adapting this script to any Minecraft version you use.
 
-Now, inside the terminal paste the command below:
+2. Download the mod disabling scripts:
+   1. Open MultiMC, right click your instance and click "Instance Folder"
+   2. Inside the folder right click and select "Open Terminal here"
+       * On macOS, [follow this tutorial](https://www.petenetlive.com/KB/Article/0001060) to get that option
+   3. Within the terminal, run the following command - this will install the files and make them executable:
+```
+curl -Os https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh
+```
+   If you want to install them somewhere else, run `cd /path/to/folder` (where `/path/to/folder` is the path to your folder's location) before running the command above.
 
-`curl -Os https://gist.githubusercontent.com/Remty5/1b8a8d7c842dda56dacebf6db8c10961/raw/c0149c39ef4be375d013fa254b71899fb4bd6105/post-exit.sh && curl -Os https://gist.githubusercontent.com/Remty5/1b8a8d7c842dda56dacebf6db8c10961/raw/c0149c39ef4be375d013fa254b71899fb4bd6105/pre-launch.sh`
+3. Select the mods to disable
+   1. Copy the name of the mod(s) you want to disable
+   2. Open `pre-launch.sh` with any text editor
+   3. Find the line saying "Select the mods you wish to disable:" and below it `mod0=`, `mod1=`, `mod2=`,`mod3=`, `mod4=` and `mod5=`. 
+      After `=` place the name of the mods you previously copied, one by one.
+      * No matter how many mods you disable, **never** remove `mod0=` and `$mod0.jar`. 
+      * Mod names may change with modpack updates so you'll need to update them here again.
 
-If everything goes well, the scripts are installed!
+4. Setup the scripts to run on your MultiMC (auto-update) instance  
+   1. Open MultiMC
+   2. Click on your instance "Edit Instance"
+   3. Go to "Settings" and then to "Custom Commands"
+   4. Remove the pre-launch command and replace it with `../pre-launch.sh`
+       * If you've installed it elsewhere, use `/path/to/folder/pre-launch.sh` (where `/path/to/folder` is the path to the folder)
+   5. Do the same thing for the post-exit command but with `../post-exit.sh` this time.
+       * Or `path/to/folder/post-exit.sh` (where `/path/to/folder` is the path to the folder)
+5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
-Now there are 4 things remaining:
+**FAQ:**
 
-1. upgrade the checksums,
-2. actually select which mods you want to ignore,
-3. upgrade the `pack.toml`
-4. make them work in MultiMC
+What if I want to disable more or less than 6 mods?
 
-*   Within the terminal, run another command:
-
-    `cd .minecraft && md5sum packwiz.json`
-
-    This will print "`randomnumber` - packwiz.json". Copy **only** the number.
-*   After this is done, open with a text editor the `pre-launch.sh` and on the 12th line where is says
-
-    `checksum=101c3431ead01d42ffbc80fecdccf903` replace the big number with the number you copied previously.
-
-    **NOTE:** You'll have to do this every time FO has an upgrade, otherwise the game will crash :(
-*   Now, head to line 20 of the same script
-
-    Here, you have to copy the mods' names you want to ignore from your `mods` folder and add them in order, like it is shown in the script. After each mods' name add a `\`, except from the last one, otherwise it won't work.
-* When a new _Minecraft_ release is out, the `pack.toml` has to be upgraded. So at the end of the line 5 there's a link, which somewhere in it should say a Minecraft version (eg. 1.18.2). So, whenever an update comes, you should edit that part of the link to match the MC version, otherwise [this](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/258) issue will be caused.
-* This is the final step! These scripts have to be run by MultiMC, and this is very simple:
-  1. Open MultiMC, right click your auto-upgrade instance and click "Edit Instance"
-  2. Go to Settings and click "Custom Commands" and enable them
-  3. Here, add to the "Pre-launch command" `/path/to/pre-launch.sh` (replace `/path/to/` with the location you saved the scripts) and to the "Post-exit command" `/path/to/post-exit.sh` (replace `/path/to/` with the location you saved the scripts)
-
-![Screenshot\_82](https://user-images.githubusercontent.com/77157639/157910323-02015782-7c9d-4a1c-a735-b5f0b75b79df.png)
+* Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. from lines 10 & 11 `mod4=`, `mod5=` and `$mod4.jar\`, `$mod5.jar\` from lines 35 & 36, if you want to have 4 mods disabled.
+* Adding: Press `Enter` in the end of line 11 and type `mod6=` for example. Then, in the end of line 36, press again `Enter` and type `$mod6.jar\`. Repeat the same for more mods by just changing the number (`mod6=` to `mod7=` and `$mod6.jar\` to `$mod7.jar\` etc.).
 
 If you have any problems, you can ask for support in the [Discord server](https://discord.gg/yxaXtaQqdB). This tutorial was made by RaptaG.
