@@ -94,15 +94,17 @@ Currently the only way to update is to "reinstall" the pack.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.2**
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
-3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on Curseforge
-4. Click `Download` the latest **MultiMC version** of the pack
+3. Delete all files in `mods` folder
+   * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
+4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on Curseforge
+5. Click `Download` the latest **MultiMC version** of the pack
    * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-6. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
-8. Launch the installed Fabric profile
-9. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
+6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
+7. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+8. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
+9. Launch the installed Fabric profile
+10. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
 
 ### Resetting settings
 
