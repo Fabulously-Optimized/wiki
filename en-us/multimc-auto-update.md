@@ -37,6 +37,37 @@ You'll have to download a new version of the pack that is specific to that Minec
 ### Can I ignore some of the mods?
 
 There is no official procedure for this yet, but RaptaG has made a tutorial and an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. It has been confirmed to work on Linux, may also work for MacOS. Volunteers are free to port it to Windows as well.
+
+<details>
+  <summary>Windows users</summary>
+  
+  **Steps:**
+ 
+  1. Download the mod disabling scripts:
+     1. Open MultiMC, right click your instance and click "Instance Folder"
+     2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell window)
+     3. Within the terminal, run the following command - this will install the files.
+ ```
+(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/pre-launch.ps1" -OutFile "pre-launch.ps1")  -and (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
+```
+   If you want to install them somewhere else, run `cd path/to/folder` (where `path/to/folder` is the path to your folder's location) before running the command above.
+ 
+ 2. Select the mods to disable.
+    1. Copy the name of the mod(s) you want to disable.
+    2. Open `pre-launch.ps1` with any text editor
+    3. Add, edit, or remove items from the mods list at the top of the script until you are satisfied.
+        * Mod names may change with modpack updates so you'll need to update them here again.
+  
+ 3. Setup the scripts to run on your MultiMC (auto-update) instance  
+   1. Open MultiMC
+   2. Click on your instance "Edit Instance"
+   3. Go to "Settings" and then to "Custom Commands"
+   4. Remove the pre-launch command and replace it with `../pre-launch.ps1`
+       * If you've installed it elsewhere, use `path/to/folder/pre-launch.ps1` (where `path/to/folder` is the path to the folder)
+   5. Do the same thing for the post-exit command but with `../post-exit.ps1` this time.
+       * Or `path/to/folder/post-exit.ps1` (where `path/to/folder` is the path to the folder)
+5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
+</details>
  
 **Steps:**
 
