@@ -63,9 +63,9 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
    1. Open MultiMC
    2. Click on your instance "Edit Instance"
    3. Go to "Settings" and then to "Custom Commands"
-   4. Remove the pre-launch command and replace it with `../pre-launch.ps1`
+   4. Remove the pre-launch command and replace it with `powershell ../pre-launch.ps1`
        * If you've installed it elsewhere, use `path/to/folder/pre-launch.ps1` (where `path/to/folder` is the path to the folder)
-   5. Do the same thing for the post-exit command but with `../post-exit.ps1` this time.
+   5. Do the same thing for the post-exit command but with `powershell ../post-exit.ps1` this time.
        * Or `path/to/folder/post-exit.ps1` (where `path/to/folder` is the path to the folder)
 4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
