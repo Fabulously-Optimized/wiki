@@ -34,16 +34,17 @@ It does _not_ auto-update the individual mods outside of what is set in the the 
 
 You'll have to download a new version of the pack that is specific to that Minecraft version.
 
-### Can I ignore some of the mods?
+## Can I ignore some of the mods?
 
-There is no official procedure for this yet, but RaptaG has made a tutorial and an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. It has been confirmed to work on Linux, may also work for MacOS. Volunteers are free to port it to Windows as well.
+There is no official procedure for this yet, but [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) have made tutorials and scripts for an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. 
 
-<details>
-  <summary>Windows users</summary>
-  
-  **Steps:**
+If you have any problems, you can ask for support in our [Discord server](https://discord.gg/yxaXtaQqdB).
+
+### Windows
+
+Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
  
-  1. Download the mod disabling scripts:
+1. Download the mod disabling scripts:
      1. Open MultiMC, right click your instance and click "Instance Folder"
      2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell window)
      3. Within the terminal, run the following command - this will install the files.
@@ -52,13 +53,13 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
 ```
    If you want to install them somewhere else, run `cd path/to/folder` (where `path/to/folder` is the path to your folder's location) before running the command above.
  
- 2. Select the mods to disable.
+2. Select the mods to disable.
     1. Copy the name of the mod(s) you want to disable.
     2. Open `pre-launch.ps1` with any text editor
     3. Add, edit, or remove items from the mods list at the top of the script until you are satisfied.
         * Mod names may change with modpack updates so you'll need to update them here again.
   
- 3. Setup the scripts to run on your MultiMC (auto-update) instance  
+3. Setup the scripts to run on your MultiMC (auto-update) instance  
    1. Open MultiMC
    2. Click on your instance "Edit Instance"
    3. Go to "Settings" and then to "Custom Commands"
@@ -66,10 +67,12 @@ There is no official procedure for this yet, but RaptaG has made a tutorial and 
        * If you've installed it elsewhere, use `path/to/folder/pre-launch.ps1` (where `path/to/folder` is the path to the folder)
    5. Do the same thing for the post-exit command but with `../post-exit.ps1` this time.
        * Or `path/to/folder/post-exit.ps1` (where `path/to/folder` is the path to the folder)
-5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
-</details>
- 
-**Steps:**
+4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
+
+
+### MacOS, Linux
+
+Tutorial and scripts by [RaptaG](https://github.com/RaptaG). Not fully tested in macOS.
 
 1. Open a terminal and run the command below:
    * Arch Linux: `sudo pacman -S jq --needed`
@@ -114,5 +117,3 @@ What if I want to disable more or less than 6 mods?
 
 * Removing: Just remove the extra rows from the start and end of `pre-launch.sh`, eg. from lines 10 & 11 `mod4=`, `mod5=` and `$mod4.jar\`, `$mod5.jar\` from lines 35 & 36, if you want to have 4 mods disabled.
 * Adding: Press `Enter` in the end of line 11 and type `mod6=` for example. Then, in the end of line 36, press again `Enter` and type `$mod6.jar\`. Repeat the same for more mods by just changing the number (`mod6=` to `mod7=` and `$mod6.jar\` to `$mod7.jar\` etc.).
-
-If you have any problems, you can ask for support in the [Discord server](https://discord.gg/yxaXtaQqdB). This tutorial was made by RaptaG.
