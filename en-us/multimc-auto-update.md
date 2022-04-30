@@ -52,7 +52,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ultrasonic1209/fabulously-optimized-modtoggle-windows/main/Packwiz/pre-launch.ps1" -OutFile "pre-launch.ps1")
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ultrasonic1209/fabulously-optimized-modtoggle-windows/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
 ```
-   If you wish to install them somewhere else, run `cd path/to/folder` (where `path/to/folder` is the path to your folder's location) before running the command above.
+   If you wish to install them somewhere else, run `cd path\to\folder` (where `path\to\folder` is the path to your folder's location) before running the command above.
  
 2. Select the mods to disable.
     1. Copy the name of the mod(s) you want to disable.
@@ -64,9 +64,9 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
    1. Open MultiMC
    2. Click on your instance "Edit Instance"
    3. Go to "Settings" and then to "Custom Commands"
-   4. Remove the pre-launch command and replace it with `powershell ../pre-launch.ps1`
+   4. Remove the pre-launch command and replace it with `powershell ..\pre-launch.ps1`
        * If you've installed it elsewhere, use `path/to/folder/pre-launch.ps1` (where `path/to/folder` is the path to the folder)
-   5. Do the same thing for the post-exit command but with `powershell ../post-exit.ps1` this time.
+   5. Do the same thing for the post-exit command but with `powershell ..\post-exit.ps1` this time.
        * Or `path/to/folder/post-exit.ps1` (where `path/to/folder` is the path to the folder)
 4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
