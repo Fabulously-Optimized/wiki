@@ -65,3 +65,7 @@ Technically you can install it in _some_ other launchers that support Curseforge
 ### Servers
 
 Any server is supported, no installation or changes are necessary. See [server setup](server-setup.md) for more info.
+
+### Quilt
+
+There have been questions regarding whether Fabulously Optimized can be installed with [Quilt](https://quiltmc.org). The answer is: probably, while Fabric mods are still supported in it, but do not ask for support regarding that. If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
