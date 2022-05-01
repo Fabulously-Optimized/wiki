@@ -92,7 +92,7 @@ Wenn eine neue *Minecraft* Version veröffentlicht wurde oder wenn du den *Fabri
 
 Aktuell kann man die Instanz nur aktualisieren, indem man sie neu installiert.
 
-1. Installiere den [Fabric Loader](https://fabricmc.net/use/) **Version 0.13.3**
+1. Installiere den [Fabric Loader](https://fabricmc.net/use/)
 2. Öffne den *Minecraft Launcher*, klicke `Installations` und dann auf das Ordnersymbol 📂 bei der *Fabric*-Installation
 3. Geh zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) auf *Curseforge*
 4. Klick auf `Download` bei das neusten **MultiMC Version** des Packs
