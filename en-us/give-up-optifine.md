@@ -21,7 +21,7 @@ Here is the list of Optifine features that are supported in this modpack:
 * Fix for transparent gaps in items - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 * Resource pack-customizable splash screen - [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)
 
-¹ Not identical to Optifine as people did not prefer the look. If you want it to be identical, [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
+¹ Not identical to Optifine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
 Additionally, you can enjoy:
 
