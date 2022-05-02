@@ -19,7 +19,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | skipMultiplayerWarning      | Whether to skip [the legal disclaimer](https://minecraft.fandom.com/wiki/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen                                                        | false    | true    | I expect my users to already know that the third party servers are not owned or monitored by Mojang Studios or Microsoft                             |
 | joinedFirstServer           | Whether to display the hint for [Social Interactions](https://minecraft.fandom.com/wiki/Social\_Interactions\_screen)                                                                                 | false    | true    | I expect my users to already know that Social Interactions can be opened with `P`                                                                      |
 
-¹ \["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass\_pane\_culling\_fix","cullleaves/smartleaves","file/Mod Menu Helper.zip"]
+¹ \["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip"]
 
 ### Keybinds
 
