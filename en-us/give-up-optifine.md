@@ -6,8 +6,8 @@ Here is the list of Optifine features that are supported in this modpack:
 * Shaders - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](./getting-shaders.md))
 * Capes - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](./free-cape.md))
 * Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
-* Better Grass/Snow - [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-* Better Trees¹ - [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)
+* Better Grass/Snow¹ - [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
+* Better Trees² - [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)
 * Dynamic Lights - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 * Connected Textures - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
 * Animated Textures - [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
@@ -21,7 +21,8 @@ Here is the list of Optifine features that are supported in this modpack:
 * Fix for transparent gaps in items - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 * Resource pack-customizable splash screen - [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)
 
-¹ Not identical to Optifine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
+¹ Snow is opt-in in settings as it changes some textures too, making it weird with some resource packs.
+² Not identical to Optifine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
 Additionally, you can enjoy:
 
