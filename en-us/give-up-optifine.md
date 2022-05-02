@@ -7,7 +7,7 @@ Here is the list of Optifine features that are supported in this modpack:
 * Capes - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](./free-cape.md))
 * Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
 * Better Grass/Snow - [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-* Better Trees - [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+* Better Trees¹ - [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)
 * Dynamic Lights - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 * Connected Textures - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
 * Animated Textures - [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
@@ -20,6 +20,8 @@ Here is the list of Optifine features that are supported in this modpack:
 * HD Screenshots - [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
 * Fix for transparent gaps in items - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
 * Resource pack-customizable splash screen - [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)
+
+¹ Not identical to Optifine as people did not prefer the look. If you want it to be identical, [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
 Additionally, you can enjoy:
 
