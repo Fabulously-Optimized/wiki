@@ -6,7 +6,7 @@
   * [Disabling mods](en-us/disabling-mods.md)
   * [Free cape](en-us/free-cape.md)
   * [Getting shaders](en-us/getting-shaders.md)
-  * [Give up Optifine](en-us/give-up-optifine.md)
+  * [Give up OptiFine](en-us/give-up-optifine.md)
   * [Install instructions](en-us/install-instructions.md)
   * [Language support](en-us/language-support.md)
   * [MultiMC auto-update](en-us/multimc-auto-update.md)

@@ -1,16 +1,16 @@
 # Getting shaders
 
-### Optifine shaders
+### OptiFine shaders
 
-Optifine shaders are now supported using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
+OptiFine shaders are now supported using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
 
-While you _could_ download [any Optifine-compatible shader](https://www.curseforge.com/minecraft/customization/configuration?filter-sort=5) and use it in FO, [Iris recommends these ones](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) for best support at the moment.
+While you _could_ download [any OptiFine-compatible shader](https://www.curseforge.com/minecraft/customization/configuration?filter-sort=5) and use it in FO, [Iris recommends these ones](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) for best support at the moment.
 
 The installation is simple:
 
 1. Open Minecraft with Fabulously Optimized installed
 2. Open `Options...` -> `Video Settings...` -> `Shader Packs...`
-3. Download any Optifine-compatible shader pack, [recommended ones are here](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
+3. Download any OptiFine-compatible shader pack, [recommended ones are here](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
 4. Drag the ZIP file into the shader pack screen
 5. Select the shader, make sure _Shaders_ is set to enabled and click `Apply`
 6. The shader has been applied! If you run into any problems with shaders, [please report them here](https://github.com/IrisShaders/Iris/issues).

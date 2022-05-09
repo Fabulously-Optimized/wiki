@@ -1,6 +1,6 @@
 # Probleme mit Ressourcenpaketen
 
-*Fabulously Optimized* unterstützt [einige Funktionen von Optifine](verzichte-auf-optifine.md), darunter auch Extras für Ressourcenpakete. Allerdings kann es hierbei auch Probleme geben. Dieses Tutorial zeigt dir, wie du sie löst!
+*Fabulously Optimized* unterstützt [einige Funktionen von OptiFine](verzichte-auf-optifine.md), darunter auch Extras für Ressourcenpakete. Allerdings kann es hierbei auch Probleme geben. Dieses Tutorial zeigt dir, wie du sie löst!
 
 Bitte [stelle sicher, dass du die neuste Version von *Fabulously Optimized* nutzt](update-anleitung.md), bevor du versuchst, die Probleme zu beheben.
 
