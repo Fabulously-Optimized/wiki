@@ -11,6 +11,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 * Dynamic Lights - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 * Connected Textures - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
 * Animated Textures - [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
+* Custom GUIs - [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)
 * Custom Items - [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
 * Random Mobs, Emissive Mobs - [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
 * Custom Mobs/Entities - [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)
