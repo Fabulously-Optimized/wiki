@@ -44,7 +44,7 @@ Or with the launcher already open:
 
 For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.4**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.5**
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on Curseforge
 4. Click `Download` on the latest **MultiMC version** of the pack
