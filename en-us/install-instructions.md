@@ -58,6 +58,12 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Madis0/fabulously-optimized/issues/110)!
 
+### Modrinth
+
+There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given. 
+
+Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
+ 
 ### Other launchers
 
 Technically you can install it in _some_ other launchers that support Curseforge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
