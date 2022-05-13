@@ -45,7 +45,8 @@ If your resource pack's entities are supported but are still not displayed corre
 4. Click `Save & Quit` and `Done`
 5. In your world, hold down `F3` (and `Fn` on laptops), press `T`
 6. You'll see a short loading screen. After that, check if the models are displayed correctly.
-7. If they still are not, set that setting back to `Yes` and wait for CEM to implement them.
+7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
+   * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
 
 See also: [cem#9](https://github.com/dorianpb/cem/issues/9)
 
