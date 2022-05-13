@@ -48,7 +48,7 @@ If your resource pack's entities are supported but are still not displayed corre
 7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
    * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
 
-See also: [cem#9](https://github.com/dorianpb/cem/issues/9)
+See also: [a list of resource packs that should work (cem#9)](https://github.com/dorianpb/cem/issues/9)
 
 ### Broken paths
 
