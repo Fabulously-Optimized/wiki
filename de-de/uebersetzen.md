@@ -34,7 +34,7 @@ Ich unterstütze Leute, die *Minecraft* in ihrer Sprache benutzen und möchte di
 
 ### Mods übersetzen
 
-1. [Schau dir die Liste der Mods an](https://github.com/Madis0/fabulously-optimized#included-mods)
+1. [Schau dir die Liste der Mods an](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
 2. Finde auf jeder Website den entsprechenden `Issues` oder `Source` Link, siehe die Leiste oben.
 3. Schau auf der GitHub-Projektseite, ob eine Übersetzungsplattform angegeben ist. Wenn das der Fall ist, besuche sie und fahre dort fort.
 4. Falls nicht, ließ hier weiter: gehe zun `Code`-Tab der GitHub-Seite und öffne die Ordner `src` → `main` → `resources` → `assets` → `(Mod Name)` → `lang` → `en_us.json`

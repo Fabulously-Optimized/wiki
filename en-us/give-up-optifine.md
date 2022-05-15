@@ -2,7 +2,7 @@ One of the goals of Fabulously Optimized is to provide feature parity with [Opti
 
 Here is the list of OptiFine features that are supported in this modpack:
 
-* Performance optimizations - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Madis0/fabulously-optimized#smooth)
+* Performance optimizations - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth)
 * Shaders - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](./getting-shaders.md))
 * Capes - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](./free-cape.md))
 * Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
@@ -32,7 +32,7 @@ Additionally, you can enjoy:
 * [easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
 * [some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) OptiFine does not provide
 
-Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Madis0/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
+Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
 If you're having issues with OptiFine's resource pack features, [see this wiki](./resource-pack-issues.md).
 

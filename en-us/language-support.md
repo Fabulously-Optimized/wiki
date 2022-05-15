@@ -29,7 +29,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 ### Translating mods
 
-1. [Check out the list of mods](https://github.com/Madis0/fabulously-optimized#included-mods)
+1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
 2. On every page, find the Issues or Source link at the top
 3. Read the readme, wiki and/or issues to see if there is already a translation platform. If yes, go there.
 4. If not, go to Code tab and browse the folders in order: `src` -> `main` -> `resources` -> `assets` -> `(mod's name)` -> `lang` -> `en_us.json`

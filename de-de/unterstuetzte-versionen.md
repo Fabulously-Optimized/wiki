@@ -20,7 +20,7 @@ Siehe die [Curseforge Seite](https://www.curseforge.com/minecraft/modpacks/fabul
 
 **Die Versionen 1.1.2-1.7.0 (MC 1.16.1-1.16.4) und 2.0.0b4 (MC 1.17)** [**sind nicht sicher für den Mehrspielermodus**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **und werden nur für's Archiv angezeigt.** Alle anderen neueren Versionen haben nicht mehr die Sicherheitslücke. Bitte stelle also sicher, dass du vorsichtig mit diesen Versionen umgehst und sie am besten ganz vermeidest.
 
-Falls du aber auf Servern mit *Minecraft* 1.15 oder älter spielen willst, kannst du [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) oder gleich beide Installieren [(so geht's)](mods-hinzufuegen.md). Außerdem: [hier meine Begründung](https://github.com/Madis0/fabulously-optimized/issues/15#issuecomment-786175477), warum ich ältere Versionen nicht für jeden zur Verfügung stelle.
+Falls du aber auf Servern mit *Minecraft* 1.15 oder älter spielen willst, kannst du [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) oder gleich beide Installieren [(so geht's)](mods-hinzufuegen.md). Außerdem: [hier meine Begründung](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/15#issuecomment-786175477), warum ich ältere Versionen nicht für jeden zur Verfügung stelle.
 
 #### Werden neuere Modpack-Änderungen auf ältere Versionen zurückportiert?
 
@@ -55,7 +55,7 @@ Aktuell kann ich diese Frage nur schwer beantworten. Es kommt darauf an, wie vie
 
 #### Wird der *Minecraft launcher* (vanilla) bald "richtig" unterstützt?
 
-[Ja, es wurde schon geplant](https://github.com/Madis0/fabulously-optimized/issues/110), dass *packwiz* dies unterstützt!
+[Ja, es wurde schon geplant](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110), dass *packwiz* dies unterstützt!
 
 #### Gibt es das Modpack auch auf *Modrinth*?
 

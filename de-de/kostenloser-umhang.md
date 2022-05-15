@@ -5,7 +5,7 @@ Fabulously Optimized zeigt auch Umhänge von *Mojang* (z.B. wegen der Migration 
 ### So geht's:
 
 1. [Melde dich bei *MinecraftCapes* an](https://minecraftcapes.net/account/register)
-2. [Zeichne einen Umhang und lade ihn herunter](https://minecraftcapes.net/gallery/cape-editor) oder nutze den offiziellen *Fabulously Optimized*-Umhang: ![official Fabulously Optimized cape](https://github.com/Madis0/fabulously-optimized/raw/main/cape.png) (Rechtsklick, "Speichern unter...")
+2. [Zeichne einen Umhang und lade ihn herunter](https://minecraftcapes.net/gallery/cape-editor) oder nutze den offiziellen *Fabulously Optimized*-Umhang: ![official Fabulously Optimized cape](https://github.com/Fabulously-Optimized/fabulously-optimized/raw/main/cape.png) (Rechtsklick, "Speichern unter...")
 3. [Lade deinen Umhang hoch](https://minecraftcapes.net/upload-cape)
 4. Öffne dein *Fabulously Optimized*-Modpack
 5. Jeder, der *Fabulously Optimized* oder die *MinecraftCapes* Mod installiert hat, wird deinen Umhang sehen!.

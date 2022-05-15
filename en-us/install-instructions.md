@@ -56,7 +56,7 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
-A simple installer for vanilla launcher [is coming soon](https://github.com/Madis0/fabulously-optimized/issues/110)!
+A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
 ### Modrinth
 

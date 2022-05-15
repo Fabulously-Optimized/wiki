@@ -4,7 +4,7 @@ Eine der Ziele von Fabulously Optimized ist es, auch die ganzen Funktionen von [
 
 Folgende OptiFine-Features werden auch vom Modpack unterstützt:
 
-* Performance Optimierungen - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Madis0/fabulously-optimized#smooth)
+* Performance Optimierungen - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth)
 * Shader - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](shader-installieren.md))
 * Capes (Umhänge) - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](kostenloser-umhang.md))
 * Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
@@ -30,7 +30,7 @@ Außerdem hat das FO-Modpack viele Vorteile:
 * [einfache Installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) für viele verschiedene Launcher
 * [zusätzliche Funktionen](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods), die OptiFine nicht hat
 
-Wir arbeiten daran, immer mehr OptiFine-Funktionen zu unterstützten. Falls du wissen möchtest, was noch alles geplant wird, [schau dir diese Liste an](https://github.com/Madis0/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
+Wir arbeiten daran, immer mehr OptiFine-Funktionen zu unterstützten. Falls du wissen möchtest, was noch alles geplant wird, [schau dir diese Liste an](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
 Falls du Probleme mit Ressourcenpaketen hast, die für OptiFine gemacht wurden, [ließ dir diese Seite durch](de-de/ressourcenpaket-probleme.md).
 

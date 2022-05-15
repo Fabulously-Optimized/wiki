@@ -56,7 +56,7 @@ MacOS und GNU/Linux benötigt Java [Offizielle Homepage](https://www.oracle.com/
 8. Starte das soeben installierte *Fabric* Profil
 9. Falls du nun das "Fabulously Optimized" Logo in der Ecke unten rechts siehst, dann bist du fertig!
 
-Ein einfaches Installationsprogramm für den Vanilla-Launcher [ist in Arbeit](https://github.com/Madis0/fabulously-optimized/issues/110).
+Ein einfaches Installationsprogramm für den Vanilla-Launcher [ist in Arbeit](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110).
 
 ### Andere Launcher
 

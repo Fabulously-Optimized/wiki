@@ -36,9 +36,9 @@ Das heißt, dass du das Modpack immer updaten kannst, ohne deine Einstellungen z
 | Iris: Shader-Auswahlfenster                            | Öffnet ein Fenster zum Auswählen eines Shaders                                                               | o        | keine   | Wird von den meisten wahrscheinlich sowieso nicht genutzt                                  |
 | Iris: Shader an- oder ausstellen                       | Stellt die Shader an oder aus                                                                                | k        | keine   | Wird von den meisten wahrscheinlich sowieso nicht genutzt                                  |
 
-Die geänderten Einstellungen können bei folgendem Pfad im GitHub-Repository gefunden werden: [.../yosbr/1.18.1/config](https://github.com/Madis0/fabulously-optimized/tree/main/Packwiz/1.18.1/config).
+Die geänderten Einstellungen können bei folgendem Pfad im GitHub-Repository gefunden werden: [.../yosbr/1.18.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.18.1/config).
 
-Siehe auch: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/de/wiki/Options.txt) und [GitHub-Issue Nr. 30](https://github.com/Madis0/fabulously-optimized/issues/30)
+Siehe auch: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/de/wiki/Options.txt) und [GitHub-Issue Nr. 30](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/30)
 
 ### Behobene Fehler
 
