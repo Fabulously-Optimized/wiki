@@ -71,7 +71,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
 
-### MacOS, Linux
+### Linux, macOS
 
 Tutorial and scripts by [RaptaG](https://github.com/RaptaG). Not fully tested in macOS.
 
