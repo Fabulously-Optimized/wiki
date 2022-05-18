@@ -2,7 +2,7 @@
 
 Welcome to the Fabulously Optimized wiki!
 
-[⬇️ Installing modpack](en-us/install-instructions.md) | [🆕 Updating modpack](en-us/update-instructions.md) [(resetting settings)](en-us/update-instructions.md#resetting-settings) | [➕ Adding mods](en-us/adding-more-mods.md) | [➖ Disabling mods](en-us/disabling-mods.md) | [🎛️ Changed options](en-us/changed-options.md) [(fixed bugs)](en-us/changed-options.md#fixed-bugs) [(how to configure?)](en-us/changed-options.md#configuring-mods)
+[⬇️ Installing modpack](en-us/install-instructions.md) | [🆕 Updating modpack](en-us/update-instructions.md) [(resetting settings)](en-us/update-instructions.md#resetting-settings) | [➕ Adding mods](en-us/adding-more-mods.md) | [➖ Disabling mods](en-us/disabling-mods.md) | [🎛️ Changed options](en-us/changed-options.md) [(fixed bugs)](en-us/changed-options.md#fixed-bugs)
 
 Getting [🦸 Cape](en-us/free-cape.md) | [🌅 Shaders](en-us/getting-shaders.md) | [🖼️ Resource packs to work](en-us/resource-pack-issues.md)
 
