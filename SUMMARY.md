@@ -9,7 +9,6 @@
   * [Give up OptiFine](en-us/give-up-optifine.md)
   * [Install instructions](en-us/install-instructions.md)
   * [Language support](en-us/language-support.md)
-  * [Mod list](en-us/mod-list.md)
   * [MultiMC auto-update](en-us/multimc-auto-update.md)
   * [Principles](en-us/principles.md)
   * [Resource pack issues](en-us/resource-pack-issues.md)
