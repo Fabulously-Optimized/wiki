@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Mod list
 
 Here you can find the mod comparison table between the currently supported Minecraft versions. Some mods may have been obsoleted or superseded by better alternatives in the newer versions.
