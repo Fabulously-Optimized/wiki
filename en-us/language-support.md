@@ -51,8 +51,9 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
-2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial for now)
+2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in Sodium Extra or otherwise)
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
+4. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.18/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
 4. [Mod Menu](https://hosted.weblate.org/engage/fabric-modmenu/)
 5. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.18/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
 6. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.18/src/main/resources/assets/lambdynlights/lang/en\_us.json)
@@ -80,3 +81,4 @@ You can also translate this wiki. It is up to you, whether you want to do a sing
 5. I'll review your page and if everything seems okay, will accept it!
 6. You can add contents to your pages at any time by repeating this process.
    * Make sure you click `🔄Fetch upstream` -> `Fetch and merge` to get the latest changes from the wiki.
+ 
