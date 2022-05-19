@@ -2,7 +2,7 @@
 
 I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods.
 
-### Translating Mod Menu helper
+## Translating Mod Menu helper
 
 Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
 
@@ -27,7 +27,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 6. Commit the file and create a pull request. If your translation is properly formatted and fits into the rows, I will accept it
 7. Wait for the next version for the modpack to see it in-game :P
 
-### Translating mods
+## Translating mods
 
 1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
 2. On every page, find the Issues or Source link at the top
@@ -46,7 +46,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 2. If the language has been accepted, wait for the mod author to update their mod on Curseforge
 3. Once the mod has been updated on Curseforge, simply wait for the next Fabulously Optimized update to see it :P
 
-#### Notable mods to translate
+### Notable mods to translate
 
 List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
 
@@ -67,7 +67,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 14. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
 15. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
 
-### Translating the wiki
+## Translating the wiki
 
 You can also translate this wiki. It is up to you, whether you want to do a single overview page or translate multiple pages into your language.
 
