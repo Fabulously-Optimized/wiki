@@ -50,8 +50,8 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
 
-1. [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric/blob/1.17.x/dev/src/main/resources/assets/sodium-extra/lang/en\_us.json)
-2. [~~Sodium~~](https://github.com/CaffeineMC/sodium-fabric/issues/44) (localization currently on hiatus)
+1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
+2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial for now)
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
 4. [Mod Menu](https://hosted.weblate.org/engage/fabric-modmenu/)
 5. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.18/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
