@@ -17,7 +17,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 "coolmod.config.title": "Coolmod Options",
 ```
 
-1. Keep the text short and simple, you can add or remove words to make it fit better.
+7. Keep the text short and simple, you can add or remove words to make it fit better.
    * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines (\n)
 2. Test in-game by going into `Options...` -> `Resource Packs...`, deactivating "Mod Menu Helper.zip" and activating "Mod Menu Helper" instead, then looking at `Mods` in your language.
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
@@ -43,7 +43,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 "coolmod.config.title": "Coolmod Options",
 ```
 
-1. Commit the file and create a pull request. If you're lucky, the mod author accepts it
+9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
 2. If the language has been accepted, wait for the mod author to update their mod on Curseforge
 3. Once the mod has been updated on Curseforge, simply wait for the next Fabulously Optimized update to see it :P
 
