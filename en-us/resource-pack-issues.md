@@ -52,6 +52,8 @@ See also: [a list of resource packs that should work (cem#9)](https://github.com
 
 ### Broken paths
 
+**NOTE:** This applies **only** on FO versions 3.3.0 and below.
+
 If you see this message while activating a resource pack:
 
 ![Contains broken paths](https://i.ibb.co/26cMtqr/Screenshot-20211116-191457.png)
