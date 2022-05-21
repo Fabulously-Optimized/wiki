@@ -50,18 +50,6 @@ If your resource pack's entities are supported but are still not displayed corre
 
 See also: [a list of resource packs that should work (cem#9)](https://github.com/dorianpb/cem/issues/9)
 
-### Broken paths
-
-If you see this message while activating a resource pack:
-
-![Contains broken paths](https://i.ibb.co/26cMtqr/Screenshot-20211116-191457.png)
-
-This means the resource pack maker is **using spaces or other non-standard characters** in the file or folder names.
-
-If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lightning issues, broken textures...).
-
-To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`.
-
 ### Invisible blocks
 
 This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
