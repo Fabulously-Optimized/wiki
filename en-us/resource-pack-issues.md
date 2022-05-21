@@ -78,3 +78,18 @@ Beds:
 1. Close the game
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
+
+### Broken paths
+
+**NOTE:** This applies **only** on FO versions 2.7.1 and below.
+
+If you see this message while activating a resource pack:
+
+![Contains broken paths](https://i.ibb.co/26cMtqr/Screenshot-20211116-191457.png)
+
+This means the resource pack maker is **using spaces or other non-standard characters** in the file or folder names.
+
+If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lightning issues, broken textures...).
+
+To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`.
+
