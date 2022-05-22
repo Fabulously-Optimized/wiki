@@ -57,7 +57,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 2. Select the mods to disable.
     1. Copy the name of the mod(s) you want to disable.
     2. Open `pre-launch.ps1` with any text editor
-    3. On line 4, double click `mod1` and paste the name of the mod you previously copied. You can do this on line 5 too! If you want to disable more mods, copy the entire line 5, press the `Enter` key in the end of line 5 and paste it  (make sure to change the name to the new mods though)
+    3. On line 4, double click `mod1` and paste the name of the mod you previously copied. You can do this on line 5 too! If you want to disable more mods, copy the entire line 5, press the `Enter` key at the end of line 5 and hit paste. (Make sure to change the name to match the new mod, though!)
         * Mod names may change with modpack updates so you'll need to update them here again.
   
 3. Setup the scripts to run on your MultiMC (auto-update) instance  
