@@ -46,7 +46,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
  
 1. Download the mod disabling scripts:
      1. Open MultiMC, right click your instance and click "Instance Folder"
-     2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell window)
+     2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell prompt)
      3. Within the terminal, run the following commands to download the files.
  ```
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ultrasonic1209/fabulously-optimized-modtoggle-windows/main/Packwiz/pre-launch.ps1" -OutFile "pre-launch.ps1")
@@ -57,7 +57,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 2. Select the mods to disable.
     1. Copy the name of the mod(s) you want to disable.
     2. Open `pre-launch.ps1` with any text editor
-    3. On line 4, double click `mod1` and paste the name of the mod you previously copied. You can do this on line 5 too! If you want to disable more mods, copy the entire line 5, press the `Enter` key at the end of line 5 and hit paste. (Make sure to change the name to match the new mod, though!)
+    3. On line 4, double click `mod1` and paste the name of the mod you previously copied. You can do this on line 5 too! If you want to disable more mods, copy all of line 5, press the `Enter` key at the end of line 5 and hit paste. (Make sure to change the name to match the new mod, though!)
         * Mod names may change with modpack updates so you'll need to update them here again.
   
 3. Setup the scripts to run on your MultiMC (auto-update) instance  
