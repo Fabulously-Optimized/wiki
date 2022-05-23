@@ -49,8 +49,8 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
      2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell prompt)
      3. Within the terminal, run the following commands to download the files.
  ```
-(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ultrasonic1209/fabulously-optimized-modtoggle-windows/main/Packwiz/pre-launch.ps1" -OutFile "pre-launch.ps1")
-(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Ultrasonic1209/fabulously-optimized-modtoggle-windows/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
+(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/pre-launch.ps1" -OutFile "pre-launch.ps1")
+(Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
 ```
    If you wish to install them somewhere else, run `cd path\to\folder` (where `path\to\folder` is the path to your folder's location) before running the command above.
  
