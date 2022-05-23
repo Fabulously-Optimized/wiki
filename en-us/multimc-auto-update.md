@@ -73,7 +73,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 
 ### Linux, macOS
 
-Tutorial and scripts by [RaptaG](https://github.com/RaptaG). Not fully tested in macOS.
+Tutorial and scripts by [RaptaG](https://github.com/RaptaG). Not fully tested on macOS.
 
 1. Open a terminal and run the command below:
    * Arch Linux: `sudo pacman -S jq --needed`
