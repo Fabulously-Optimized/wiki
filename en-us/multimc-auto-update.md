@@ -18,11 +18,11 @@ If there are any, they will be downloaded and launched, otherwise the current ga
 
 It does _not_ auto-update the individual mods outside of what is set in the the modpack. This is a common misconception and it could cause problems anyway.
 
-### Why are you not distributing it in Curseforge?
+### Why are you not distributing it in CurseForge?
 
 * To keep it visible in files list, I'd have to reupload it every time I update the pack, which is often unnecessary.
 * It may not actually [support the mod developers via downloads](https://support.curseforge.com/en/support/solutions/articles/9000197898-rewards-program-terms-of-service#1.-Description-of-Rewards-Program) so I'd prefer if only a limited amount of technical users use it.
-* It is still somewhat experimental and may have unexpected issues or variances from the normal packs I distribute (Curseforge and MultiMC)
+* It is still somewhat experimental and may have unexpected issues or variances from the normal packs I distribute (CurseForge and MultiMC)
 
 ### So why did you make this at all?
 

@@ -1,6 +1,6 @@
 # So hältst du das Modpack immer aktuell!
 
-### *Curseforge Launcher*
+### *CurseForge Launcher*
 
 Falls du nichts an den Mods geändert hast:
 
@@ -31,7 +31,7 @@ Falls du manche Mods hinzugefügt oder entfernt hast:
 
 1. Gehe zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Drücke `Download` bei der neusten **MultiMC**-Version
-   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der Curseforge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
+   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der CurseForge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
    * Falls du gar keine oder nur eine Mod in der *.zip* siehst, hast du die falsche Version heruntergeladen.
 3. Schiebe das ZIP-Archiv per drag & drop in das *MultiMC*-Fenster
 4. Drücke auf das neue Profil, dann auf `Minecraft Folder`
@@ -94,9 +94,9 @@ Aktuell kann man die Instanz nur aktualisieren, indem man sie neu installiert.
 
 1. Installiere den [Fabric Loader](https://fabricmc.net/use/)
 2. Öffne den *Minecraft Launcher*, klicke `Installations` und dann auf das Ordnersymbol 📂 bei der *Fabric*-Installation
-3. Geh zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) auf *Curseforge*
+3. Geh zu [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) auf *CurseForge*
 4. Klick auf `Download` bei das neusten **MultiMC Version** des Packs
-   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der Curseforge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
+   * Siehst du nicht die *MultiMC*-Version? Klicke auf den Titel der CurseForge-Version und scrolle runter, dort sollte die *MultiMC*-Variante sichtbar sein.
    * Falls du gar keine oder nur eine Mod in der *.zip* siehst, hast du die falsche Version heruntergeladen.
 5. Öffne die zip-Datei, gehe zu *Fabulously Optimized x.x.x_* → *.minecraft*
 6. Kopiere alle Ordner des *.minecraft* Ordners des Zip-Archivs zu deinem *.minecraft*-Ordner. Falls gefragt, erlaube das Ersetzen der Dateien und Ordner.
@@ -115,7 +115,7 @@ So geht's:
 > Bitte schließe vorher das Spiel!
 
 1. Öffne den Modpack Ordner.
-   * *Curseforge Launcher*: rechtsklicke das Modpack → `Open Folder`
+   * *CurseForge Launcher*: rechtsklicke das Modpack → `Open Folder`
    * *MultiMC*: rechtsklicke die Instanz → `Minecraft Folder`
    * *GDLauncher*: rechtsklicke die Instanz → `Open Folder`
    * Vanilla launcher: wechsle zum `Installations`-Tab → beweg den Mauszeiger über die Instanz → klick das Ordnersymbol `📁`

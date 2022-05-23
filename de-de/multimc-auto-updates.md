@@ -17,11 +17,11 @@ Wenn neue Updates erkannt wurden, installieren sie sich von alleine. Wenn nicht,
 
 Eine häufiger Irrtum ist, dass sich auch andere Mods (die nicht von *Fabulously Optimized* in das Modpack getan wurden) automatisch aktualisieren. Dies ist nicht der Fall. Nur die von *Fabulously Optimized* aktivierten Mods werden aktualisiert.
 
-### Wieso wird die *MultiMC Auto-Update* Variante nicht auf Curseforge veröffentlicht?
+### Wieso wird die *MultiMC Auto-Update* Variante nicht auf CurseForge veröffentlicht?
 
 * Um die Variante in der Dateiliste sichtbar zu halten, müsste ich sie jedes Mal neu hochladen, wenn ich das Paket aktualisiere, was oft unnötig ist.
 * Es kann sein, dass dadurch nicht [die Mod-Entwickler unterstützt werden](https://support.curseforge.com/en/support/solutions/articles/9000197898-rewards-program-terms-of-service#1.-Description-of-Rewards-Program), was ich schade finde, deswegen mag ich es lieber, wenn es nur ein paar Leute benutzten, die sich damit auskennen.
-* Das ganze ist ein Stück weit experimentell und es kann zu Fehlern kommen. Da sind meine "normalen" Varianten für Curseforge und MultiMC (ohne auto-updates) viel stabiler.
+* Das ganze ist ein Stück weit experimentell und es kann zu Fehlern kommen. Da sind meine "normalen" Varianten für CurseForge und MultiMC (ohne auto-updates) viel stabiler.
 
 ### Aber warum gibt es diese Variante überhaupt?
 

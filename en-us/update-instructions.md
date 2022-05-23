@@ -1,6 +1,6 @@
 # Update instructions
 
-### Curseforge Launcher
+### CurseForge Launcher
 
 If you haven't changed the mods:
 
@@ -31,7 +31,7 @@ If you added or removed some mods:
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
-   * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
+   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. Drag the ZIP-archive to MultiMC window
 4. Click that version, then `Minecraft Folder`
@@ -103,9 +103,9 @@ Currently the only way to update is to "reinstall" the pack.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
-4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on Curseforge
+4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 5. Click `Download` the latest **MultiMC version** of the pack
-   * Don't see the MultiMC version? Click the title of the Curseforge version you need and scroll down, you'll find the MultiMC variant there.
+   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 7. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
@@ -118,7 +118,7 @@ Currently the only way to update is to "reinstall" the pack.
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. However, at some point you may still want to do that in order to get the latest changes. So:
 
 1. Open the modpack folder.
-   * Curseforge Launcher: right click on the modpack tile -> `Open Folder`
+   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
    * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`

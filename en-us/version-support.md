@@ -4,19 +4,19 @@
 
 #### How often does Fabulously Optimized receive updates?
 
-That depends on my time, Mojang releases, Curseforge support (when versions appear in launcher), mod updates, mod additions... there are a lot of factors. I do try to push out a release as soon as possible when Minecraft or some of the more important mods update though.
+That depends on my time, Mojang releases, CurseForge support (when versions appear in launcher), mod updates, mod additions... there are a lot of factors. I do try to push out a release as soon as possible when Minecraft or some of the more important mods update though.
 
 #### What versions do you support?
 
-I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on Curseforge.
+I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on CurseForge.
 
 #### Will you support Minecraft snapshots?
 
-No, they are not supported on Curseforge Launcher and are released too fast for me and the modders to keep up with.
+No, they are not supported on CurseForge Launcher and are released too fast for me and the modders to keep up with.
 
 #### What if I want to play on an older Minecraft version?
 
-See the [Curseforge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) for the existing stable versions down to 1.16.1.
+See the [CurseForge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) for the existing stable versions down to 1.16.1.
 
 **Note that versions 1.1.2-1.7.0 (MC 1.16.1-1.16.4) and 2.0.0b4 (MC 1.17)** [**are not safe for multiplayer**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **and are kept just for archival purposes.** Any newer versions listed there are patched and should be upgraded to ASAP.
 

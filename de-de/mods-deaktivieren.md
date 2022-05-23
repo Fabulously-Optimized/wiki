@@ -17,9 +17,9 @@ Hinweise:
     * Falls bei keinen Mods ein blauer Stift sichtbar ist, hast du wahrscheinlich aus Versehen das *Mod Menu Helper* Ressourcenpaket deaktiviert oder gelöscht. In diesem Fall:
     1. Drücke `Done` → `Options...` → `Resource Packs...` → `⏵` auf "Mod Menu Helper.zip" → `Done` → folge wieder den Schritten ab Schritt 1. 
 
-### Curseforge Launcher
+### CurseForge Launcher
 
-1. Öffne den *Curseforge Launcher*
+1. Öffne den *CurseForge Launcher*
 2. Gehe zu `My Modpacks` und klicke auf *Fabulously Optimized*
 3. Wähle im Dreipunktemenü `Profile Options`
 4. Setze einen Haken für "Allow content management for this profile" und klicke `Done`

@@ -2,7 +2,7 @@
 
 *Fabulously Optimized* ist eigentlich nur ein *client-sided Modpack*, das heißt, dass es auf jedem Server gleich funktioniert. 
 
-Zwar hat die *Curseforge*-Seite von diesem Modpack eine Sektion für "Server Packs", aber diese sind eigentlich nur die *MultiMC* Versionen. Ich habe dies so eingerichtet, um sie hervorzuheben und leichter zugänglich und sichtbar zu machen.
+Zwar hat die *CurseForge*-Seite von diesem Modpack eine Sektion für "Server Packs", aber diese sind eigentlich nur die *MultiMC* Versionen. Ich habe dies so eingerichtet, um sie hervorzuheben und leichter zugänglich und sichtbar zu machen.
 
 Als Server-Software würde ich [*Paper*](https://papermc.io) empfehlen, ein "Fork" (Weiterentwicklung) von *Spigot*, der - wie dieses Modpack - viel Wert auf Performance-Optimierung liegt und auch *Spigot*-Plugins unterstützt.
 
