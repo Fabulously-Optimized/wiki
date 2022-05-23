@@ -1,36 +1,56 @@
+# Give up OptiFine
+
 One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. 
 
 Here is the list of OptiFine features that are supported in this modpack:
 
-* Performance optimizations - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth)
-* Shaders - [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([tutorial](./getting-shaders.md))
-* Capes - [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([tutorial](./free-cape.md))
-* Zoom - [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)
-* Better Grass/Snow¹ - [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
-* Better Trees² - [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)
-* Dynamic Lights - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
-* Connected Textures - [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)
-* Animated Textures - [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)
-* Custom GUIs - [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)
-* Custom Items - [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
-* Random Mobs, Emissive Mobs - [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
-* Custom Mobs/Entities - [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem)
-* Custom Colors - [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)
-* Toggles for animations, particles etc. - [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)
-* HD Fonts - support in vanilla since 1.13, some resourcepacks that provide it [are available on my profile](https://www.curseforge.com/members/robotkoer/projects)
-* HD Screenshots - [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)
-* Fix for transparent gaps in items - [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)
-* Resource pack-customizable splash screen - [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)
+## Video Options
+
+| Option | Is supported? | Mod providing the feature |
+|-|-|-|
+| Smooth Lighting Level | ❌ | There's [an  issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).
+| Dynamic Lights | ✔️ | [Lambda Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
+| Shaders | ✔️ | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](./getting-shaders.md))
+| Details | ✔️ | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| Animations | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| Particles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| 32+ Render Distance | 🚧 | There's [a Pull Request](https://github.com/FlashyReese/sodium-extra-fabric/pull/211) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra). |
+| Smart Leaves² | ✔️ | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) |
+| Performance | ✔️ | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth) |
+| "Other" | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| Zoom | ✔️ | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) |
+| Capes | ✔️ | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](./free-cape.md)) |
+
+## Custom ("OptiFine only") resource pack featrues
+
+| Option | Is supported? | Mod providing the feature |
+|-|-|-|
+| Emmesive Textures | 🚧 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (blocks), [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) (entities) |
+| Better Grass/Snow¹ | ✔️ | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) |
+| HD Fonts | ✔️ | Vanilla since 1.13 |
+| Connected Textures | ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
+| Custom Sky | ❌ | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) |
+| Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). Does **not** support all entites [yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
+| Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
+| Custom Colors | ✔️ | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) |
+| Natural Textures | ✔️ | Vanilla feature |
+| Custom Items | ✔️ | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) |
+| Custom GUIs | ✔️ | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui) |
+| Animated Textures | ✔️ | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) |
+| HD Screenshots | ✔️ | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) |
+| Resource pack splash screen | ✔️ | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle) |
+| Transparent gaps in held items fix | ✔️ | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) |
+
 
 ¹ Snow is opt-in in settings as it changes some textures too, making it weird with some resource packs.
 ² Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
 Additionally, you can enjoy:
 
-* [better overall performance](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth)
-* better mod compatibility
-* [easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
-* [some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) OptiFine does not provide
+* [Better overall performance](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth)
+* Better mod compatibility
+* [Easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
+* [Some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) OptiFine does not provide
 
 Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
