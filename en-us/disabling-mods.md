@@ -43,7 +43,7 @@ Notes:
 
 ### MultiMC (auto-update)
 
-Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There is a workaround for Linux (and possibly macOS) though, [written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
+Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There are workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
 ### Minecraft Launcher (vanilla)
 
