@@ -37,13 +37,13 @@ Here is the list of OptiFine features that are supported in this modpack:
 |-|-|-|
 | Emissive Textures | 🔜 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (blocks), [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) (entities) |
 | Better Grass/Snow¹ | ✔️ | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) |
-| HD Fonts | ✔️ | [Vanilla feature](https://minecraft.fandom.com/wiki/Java_Edition_1.13-pre7) |
+| HD Fonts | ✔️ | [Vanilla feature since 1.13](https://minecraft.fandom.com/wiki/Java_Edition_1.13-pre7) |
 | Connected Textures | ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
 | Custom Sky | ❌ | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) |
 | Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). **Doesn't** support all entities [yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
 | Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
 | Custom Colors | ✔️ | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) |
-| Natural Textures | ✔️ | [Vanilla feature](https://minecraft.fandom.com/wiki/Model#Block_states) |
+| Natural Textures | ✔️ | [Vanilla feature since 1.9](https://minecraft.fandom.com/wiki/Model#Block_states) |
 | Custom Items | ✔️ | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) |
 | Custom GUIs | ✔️ | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui) |
 | Animated Textures | ✔️ | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) |
