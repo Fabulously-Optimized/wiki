@@ -51,7 +51,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See https://github.com/PuzzleMC/Puzzle/issues/29 |
 | Anisotropic Filtering | ❌ | There's [an early build](https://discord.com/channels/756612889787498627/872543494554648637/892202839361875979) for a mod that does this job (1.17) |
 
-¹ Snow is opt-in in via settings as it changes some textures too, making it weird with some resource packs.
+¹ Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
 
 ² Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
