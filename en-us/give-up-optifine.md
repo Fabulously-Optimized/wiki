@@ -43,7 +43,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). **Doesn't** support all entities [yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
 | Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
 | Custom Colors | ✔️ | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) |
-| Natural Textures | ✔️ | Vanilla feature |
+| Natural Textures | ✔️ | [Vanilla feature](https://minecraft.fandom.com/wiki/Model#Block_states) |
 | Custom Items | ✔️ | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) |
 | Custom GUIs | ✔️ | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui) |
 | Animated Textures | ✔️ | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) |
