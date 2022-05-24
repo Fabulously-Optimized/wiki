@@ -57,7 +57,6 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 Additionally, you can enjoy:
 
-* [Better overall performance](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth)
 * Better mod compatibility
 * [Easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
 * [Some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) OptiFine does not provide
