@@ -26,7 +26,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Particles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | 32+ Render Distance | 🔜 | There's [a Pull Request](https://github.com/FlashyReese/sodium-extra-fabric/pull/211) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra). |
 | Smart Leaves² | ✔️ | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) |
-| Performance | ✔️ | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized#smooth) |
+| Performance | ✔️ | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
 | "Other" | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | Zoom | ✔️ | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) |
 | Capes | ✔️ | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](./free-cape.md)) |
