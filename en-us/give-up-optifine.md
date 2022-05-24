@@ -49,6 +49,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Animated Textures | ✔️ | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) |
 | HD Screenshots | ✔️ | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) |
 | Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See https://github.com/PuzzleMC/Puzzle/issues/29 |
+| Anisotropic Filtering | ❌ | There's [an early build](https://discord.com/channels/756612889787498627/872543494554648637/892202839361875979) for a mod that does this job (1.17) |
 | Transparent gaps in held items fix | ✔️ | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) |
 
 
