@@ -42,7 +42,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Transparent gaps in held items fix | ✔️ | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) |
 
 
-¹ Snow is opt-in in settings as it changes some textures too, making it weird with some resource packs.
+¹ Snow is opt-in in via settings as it changes some textures too, making it weird with some resource packs.
 ² Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
 Additionally, you can enjoy:
