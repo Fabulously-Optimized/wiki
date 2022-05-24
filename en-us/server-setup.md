@@ -1,6 +1,6 @@
 # Server setup
 
-Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves the same on every server that allows vanilla clients. Yes, the Curseforge listing has a section of "server packs", but those are actually just the MultiMC versions that are marked as server packs for better visibility.&#x20;
+Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves the same on every server that allows vanilla clients. Yes, the CurseForge listing has a section of "server packs", but those are actually just the MultiMC versions that are marked as server packs for better visibility.&#x20;
 
 For server software I recommend using [Paper](https://papermc.io), which is a performance-optimized fork of Spigot, but supports all the same plugins.
 

@@ -44,8 +44,8 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 ```
 
 9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
-2. If the language has been accepted, wait for the mod author to update their mod on Curseforge
-3. Once the mod has been updated on Curseforge, simply wait for the next Fabulously Optimized update to see it :P
+2. If the language has been accepted, wait for the mod author to update their mod on CurseForge
+3. Once the mod has been updated on CurseForge, simply wait for the next Fabulously Optimized update to see it :P
 
 ### Notable mods to translate
 

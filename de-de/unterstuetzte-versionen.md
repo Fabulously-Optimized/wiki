@@ -4,19 +4,19 @@
 
 #### Wie oft wird *Fabulously Optimized* aktualisiert?
 
-Das kommt ganz darauf an, wann *Mojang* was herausbringt, wie es um den *Curseforge* Support steht (wann Versionen im Launcher angezeigt werden), was es für Mod Updates/hinzugefügte Features gibt, usw... es gibt eine Menge Faktoren. Ich versuche allerdings, so schnell wie möglich eine neue Version herauszubringen, wenn *Minecraft* oder manche Mods wichtige Updates benötigen.
+Das kommt ganz darauf an, wann *Mojang* was herausbringt, wie es um den *CurseForge* Support steht (wann Versionen im Launcher angezeigt werden), was es für Mod Updates/hinzugefügte Features gibt, usw... es gibt eine Menge Faktoren. Ich versuche allerdings, so schnell wie möglich eine neue Version herauszubringen, wenn *Minecraft* oder manche Mods wichtige Updates benötigen.
 
 #### Welche Versionen werden Unterstützt?
 
-Ich unterstützte immer nur die neuste "stabile" und die neuste Entwicklungsversion (falls vorhanden), alle anderen älteren Versionen werden nur der Zugänglichkeit halber angezeigt. Um es noch einfacher zu halten, stelle ich nur eine Modpack Version pro *Minecraft*-Version auf *Curseforge* auf sichtbar.
+Ich unterstützte immer nur die neuste "stabile" und die neuste Entwicklungsversion (falls vorhanden), alle anderen älteren Versionen werden nur der Zugänglichkeit halber angezeigt. Um es noch einfacher zu halten, stelle ich nur eine Modpack Version pro *Minecraft*-Version auf *CurseForge* auf sichtbar.
 
 #### Werden auch Snapshots unterstützt (werden)?
 
-Nein, sie werden nicht vom *Curseforge Launcher* unterstützt und werden viel zu schnell veröffentlicht. Da komme ich und die Mod-Entwickler gar nicht mehr hinterher.
+Nein, sie werden nicht vom *CurseForge Launcher* unterstützt und werden viel zu schnell veröffentlicht. Da komme ich und die Mod-Entwickler gar nicht mehr hinterher.
 
 #### Kann ich auch ältere Minecraft-Versionen mit *Fabulously Optimized* spielen?
 
-Siehe die [Curseforge Seite](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) für alle stabilen Versionen bis hin zu 1.16.1 (älter geht's nicht).
+Siehe die [CurseForge Seite](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) für alle stabilen Versionen bis hin zu 1.16.1 (älter geht's nicht).
 
 **Die Versionen 1.1.2-1.7.0 (MC 1.16.1-1.16.4) und 2.0.0b4 (MC 1.17)** [**sind nicht sicher für den Mehrspielermodus**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **und werden nur für's Archiv angezeigt.** Alle anderen neueren Versionen haben nicht mehr die Sicherheitslücke. Bitte stelle also sicher, dass du vorsichtig mit diesen Versionen umgehst und sie am besten ganz vermeidest.
 
