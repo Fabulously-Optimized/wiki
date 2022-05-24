@@ -35,7 +35,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 | Option | Is supported? | Mod providing the feature |
 |-|-|-|
-| Emissive Textures | 🔜 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (blocks), [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) (entities) |
+| Emissive Textures | Blocks 🔜, Entities ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (blocks), [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) (entities) |
 | Better Grass/Snow¹ | ✔️ | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) |
 | HD Fonts | ✔️ | [Vanilla feature since 1.13](https://minecraft.fandom.com/wiki/Java_Edition_1.13-pre6#Changes) |
 | Connected Textures | ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
