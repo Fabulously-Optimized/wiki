@@ -21,13 +21,13 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Smooth Lighting Level | ❌ | There's [an  issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).
 | Dynamic Lights | ✔️ | [Lambda Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 | Shaders | 🚧 | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](./getting-shaders.md)). Some shaders don't work. [PBR textures unsupported](https://discord.com/channels/774352792659820594/774354933436645478/967251726304415784).
-| Details | ✔️ | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| Animations | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| Particles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| 32+ Render Distance | 🔜 | There's [a Pull Request](https://github.com/FlashyReese/sodium-extra-fabric/pull/211) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra). Alternatively, use [Bobby](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#alternative-mods). |
+| Detail toggles | ✔️ | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| Animation toggles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| Particle toggles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| 32+ Render Distance | ❌ | Use [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) [(why is it not in FO?)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734). |
 | Smart Leaves² | ✔️ | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) |
 | Performance | ✔️ | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
-| "Other" | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| Miscellaneous toggles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | Zoom | ✔️ | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) |
 | Capes | ✔️ | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](./free-cape.md)) |
 
@@ -40,7 +40,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | HD Fonts | ✔️ | [Vanilla feature since 1.13](https://minecraft.fandom.com/wiki/Java_Edition_1.13-pre6#Changes) |
 | Connected Textures | ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
 | Custom Sky | ❌ | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) |
-| Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). **Doesn't** support all entities [yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
+| Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
 | Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
 | Custom Colors | ✔️ | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) |
 | Natural Textures | ✔️ | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java_Edition_14w17a#Model%20format%20improvements) |
@@ -49,7 +49,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Animated Textures | ✔️ | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) |
 | HD Screenshots | ✔️ | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) |
 | Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See https://github.com/PuzzleMC/Puzzle/issues/29 |
-| Anisotropic Filtering | ❌ | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) |
+| Anisotropic Filtering | ❌ | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu) |
 
 ¹ Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
 
@@ -59,7 +59,7 @@ Additionally, you can enjoy:
 
 * Better mod compatibility
 * [Easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
-* [Some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) OptiFine does not provide
+* [Some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional) OptiFine does not provide
 
 Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
