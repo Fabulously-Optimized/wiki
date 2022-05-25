@@ -46,9 +46,9 @@ Here is the list of OptiFine features that are supported in this modpack:
 | HD Screenshots | ✔️ | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) |
 | Natural Textures | ✔️ | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java_Edition_14w17a#Model%20format%20improvements) |
 | Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
-| Emissive Blocks | 🔜 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity). See https://github.com/PepperCode1/Continuity/issues/7 |
+| Emissive Blocks | 🔜 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity). See [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7) |
 | Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
-| Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See https://github.com/PuzzleMC/Puzzle/issues/29 |
+| Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See [Puzzle#29](https://github.com/PuzzleMC/Puzzle/issues/29) |
 | Anisotropic Filtering | ❌ | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu) |
 | Custom Sky | ❌ | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) |
 
