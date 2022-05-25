@@ -4,8 +4,6 @@ One of the goals of Fabulously Optimized is to provide feature parity with [Opti
 
 Here is the list of OptiFine features that are supported in this modpack:
 
-### Definitons
-
 ✔️ = **Supported**
 
 🚧 = **Partly supported**
@@ -14,7 +12,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 ❌ = **Not supported**
 
-## Video Options
+### Video Options
 
 | Option                | Is supported? | Mod providing the feature                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +29,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Smooth Lighting Level | ❌             | There's [an issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).                                                                                                                                    |
 | 32+ Render Distance   | ❌             | Use [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) [(why is it not in FO?)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734).                                                                                                                  |
 
-## Custom ("OptiFine only") resource pack featrues
+### Custom resource pack features
 
 | Option                      | Is supported? | Mod providing the feature                                                                                                                                                                     |
 | --------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
