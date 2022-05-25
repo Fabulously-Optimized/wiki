@@ -1,6 +1,6 @@
 # Give up OptiFine
 
-One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. 
+One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it.
 
 Here is the list of OptiFine features that are supported in this modpack:
 
@@ -16,45 +16,45 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 ## Video Options
 
-| Option | Is supported? | Mod providing the feature |
-|-|-|-|
-| Animation toggles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| Capes | ✔️ | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](./free-cape.md)) |
-| Detail toggles | ✔️ | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| Dynamic Lights | ✔️ | [Lambda Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights) |
-| Miscellaneous toggles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| Particle toggles | ✔️ |  [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| Performance | ✔️ | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
-| Smart Leaves² | ✔️ | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) |
-| Zoom | ✔️ | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) |
-| Shaders | 🚧 | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](./getting-shaders.md)). Some shaders don't work. [PBR textures unsupported](https://discord.com/channels/774352792659820594/774354933436645478/967251726304415784) [(via)](https://discord.gg/jQJnav2jPu). |
-| Smooth Lighting Level | ❌ | There's [an  issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra). |
-| 32+ Render Distance | ❌ | Use [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) [(why is it not in FO?)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734). |
+| Option                | Is supported? | Mod providing the feature                                                                                                                                                                                                                                                                                  |
+| --------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Animation toggles     | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
+| Capes                 | ✔️            | [Fabric Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](free-cape.md))                                                                                                                                                                                                              |
+| Detail toggles        | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
+| Dynamic Lights        | ✔️            | [Lambda Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)                                                                                                                                                                                                                    |
+| Miscellaneous toggles | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
+| Particle toggles      | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
+| Performance           | ✔️            | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
+| Smart Leaves¹         | ✔️            | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)                                                                                                                                                                                                                          |
+| Zoom                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
+| Shaders               | 🚧            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md)). Some shaders don't work. [PBR textures unsupported](https://discord.com/channels/774352792659820594/774354933436645478/967251726304415784) [(via)](https://discord.gg/jQJnav2jPu).                      |
+| Smooth Lighting Level | ❌             | There's [an issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).                                                                                                                                    |
+| 32+ Render Distance   | ❌             | Use [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) [(why is it not in FO?)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734).                                                                                                                  |
 
 ## Custom ("OptiFine only") resource pack featrues
 
-| Option | Is supported? | Mod providing the feature |
-|-|-|-|
-| Animated Textures | ✔️ | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) |
-| Better Grass/Snow¹ | ✔️ | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass) |
-| Connected Textures | ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
-| Custom Colors | ✔️ | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) |
-| Custom GUIs | ✔️ | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui) |
-| Custom Items | ✔️ | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) |
-| Emissive Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) |
-| HD Fonts | ✔️ | [Vanilla feature since 1.13](https://minecraft.fandom.com/wiki/Java_Edition_1.13-pre6#Changes) |
-| HD Screenshots | ✔️ | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) |
-| Natural Textures | ✔️ | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java_Edition_14w17a#Model%20format%20improvements) |
-| Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
-| Emissive Blocks | 🔜 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity). See [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7) |
-| Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
-| Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See [Puzzle#29](https://github.com/PuzzleMC/Puzzle/issues/29) |
-| Anisotropic Filtering | ❌ | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu) |
-| Custom Sky | ❌ | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) |
+| Option                      | Is supported? | Mod providing the feature                                                                                                                                                                     |
+| --------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Animated Textures           | ✔️            | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)                                                                                                                           |
+| Better Grass/Snow²          | ✔️            | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)                                                                                                           |
+| Connected Textures          | ✔️            | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                                                                                                                         |
+| Custom Colors               | ✔️            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)                                                                                                                         |
+| Custom GUIs                 | ✔️            | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)                                                                                                                               |
+| Custom Items                | ✔️            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)                                                                                                                         |
+| Emissive Entities           | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
+| HD Fonts                    | ✔️            | [Vanilla feature since 1.13](https://minecraft.fandom.com/wiki/Java\_Edition\_1.13-pre6#Changes)                                                                                              |
+| HD Screenshots              | ✔️            | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)                                                                                                                           |
+| Natural Textures            | ✔️            | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java\_Edition\_14w17a#Model%20format%20improvements)                                                                            |
+| Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
+| Emissive Blocks             | 🔜            | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity). See [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7)                                                 |
+| Custom Entity Models        | 🚧            | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
+| Resource pack splash screen | 🚧            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See [Puzzle#29](https://github.com/PuzzleMC/Puzzle/issues/29)                                                                  |
+| Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)                             |
+| Custom Sky                  | ❌             | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)                                                                                                             |
 
-¹ Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
+¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](disabling-mods.md), [install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
-² Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](./disabling-mods.md), [install](./adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
+² Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
 
 Additionally, you can enjoy:
 
@@ -64,6 +64,6 @@ Additionally, you can enjoy:
 
 Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
-If you're having issues with OptiFine's resource pack features, [see this wiki](./resource-pack-issues.md).
+If you're having issues with OptiFine's resource pack features, [see this wiki](resource-pack-issues.md).
 
-_See also: [Recommended OptiFine alternatives on Fabric](https://lambdaurora.dev/optifine_alternatives), a list that inspired me to create this modpack in the first place._
+_See also:_ [_Recommended OptiFine alternatives on Fabric_](https://lambdaurora.dev/optifine\_alternatives)_, a list that inspired me to create this modpack in the first place._
