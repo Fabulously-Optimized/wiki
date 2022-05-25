@@ -41,11 +41,12 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Custom Colors | ✔️ | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) |
 | Custom GUIs | ✔️ | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui) |
 | Custom Items | ✔️ | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) |
-| Emissive Textures | Blocks 🔜, Entities ✔️ | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) (blocks), [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) (entities) |
+| Emissive Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) |
 | HD Fonts | ✔️ | [Vanilla feature since 1.13](https://minecraft.fandom.com/wiki/Java_Edition_1.13-pre6#Changes) |
 | HD Screenshots | ✔️ | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) |
 | Natural Textures | ✔️ | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java_Edition_14w17a#Model%20format%20improvements) |
 | Random Entities | ✔️ | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)
+| Emissive Blocks | 🔜 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) |
 | Custom Entity Models | 🚧 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
 | Resource pack splash screen | 🚧 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle). See https://github.com/PuzzleMC/Puzzle/issues/29 |
 | Anisotropic Filtering | ❌ | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu) |
