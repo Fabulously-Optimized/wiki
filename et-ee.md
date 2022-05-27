@@ -8,7 +8,7 @@ Fabulously Optimized'i põhifunktsioonid ning enamus mode on saadaval eesti keel
 2. Vali **Eesti keel (Eesti)**
 3. Vajuta **Done**
 
-Kui soovid midagi küsida, [liitu meie Discordiga](https://discord.com/invite/yxaXtaQqdB) ja kirjuta kanalisse **#support**. Kuna FO autor on eestlane, saab tuge pakkuda ka eesti keeles, ent inglise keeles kirjutades on suurem võimalus kiire vastus saada.
+Kui soovid midagi küsida, [liitu meie Discordiga](https://discord.com/invite/yxaXtaQqdB) ja kirjuta kanalisse **#support**. Kuna FO autor on eestlane, siis äärmisel vajadusel saab tuge pakkuda ka eesti keeles, ent tungivalt soovitatav on kasutada inglise keelt kiirema vastuse saamiseks.
 
 Õpetusvideo loojalt LihtsaltSuper:
 
