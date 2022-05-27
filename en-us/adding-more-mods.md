@@ -58,8 +58,7 @@ Method 2:
 ### Other hints
 
 * Need to disable a mod instead? [See this page.](disabling-mods.md)
-* Looking for mods that may improve your use case but were rejected from the modpack? [See this wiki!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod)
+* Looking for mods that may improve your use case but were rejected from the modpack? [See this list!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod)
 * Want to suggest your mod to everyone? Check out [the issues of this repo](https://github.com/Fabulously-Optimized/fabulously-optimized/issues).
 * Coming from Forge and don't know what to install? Check out the [community list of equivalent mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md).
-* Is CurseForge search too confusing for you? Try [FiberMC](https://fibermc.com), an alternative site displaying only Fabric mods from CurseForge with a fast and flexible search.
-* Looking for Fabric-exclusive mods? [Modrinth](https://modrinth.com/mods?q=\&f=categories%3Afabric) is a new modding platform where many Fabric developers go nowadays, which has some cool stuff you'll not find on CurseForge.
+* Looking for exclusive Fabric mods? [Modrinth](https://modrinth.com/mods?q=\&f=categories%3Afabric) is a new modding platform where many Fabric developers go nowadays, which has some cool stuff you'll not find on CurseForge.
