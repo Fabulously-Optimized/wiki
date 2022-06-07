@@ -4,6 +4,48 @@ Fabulously Optimized supports [various OptiFine features](give-up-optifine.md), 
 
 Before trying any of those things here, though, [make sure you are using the latest version](update-instructions.md).
 
+### Broken paths
+
+If you see this message while activating a resource pack:
+
+![Contains broken paths](https://i.ibb.co/26cMtqr/Screenshot-20211116-191457.png)
+
+This means the resource pack maker is **using spaces or other non-standard characters** in the file or folder names.
+
+If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lightning issues, broken textures...).
+
+To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`.
+
+### Invisible blocks
+
+This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
+
+#### Enhanced Block Entities
+
+Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
+
+1. Click `Mods`
+2. Search for "Enhanced Block Entities", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
+3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
+4. Click `Done`
+
+#### FastChest and Better Beds
+
+Some versions of FO include these mods instead. 
+
+Chests:
+
+1. Click `Mods`
+2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
+3. Disable the mod, click `Done`.
+
+Beds:
+
+1. Close the game
+2. Remove or disable the Better Beds mod from your launcher.
+3. Start the game and see if it is fixed.
+
+
 ### Emissive textures
 
 _Or "making any block light up"._
@@ -49,46 +91,3 @@ If your resource pack's entities are supported but are still not displayed corre
    * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
 
 See also: [a list of resource packs that should work (cem#9)](https://github.com/dorianpb/cem/issues/9)
-
-### Broken paths
-
-**NOTE:** This applies **only** on FO versions 3.3.0 and below.
-
-If you see this message while activating a resource pack:
-
-![Contains broken paths](https://i.ibb.co/26cMtqr/Screenshot-20211116-191457.png)
-
-This means the resource pack maker is **using spaces or other non-standard characters** in the file or folder names.
-
-If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lightning issues, broken textures...).
-
-To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9/._-`.
-
-### Invisible blocks
-
-This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
-
-#### Enhanced Block Entities
-
-Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
-
-1. Click `Mods`
-2. Search for "Enhanced Block Entities", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
-3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
-4. Click `Done`
-
-#### FastChest and Better Beds
-
-Some versions of FO include these mods instead. 
-
-Chests:
-
-1. Click `Mods`
-2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
-3. Disable the mod, click `Done`.
-
-Beds:
-
-1. Close the game
-2. Remove or disable the Better Beds mod from your launcher.
-3. Start the game and see if it is fixed.
