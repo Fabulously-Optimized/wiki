@@ -127,7 +127,6 @@ Because the pack is using YOSBR, your vanilla options and most of the mod ones w
 2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](changed-options.md))
 3. Open "config" and delete the following:
    * _fabric_ folder
-   * _config.json5_ inside _slightguimodifications_
    * other files, except for
      * _citresewn.json_
      * _fabric\_loader\_dependencies.json_
