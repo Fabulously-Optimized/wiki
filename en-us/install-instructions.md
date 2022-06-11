@@ -41,6 +41,8 @@ Or with the launcher already open:
 
 ### [GDLauncher](https://gdevs.io)
 
+Currently broken due to GDLauncher's own issues. See (GDLauncher#1288)[https://github.com/gorilla-devs/GDLauncher/issues/1288].
+
 1. Click ➕ on bottom left corner
 2. Select `CurseForge` tab
 3. Search for "Fabulously Optimized"
