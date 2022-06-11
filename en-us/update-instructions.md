@@ -89,7 +89,7 @@ If there is a new Minecraft version or you are lazy to update your Fabric Loader
 
 ### GDLauncher
 
-**Currently broken due to GDLauncher's own issues ([GDLauncher#1288](https://github.com/gorilla-devs/GDLauncher/issues/1288)). In the meanwhile you can just create a Fabric instance and follow vanilla instructions to install it manually.**
+**Currently broken due to GDLauncher's own issues ([GDLauncher#1288](https://github.com/gorilla-devs/GDLauncher/issues/1288)). In the meanwhile you can just create a Fabric instance and follow vanilla instructions to update it manually.**
 
 1. Right click the _Fabulously Optimized_ instance
 2. Select `🔧 Manage`
