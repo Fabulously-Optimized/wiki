@@ -41,7 +41,7 @@ Or with the launcher already open:
 
 ### [GDLauncher](https://gdevs.io)
 
-Currently broken due to GDLauncher's own issues. See (GDLauncher#1288)[https://github.com/gorilla-devs/GDLauncher/issues/1288].
+Currently broken due to GDLauncher's own issues ([GDLauncher#1288](https://github.com/gorilla-devs/GDLauncher/issues/1288)). In the meanwhile you can just create a Fabric instance and follow vanilla instructions to install it manually.
 
 1. Click ➕ on bottom left corner
 2. Select `CurseForge` tab
