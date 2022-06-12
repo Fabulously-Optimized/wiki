@@ -65,6 +65,8 @@ However, [similar to the mod inclusion policy](principles.md), Fabulously Optimi
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302)   | Smooth lighting doesn't work properly on the water surface                                |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  
 | [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag                             |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)  
+| [MC-121884](https://bugs.mojang.com/browse/MC-121884)   | Server->Client custom payload packets can leak resources                           |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)  
+| [MC-226729](https://bugs.mojang.com/browse/MC-226729)   | Memory leakage problem in native operations                         |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)  
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
 
