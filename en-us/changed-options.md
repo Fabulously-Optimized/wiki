@@ -58,6 +58,10 @@ However, [similar to the mod inclusion policy](principles.md), Fabulously Optimi
 | [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Sleeping in a custom dimension with "natural" set to false causes crash    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)   |
 | [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-73186](https://bugs.mojang.com/browse/MC-73186)   | Gaps between the faces of item models                                      |[Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)             |
+| [MC-26757](https://bugs.mojang.com/browse/MC-26757)   | Stops tooltips that are too large to fit on the screen from running off the screen.                                    |[ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)             |
+| [MC-5056](https://bugs.mojang.com/browse/MC-5056)   | Removes the potion inventory offset                                      |[No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset)  
+| [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
 
