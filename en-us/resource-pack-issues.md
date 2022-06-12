@@ -45,14 +45,6 @@ Beds:
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
 
-
-### Emissive textures
-
-_Or "making any block light up"._
-
-Coming soon for blocks, see [Continuity#7](https://github.com/PepperCode1/Continuity/issues/7). If you just want to highlight the ores and can run shaders for it, use [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders) or [Prismarine](https://www.curseforge.com/minecraft/customization/prismarine-shader).
-[Entities are fully supported.](https://github.com/Traben-0/Entity_Texture_Features#compatibility)
-
 ### Custom sky
 
 _Or "custom skymap"._
@@ -91,3 +83,9 @@ If your resource pack's entities are supported but are still not displayed corre
    * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
 
 See also: [a list of resource packs that should work (cem#9)](https://github.com/dorianpb/cem/issues/9)
+
+### Emissive textures
+
+_Or "making any block light up"._
+
+Emissive textures are fully supported as of version 9.8.3. For the versions below, including all the 1.16 and 1.17 versions, emissive textures are partly supported.
