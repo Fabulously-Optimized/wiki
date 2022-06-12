@@ -64,6 +64,7 @@ However, [similar to the mod inclusion policy](principles.md), Fabulously Optimi
 | [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302)   | Smooth lighting doesn't work properly on the water surface                                |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  
+| [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag                             |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)  
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
 
