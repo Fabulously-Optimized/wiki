@@ -62,6 +62,7 @@ However, [similar to the mod inclusion policy](principles.md), Fabulously Optimi
 | [MC-26757](https://bugs.mojang.com/browse/MC-26757)   | Stops tooltips that are too large to fit on the screen from running off the screen.                                    |[ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)             |
 | [MC-5056](https://bugs.mojang.com/browse/MC-5056)   | Removes the potion inventory offset                                      |[No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset)  
 | [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
+| [MC-227302](https://bugs.mojang.com/browse/MC-227302)   | Smooth lighting doesn't work properly on the water surface                                |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
 
