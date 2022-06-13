@@ -45,7 +45,7 @@ However, [similar to the mod inclusion policy](principles.md), Fabulously Optimi
 
 | Mojang bug                                            | Description                                                                | Fixed by                                                                  |
 | ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [MC-26757](https://bugs.mojang.com/browse/MC-26757)   | Stops tooltips that are too large to fit on the screen from running off the screen.                                    |[ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)             |
+| [MC-26757](https://bugs.mojang.com/browse/MC-26757)   | Large item tooltips can get cut off at the edges of the screen                                                  |[ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)             |
 | [MC-73186](https://bugs.mojang.com/browse/MC-73186)   | Gaps between the faces of item models                                      |[Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)             |
 | [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag                             |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)  
 | [MC-89146](https://bugs.mojang.com/browse/MC-89146)   | Pistons forget update when being reloaded                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
