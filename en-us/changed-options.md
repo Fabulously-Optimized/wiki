@@ -40,8 +40,8 @@ See also: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Option
 
 ### Fixed bugs
 
-Since FO 3.3.0, some mods are included to fix vanilla bugs.\
-However, [similar to the mod inclusion policy](principles.md), Fabulously Optimized will not enable bugfixes randomly - they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
+Fabulously Optimized includes some mods that fix vanilla bugs.
+[Similar to the mod inclusion policy](principles.md), they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
 
 | Mojang bug                                            | Description                                                                | Fixed by                                                                  |
 | ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
