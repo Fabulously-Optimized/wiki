@@ -57,7 +57,8 @@ Here is the list of OptiFine features that are supported in this modpack:
 ³ The mod Zoomify is used to get the zoom function inside the modpack. The configuration of the mod provided by the modpack is not identical to the OptiFine zoom since most people prefer a smooth than an instant zoom. The following are instructions on how to customize the mod in order to make zooming identical to OptiFine:
 
 1. With the mod menu screen open, scroll down to zoomify and click `mods`
-2. 
+2. In the Behaviour tab, set 'Initial Zoom' to 3 and 'Zoom Transition' to Instant
+3. In the Scrolling tab, 
 
 Additionally, you can enjoy:
 
