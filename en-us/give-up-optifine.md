@@ -54,7 +54,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 ² Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
 
-³ The mod Zoomify is used to get the zoom function inside the modpack. The configuration of the mod provided by the modpack is not identical to the OptiFine zoom since most people prefer a smooth than an instant zoom. The following are instructions on how to customize the mod in order to make zooming identical to OptiFine:
+³ The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
 
 1. Launch the game, click the <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
 2. In the Behaviour tab, set Initial Zoom to 4 and Zoom Transition to Instant
