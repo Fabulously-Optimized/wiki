@@ -90,8 +90,7 @@ If there is a new Minecraft version or you are lazy to update your Fabric Loader
 
 ### GDLauncher
 
-**You must update the launcher to v1.1.14 or later to update FO. Easiest way is to redownload (no need to remove first): https://gdevs.io/#downloadContainer**
-
+**You must update to v1.1.14 or later to play FO, see settings for which version you have. [Easiest way is to redownload](https://gdevs.io/#downloadContainer) (no need to remove first). Do NOT attempt to update FO on an older version of GDLauncher because it will delete your instance!**
 1. Right click the _Fabulously Optimized_ instance
 2. Select `🔧 Manage`
 3. Select `Modpack` from the right
