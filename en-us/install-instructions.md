@@ -42,7 +42,7 @@ Or with the launcher already open:
 
 ### [GDLauncher](https://gdevs.io)
 
-**You must update to v1.1.14 or later to play FO. Easiest way is to redownload (no need to remove first): https://gdevs.io/#downloadContainer**
+**You must update to v1.1.14 or later to play FO, see settings for which version you have. [Easiest way is to redownload](https://gdevs.io/#downloadContainer) (no need to remove first).**
 
 1. Click ➕ on bottom left corner
 2. Select `CurseForge` tab
