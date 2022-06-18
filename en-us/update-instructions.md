@@ -102,7 +102,7 @@ If there is a new Minecraft version or you are lazy to update your Fabric Loader
 6. Modpack will now update.
 7. After updating you can run it and check the version difference in the bottom right corner.
 
-### Minecraft Launcher (the vanilla)
+###  Official Minecraft Launcher
 
 Currently the only way to update is to "reinstall" the pack.
 
@@ -128,7 +128,7 @@ Because the pack is using YOSBR, your vanilla options and most of the mod ones w
    * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
-   * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
+   * Official Minecraft Launcher: go to `Installations` tab -> hover on the instance -> click `📁`
 2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](changed-options.md))
 3. Open "config" and delete the following:
    * _fabric_ folder
