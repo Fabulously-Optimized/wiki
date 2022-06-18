@@ -45,7 +45,7 @@ Method 2:
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
 
-### Minecraft Launcher (vanilla)
+### Official Minecraft Launcher
 
 1. Open Minecraft Launcher, click on `Installations`
 2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
