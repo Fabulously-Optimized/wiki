@@ -45,7 +45,7 @@ Notes:
 
 Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There are workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
-### Minecraft Launcher (vanilla)
+### Official Minecraft Launcher
 
 1. Open Minecraft Launcher, click on `Installations`
 2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
