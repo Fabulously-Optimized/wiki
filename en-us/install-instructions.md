@@ -76,7 +76,7 @@ Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
  
 ### Other launchers
 
-Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
+Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the Official Minecraft Launcher instructions. However, I do not give support for them.
 
 ### Servers
 
