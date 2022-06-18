@@ -50,7 +50,7 @@ Or with the launcher already open:
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
 
-### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (the vanilla)
+### [Official Minecraft Launcher](https://www.minecraft.net/en-us/download)
 
 For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric installer.
 
@@ -66,7 +66,7 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
-A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
+A simple installer for the Official Minecraft Launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
 ### Modrinth
 
