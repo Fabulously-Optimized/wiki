@@ -60,7 +60,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 ² The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
 
 1. Click <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
-2. In the Behaviour tab, set Initial Zoom to `4` and Zoom Transition to `Instant`
+2. In the Behaviour tab, set Zoom Transition to `Instant`
 3. In the Scrolling tab, turn Enable Scroll Zoom `OFF`
 4. In the Controls tab, turn Relative Sensitivity `OFF` and turn Cinematic Camera `ON`
 
