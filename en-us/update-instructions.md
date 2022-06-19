@@ -113,6 +113,7 @@ Currently the only way to update is to "reinstall" the pack.
 4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 5. Click `Download` the latest **MultiMC version** of the pack
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+      * Alternatively, look for it in the sidebar, under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 7. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
