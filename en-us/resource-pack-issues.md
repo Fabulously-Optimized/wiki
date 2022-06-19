@@ -69,7 +69,9 @@ Thanks JulienRaptor01 for the shader investigation!
 
 _Or "mobs with a custom shape"._
 
-Partly supported. [See here for a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
+Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
+
+If you are just looking for Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824).
 
 If your resource pack's entities are supported but are still not displayed correctly, you can try this:
 
@@ -82,4 +84,4 @@ If your resource pack's entities are supported but are still not displayed corre
 7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
    * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
 
-See also: [a list of resource packs that should work (cem#9)](https://github.com/dorianpb/cem/issues/9)
+[See here for a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
