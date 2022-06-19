@@ -50,18 +50,26 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)                             |
 | Custom Sky                  | ❌             | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)                                                                                                             |
 
-¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](disabling-mods.md), [install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
+¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
+
+1. [Disable this mod](disabling-mods.md)
+2. [Install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+3. Enable Cull Leaves' bundled resource pack
+4. Disable "Use Block Face Culling" in <kbd>Options</kbd> -> <kbd>Video Settings...</kbd> -> <kbd>Advanced</kbd>.
 
 ² The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
 
-1. Launch the game, click the <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
-2. In the Behaviour tab, set Initial Zoom to 4 and Zoom Transition to Instant
-3. In the Scrolling tab, turn Enable Scroll Zoom off
-4. In the Controls tab, turn Relative Sensitivity off and turn Cinematic Camera on
+1. Click <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
+2. In the Behaviour tab, set Initial Zoom to `4` and Zoom Transition to `Instant`
+3. In the Scrolling tab, turn Enable Scroll Zoom `OFF`
+4. In the Controls tab, turn Relative Sensitivity `OFF` and turn Cinematic Camera `ON`
 
-After that, the zoom function will be exactly like OptiFine's!
+³ Better Snow is opt-in, because changes some textures too, making it weird with some resource packs:
 
-³ Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
+1. Click <kbd>Mods</kbd>, search for `LambdaBetterGrass`, click it and on the top left hit the `Configure` icon.
+2. Set Better Snow to `ON`
+
+---
 
 Additionally, you can enjoy:
 
