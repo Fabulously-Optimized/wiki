@@ -24,7 +24,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Particle toggles      | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
 | Performance           | ✔️            | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
 | Smart Leaves¹         | ✔️            | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)                                                                                                                                                                                                                          |
-| Zoom³                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
+| Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
 | Shaders               | 🚧            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md)). Some shaders don't work. [PBR textures unsupported](https://discord.com/channels/774352792659820594/774354933436645478/967251726304415784) [(via)](https://discord.gg/jQJnav2jPu).                      |
 | Smooth Lighting Level | ❌             | There's [an issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).                                                                                                                                    |
 | 32+ Render Distance   | ❌             | Use [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) [(why is it not in FO?)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734).                                                                                                                  |
@@ -34,7 +34,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Option                      | Is supported? | Mod providing the feature                                                                                                                                                                     |
 | --------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Animated Textures           | ✔️            | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)                                                                                                                           |
-| Better Grass/Snow²          | ✔️            | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)                                                                                                           |
+| Better Grass/Snow³          | ✔️            | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)                                                                                                           |
 | Connected Textures          | ✔️            | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                                                                                                                         |
 | Custom Colors               | ✔️            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)                                                                                                                         |
 | Custom GUIs                 | ✔️            | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)                                                                                                                               |
@@ -52,9 +52,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 ¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](disabling-mods.md), [install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
 
-² Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
-
-³ The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
+² The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
 
 1. Launch the game, click the <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
 2. In the Behaviour tab, set Initial Zoom to 4 and Zoom Transition to Instant
@@ -62,6 +60,8 @@ Here is the list of OptiFine features that are supported in this modpack:
 4. In the Controls tab, turn Relative Sensitivity off and turn Cinematic Camera on
 
 After that, the zoom function will be exactly like OptiFine's!
+
+³ Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
 
 Additionally, you can enjoy:
 
