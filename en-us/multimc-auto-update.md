@@ -43,7 +43,7 @@ If you have any problems, you can ask for support in our [Discord server](https:
 ### Windows
 
 Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
- 
+
 1. Download the mod disabling scripts:
      1. Open MultiMC, right click your instance and click "Instance Folder"
      2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell prompt)
@@ -53,7 +53,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
 ```
    If you wish to install them somewhere else, run `cd path\to\folder` (where `path\to\folder` is the path to your folder's location) before running the command above.
- 
+
 2. Select the mods to disable.
     1. Copy the name of the mod(s) you want to disable.
     2. Open `pre-launch.ps1` with any text editor
