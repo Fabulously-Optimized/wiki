@@ -82,4 +82,3 @@ You can also translate this wiki. It is up to you, whether you want to do a sing
 5. I'll review your page and if everything seems okay, will accept it!
 6. You can add contents to your pages at any time by repeating this process.
    * Make sure you click `🔄Fetch upstream` -> `Fetch and merge` to get the latest changes from the wiki.
-   
