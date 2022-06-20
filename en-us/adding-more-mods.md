@@ -27,7 +27,7 @@ Method 2:
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-### GDLauncher:
+### GDLauncher
 
 1. Open GDLauncher
 2. Right click Fabulously Optimized, click on `Manage`

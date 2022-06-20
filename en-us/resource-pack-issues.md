@@ -25,13 +25,13 @@ This may occur when the pack is using broken paths and is trying to change the m
 Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
 
 1. Click `Mods`
-2. Search for "Enhanced Block Entities", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
+2. Search for "Enhanced Block Entities", click the config button ![config](https://i.ibb.co/j35cBtn/image.png)
 3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
 4. Click `Done`
 
 #### FastChest and Better Beds
 
-Some versions of FO include these mods instead. 
+Some versions of FO include these mods instead.
 
 Chests:
 

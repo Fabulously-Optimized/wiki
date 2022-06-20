@@ -50,7 +50,7 @@ Or with the launcher already open:
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
 
-### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (the vanilla)
+### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric installer.
 
@@ -71,10 +71,10 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Modrinth
 
-There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given. 
+There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given.
 
 Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
- 
+
 ### Other launchers
 
 Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
