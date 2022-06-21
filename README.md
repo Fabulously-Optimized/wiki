@@ -10,7 +10,7 @@ Getting [🦸 Cape](en-us/free-cape.md) | [🌅 Shaders](en-us/getting-shaders.m
 
 Comparison with [🇴​🇫 OptiFine](en-us/give-up-optifine.md) | [🔣 Other modpacks](en-us/principles.md) [(why use Fabric?)](en-us/principles.md#why-use-fabric)
 
-You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating mods](en-us/language-support.md)
+You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating to your language](en-us/language-support.md)
 
 More info about [🔢 Version support](en-us/version-support.md) | [🙅 Mods that won't be added](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod) | [🔃 MultiMC (auto-update)](en-us/multimc-auto-update.md) | [🗄️ Server setup](en-us/server-setup.md)
 
