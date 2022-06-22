@@ -2,7 +2,7 @@
 
 Fabulously Optimized supports capes from Mojang, OptiFine, MinecraftCapes mod, LabyMod, Wynntils and Cosmetica.
 
-**Disclaimer:** Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage you to buy them from any provider. The modpack encourages users to prefer free cosmetics, while also giving them options to use any paid cosmetics they've previously obtained from such providers.
+**Disclaimer:** Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to prefer free cosmetics, while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
 
 ### Instructions for a free cape
 
