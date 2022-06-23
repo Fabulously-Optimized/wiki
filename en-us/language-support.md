@@ -30,6 +30,8 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 ## Translating mods
 
+I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods.
+
 1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
 2. On every page, find the Issues or Source link at the top
 3. Read the readme, wiki and/or issues to see if there is already a translation platform. If yes, go there.
@@ -67,6 +69,22 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 * [CEM](https://github.com/dorianpb/cem/blob/1.18/src/main/resources/assets/cem/lang/en\_us.json)
 * [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
 * [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
+
+
+## Translating the description
+
+You can now translate the modpack's description! It will be posted as a spoiler below the English text.
+
+1. Go to the [descriptions folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Description)
+2. Click on `en_US.md`. Read it, see how it looks, then click `Raw` and copy the text.
+3. Go back, click `Add file` -> `Create new file`
+4. Paste and translate every sentence.
+   * If your language has a local link (video, wiki etc), use that in the format `[text](link)`, otherwise use the English one by keeping the number as-is.
+   * The multiplayer warning should be taken directly from the game. If you don't know what it says in your language, just write a placeholder and I'll fill it by myself.
+5. [Create a new pull request](https://github.com/Fabulously-Optimized/fabulously-optimized/compare).
+6. I'll review your text and if everything seems okay, will accept and publish it!
+7. You can edit it at any time by repeating this process.
+   * Make sure you click `🔄Fetch upstream` -> `Fetch and merge` to get the latest changes from the wiki.
 
 ## Translating the wiki
 
