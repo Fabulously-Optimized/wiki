@@ -24,7 +24,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Particle toggles      | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
 | Performance           | ✔️            | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
 | Smart Leaves¹         | ✔️            | [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves)                                                                                                                                                                                                                          |
-| Zoom                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
+| Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
 | Shaders               | 🚧            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md)). Some shaders don't work. [PBR textures unsupported](https://discord.com/channels/774352792659820594/774354933436645478/967251726304415784) [(via)](https://discord.gg/jQJnav2jPu).                      |
 | Smooth Lighting Level | ❌             | There's [an issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).                                                                                                                                    |
 | 32+ Render Distance   | ❌             | Use [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) [(why is it not in FO?)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734).                                                                                                                  |
@@ -34,7 +34,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Option                      | Is supported? | Mod providing the feature                                                                                                                                                                     |
 | --------------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Animated Textures           | ✔️            | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)                                                                                                                           |
-| Better Grass/Snow²          | ✔️            | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)                                                                                                           |
+| Better Grass/Snow³          | ✔️            | [LambdaBetterGrass](https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass)                                                                                                           |
 | Connected Textures          | ✔️            | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                                                                                                                         |
 | Custom Colors               | ✔️            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)                                                                                                                         |
 | Custom GUIs                 | ✔️            | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)                                                                                                                               |
@@ -50,9 +50,26 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)                             |
 | Custom Sky                  | ❌             | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)                                                                                                             |
 
-¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical, [disable this mod](disabling-mods.md), [install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves), enable its bundled resource pack and disable "Use Block Face Culling" in video settings.
+¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
 
-² Snow is opt-in via settings as it changes some textures too, making it weird with some resource packs.
+1. [Disable this mod](disabling-mods.md)
+2. [Install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
+3. Enable Cull Leaves' bundled resource pack
+4. Disable "Use Block Face Culling" in <kbd>Options</kbd> -> <kbd>Video Settings...</kbd> -> <kbd>Advanced</kbd>.
+
+² The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
+
+1. Click <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
+2. In the Behaviour tab, set Zoom Transition to `Instant`
+3. In the Scrolling tab, turn Enable Scroll Zoom `OFF`
+4. In the Controls tab, turn Relative Sensitivity `OFF` and turn Cinematic Camera `ON`
+
+³ Better Snow is opt-in, because changes some textures too, making it weird with some resource packs:
+
+1. Click <kbd>Mods</kbd>, search for `LambdaBetterGrass`, click it and on the top left hit the `Configure` icon.
+2. Set Better Snow to `ON`
+
+---
 
 Additionally, you can enjoy:
 
