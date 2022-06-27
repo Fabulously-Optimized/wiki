@@ -1,6 +1,7 @@
 # Install instructions
 
 **Prefer video tutorials instead of text?** [**Click here!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
+Older versions of the modpack may require a different Fabric Loader version, check the version description if unsure.
 
 ### [CurseForge Launcher](https://download.curseforge.com)
 
