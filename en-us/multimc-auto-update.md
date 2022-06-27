@@ -36,14 +36,14 @@ You'll have to download a new version of the pack that is specific to that Minec
 
 ## Can I ignore some of the mods?
 
-There is no official procedure for this yet, but [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) have made tutorials and scripts for an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled. 
+There is no official procedure for this yet, but [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) have made tutorials and scripts for an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled.
 
 If you have any problems, you can ask for support in our [Discord server](https://discord.gg/yxaXtaQqdB).
 
 ### Windows
 
 Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
- 
+
 1. Download the mod disabling scripts:
      1. Open MultiMC, right click your instance and click "Instance Folder"
      2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell prompt)
@@ -53,7 +53,7 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
 ```
    If you wish to install them somewhere else, run `cd path\to\folder` (where `path\to\folder` is the path to your folder's location) before running the command above.
- 
+
 2. Select the mods to disable.
     1. Copy the name of the mod(s) you want to disable.
     2. Open `pre-launch.ps1` with any text editor
@@ -69,7 +69,6 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
    5. Do the same thing for the post-exit command but with `powershell -ExecutionPolicy Bypass -File ..\post-exit.ps1` this time.
        * Or `path\to\folder\post-exit.ps1` (where `path\to\folder` is the path to the folder)
 4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
-
 
 ### Linux, macOS
 
@@ -89,7 +88,7 @@ This will install a program called [jq](https://stedolan.github.io/jq/), needed 
    2. Inside the folder right click and select "Open Terminal here"
        * On macOS, [follow this tutorial](https://www.petenetlive.com/KB/Article/0001060) to get that option
    3. Within the terminal, run the following command - this will install the files and make them executable:
-```
+```shell
 curl -Os https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/pre-launch.sh | curl -Os https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.sh && chmod +x pre-launch.sh post-exit.sh
 ```
    If you want to install them somewhere else, run `cd /path/to/folder` (where `/path/to/folder` is the path to your folder's location) before running the command above.

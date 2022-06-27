@@ -102,7 +102,7 @@ If there is a new Minecraft version or you are lazy to update your Fabric Loader
 6. Modpack will now update.
 7. After updating you can run it and check the version difference in the bottom right corner.
 
-### Minecraft Launcher (the vanilla)
+### Minecraft Launcher (vanilla)
 
 Currently the only way to update is to "reinstall" the pack.
 
