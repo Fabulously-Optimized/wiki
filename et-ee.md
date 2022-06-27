@@ -1,6 +1,6 @@
 # 🇪🇪 Eesti keel
 
-[Viki automaattõlke leiad siit](https://github-com.translate.goog/Fabulously-Optimized/wiki/blob/main/README.md?\_x\_tr\_sl=en&\_x\_tr\_tl=et&\_x\_tr\_hl=et&\_x\_tr\_pto=wapp).
+**See viki ei ole veel täielikult eesti keelde tõlgitud, seega vali vasakult mõni teises keeles õpetus või [loe automaattõlget eesti keelde](https://github-com.translate.goog/Fabulously-Optimized/wiki/blob/main/README.md?\_x\_tr\_sl=en&\_x\_tr\_tl=et&\_x\_tr\_hl=et&\_x\_tr\_pto=wapp).**
 
 Fabulously Optimized'i põhifunktsioonid ning enamus mode on saadaval eesti keeles, selleks tuleb vaid mängukeelt vahetada:
 
