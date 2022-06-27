@@ -52,7 +52,7 @@ Too early to tell, that likely depends on how many Fabric modders will start usi
 
 ## Distribution
 
-#### Will you ever support the Minecraft Launcher (vanilla) properly?
+#### Will you ever support Minecraft Launcher (vanilla) properly?
 
 [Yes, this is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110) as soon as Packwiz adds support for it!
 

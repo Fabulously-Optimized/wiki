@@ -47,7 +47,7 @@ Unfortunately, the normal MultiMC method won't work with this as it redownloads 
 
 ### Minecraft Launcher (vanilla)
 
-1. Open the Minecraft Launcher, click on `Installations`
+1. Open Minecraft Launcher, click on `Installations`
 2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
 3. Click `mods`
 4. Rename the specific mod from "modname.jar" to "modname.jar-old"
