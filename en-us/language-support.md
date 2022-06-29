@@ -28,7 +28,7 @@ I support people using Minecraft in their language and would like to promote tha
 List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
-2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in Sodium Extra or otherwise in FO)
+2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
 4. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.18/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
 5. [Mod Menu](https://hosted.weblate.org/engage/fabric-modmenu/)
