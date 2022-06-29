@@ -31,7 +31,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
 4. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.18/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
-5. [Mod Menu](https://hosted.weblate.org/engage/fabric-modmenu/)
+5. [Mod Menu](https://crowdin.com/project/mod-menu)
 6. [Zoomify](https://github.com/isXander/Zoomify/blob/1.18/src/main/resources/assets/zoomify/lang/en\_us.json)
 7. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.18/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
 8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.18/src/main/resources/assets/lambdynlights/lang/en\_us)
@@ -43,6 +43,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 14. [CEM](https://github.com/dorianpb/cem/blob/1.18/src/main/resources/assets/cem/lang/en\_us.json)
 15. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
 16. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
+17. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform that FO will fully support soon)
 
 ## Translating Mod Menu helper
 
