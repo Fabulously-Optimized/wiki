@@ -57,6 +57,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
