@@ -27,14 +27,13 @@
 5. Мод будет добавлен в профиль FO
 6. Запустите игру нажатием на `Play`. Моды которые вы установили уже должны быть в игре!
 
-### GDLauncher:
+### GDLauncher
 
 1. Откройте GDLauncher
 2. Кликните правой кнопкой на `Fabulously Optimized`, затем `Manage`
 3. Выберите `Mods` и `Add Mod`
 4. На понравившемся моде кликните `Download` (перед этим убедитесь что он для Fabric)
 5. Закройте окно, и кликните на `Fabulously Optimized` чтобы запустить игру.
-5. Close the sub-window and click on Fabulously Optimized to run the game. Моды которые вы установили уже должны быть в игре!
 
 ### MultiMC/MultiMC (auto-update)
 
