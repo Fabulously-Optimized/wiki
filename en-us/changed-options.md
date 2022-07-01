@@ -53,14 +53,15 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-121884](https://bugs.mojang.com/browse/MC-121884)   | Server -> Client custom payload packets can leak resources               |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
 | [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  			|
+| [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  |
 | [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[Antighost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
+| [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
+| [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-226729](https://bugs.mojang.com/browse/MC-226729)   | Memory leakage problem in native operations                         |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)  | 
+| [MC-226729](https://bugs.mojang.com/browse/MC-226729)   | Memory leakage problem in native operations                         |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)  |
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302)   | Smooth lighting doesn't work properly on the water surface                                |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |  
 | [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Sleeping in a custom dimension with "natural" set to false causes crash    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
@@ -89,7 +90,7 @@ For other things like dynamic lights, better grass and zoom:
 
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
-3. If the pencil is blue, you can configure the mod by clicking the config button ![](https://i.ibb.co/j35cBtn/image.png)
+3. If the pencil is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
    * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` -> `Options...` -> `Resource Packs...` -> `⏵` on "Mod Menu Helper.zip" -> `Done` -> go to point 1 of this tutorial
 
 If you need to disable a mod, [see this wiki page](disabling-mods.md).

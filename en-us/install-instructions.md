@@ -42,7 +42,7 @@ Or with the launcher already open:
 
 ### [GDLauncher](https://gdevs.io)
 
-**You must update to v1.1.14 or later to play FO, see settings for which version you have. [Easiest way is to redownload](https://gdevs.io/#downloadContainer) (no need to remove first).**
+**Please make sure your GDLauncher is up to date (v1.1.14 or later - see settings) before installing FO. [Easiest way to do that is to redownload](https://gdevs.io/#downloadContainer) (no need to remove it first).**
 
 1. Click ➕ on bottom left corner
 2. Select `CurseForge` tab
@@ -50,11 +50,12 @@ Or with the launcher already open:
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
 
-### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (the vanilla)
+### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric installer.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.8**
+   * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 4. Click `Download` on the latest **MultiMC version** of the pack
@@ -71,10 +72,10 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Modrinth
 
-There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given. 
+There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given.
 
 Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
- 
+
 ### Other launchers
 
 Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
