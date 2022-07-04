@@ -75,7 +75,7 @@ Fabulously Optimized включает в себя некоторые моды н
 Хотите чтобы баг был исправлен в Fabulously Optimized? Вот что вам нужно сделать:
 
 1. Найдите этот баг в [багтрекере Mojang](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
-2. Предложите его, или посмотрите его статус в [в багтрекере Debugify](https://github.com/W-OVERFLOW/Debugify/issues)
+2. Предложите его, или посмотрите его статус в [багтрекере Debugify](https://github.com/W-OVERFLOW/Debugify/issues)
 3. Когда фикс реализуют (или вы узнаете что он уже есть) в Debugify, [предложите option change в FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
 4. Опишите баг, укажите мод который его испрвляет, и докажите что он важен для 70-80% пользователей
 5. Если его примут, можете ожидать что он появится в следующей версии FO :)
