@@ -24,75 +24,75 @@ Fabulously Optimized меняет некоторые стандартные на
 
 ### Привязка клавиш
 
-| Опция                            | Описание                                                         | Стандарт | Сборка | Причина изменения                                                            |
-| --------------------------------- | ------------------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
-| Vanilla: Save Hotbar Activator    | Saves your hotbar if this key and a number key are held             | c       | none    | This key is more often used for zoom                                    |
-| Zoomify/WI Zoom: Zoom             | Zooms the view when the key is held                                 | v       | c       | This key is more often used for zoom                                    |
-| Zoomify: GUI                      | Opens the Zoomify mod settings                                      | F8      | none    | Not needed for most players                                             |
-| AntiGhost: Reveal ghost blocks    | Asks the server to send blocks around you in order to un-glitch you | g       | none    | Accidental presses and holding can cause issues, use **/ghost** instead |
-| Iris: Reload Shaders              | Reloads the applied shaders                                         | r       | none    | Not needed for most players                                             |
-| Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
-| Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
+| Опция                                 | Описание                                                            | Стандарт | Сборка | Причина изменения                                                                |
+| ------------------------------------- | ------------------------------------------------------------------- | -------- | ------ | -------------------------------------------------------------------------------- |
+| Стандарт: Сохранить инструменты       | Сохраняет ваши инструменты если эта кнопки и цифра были нажаты      | c        | none   | Эта кнопка часто используется для зума                                           |
+| Zoomify/WI Zoom: Zoom                 | Приближение по нажатию на кнопку                                    | v        | c      | Эта кнопка часто используется для зума                                           |
+| Zoomify: GUI                          | Открывает настройки мода Zoomify                                    | F8       | none   | Не требуется большинству игроков                                                 |
+| AntiGhost: Обновить блоки вокруг себя | Просит сервер отправить блоки вокруг вас, чтобы отбаговать          | g        | none   | Случайные нажатия могу привести к проблемам, вместо этого используете **/ghost** |
+| Iris: Перезагрузить шейдеры           | Перезагружает используемые шейдеры                                  | r        | none   | Не требуется большинству игроков                                                 |
+| Iris: Экран выбора шейдеров           | Открывает меню выбора шейдеров                                      | o        | none   | Не требуется большинству игроков                                                 |
+| Iris: Переключить шейдеры             | Отключает или включает шейдеры                                      | k        | none   | Не требуется большинству игроков                                                 |
 
-The changed mod settings can be found on the repo at [.../yosbr/1.18.2/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.18.2/config).
+Изменённые настройки модов вы можете найти в репозитории, в [.../yosbr/1.18.2/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.18.2/config).
 
-See also: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Options.txt#Java\_Edition) and [issue #30](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/30)
+Так-же обратите внимание на [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Options.txt#Java\_Edition)(англ) и [issue #30](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/30)
 
-### Fixed bugs
+### Исправленные баги
 
-Fabulously Optimized includes some mods that fix vanilla bugs.
-[Similar to the mod inclusion policy](principles.md), they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
+Fabulously Optimized включает в себя некоторые моды нацеленные на исправление багов.
+[Аналагично политике включения модов](principles.md), они должны быть полезны для 70%+ пользователей для того чтобы быть включёнными (по типу просадков FPS, вылетов, специфичных для платформ проблем...).
 
-| Mojang bug                                            | Description                                                                | Fixed by                                                                  |
-| ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [MC-26757](https://bugs.mojang.com/browse/MC-26757)   | Large item tooltips can get cut off at the edges of the screen                                                  |[ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)             |
-| [MC-73186](https://bugs.mojang.com/browse/MC-73186)   | Gaps between the faces of item models                                      |[Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix)             |
-| [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag (Singleplayer only)                        |[Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)
-| [MC-89146](https://bugs.mojang.com/browse/MC-89146)   | Pistons forget update when being reloaded                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-112730](https://bugs.mojang.com/browse/MC-112730) | Beacon beam and structure block render twice per frame                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-121884](https://bugs.mojang.com/browse/MC-121884)   | Server -> Client custom payload packets can leak resources               |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
-| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  |
-| [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
-| [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-226729](https://bugs.mojang.com/browse/MC-226729)   | Memory leakage problem in native operations                         |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)  |
-| [MC-227302](https://bugs.mojang.com/browse/MC-227302)   | Smooth lighting doesn't work properly on the water surface                                |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |  
-| [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Sleeping in a custom dimension with "natural" set to false causes crash    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)   |
-| [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| Ошибка на сайте Mojang                                | Описание                                                                   | Чем исправлено                                                                |
+| ----------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [MC-26757](https://bugs.mojang.com/browse/MC-26757)   | Большие предметные подсказки могут быть обрезаны по краям экрана           | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)         |
+| [MC-73186](https://bugs.mojang.com/browse/MC-73186)   | Зазоры между плоскостями в моделях предметов                               | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) |
+| [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Обновления редстоуна вызывают лаги (Только в одиночной игре)               | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)               |
+| [MC-89146](https://bugs.mojang.com/browse/MC-89146)   | Поршни забывают обновится когда их перезагружаешь                          | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-112730](https://bugs.mojang.com/browse/MC-112730) | Луч маяка и структурные блоки рендерятся дважды за кадр                    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Невозможно скролить с зажатым шифтом в MacOS                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-121884](https://bugs.mojang.com/browse/MC-121884) | Кастомные Сервер -> Клиент пакеты могут вызвать утечку ресурсов            | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)   |
+| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Открытие чата иногда вписывает 't'                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Анимированные по тикам текстуры, крайне не оптимизированны                 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                 |
+| [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Текстовые поля не прокручиваются во время выделения текста с нажатым Shift | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Текст действия сложно прочесть без фона                                    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Игра вылетает на Linux при попытке открыть ссылку                          | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Просадки производительности когда переходишь края некоторых чанков         | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Луч стража не рендерится когда кончается какой-то "Time" в level.dat       | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)     |
+| [MC-172550](https://bugs.mojang.com/browse/MC-172550) | Блоки призраки иногда появляется при использовании мнгновеннго копания     | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)           |
+| [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Некоторые анимации перестают работать у существ проживжих слишком долго    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-226729](https://bugs.mojang.com/browse/MC-226729) | Проблема утечки памяти в нативных операциях                                | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)   |
+| [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Мягкое освещение не работает как надо на водной глади                      | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                 |  
+| [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Колизия существ работает в потоке рендерера                                | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Сон в кастомном измерении с "natural" = false приводит к вылету            | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Невозможно отключить сбор технический данных                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
+| [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Экран "загрузки территории" невозможно закрыть пока не пройдёт 2 секунды   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
 
-If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
+Если вы хотить включить ещё какие-то исправления в игре, смотрите [список исправленных багов в Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
 
-#### Requesting a bugfix
+#### Предложение исправлений
 
-Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
+Хотите чтобы баг был исправлен в Fabulously Optimized? Вот что вам нужно сделать:
 
-1. Find the actual bug [in Mojang's bug tracker](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
-2. Request it or look at its status on [Debugify's bug tracker](https://github.com/W-OVERFLOW/Debugify/issues)
-3. Once implemented (or confirmed to be) in Debugify, [request an option change in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
-4. Describe the bug, mention the mod that fixes it and why it is important to 70-80% of users
-5. If accepted, expect the fix to be enabled in the next version of FO :)
+1. Найдите этот баг в [багтрекере Mojang](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
+2. Предложите его, или посмотрите его статус в [в багтрекере Debugify](https://github.com/W-OVERFLOW/Debugify/issues)
+3. Когда фикс реализуют (или вы узнаете что он уже есть) в Debugify, [предложите option change в FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
+4. Опишите баг, укажите мод который его испрвляет, и докажите что он важен для 70-80% пользователей
+5. Если его примут, можете ожидать что он появится в следующей версии FO :)
 
-### Configuring mods
+### Настройка модов
 
-The modpack is already configured for the best performance and simplest experience for most users.
+Эта сборка уже настроена на лучшую производительность и простой опыт для большинства игроков.
 
-If you want to configure something, you'll most likely find it on `Options...` -> `Video Settings...`. If you have a powerful computer or monitor, you may want to disable Vsync there.
+Если вы хотите изменить что-то, вы скорее всего найдёте это в `Настройки...` -> `Настройки графики...`. Если у вас мощный компьютер, или хороший монитор, вы скорее всего захотите отключить здесь вертикальную синхронизацию.
 
-For other things like dynamic lights, better grass and zoom:
+Для других вещей по типу динамического освещения, улучшенной травы или зума:
 
-1. Click `Mods`
-2. Read the descriptions of the mods to see what they do
-3. If the pencil is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
-   * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` -> `Options...` -> `Resource Packs...` -> `⏵` on "Mod Menu Helper.zip" -> `Done` -> go to point 1 of this tutorial
+1. Нажмите на `Моды`
+2. Прочтите описания модов чтобы узнать что они делают
+3. Если карандаш синий, вы можете настроить мод кликнув на кнопку конфигурации ![config](https://i.ibb.co/j35cBtn/image.png)
+   * Если вы не видите карандашей, тогда у вас отключен ресурс-пак Mod Menu Helper по какой-то причине. Нажмите на `Готово` -> `Настройки...` -> `Пакеты Ресурсов...` -> `⏵` затем "Mod Menu Helper.zip" -> `Готово` -> и начните с первого пункта.
 
-If you need to disable a mod, [see this wiki page](disabling-mods.md).
+Если вы хотите отключить мод, [смотрите эту страничку вики](disabling-mods.md).
 
-If you have more questions about the mods, [chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
+Если у вас остались ещё вопросы касательно модов, [то добро пожаловать в наш Discord!](https://discord.gg/yxaXtaQqdB)
