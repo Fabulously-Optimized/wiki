@@ -115,7 +115,7 @@ Currently the only way to update is to "reinstall" the pack.
       * Alternatively, look for it in the sidebar, under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-7. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+7. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
 8. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 9. Launch the installed Fabric profile
 10. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
