@@ -72,9 +72,15 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Modrinth
 
-There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given.
+Note: Modrinth support is very experimental and expect bugs, issues and missing mods, it isn't very well supported for now but it is usable.
+FO is available on Modrinth, [here](https://modrinth.com/modpack/fabulously-optimized)
+Modrinth has installation instructions for PolyMC, MultiMC and ATLauncher, [here](https://docs.modrinth.com/docs/modpacks/playing_modpacks/).
+You might also want farsight, which can be downloaded [here](https://www.curseforge.com/minecraft/mc-mods/farsight) to have further view distance on servers, sadly this cannot be included in the Modrinth pack because the mod is on Curseforge only.
+To install farsight:
+1. Download farsight from Curseforge.
+2. Navigate to the instance folder, then to .minecraft inside of it.
+3. Drop the farsight file into the mods folder
 
-Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
 
 ### Other launchers
 
