@@ -72,7 +72,9 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Modrinth
 
-Note: Modrinth support is very experimental and expect bugs, issues and missing mods, it isn't very well supported for now but it is usable.
+[Fabulously Optimized is available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but it is currently experimental, so it may have unexpected issues. Most users are suggested to `♡ Follow` the project for updates, but currently use a different launcher for a stable experience.
+
+**The following tutorial is for people who would like to test the readiness of Modrinth instances and are willing to report any differences with the other versions.**
 You might also want farsight, which can be downloaded [here](https://www.curseforge.com/minecraft/mc-mods/farsight) to have further view distance on servers, sadly this cannot be included in the Modrinth pack because the mod is on Curseforge only.
 
 #### PolyMC and MultiMC (Modrinth)
