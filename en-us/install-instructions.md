@@ -79,7 +79,7 @@ You might also want farsight, which can be downloaded [here](https://www.cursefo
 
 1. Press the Add Instance button.
 2. Select Modrinth.
-3. Search for "Fabulously Optimized" (should show up first if sorting by relevance anyway).
+3. Search for "Fabulously Optimized"
 4. Press OK.
 5. The modpack should be installed.
 
