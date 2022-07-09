@@ -77,7 +77,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 **The following tutorial is for people who would like to test the readiness of Modrinth instances and are willing to report any differences with the other versions.**
 You might also want farsight, which can be downloaded [here](https://www.curseforge.com/minecraft/mc-mods/farsight) to have further view distance on servers, sadly this cannot be included in the Modrinth pack because the mod is on Curseforge only.
 
-#### PolyMC and MultiMC (Modrinth)
+#### PolyMC or MultiMC
 
 1. Press the Add Instance button.
 2. Select Modrinth.
