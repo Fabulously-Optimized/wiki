@@ -84,6 +84,13 @@ You might also want farsight, which can be downloaded [here](https://www.cursefo
 3. Search for "Fabulously Optimized"
 4. Press OK.
 5. The modpack should be installed.
+Note: For better Modrinth modpack support, enable developer updates this way:
+1. Go to Settings -> Launcher -> Update Channel: Development -> Close -> Update
+2. Click "Update Now"
+
+#### ATLauncher
+
+Modrinth has instructions on how to install modpacks in ATLauncher, [here](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
 
 ### Other launchers
 
