@@ -77,16 +77,18 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 **The following tutorial is for people who would like to test the readiness of Modrinth instances and are willing to report any differences with the other versions.**
 You might also want farsight, which can be downloaded [here](https://www.curseforge.com/minecraft/mc-mods/farsight) to have further view distance on servers, sadly this cannot be included in the Modrinth pack because the mod is on Curseforge only.
 
-#### PolyMC or MultiMC
+#### Enabling developer udpates in MultiMC or PolyMC
+For better Modrinth modpack support, enable developer updates this way:
+1. Go to Settings -> Launcher -> Update Channel: Development -> Close -> Update
+2. Click "Update Now"
+
+#### PolyMC or MultiMC (Modrinth)
 
 1. Press the Add Instance button.
 2. Select Modrinth.
 3. Search for "Fabulously Optimized"
 4. Press OK.
 5. The modpack should be installed.
-Note: For better Modrinth modpack support, enable developer updates this way:
-1. Go to Settings -> Launcher -> Update Channel: Development -> Close -> Update
-2. Click "Update Now"
 
 #### ATLauncher
 
