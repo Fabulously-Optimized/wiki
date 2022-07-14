@@ -20,7 +20,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | joinedFirstServer           | Whether to display the hint for [Social Interactions](https://minecraft.fandom.com/wiki/Social\_Interactions\_screen)                                                                                 | false    | true    | I expect my users to already know that Social Interactions can be opened with `P`                                                                      |
 | chatPreview           | Whether to display the [Chat Preview](https://minecraft.fandom.com/wiki/Java_Edition_22w19a#General) toolbar                                                                                 | true    | false    | Disabled for privacy to avoid sending your chat to the server as you type, avoids related annoyances like toasts and warnings                                  |
 
-¹ \["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip"]
+¹ \["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","midnightcontrols/bedrock"]
 
 ### Keybinds
 
