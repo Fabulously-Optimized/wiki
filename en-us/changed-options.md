@@ -68,7 +68,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)   |
 | [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
-If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.18/PATCHED.md#unpatched-in-vanilla).
+If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.19/PATCHED.md#unpatched-in-vanilla).
 
 #### Requesting a bugfix
 
