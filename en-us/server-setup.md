@@ -12,7 +12,7 @@ For server software I recommend using [Paper](https://papermc.io), which is a pe
 
 If you still like Fabric a lot, you can also [use that on a server too](https://fabricmc.net/use/?page=server) and check out [comp500's list](https://github.com/comp500/fabric-serverside-mods#performance) for some great server-side mods.
 
-If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). This affiliate link will give you 25% off for the first month.
+If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
 ### 1.19.1
 
