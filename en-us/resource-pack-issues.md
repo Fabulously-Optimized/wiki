@@ -47,7 +47,7 @@ Beds:
 
 ### Lighting problems
 
-If you are seeing problems with lighting, such as flickering light sources or lights of random colors, try disabling Colormatic.
+If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.
 
 ### Custom sky
 
