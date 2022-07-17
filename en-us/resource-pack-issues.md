@@ -47,6 +47,7 @@ Beds:
 
 ### Lighting problems
 
+![Random colors on the wall](https://i.ibb.co/jbkg1PG/unknown.png)
 If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.
 
 ### Custom sky
