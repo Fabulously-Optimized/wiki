@@ -45,6 +45,10 @@ Beds:
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
 
+### Lighting problems
+
+If you are seeing problems with lighting, such as flickering light sources or lights of random colors, try disabling Colormatic.
+
 ### Custom sky
 
 _Or "custom skymap"._
