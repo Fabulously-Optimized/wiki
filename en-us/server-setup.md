@@ -18,8 +18,10 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 1.19.1 added a feature [that lets users report chat messages to Mojang](1-19-1-faq.md). If you'd like to disable that feature for your players, do the following:
 
-- All servers: set `enforce-secure-profile` to `false` in _server.properties_. 
+- All servers: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy. For Fabulously Optimized this means users will not see any more warnings when joining the server. 
+- Velocity: set `force-key-authentication` to `false` in _velocity.toml_
+  - Same comments apply as above.
 - Paper/Spigot/Purpur: install **one** of the following mods:
   - [No Encryption](https://www.spigotmc.org/resources/noencryption.102902/)
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports.102990/)
