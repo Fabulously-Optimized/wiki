@@ -45,6 +45,11 @@ Beds:
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
 
+### Lighting problems
+
+![Random colors on the wall](https://i.ibb.co/jbkg1PG/unknown.png)
+If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.
+
 ### Custom sky
 
 _Or "custom skymap"._
