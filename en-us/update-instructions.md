@@ -129,11 +129,11 @@ Because the pack is using YOSBR, your vanilla options and most of the mod ones w
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
    * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
-2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](changed-options.md))
-3. Open "config" and delete the following:
-   * _fabric_ folder
-   * other files, except for
-     * _citresewn.json_
-     * _fabric\_loader\_dependencies.json_
-     * _yosbr_ folder
-4. Launch the game and new options are applied.
+2. Delete the `config` folder
+   * If you prefer, also delete `options.txt` which stores vanilla options
+3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
+4. Rename the file to `pack.zip`
+5. Open the file you renamed, go to `overrides`
+6. Copy/extract the folder `configs` out to the modpack folder you previously opened
+   * You may delete the `pack.zip` afterwards.
+7. Launch the game. Modpack's defaults are now applied!
