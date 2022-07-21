@@ -122,7 +122,9 @@ Currently the only way to update is to "reinstall" the pack.
 
 ### Resetting settings
 
-Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. However, at some point you may still want to do that in order to get the latest changes. So:
+Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
+
+However, at some point you may still want to do that in order to get the latest changes. So:
 
 1. Open the modpack folder
    * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
