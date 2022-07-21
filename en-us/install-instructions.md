@@ -63,7 +63,7 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
       * Alternatively, look for it in the sidebar, under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-6. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
 7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!

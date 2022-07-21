@@ -52,7 +52,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 ¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
 
-1. [Disable this mod](disabling-mods.md)
+1. [Disable Cull Less Leaves](disabling-mods.md)
 2. [Install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 3. Enable Cull Leaves' bundled resource pack
 4. Disable "Use Block Face Culling" in <kbd>Options</kbd> -> <kbd>Video Settings...</kbd> -> <kbd>Advanced</kbd>.

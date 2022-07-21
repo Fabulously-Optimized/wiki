@@ -115,25 +115,27 @@ Currently the only way to update is to "reinstall" the pack.
       * Alternatively, look for it in the sidebar, under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-7. Copy all folders from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+7. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
 8. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 9. Launch the installed Fabric profile
 10. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
 
 ### Resetting settings
 
-Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. However, at some point you may still want to do that in order to get the latest changes. So:
+Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 
-1. Open the modpack folder.
+However, at some point you may still want to do that in order to get the latest changes. So:
+
+1. Open the modpack folder
    * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
    * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
-2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](changed-options.md))
-3. Open "config" and delete the following:
-   * _fabric_ folder
-   * other files, except for
-     * _citresewn.json_
-     * _fabric\_loader\_dependencies.json_
-     * _yosbr_ folder
-4. Launch the game and new options are applied.
+2. Delete the `config` folder
+   * If you prefer, also delete `options.txt` which stores vanilla options
+3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
+4. Rename the file to `pack.zip`
+5. Open the file you renamed, go to `overrides`
+6. Copy/extract the folder `configs` out to the modpack folder you previously opened
+   * You may delete the `pack.zip` after you're done
+7. Launch the game. Modpack's defaults are now applied!

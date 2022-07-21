@@ -56,10 +56,6 @@ Too early to tell, that likely depends on how many Fabric modders will start usi
 
 [Yes, this is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110) as soon as Packwiz adds support for it!
 
-#### Will you publish the modpack to Modrinth?
-
-[It is actually already there](https://modrinth.com/modpack/fabulously-optimized), but [no supported launchers can install it from there yet.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/63)
-
 #### How does the auto-updating MultiMC pack work?
 
 [See this page.](multimc-auto-update.md)
