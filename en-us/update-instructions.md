@@ -124,7 +124,7 @@ Currently the only way to update is to "reinstall" the pack.
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. However, at some point you may still want to do that in order to get the latest changes. So:
 
-1. Open the modpack folder.
+1. Open the modpack folder
    * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
@@ -135,5 +135,5 @@ Because the pack is using YOSBR, your vanilla options and most of the mod ones w
 4. Rename the file to `pack.zip`
 5. Open the file you renamed, go to `overrides`
 6. Copy/extract the folder `configs` out to the modpack folder you previously opened
-   * You may delete the `pack.zip` afterwards.
+   * You may delete the `pack.zip` after you're done
 7. Launch the game. Modpack's defaults are now applied!
