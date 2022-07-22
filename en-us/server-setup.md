@@ -28,3 +28,4 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports.102990/)
   - [No Report](https://www.spigotmc.org/resources/noreport.102844/)
 - Fabric/Quilt/Forge: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
+  - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
