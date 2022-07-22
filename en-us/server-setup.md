@@ -22,7 +22,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
   - When disabled, Fabulously Optimized users will no longer see a full-screen warning on server join, but vanilla users will see a warning toast in the top right corner. 
 - Velocity: set `force-key-authentication` to `false` in _velocity.toml_
-  - Same comments apply as above.
+  - Same comments apply as for "all servers" above.
 - Paper/Spigot/Purpur: install **one** of the following mods:
   - [No Encryption](https://www.spigotmc.org/resources/noencryption.102902/)
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports.102990/)
