@@ -1,0 +1,102 @@
+# Помощь в переводе
+
+Вы можете помочь перевести рызные части этого модпака!
+
+## Перевод модов
+
+Я поддерживаю людей играющих в Minecraft на их родном языке, и хотелось бы распространить это и на модпак тоже. Однако, это _набор модов_, поэтому если вы хотите перевести этот модпак, вы должны перевести моды.
+
+1. [Взгляните на список модов](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
+2. На каждой странице, найдите "Issues" или "Source" в самом верху странице
+3. Прочитайте "Readme", вики или/и "issues" чтобы узнать используют ли они специальные платформы для перевода. Если да, идите туда.
+4. Если же нет, отправляйтесь на вкладку "Code", и и проверяйте папки в последовательности: `src` -> `main` -> `resources` -> `assets` -> `(название мода)` -> `lang` -> `en_us.json`
+5. Откройте этот файл и скопируйте всё его содержимое
+6. Отправляйтесь обратно в папку `lang`, нажмите "Add file" -> "Create new file"
+7. Назовите файл в формате `код_региона.json`, по типу `ru_ru.json`. [Список региональных кодов можно найти тут](https://minecraft.fandom.com/wiki/Language#Languages)
+8. Вставьте в новоиспечённый файл скопированный ранее текст, и начните переводите значения **справа**, то-есть в примере ниже вам нужно будет заменить только строку _Coolmod Options_.
+
+```
+"coolmod.config.title": "Coolmod Options",
+```
+
+9. Сделайте коммит изменений и создайте Pull Request. Если вам повезёт, автор мода его примет
+2. Если язык приняли, подождите пока автор обновит его мод на соответствующей платформе (CurseForge или Modrinth)
+3. Как только мод обновится на платформе, просто дождитесь следующего обновления Fabulously Optimized чтобы увидеть ваше творение :Р
+
+### Моды достойные перевода
+
+Список модов, строки из которых чаще всего видны в модпаке, нажмите чтобы получить ссылки на платформы для перевода/английские языковые файлы.
+
+1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
+2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (неофициально, но наверняка как-нибудь будет включено)
+3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
+4. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.18/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (повляется в видео опциях)
+5. [Mod Menu](https://crowdin.com/project/mod-menu)
+6. [Zoomify](https://github.com/isXander/Zoomify/blob/1.18/src/main/resources/assets/zoomify/lang/en\_us.json)
+7. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json) (скоро будет в FO)
+8. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.18/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
+9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.18/src/main/resources/assets/lambdynlights/lang/en\_us)
+10. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.18/src/main/resources/assets/spruceui/lang/en\_us.json) (большинство строк используемых в LambdaBetterGrass и LambDynamicLights)
+11. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en\_us.json)
+12. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en\_us.json)
+13. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en\_us.json)
+14. [Colormatic](https://github.com/kvverti/colormatic/blob/master/src/main/resources/assets/colormatic/lang/en\_us.json)
+15. [CEM](https://github.com/dorianpb/cem/blob/1.18/src/main/resources/assets/cem/lang/en\_us.json)
+16. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
+17. [Cloth Config](https://crowdin.com/project/cloth-config) (глобальные строки в некторых меню настроек)
+18. [Modrinth](https://crowdin.com/project/modrinth) (хост-платформа модов, котрую FO скоро будет полностью поддерживать)
+
+## Перевод Mod Menu helper
+
+Fabulously Optimized включает в себя ресурспак названный "Mod Menu Helper" который кратко описывает цель каждого мода и его опции. По стандарту он на английском, но мы открыты для новых языков, поэтому просто следуйте этому туториалу.
+
+1. Убедитесь что ваш Fabulously Optimized [последней версии](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions).
+1. В игре отправляйтесь в меня выбора ресурспаков и нажмите на _Папка с наборами_
+2. Разархивируйте Mod Menu Helper.zip, затем загляните в папку assets -> minecraft -> lang
+3. Откройте этот файл и скопируйте всё его содержимое
+4. Создайте файл в формате `код_региона.json`, по типу `ru_ru.json`. [Список региональных кодов можно найти тут](https://minecraft.fandom.com/wiki/Language#Languages)
+5. Вставьте в новоиспечённый файл скопированный ранее текст, и начните переводите значения **справа**, то-есть в примере ниже вам нужно будет заменить только строку _Coolmod Options_.
+
+```
+"coolmod.config.title": "Coolmod Options",
+```
+
+7. Старайтесь не делать текст длинным или сложным, вы можете добавлять или удалять некоторые слова чтобы лучше его вместить.
+   * Не трогайте цвета (знак параграфа §), эмодзи карандаша (🖉) или символы новой строки (\n)
+2. Для того чтобы всё проверить прямо в игре, вам нужно зайти в меню выбора ресурспаков, убрать "Mod Menu Helper.zip", и вместо его поставить "Mod Menu Helper", затем смотрите в меню модов.
+   * Строки **обязаны** быть полностью видны в полноэкранном режиме на Full HD (1920×1080) экране со стандартным шрифтом. Если ваш язык использует юникод по стандарту, тогда ориентируйтесь на него.
+   * Во время тестов вы можете "перезагружать" язык при помощи комбинации клавиш "F3+J". 
+3. Если вы удволетворены вашим переводом, скопируйте его.
+4. [Жмите сюда](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/modmenu/lang/), затем "Add file" -> "Create new file"
+5. Назовите файл так-же как вы его называли до этого.
+6. Сделайте коммит и создайте Pull Request. И если ваш перевод правильно отформатирован и вмещается в строки, мы его примем
+7. Дождитесь следующего релиза сборки чтобы увидеть ваши труды в игре :P
+
+## Перевод описания
+
+С недавнего времени вы можете переводить даже описание сборки! Оно будет спрятано под спойлером под английским текстом.
+
+1. Отправляйтесь в [папку с описаниями](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Description)
+2. Кликайте на `en_US.md`. Прочтите его, посмотрите как оно выглядит, затем кликните `Raw` и скопируйте текст.
+3. Вернитесь, и кликните "Add file" -> "Create new file"
+4. Вставьте, и переведите каждое предложение.
+   * Если ваш язык имеет локальную ссылку (видео, вики и так далее), используйте её в формате `[текст](ссылка)`, в любом другом случае используйте английский вариант, оставля номер как есть.
+5. [Создайте новый Pull Request](https://github.com/Fabulously-Optimized/fabulously-optimized/compare).
+6. Мы просмотрим ваш текст, и если всё будет в порядке, то примем и опубликуем!
+7. Вы можете изменять его в любое время путём повторения того-же процесса.
+   * Удостоверьтесь что вы нажали на "🔄Fetch upstream" -> "Fetch and merge" чтобы не упустить обновлений вики.
+
+## Перевод вики
+
+Вы так-же можете перевести и это вики. На выше усмотрение вы можете перевести лишь одну приветственную страницу или несколько других на ваш язык.
+
+1. [Отправляйтесь в репозиторий вики](https://github.com/Fabulously-Optimized/wiki), и жмите `Fork`
+2. Кликайте на "Add file" -> "Create new file"
+   * Если вы хотите перевести только одну страницу, назовите файл [региональный\_код](https://minecraft.fandom.com/wiki/Language#Languages).md, по типу `ru_ru.md`
+   * Если же вы хотите перевести сразу несколько страниц, назовите первую [региональный\_код](https://minecraft.fandom.com/wiki/Language#Languages)/readme.md, по типу `ru_ru/readme.md`
+      * Другие страницы тогда должны быть в этой папке с региональным кодом в названии. Вы можете писать названия файлов на вашем языке, но пожалуйста постарайтесь использовать ASCII (только английские символы), если возможно. (Мадис прости)
+3. Заполните страницу контентом и кликните "Commit new file"
+4. [Создайте новый Pull Request](https://github.com/Fabulously-Optimized/wiki/compare).
+5. Мы просмотрим ваши страницы, и если всё будет выглядеть как надо, мы их примем!
+6. Вы всегда можете отредактировать страницы или добавить новые повторив весь процесс.
+   * Удостоверьтесь что вы нажали на "🔄Fetch upstream" -> "Fetch and merge" чтобы не упустить обновлений вики. 
