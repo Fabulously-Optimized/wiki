@@ -18,14 +18,14 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 1.19.1 added a feature [that lets users report chat messages to Mojang](1-19-1-faq.md). If you'd like to disable that feature for your players, do the following:
 
-- All servers: set `enforce-secure-profile` to `false` in _server.properties_
+- **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
   - When disabled, Fabulously Optimized users will no longer see a full-screen warning on server join, but vanilla users will see a warning toast in the top right corner. To avoid that as well, use one of the plugins/mods below.
-- Velocity: set `force-key-authentication` to `false` in _velocity.toml_
+- **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
-- Paper/Spigot/Purpur: install **one** of the following mods:
+- **Paper/Spigot/Purpur**: install **one** of the following mods:
   - [No Encryption](https://www.spigotmc.org/resources/noencryption.102902/)
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports.102990/)
   - [No Report](https://www.spigotmc.org/resources/noreport.102844/)
-- Fabric/Quilt/Forge: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
+- **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
   - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
