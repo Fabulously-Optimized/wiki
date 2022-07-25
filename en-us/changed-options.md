@@ -67,6 +67,11 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Sleeping in a custom dimension with "natural" set to false causes crash    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)   |
 | [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-249693](https://bugs.mojang.com/browse/MC-249693) | Chorus plant blocks explicitly define cullface arguments for faces which end up being obscured by other chorus plants. |  [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)  |
+| [MC-238739](https://bugs.mojang.com/browse/MC-238739) | Bamboo has cullface specified for the top and bottom faces, like many other blocks do.  | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
+| [MC-209633](https://bugs.mojang.com/browse/MC-209633) | Glass pane edges are not culled by glass blocks. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
+| [MC-139620](https://bugs.mojang.com/browse/MC-139620) | Certain blocks do not cull the top face of the fence block. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
+| [MC-217653](https://bugs.mojang.com/browse/MC-217653) | The tops and bottoms of end rods are not culled by some blocks that completely cover them. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.19/PATCHED.md#unpatched-in-vanilla).
 
