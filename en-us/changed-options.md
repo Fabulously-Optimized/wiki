@@ -54,6 +54,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-121884](https://bugs.mojang.com/browse/MC-121884)   | Server -> Client custom payload packets can leak resources               |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
 | [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  |
+| [MC-139620](https://bugs.mojang.com/browse/MC-139620) | Certain blocks do not cull the top face of the fence block. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
 | [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
@@ -61,17 +62,16 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | [MC-172550](https://bugs.mojang.com/browse/MC-172550)   | Ghost blocks sometimes appear when insta-mining                                  |[AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)  
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-209633](https://bugs.mojang.com/browse/MC-209633) | Glass pane edges are not culled by glass blocks. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
+| [MC-217653](https://bugs.mojang.com/browse/MC-217653) | The tops and bottoms of end rods are not culled by some blocks that completely cover them. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
 | [MC-226729](https://bugs.mojang.com/browse/MC-226729)   | Memory leakage problem in native operations                         |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)  |
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302)   | Smooth lighting doesn't work properly on the water surface                                |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) |  
 | [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-235035](https://bugs.mojang.com/browse/MC-235035) | Sleeping in a custom dimension with "natural" set to false causes crash    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)   |
+| [MC-238739](https://bugs.mojang.com/browse/MC-238739) | Bamboo has cullface specified for the top and bottom faces, like many other blocks do.  | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
 | [MC-249059](https://bugs.mojang.com/browse/MC-249059) | Loading terrain screen cannot close before 2 seconds have passed           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-249693](https://bugs.mojang.com/browse/MC-249693) | Chorus plant blocks explicitly define cullface arguments for faces which end up being obscured by other chorus plants. |  [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)  |
-| [MC-238739](https://bugs.mojang.com/browse/MC-238739) | Bamboo has cullface specified for the top and bottom faces, like many other blocks do.  | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
-| [MC-209633](https://bugs.mojang.com/browse/MC-209633) | Glass pane edges are not culled by glass blocks. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
-| [MC-139620](https://bugs.mojang.com/browse/MC-139620) | Certain blocks do not cull the top face of the fence block. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
-| [MC-217653](https://bugs.mojang.com/browse/MC-217653) | The tops and bottoms of end rods are not culled by some blocks that completely cover them. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.19/PATCHED.md#unpatched-in-vanilla).
 
