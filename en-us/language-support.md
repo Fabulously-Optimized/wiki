@@ -14,11 +14,7 @@ I support people using Minecraft in their language and would like to promote tha
 6. Go back to `lang` folder, click Add file -> Create new file
 7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.fandom.com/wiki/Language#Languages)
 8. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
-
-```
-"coolmod.config.title": "Coolmod Options",
-```
-
+   * `"coolmod.config.title": "Coolmod Options",`
 9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
 10. If the language has been accepted, wait for the mod author to update their mod on CurseForge
 11. Once the mod has been updated on CurseForge, simply wait for the next Fabulously Optimized update to see it :P
