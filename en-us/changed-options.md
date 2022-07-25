@@ -54,7 +54,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-121884](https://bugs.mojang.com/browse/MC-121884)   | Server -> Client custom payload packets can leak resources               |[MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
 | [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488)   | Ticking animated textures is very inefficient                              |[Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)  |
-| [MC-139620](https://bugs.mojang.com/browse/MC-139620) | Certain blocks do not cull the top face of the fence block. | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
+| [MC-139620](https://bugs.mojang.com/browse/MC-139620) | Certain blocks do not cull the top face of the fence block.                | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) |
 | [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-145929](https://bugs.mojang.com/browse/MC-145929) | Actionbar text may be difficult to read without text background enabled    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-148149](https://bugs.mojang.com/browse/MC-148149) | Linux game crash when opening links                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
