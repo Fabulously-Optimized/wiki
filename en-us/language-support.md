@@ -57,6 +57,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
    * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines (\n)
 8. Test in-game by going into `Options...` -> `Resource Packs...`, deactivating "Mod Menu Helper.zip" and activating "Mod Menu Helper" instead, then looking at `Mods` in your language.
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
+   * Of course you can rephrase the sentences to make them more understandable and/or shorter for your language. On the second row you do not have to list all options that English has, just list as many as you can fit.
    * As you test, you can use F3+J to reload languages.
 9. If you're satisfied with your translation, copy the full text.
 10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/modmenu/lang/), then Add file -> Create new file
