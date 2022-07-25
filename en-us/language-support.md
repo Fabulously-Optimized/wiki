@@ -52,11 +52,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 4. Open en\_us.json and copy its full text
 5. Create a new file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
 6. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
-
-```
-"coolmod.config.title": "Coolmod Options",
-```
-
+   * `"coolmod.config.title": "Coolmod Options",`
 7. Keep the text short and simple, you can add or remove words to make it fit better.
    * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines (\n)
 8. Test in-game by going into `Options...` -> `Resource Packs...`, deactivating "Mod Menu Helper.zip" and activating "Mod Menu Helper" instead, then looking at `Mods` in your language.
