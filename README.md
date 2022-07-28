@@ -2,7 +2,7 @@
 
 Welcome to the Fabulously Optimized wiki!
 
-**[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
+**[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)** | **[❗1.19.1 FAQ](en-us/1-19-1-faq.md)**
 
 [⬇️ Installing modpack](en-us/install-instructions.md) | [🆕 Updating modpack](en-us/update-instructions.md) [(resetting settings)](en-us/update-instructions.md#resetting-settings) | [➕ Adding mods](en-us/adding-more-mods.md) | [➖ Disabling mods](en-us/disabling-mods.md) | [🎛️ Changed options](en-us/changed-options.md) [(fixed bugs)](en-us/changed-options.md#fixed-bugs)
 
