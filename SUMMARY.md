@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🇺🇸 English (US)](README.md)
+  * [1.19.1 FAQ](en-us/1-19-1-faq.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
   * [Disabling mods](en-us/disabling-mods.md)
