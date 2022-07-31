@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🇺🇸 English (US)](README.md)
+  * [4.x.x/5.x.x FAQ](en-us/4.x.x-5-x-x-faq.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
   * [Chat Reporting FAQ](en-us/chat-reporting-faq.md)
