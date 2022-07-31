@@ -24,8 +24,6 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 * **Ban reasons and appeals are vague** - [while there is a way to appeal](#what-if-i-still-got-banned), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban is an unjust ban. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
 
-* **Unfixed exploits** - there are unfixed exploits for spoofing reports that have made it to the stable release. I won't link them here, just be aware that they are a thing and the [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) mod (which is in Fabulously Optimized) protects against these.
-
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
 #### Explanatory videos
