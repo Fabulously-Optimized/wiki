@@ -1,9 +1,9 @@
 # Table of contents
 
 * [🇺🇸 English (US)](README.md)
-  * [1.19.1 FAQ](en-us/1-19-1-faq.md)
   * [Adding more mods](en-us/adding-more-mods.md)
   * [Changed options](en-us/changed-options.md)
+  * [Chat Reporting FAQ](en-us/chat-reporting-faq.md)
   * [Disabling mods](en-us/disabling-mods.md)
   * [Free cape](en-us/free-cape.md)
   * [Getting shaders](en-us/getting-shaders.md)
