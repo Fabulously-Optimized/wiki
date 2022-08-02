@@ -50,7 +50,7 @@ Look at the right corner of the chat window:
   - Unfortunately ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) is what most 1.19+ servers will show, even if the server has additional protections in place. In the future the mod may be able to show ![green ✅](https://i.ibb.co/LPXNKRM/green.png) in more cases, but right now you can ask your server admins for clarification regarding that.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
 
-The report button itself still works on servers that allow reporting. Please use it only in case of real danger!
+The report button itself still works on servers that allow reporting. **Please use it only in case of real danger!**
 
 Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
 
