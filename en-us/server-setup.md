@@ -16,7 +16,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 ### 1.19.1
 
-1.19.1 added a feature [that lets users report chat messages to Mojang](1-19-1-faq.md). If you'd like to disable that feature for your players, do the following:
+1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). If you'd like to disable that feature for your players, do the following:
 
 - **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
