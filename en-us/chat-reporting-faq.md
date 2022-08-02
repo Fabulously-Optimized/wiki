@@ -42,7 +42,7 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 
 ### What does FO do to protect me?
 
-Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that unsigns your messages where possible and otherwise just informs you on whether it is safe to chat.
+Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it.
 
 Look at the right corner of the chat window:
 - Full-screen warning & ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) - you are vulnerable, any chat messages you send may be reported and used against you.
@@ -50,7 +50,7 @@ Look at the right corner of the chat window:
   - Unfortunately ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) is what most 1.19+ servers will show, even if the server has additional protections in place. In the future the mod may be able to show ![green ✅](https://i.ibb.co/LPXNKRM/green.png) in more cases, but right now you can ask your server admins for clarification regarding that.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
 
-The reporting button itself is also disabled on all servers to discourage its use against others.
+The report button itself still works on servers that allow reporting. Please use it only in case of real danger!
 
 Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
 
