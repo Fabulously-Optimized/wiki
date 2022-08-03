@@ -20,7 +20,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 - **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
-  - When disabled, Fabulously Optimized users will no longer see a full-screen warning on server join, but vanilla users will see a warning toast in the top right corner. To avoid that as well, use one of the plugins/mods below.
+  - When disabled, vanilla (not FO) users will see a warning toast in the top right corner. To avoid that as well, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **Paper/Spigot/Purpur**: install _one_ of the following plugins:
