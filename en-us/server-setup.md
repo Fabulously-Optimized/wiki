@@ -24,6 +24,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **Paper/Spigot/Purpur**: install _one_ of the following mods:
+  - [FreedomChat](https://github.com/Oharass/FreedomChat)
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports-spigot-1-19.102931/) (not by the dev of the Fabric mod)
   - [No Encryption](https://www.spigotmc.org/resources/noencryption.102902/)
 - **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
