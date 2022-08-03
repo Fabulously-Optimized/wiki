@@ -23,7 +23,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
   - When disabled, Fabulously Optimized users will no longer see a full-screen warning on server join, but vanilla users will see a warning toast in the top right corner. To avoid that as well, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
-- **Paper/Spigot/Purpur**: install _one_ of the following mods:
+- **Paper/Spigot/Purpur**: install _one_ of the following plugins:
   - [FreedomChat](https://github.com/Oharass/FreedomChat)
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports-spigot-1-19.102931/) (not by the dev of the Fabric mod)
   - [No Encryption](https://www.spigotmc.org/resources/noencryption.102902/)
