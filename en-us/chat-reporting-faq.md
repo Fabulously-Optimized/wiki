@@ -47,7 +47,7 @@ Fabulously Optimized has added a mod called [No Chat Reports](https://www.cursef
 Look at the right corner of the chat window:
 - Full-screen warning & ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) - you are vulnerable, any chat messages you send may be reported and used against you.
 - ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) - nobody can report your messages. However, other players may see a red bar on the left of the message, ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right and if they enable the vanilla `Only Show Secure Chat` option, they won't see your chat messages at all.
-  - Unfortunately ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) is what most 1.19+ servers will show, even if the server has additional protections in place. In the future the mod may be able to show ![green ✅](https://i.ibb.co/LPXNKRM/green.png) in more cases, but right now you can ask your server admins for clarification regarding that.
+  - Unfortunately ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) is what most 1.19+ servers will show, even if the server has additional protections in place. You can assume the state of reportability by looking at the availability of report button in Social Interactions, or just ask an admin.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
 
 The report button itself still works on servers that allow reporting. _Please use it only in case of real danger!_
