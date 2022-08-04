@@ -4,7 +4,7 @@ Fabulously Optimized is a strictly client-sided modpack, meaning it works and be
 
 Yes, the CurseForge listing has a section of "server packs", but those are actually just the MultiMC versions that are marked as server packs for better visibility.
 
-<sub><sup>¹ _As of 1.19.1, chats may behave slightly differently across servers, read [1.19.1 FAQ](https://github.com/Fabulously-Optimized/wiki/blob/main/en-us/1-19-1-faq.md) for more info_</sup></sub>
+<sub><sup>¹ _As of 1.19.1, chat signing will be done only if the server requires it, read [chat reporting FAQ](chat-reporting-faq.md) for more info_</sup></sub>
 
 ### Software
 
