@@ -106,7 +106,7 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 Fair enough. The mod shouldn't affect your gameplay in most cases, it only informs you of which servers have chat reports and what are the possible consequences.
 If you want, you can still [disable the mod](disabling-mods.md) [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on your instance.
 
-### I actually came here to learn, when will FO 4.1.0 stable be released?
+### I actually came here to learn, when will FO 4.x.x stable be released?
 
 [Probably August, but more specifically whenever I'm confident in releasing it.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/343)
 
