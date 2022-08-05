@@ -108,7 +108,7 @@ If you want, you can still [disable the mod](disabling-mods.md) [No Chat Reports
 
 ### I actually came here to learn, when will FO 4.1.0 stable be released?
 
-[Some time in August.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/343)
+[Probably August, but more specifically whenever I'm confident in releasing it.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/343)
 
 ### I have more questions.
 
