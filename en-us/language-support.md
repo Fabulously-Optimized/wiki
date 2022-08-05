@@ -24,12 +24,12 @@ I support people using Minecraft in their language and would like to promote tha
 List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
-2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
-3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
-4. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.18/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
-5. [Mod Menu](https://crowdin.com/project/mod-menu)
-6. [Zoomify](https://github.com/isXander/Zoomify/blob/1.18/src/main/resources/assets/zoomify/lang/en\_us.json)
-7. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json) (to be in FO stable soon)
+2. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
+3. [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/src/main/resources/assets/moreculling/lang/en_us.json) (a tab in Video Settings)
+4. [Mod Menu](https://crowdin.com/project/mod-menu)
+5. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json)
+6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.1/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [item groups](https://github.com/FabricMC/fabric/blob/1.19.1/fabric-item-groups-v0/src/main/resources/assets/fabric/lang/en_us.json)
+7. [Zoomify](https://github.com/isXander/Zoomify/blob/1.18/src/main/resources/assets/zoomify/lang/en\_us.json)
 8. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.18/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
 9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.18/src/main/resources/assets/lambdynlights/lang/en\_us)
 10. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.18/src/main/resources/assets/spruceui/lang/en\_us.json) (more strings used in LambdaBetterGrass and LambDynamicLights)
@@ -38,9 +38,10 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 13. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en\_us.json)
 14. [Colormatic](https://github.com/kvverti/colormatic/blob/master/src/main/resources/assets/colormatic/lang/en\_us.json)
 15. [CEM](https://github.com/dorianpb/cem/blob/1.18/src/main/resources/assets/cem/lang/en\_us.json)
-16. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
-17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
-18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform that FO will fully support soon)
+16. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
+17. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
+18. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
+19. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform that FO will fully support soon)
 
 ## Translating Mod Menu helper
 
