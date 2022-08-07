@@ -54,6 +54,10 @@ The report button itself still works on servers that allow reporting. _Please us
 
 Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
 
+### Is No Chat Reports itself a risk?
+
+No. All it does in FO is to disable chat signing on most servers and enable it for only those that demand it.
+
 ### Why not stay on 1.19?
 
 Despite the report button not being there, the chat signing already exists in it, so it is not any safer than 1.19.1. If you want to stay on an older version, use the latest version for 1.18.2.
