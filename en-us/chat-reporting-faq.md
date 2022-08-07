@@ -8,19 +8,19 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 ### Why is it bad?
 
-* **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry on one server and want to go to another to relax again? Nope, cannot do that.
+* **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
-* **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically cancel any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control.
+* **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically cancel any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control. This makes sense for short-term bans like up to a week, but any longer than that should give an explicit option at least.
 
 * **Not sent to server admins** - sending reports to Mojang will result in different judgement and outcomes of the cases - while server admins could punish faster, with a shorter penalty, with different kinds of punishments like mutes and jails, Mojang can only ban people from the entirety of multiplayer or not punish at all.
 
-* **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 7 messages before and 2 after the selected ones - at most 40 messages in total. That is a very partial context as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc.
+* **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 7 messages before and 2 after the selected ones - at most 40 messages in total. That is a very partial context for serious offenses as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc.
 
 * **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be done on _thousands_ of reports every day? Compare that to a single server that has less players, therefore less reports and less admins needed.
 
-* **Categories don't match server rules** - for example, if there is an adult-only server that may discuss things like alcohol freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
+* **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like alcohol freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
-* **Categories are vague** - for example, take the rule "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? Are they just going to assume it is a lie and ban them? At that point players can not even say who they are because they can get banned either way.
+* **Categories are vague** - for example, take the rule "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? Are they just going to assume it is a lie and ban them? At that point players can not even say who they are because they can get punished either way.
 
 * **Ban reasons and appeals are vague** - [while there is a way to appeal](#what-if-i-still-got-banned), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban is an unjust ban. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
 
@@ -56,15 +56,19 @@ Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects y
 
 ### Is No Chat Reports itself a risk?
 
-No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it.
+No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate current state on the server. Why doesn't vanilla already do both is beyond me...
 
+### Can I use exploits to break the system/avoid getting reported?
+
+No, Fabulously Optimized will not endorse or include any exploits. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
+ 
 ### Why not stay on 1.19?
 
-Despite the report button not being there, the chat signing already exists in it, so it is not any safer than 1.19.1+. If you want to stay on an older version, use the latest version for 1.18.2.
+Despite the report button not being there, the chat signing already exists in it, so it is not any safer than 1.19.1+. If you want to stay on an older version, please use the latest version for 1.18.2.
 
 ### Why not stay on 1.18.2?
 
-It is safe from reports so you are free to play it for as long as you like. The modpack will still focus on "fixing" the new version(s) rather than continuously updating the old one.
+It is safe from reports so you are free to play it for as long as you like. The modpack will still focus on "fixing" the new version(s) rather than continuously updating the old one.  
 
 ### What if someone really breaks the rules?
 
