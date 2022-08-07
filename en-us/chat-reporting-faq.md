@@ -2,7 +2,7 @@
 
 ### What's the deal with chat reporting?
 
-In vanilla 1.19.1, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
+In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
 See [the official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) to read about the reporting interaction and offense categories or keep reading to see how it affects you.
 
