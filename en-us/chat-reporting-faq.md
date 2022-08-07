@@ -60,7 +60,7 @@ No. All it does in the client (and therefore in FO) is to disable chat signing o
 
 ### Why not stay on 1.19?
 
-Despite the report button not being there, the chat signing already exists in it, so it is not any safer than 1.19.1. If you want to stay on an older version, use the latest version for 1.18.2.
+Despite the report button not being there, the chat signing already exists in it, so it is not any safer than 1.19.1+. If you want to stay on an older version, use the latest version for 1.18.2.
 
 ### Why not stay on 1.18.2?
 
