@@ -56,7 +56,7 @@ Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects y
 
 ### Is No Chat Reports itself a risk?
 
-No. All it does in FO is to disable chat signing on most servers and enable it for only those that demand it.
+No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it.
 
 ### Why not stay on 1.19?
 
