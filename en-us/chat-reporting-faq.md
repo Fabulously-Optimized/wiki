@@ -30,7 +30,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 - [Simple explanation](https://youtu.be/rdoFUhd0EkI)
 - [Timeline of events](https://youtu.be/kEfyaAq90kg)
-- [Technical explanation](https://youtu.be/hYAUEMlugyw?t=43)
+- [Technical explanation (as of 1.19.2)](https://youtu.be/DobmW1ZUcbQ?t=10)
 - [Clearing others' misconceptions](https://youtu.be/bF_37BrWBSM?t=87)
 
 _Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain._
