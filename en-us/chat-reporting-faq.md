@@ -60,7 +60,9 @@ No. All it does in the client (and therefore in FO) is to disable chat signing o
 
 ### Can I use exploits to break the system/avoid getting reported?
 
-No, Fabulously Optimized will not endorse or include any exploits. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
+No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
+
+Fabulously Optimized will not endorse or include any exploits. 
  
 ### Why not stay on 1.19?
 
