@@ -115,9 +115,9 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 Understandable. 
 
-If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having said mod does benefit you as well, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
+If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you as well, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
 
-If you still want, you can [disable the mod](disabling-mods.md) [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on your instance, which will disable the button-based chat indicator and show chat line-based vanilla indicators instead.
+If you still want, you can [disable the mod](disabling-mods.md) No Chat Reports on your instance, which will disable the button-based chat indicator and show chat line-based vanilla indicators instead.
 
 ### I actually came here to learn, when will FO 4.x.x stable be released?
 
