@@ -113,7 +113,7 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 ### I still think the system is fair.
 
-Understandable. If you join a server that shows ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it just like vanilla.
+Understandable. If you join a server that shows ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it just like vanilla. In that sense, having No Chat Reports mod actually _benefits_ you, because it gives a better indication about which servers actually enforce the system. 
 
 If you still want, you can [disable the mod](disabling-mods.md) [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on your instance, which will disable that indicator and show all other vanilla indicators instead.
 
