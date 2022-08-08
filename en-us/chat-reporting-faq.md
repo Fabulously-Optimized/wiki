@@ -56,7 +56,7 @@ Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects y
 
 ### Is No Chat Reports itself a risk?
 
-No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server. Why doesn't vanilla already do both is beyond me...
+No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server.
 
 ### Can I use exploits to break the system/avoid getting reported?
 
