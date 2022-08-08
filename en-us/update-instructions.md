@@ -104,7 +104,7 @@ If there is a new Minecraft version or you are lazy to update your Fabric Loader
 
 Currently the only way to update is to "reinstall" the pack.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.8**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
