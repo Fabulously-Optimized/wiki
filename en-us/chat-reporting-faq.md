@@ -62,7 +62,7 @@ No. All it does in the client (and therefore in FO) is to disable chat signing o
 
 No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
 
-Fabulously Optimized will not include or endorse any exploits. 
+Fabulously Optimized will not include or endorse any exploits.
  
 ### Why not stay on 1.19?
 
@@ -113,9 +113,9 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 ### I still think the system is fair.
 
-Understandable. If you join a server that shows ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it just like vanilla. In that sense, having No Chat Reports mod actually _benefits_ you, because it gives a better indication about which servers actually enforce the system. 
+Understandable. If you join a server that shows ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it just like vanilla. In that sense, having No Chat Reports mod also _benefits_ you, because in vanilla there is no such clear indication (added toast and chat line icons do not accurately work on every server).
 
-If you still want, you can [disable the mod](disabling-mods.md) [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on your instance, which will disable that indicator and show all other vanilla indicators instead.
+If you still want, you can [disable the mod](disabling-mods.md) [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on your instance, which will disable the button-based chat indicator and show chat line-based vanilla indicators instead.
 
 ### I actually came here to learn, when will FO 4.x.x stable be released?
 
