@@ -62,7 +62,7 @@ No. All it does in the client (and therefore in FO) is to disable chat signing o
 
 No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
 
-Fabulously Optimized will not endorse or include any exploits. 
+Fabulously Optimized will not include or endorse any exploits. 
  
 ### Why not stay on 1.19?
 
