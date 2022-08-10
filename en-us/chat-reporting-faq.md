@@ -68,11 +68,12 @@ Fabulously Optimized will not include or endorse any exploits.
 ### Why not stay on 1.19?
 
 Despite the report button not being there, the chat signing already exists in it, so it is not any safer than 1.19.1 or higher. Or in other words, if you'd join a server that allowed players from 1.19 and up to join, those with 1.19.1 or higher could successfully report 1.19 players.
+
 If you want to stay on an older version, please use the latest version for 1.18.2.
 
 ### Why not stay on 1.18.2?
 
-It is safe from reports so you are free to play it for as long as you like. The modpack will still focus on "fixing" the new version(s) rather than continuously updating the old one.  
+It is safe from reports so you are free to play it for as long as you like. For the time being, it is supported by the modpack, but as soon as 4.x.x becomes stable, the modpack will continue on "fixing" the new version(s) rather than continuously updating the old one.  
 
 ### What if someone really breaks the rules?
 
