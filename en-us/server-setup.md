@@ -24,8 +24,9 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **Paper/Spigot/Purpur**: install _one_ of the following plugins:
-  - [FreedomChat](https://github.com/Oharass/FreedomChat)
-  - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports-spigot-1-19.102931/) (not by the dev of the Fabric mod)
-  - [No Encryption](https://www.spigotmc.org/resources/noencryption.102902/)
-- **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
-  - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
+  - [FreedomChat](https://github.com/Oharass/FreedomChat) - claims to be compatible with most chat plugins
+  - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports-spigot-1-19.102931/) - claims to be compatible with vanilla chat; not by the dev of the Fabric mod
+- **Fabric/Quilt/Forge**: install _one_ of the following plugins:
+  - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same dev as the mod in FO; FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat
+    - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
+  - [NoChatReport](https://modrinth.com/mod/no-chat-report) - lightweight, simply converts all messages to system messages
