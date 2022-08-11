@@ -70,7 +70,7 @@ Fabulously Optimized will not include or endorse any exploits.
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated, meaning you cannot join all servers
-- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner-how-can-i-protect-my-users)
+- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - If you want to keep using it just for the sake of protest, remember that [1.19 has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
