@@ -47,7 +47,7 @@ Fabulously Optimized has added a mod called [No Chat Reports](https://www.cursef
 Look at the right corner of the chat window:
 - ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) - you are vulnerable, any chat messages you send may be reported and used against you.
 - ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) - nobody can report your messages. Depending on the server, other players may see a red bar on the left of the message, ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right and if they enable the vanilla `Only Show Secure Chat` option, they may not see your chat messages at all. 
-  - In practice, these mentioned chat side effects will likely only occur on few vanilla servers that upgrade from 1.19. Most servers will take a stance to either disable or enforce chat reporting for everyone.
+  - In practice, these mentioned chat side effects will likely only occur on few vanilla servers that upgrade from 1.19. Most servers have taken a stance to either disable or enforce chat reporting for everyone.
   - Unfortunately ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) is what most 1.19+ servers will show, even if the server has additional protections in place. You can assume the state of reportability by looking at the availability of report button in Social Interactions, or just ask an admin.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
 
@@ -67,9 +67,15 @@ Fabulously Optimized will not include or endorse any exploits.
  
 ### Why not stay on 1.19?
 
-Despite the report button not being there, the chat signing already exists in 1.19, so it is not any safer than 1.19.1 or higher. Or in other words, if you'd join a server that allowed players from 1.19 and up to join, those with 1.19.1+ may be able to successfully report 1.19 players.
+- It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
+- Most mods are not interested in continuing to support it
+   - No Chat Reports is outdated, so it doesn't have chat icons or overrides yet, meaning you cannot join all servers
+- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner-how-can-i-protect-my-users)
+- If you want to keep using it just for the sake of protest, remember that [1.19 has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
+
+_This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case._
 
 ### Why not stay on 1.18.2?
 
