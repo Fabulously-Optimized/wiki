@@ -96,6 +96,11 @@ If you feel like you've been banned unfairly, [see "How to submit a case review"
 
 Fabulously Optimized does not condone any form of ban evasion, do not even ask.
 
+### Does Java Edition have a profanity filter?
+
+Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
+
+
 ### I am a server owner. How can I protect my users?
 
 See [server setup](server-setup.md). If you are a player, you can send that page to your server admins.
