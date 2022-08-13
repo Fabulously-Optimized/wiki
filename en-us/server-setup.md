@@ -1,10 +1,8 @@
 # Server setup
 
-Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves the same¹ on **every server that allows vanilla clients**. 
+Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly¹ the same on **every server that allows vanilla clients**. 
 
 Yes, the CurseForge listing has a section of "server packs", but those are actually just the MultiMC versions that are marked as server packs for better visibility.
-
-<sub><sup>¹ _As of 1.19.1, chat signing will be done only if the server requires it, read [chat reporting FAQ](chat-reporting-faq.md) for more info_</sup></sub>
 
 ### Software
 
@@ -16,7 +14,17 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 ### 1.19.1+
 
-1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). If you'd like to disable that feature for your players, do the following:
+Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). 
+
+¹ Fabulously Optimized has chosen to opt-out of the system by default, meaning:
+
+* If your server is based on 1.18.2 or below with a protocol tweak (e.g. ViaVersion), nothing will change
+* If your server is based on 1.19 or up and chat signatures are not enforced, FO users will not sign the messages either. 
+  * If you're using a plugin that adds custom chat formatting, e.g. the ones below, nothing will change
+  * If you're using vanilla-based chat, users may see a red bar on the left of the message and ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right.
+* If your server is based on 1.19 up and chat signatures are enforced, FO users will have their messages signed as well. The bottom right corner of the chatbox will have a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon to inform the users of this state.
+
+**It is highly recommended to protect your users from chat reports by doing the following:**
 
 - **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
