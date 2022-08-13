@@ -56,6 +56,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                              | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |
 | [MC-139620](https://bugs.mojang.com/browse/MC-139620) | Certain blocks do not cull the top face of the fence block                 | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)   |
 | [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts  | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | 
 | [MC-162253](https://bugs.mojang.com/browse/MC-162253) | Lag spike when crossing certain chunk borders                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat      | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | [MC-172550](https://bugs.mojang.com/browse/MC-172550) | Ghost blocks sometimes appear when insta-mining                            | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)       |
