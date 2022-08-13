@@ -21,7 +21,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 * If your server is based on 1.18.2 or below with a protocol tweak (e.g. ViaVersion), nothing will change
 * If your server is based on 1.19 or up and chat signatures are not enforced, FO users will not sign the messages either. 
   * If you're using a plugin that adds custom chat formatting, e.g. the ones below, nothing will change
-  * If you're using vanilla-based chat, users may see a red bar on the left of the message and ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right.
+  * If you're using vanilla-based chat, vanilla users may see a red bar on the left of the message and ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right on FO users' messages.
 * If your server is based on 1.19 up and chat signatures are enforced, FO users will have their messages signed as well. The bottom right corner of the chatbox will have a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon to inform the users of this state.
 
 **It is highly recommended to protect your users from chat reports by doing the following:**
