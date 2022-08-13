@@ -21,7 +21,7 @@ Or with the launcher already open:
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-      * Alternatively, look for it in the sidebar, under "server packs".
+      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. Drag the ZIP-archive to MultiMC window
 
@@ -60,10 +60,11 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 4. Click `Download` on the latest **MultiMC version** of the pack
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-      * Alternatively, look for it in the sidebar, under "server packs".
+      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+   * 
 7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
