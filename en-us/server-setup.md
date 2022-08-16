@@ -29,8 +29,8 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 - **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
-  - If no other measures are taken along this, vanilla clients will still sign the messages, meaning anyone can report them, but they cannot report FO users.
-  - When disabled, vanilla (not FO) users will see a warning toast in the top right corner. To avoid that as well, use one of the plugins/mods below.
+  - If no other measures are taken alongside this, _vanilla clients_ will see a warning toast in the top right corner and they will still sign the messages.
+    - That means anyone can report them, but they cannot report FO users. To avoid those problems, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **Paper/Spigot/Purpur**: install _one_ of the following plugins:
