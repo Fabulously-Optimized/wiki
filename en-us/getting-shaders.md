@@ -4,7 +4,7 @@
 
 OptiFine shaders are now supported using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
 
-While you _could_ download [any OptiFine-compatible shader](https://www.curseforge.com/minecraft/customization/configuration?filter-sort=5) and use it in FO, [Iris recommends these ones](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) for best support at the moment.
+[Here is a list of shaders that are recommended to use.](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
 
 The installation is simple:
 
