@@ -110,13 +110,17 @@ If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is e
 
 ### Is No Chat Reports itself a risk?
 
-No. 
+No, the mod simply disables chat signing on servers that don't require it. Those that do will have the chat signing (and therefore reports) working the same as they do in vanilla.
 
-All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server.
+Disabling chat signing is not a punishable offense, otherwise Mojang would not have added an option for it in the servers.
 
 ### What if I still got banned?
 
-If you feel like you've been banned unfairly, [see "How to submit a case review" here to appeal](https://www.minecraft.net/en-us/community-standards#main-content). Fill the form throughly with any information you have and make sure you select "Minecraft: Java" as the game. After submitting simply wait for their response and hope for the best.
+If you feel like you've been banned unfairly:
+
+1. [See "How to submit a case review" here to appeal](https://www.minecraft.net/en-us/community-standards#main-content)
+2. Fill the form throughly with any information you have, make sure to select "Minecraft: Java" as the game. 
+3. After submitting simply wait for their response and hope for the best.
 
 Fabulously Optimized does not condone any form of ban evasion, do not even ask.
 
