@@ -50,8 +50,10 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 Yes, if you [meet their criteria](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20A%20CASE%20REVIEW). It is unknown how many appeals are accepted.
 
 1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
-2. Fill the form throughly with any information you have, make sure to select "Minecraft: Java" as the game. 
-3. After submitting simply wait for their response and hope for the best.
+2. Select "Minecraft: Java" as the game.
+3. Fill the form throughly with all information you have
+4. Submit the form
+5. Wait patiently for their response
 
 ### What should I do instead when someone breaks the rules?
 
