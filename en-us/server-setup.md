@@ -21,7 +21,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 * If your server is based on 1.18.2 or below with a protocol tweak (e.g. ViaVersion), nothing will change. FO users will see ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) on the bottom right corner of the chatbox.
 * If your server is based on 1.19 or up and chat signatures are not enforced, FO users will not sign the messages either. FO users will see ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) on the bottom right corner of the chatbox.
   * If you're using a plugin that uses system messages for chat (e.g. the ones below), the report button will be disabled for everyone and everyone's messages look clean
-  * If you're using vanilla-like chat, vanilla users may see a red bar on the left of the message and ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right on FO users' messages. If no other measures are taken, vanilla clients will still sign the messages, meaning anyone can report them, but they cannot report FO users.
+  * If you're using vanilla-like chat, vanilla users may see a red bar on the left of the message and ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right on FO users' messages. 
   * If you're using the [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) mod, FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) and the report button will be disabled for everyone and everyone's messages may look clean depending on your config
 * If your server is based on 1.19 or up and chat signatures are enforced, FO users will have their messages signed as well. The bottom right corner of the chatbox will have a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon to inform the users of this state.
 
@@ -29,6 +29,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 - **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
+  - If no other measures are taken along this, vanilla clients will still sign the messages, meaning anyone can report them, but they cannot report FO users.
   - When disabled, vanilla (not FO) users will see a warning toast in the top right corner. To avoid that as well, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
