@@ -41,8 +41,9 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 
 **Official posts**
 
-- [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool)
+- [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
+- [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) (basically an older version of the FAQ)
 
 ### What should I do instead when someone breaks the rules?
 
