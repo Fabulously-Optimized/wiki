@@ -89,7 +89,7 @@ Look at the right corner of the chat window:
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
   - This is currently shown for singleplayer and very few public servers. Most servers will still show ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) due to technical restrictions, so ask your admin or look at whether the chat reporting icon is grayed out in Social Interactions to confirm whether it has additional protections in place.
 
-The report button itself still works on servers that allow reporting. _Please use it only in case of life-threatning danger!_
+The report button itself still works on servers that allow reporting. Please use it only in case of serious danger and even then don't forget to inform the server admins and the local police as well.
 
 Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
 
