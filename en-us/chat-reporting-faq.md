@@ -140,7 +140,7 @@ Or if you still want, you can [disable the mod](disabling-mods.md) No Chat Repor
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated, meaning you cannot join all servers
 - [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
-- If you want to keep using it just for the sake of protest, remember that [1.19 has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
+- If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
 
