@@ -2,9 +2,9 @@
 
 ### OptiFine shaders
 
-OptiFine shaders are now supported using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
+OptiFine shaders are supported using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
 
-[Here is a list of shaders that are recommended to use.](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
+[Here is a list of recommended shaders.](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
 
 The installation is simple:
 
