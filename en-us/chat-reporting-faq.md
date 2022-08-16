@@ -55,16 +55,6 @@ The report button itself still works on servers that allow reporting. _Please us
 
 Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
 
-### Is No Chat Reports itself a risk?
-
-No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server.
-
-### Can I use exploits to break the system/avoid getting reported?
-
-No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
-
-Fabulously Optimized will not include or endorse any exploits.
-
 ### But I don't want to join chat reporting servers at all!
 
 If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is enough, you can also re-enable the full-screen warning.
@@ -79,6 +69,16 @@ If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is e
 4. Find and open `NoChatReports.json`
 5. Change `"whitelistAllServers": true,` to `"whitelistAllServers": false,`.
 6. Open the game.
+
+### Is No Chat Reports itself a risk?
+
+No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server.
+
+### Can I use exploits to break the system/avoid getting reported?
+
+No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
+
+Fabulously Optimized will not include or endorse any exploits.
  
 ### Why not stay on 1.19?
 
