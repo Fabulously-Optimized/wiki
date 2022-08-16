@@ -47,7 +47,7 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 
 ### Is there a way to appeal the ban?
 
-Yes, if you [meet their criteria](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20A%20CASE%20REVIEW). It is unknown how many appeals are accepted.
+Yes, if you [meet their criteria (see "how to submit a case review")](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20A%20CASE%20REVIEW). It is unknown how many appeals are accepted.
 
 1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
 2. Select "Minecraft: Java" as the game.
