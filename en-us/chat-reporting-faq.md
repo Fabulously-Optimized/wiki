@@ -49,7 +49,7 @@ Look at the right corner of the chat window:
 - ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) - nobody can report your messages. Depending on the server, other players may see a red bar on the left of the message, ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right and if they enable the vanilla `Only Show Secure Chat` option, they may not see your chat messages at all. 
   - In practice, these mentioned chat side effects will likely only occur on few vanilla servers that upgrade from 1.19. Most servers have taken a stance to either disable or enforce chat reporting for everyone.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
-  - This is currently shown for singleplayer and very few public servers. Most servers will still show ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) due to technical restrictions, so ask your admin to confirm whether it has additional protections in place.
+  - This is currently shown for singleplayer and very few public servers. Most servers will still show ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) due to technical restrictions, so ask your admin or look at whether the chat reporting icon is grayed out in Social Interactions to confirm whether it has additional protections in place.
 
 The report button itself still works on servers that allow reporting. _Please use it only in case of real danger!_
 
