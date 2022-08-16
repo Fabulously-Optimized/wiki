@@ -1,14 +1,14 @@
 # Chat Reporting FAQ
 
-### About the system
+## About the system
 
-#### What is chat reporting?
+### What is chat reporting?
 
 In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
 See [the official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) to read about the reporting interaction and offense categories or keep reading to see how it affects you.
 
-#### Why is it bad?
+### Why is it bad?
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
@@ -28,7 +28,7 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
-#### Where can I learn more about it?
+### Where can I learn more about it?
 
 **Explanatory videos**
 
@@ -44,7 +44,7 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 - [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 
-#### What should I do instead when someone breaks the rules?
+### What should I do instead when someone breaks the rules?
 
 Do what you always did.
 
@@ -53,7 +53,7 @@ Do what you always did.
 - If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
 - If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
 
-#### What would make the system fair?
+### What would make the system fair?
 
 One of the following:
 
@@ -64,20 +64,20 @@ One of the following:
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
 
-#### I am a server owner. How can I protect my users?
+### I am a server owner. How can I protect my users?
 
 See [server setup](server-setup.md). If you are a player, you can send that page to your server admins.
 
-#### I want to give feedback to Mojang.
+### I want to give feedback to Mojang.
 
 Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
 * [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
 * [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
 * [Overall snapshot category](https://feedback.minecraft.net/hc/en-us/community/topics/360001692331-Minecraft-Java-Edition-Snapshots?sort_by=votes)
 
-### Chat reporting and Fabulously Optimized
+## Chat reporting and Fabulously Optimized
 
-#### What does this modpack do to protect me?
+### What does this modpack do to protect me?
 
 Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it. It also reverts most of the chat indicators added in 1.19.1, because they clutter the screen and are misleading in many cases.
 
@@ -92,7 +92,7 @@ The report button itself still works on servers that allow reporting. _Please us
 
 Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
 
-#### I don't want to join chat reporting servers at all!
+### I don't want to join chat reporting servers at all!
 
 If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is enough, you can also re-enable the full-screen warning.
 
@@ -107,17 +107,19 @@ If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is e
 5. Change `"whitelistAllServers": true,` to `"whitelistAllServers": false,`.
 6. Open the game.
 
-#### Is No Chat Reports itself a risk?
+### Is No Chat Reports itself a risk?
 
-No. All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server.
+No. 
 
-#### What if I still got banned?
+All it does in the client (and therefore in FO) is to disable chat signing on most servers and enable it for only those that demand it, plus show an icon/tooltip to indicate the current state of the server.
+
+### What if I still got banned?
 
 If you feel like you've been banned unfairly, [see "How to submit a case review" here to appeal](https://www.minecraft.net/en-us/community-standards#main-content). Fill the form throughly with any information you have and make sure you select "Minecraft: Java" as the game. After submitting simply wait for their response and hope for the best.
 
 Fabulously Optimized does not condone any form of ban evasion, do not even ask.
 
-#### I still think chat reporting is fair.
+### I still think chat reporting is fair.
 
 Understandable, the modpack helps you as well. 
 
@@ -125,9 +127,9 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
 
 Or if you still want, you can [disable the mod](disabling-mods.md) No Chat Reports on your instance, which will disable the button-based indicator near chat and show vanilla chat indicators instead.
 
-### Alternative approaches
+## Alternative approaches
  
-#### Why not stay on 1.19?
+### Why not stay on 1.19?
 
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - Most mods are not interested in continuing to support it
@@ -139,7 +141,7 @@ If you want to stay on an older version, please use the latest version for 1.18.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case._
 
-#### But my favorite server requires 1.19!
+### But my favorite server requires 1.19!
 
 Alright, please [send them this link](server-setup.md) to let them know they don't have to stay on 1.19 just to disable chat reporting.
 
@@ -159,26 +161,26 @@ When done playing the server, it is recommended to turn it off again:
 2. Click `Disable client-side`
 3. Click `Done` 
 
-#### Why not stay on 1.18.2?
+### Why not stay on 1.18.2?
 
 It is safe from reports so you are free to play it for as long as you like. For the time being, it is supported by the modpack, but as soon as 4.x.x becomes stable, the modpack will continue on "fixing" the new version(s) rather than continuously updating the old one.  
 
-#### Can I use exploits to break the system/avoid getting reported?
+### Can I use exploits to break the system/avoid getting reported?
 
 No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
 
 Fabulously Optimized will not include or endorse any exploits.
 
-### Other questions
+## Other questions
 
-#### Does Java Edition have a profanity filter?
+### Does Java Edition have a profanity filter?
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
-#### When will FO 4.x.x stable be released?
+### When will FO 4.x.x stable be released?
 
 [Probably August, but more specifically whenever I'm confident in releasing it.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/343)
 
-#### I have more questions.
+### I have more questions.
 
 Write to `#support` [in our Discord](https://discord.gg/yxaXtaQqdB).
