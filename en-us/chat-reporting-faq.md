@@ -64,7 +64,7 @@ One of the following:
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
 
-### I am a server owner. How can I protect my users?
+#### I am a server owner. How can I protect my users?
 
 See [server setup](server-setup.md). If you are a player, you can send that page to your server admins.
 
