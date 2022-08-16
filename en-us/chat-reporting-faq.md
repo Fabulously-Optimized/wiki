@@ -45,6 +45,14 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 - [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) (basically an older version of the FAQ)
 
+### Is there a way to appeal the ban?
+
+Yes, if you [meet their criteria](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20A%20CASE%20REVIEW). It is unknown how many appeals are accepted.
+
+1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
+2. Fill the form throughly with any information you have, make sure to select "Minecraft: Java" as the game. 
+3. After submitting simply wait for their response and hope for the best.
+
 ### What should I do instead when someone breaks the rules?
 
 Do what you always did.
@@ -113,16 +121,6 @@ If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is e
 No, the mod simply disables chat signing on servers that don't require it. Those that do will have the chat signing (and therefore reports) working the same as they do in vanilla.
 
 Disabling chat signing is not a punishable offense, otherwise Mojang would not have added an option for it in the servers.
-
-### What if I still got banned?
-
-If you feel like you've been banned unfairly:
-
-1. [See "How to submit a case review" here to appeal](https://www.minecraft.net/en-us/community-standards#main-content)
-2. Fill the form throughly with any information you have, make sure to select "Minecraft: Java" as the game. 
-3. After submitting simply wait for their response and hope for the best.
-
-Fabulously Optimized does not condone any form of ban evasion, do not even ask.
 
 ### I still think chat reporting is fair.
 
