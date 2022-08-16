@@ -64,6 +64,21 @@ No. All it does in the client (and therefore in FO) is to disable chat signing o
 No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
 
 Fabulously Optimized will not include or endorse any exploits.
+
+### But I don't want to join chat reporting servers at all!
+
+If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is enough, you can also re-enable the full-screen warning.
+
+1. Close the game if you have it open
+2. Open the modpack folder
+   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
+   * MultiMC: right click on the instance -> `Minecraft Folder`
+   * GDLauncher: right click on the instance -> `Open Folder`
+   * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
+3. Open `config` folder
+4. Find and open `NoChatReports.json`
+5. Change `"whitelistAllServers": true,` to `"whitelistAllServers": false,`.
+6. Open the game.
  
 ### Why not stay on 1.19?
 
@@ -99,7 +114,6 @@ Fabulously Optimized does not condone any form of ban evasion, do not even ask.
 ### Does Java Edition have a profanity filter?
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
-
 
 ### I am a server owner. How can I protect my users?
 
