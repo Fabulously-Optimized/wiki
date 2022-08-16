@@ -32,10 +32,10 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **Paper/Spigot/Purpur**: install _one_ of the following plugins:
-  - [FreedomChat](https://modrinth.com/mod/freedomchat) - compatible with most chat plugins, no config required
+  - [FreedomChat](https://modrinth.com/mod/freedomchat) - compatible with most chat plugins/vanilla chat, no config required
   - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports-spigot-1-19.102931/) - claims to be compatible with vanilla chat; not by the dev of the Fabric mod
 - **Fabric/Quilt/Forge**: install _one_ of the following plugins:
-  - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat plugins, no config required 
+  - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat mods/vanilla chat, no config required 
   - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same dev as the mod in FO; FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat
     - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
   
