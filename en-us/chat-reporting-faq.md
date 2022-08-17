@@ -77,7 +77,7 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 ### I am a server owner. How can I protect my users?
 
-See [server setup](server-setup.md). If you are a player, you can send that page to your server admins.
+See [server setup](server-setup#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
 
 ### I want to give feedback to Mojang.
 
@@ -148,7 +148,7 @@ _This section previously claimed that it may be possible for 1.19.1+ players to 
 
 ### But my favorite server requires 1.19!
 
-Alright, please [send them this link](server-setup.md) to let them know they don't have to stay on 1.19 just to disable chat reporting.
+Alright, please [send them this link](server-setup#how-to-protect-your-users) to let them know they don't have to stay on 1.19 just to disable chat reporting.
 
 In the meanwhile you can play in that server [by adding a mod](adding-more-mods.md) called [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric).
 
