@@ -101,7 +101,7 @@ Look at the right corner of the chat window:
 
 The report button itself still works on servers that allow reporting. Please use it only in case of serious danger and even then don't forget to inform the server admins and, if needed, the local police.
 
-Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
+The modpack also disables chat previews, which protects your messages from being sent to the server before you actually press Enter.
 
 ### I don't want to join chat reporting servers at all!
 
