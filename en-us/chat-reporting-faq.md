@@ -180,6 +180,8 @@ Fabulously Optimized will not include or endorse any exploits.
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
+Profanity by itself is no longer a category one can report other players for.
+
 ### When will FO 4.x.x stable be released?
 
 [Probably August, but more specifically whenever I'm confident in releasing it.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/343)
