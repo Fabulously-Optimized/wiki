@@ -130,8 +130,6 @@ Understandable, the modpack helps you as well.
 
 If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
 
-Or if you still want, you can [disable the mod](disabling-mods.md) No Chat Reports on your instance, which will disable the button-based indicator near chat and show vanilla chat indicators instead.
-
 ## Alternative approaches
  
 ### Why not stay on 1.19?
