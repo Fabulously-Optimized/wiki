@@ -107,16 +107,10 @@ The modpack also disables chat previews, which protects your messages from being
 
 If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is enough, you can also re-enable the full-screen warning.
 
-1. Close the game if you have it open
-2. Open the modpack folder
-   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
-   * MultiMC: right click on the instance -> `Minecraft Folder`
-   * GDLauncher: right click on the instance -> `Open Folder`
-   * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
-3. Open `config` folder
-4. Find and open `NoChatReports.json`
-5. Change `"whitelistAllServers": true,` to `"whitelistAllServers": false,`.
-6. Open the game.
+1. Click Mods
+2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
+3. Select `Technical` tab, set "Whitelist all servers" to `No`
+4. `Save changes`
 
 ### Is No Chat Reports itself a risk?
 
