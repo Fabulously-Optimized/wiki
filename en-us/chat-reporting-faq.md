@@ -101,7 +101,7 @@ Look at the right corner of the chat window:
 
 The report button itself still works on servers that allow reporting. Please use it only in case of serious danger and even then don't forget to inform the server admins and, if needed, the local police.
 
-Also, FO has disabled chat previews since the first 4.0.0 alpha, this protects your messages from being sent to the server before you actually press Enter.
+The modpack also disables chat previews, which protects your messages from being sent to the server before you actually press Enter.
 
 ### I don't want to join chat reporting servers at all!
 
@@ -123,8 +123,6 @@ Disabling chat signing is not a punishable offense, otherwise Mojang would not h
 Understandable, the modpack helps you as well. 
 
 If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
-
-Or if you still want, you can [disable the mod](disabling-mods.md) No Chat Reports on your instance, which will disable the button-based indicator near chat and show vanilla chat indicators instead.
 
 ## Alternative approaches
  
@@ -175,6 +173,8 @@ Fabulously Optimized will not include or endorse any exploits.
 ### Does Java Edition have a profanity filter?
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
+
+Profanity by itself is no longer a category one can report other players for.
 
 ### When will FO 4.x.x stable be released?
 
