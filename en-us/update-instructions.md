@@ -55,14 +55,14 @@ If you added or removed some mods:
 In most cases:
 
 1. Run the existing version, wait for the progress bar to fill up
-2. If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-   1. Copy its url to your browser
-   2. Click Cancel Launch
-   3. Click Download on the mod
-   4. On MultiMC, right click on the instance -> View Mods
-   5. Drag the downloaded mod into the mod list
-   6. Click Launch
-3. Check the version difference in the bottom right corner.
+   * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+      1. Copy its url to your browser
+      2. Click Cancel Launch
+      3. Click Download on the mod
+      4. On MultiMC, right click on the instance -> View Mods
+      5. Drag the downloaded mod into the mod list
+      6. Click Launch
+2. Check the version difference in the bottom right corner.
 
 To update the Fabric Loader (if you get an error like "mod X needs fabric-loader x.y.z"):
 
@@ -72,7 +72,7 @@ To update the Fabric Loader (if you get an error like "mod X needs fabric-loader
 4. Click `Install Fabric`, click `OK`
 5. `Close` the window, you can now play the game.
 
-If there is a new Minecraft version or you are lazy to update your Fabric Loader:
+If there is a new Minecraft version:
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
