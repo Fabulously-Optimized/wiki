@@ -35,11 +35,11 @@ Or with the launcher already open:
 4. Double-click that version you just created to download and launch the modpack
    * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
       1. Copy its url to your browser
-      2. Click Cancel Launch
+      2. Click `Cancel Launch`
       3. Click Download on the mod
       4. On MultiMC, right click on the instance -> View Mods
       5. Drag the downloaded mod into the mod list
-      6. Click Launch
+      6. Click `Launch`
 
 ### [GDLauncher](https://gdevs.io)
 
