@@ -23,7 +23,7 @@ Or with the launcher already open:
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Drag the ZIP-archive to MultiMC window
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
@@ -31,14 +31,15 @@ Or with the launcher already open:
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
-3. Drag the ZIP-archive to MultiMC window
-4. If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-   1. Copy its url to your browser
-   2. Click Cancel Launch
-   3. Click Download on the mod
-   4. On MultiMC, right click on the instance -> View Mods
-   5. Drag the downloaded mod into the mod list
-   6. Click Launch
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. Double-click that version you just created to download and launch pack
+   * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+      1. Copy its url to your browser
+      2. Click Cancel Launch
+      3. Click Download on the mod
+      4. On MultiMC, right click on the instance -> View Mods
+      5. Drag the downloaded mod into the mod list
+      6. Click Launch
 
 ### [GDLauncher](https://gdevs.io)
 
@@ -64,7 +65,6 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-   * 
 7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
