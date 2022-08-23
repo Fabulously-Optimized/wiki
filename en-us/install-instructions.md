@@ -32,7 +32,7 @@ Or with the launcher already open:
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
-4. Double-click that version you just created to download and launch pack
+4. Double-click that version you just created to download and launch the modpack
    * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
       1. Copy its url to your browser
       2. Click Cancel Launch
