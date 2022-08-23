@@ -36,8 +36,8 @@ If you added or removed some mods:
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
      * Alternatively, look for it in the sidebar under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Drag the ZIP-archive to MultiMC window
-4. Click that version, then `Minecraft Folder`
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. Click that version you just created, then `Minecraft Folder`
 5. Click the previous version, then `Minecraft Folder`
 6. Copy the important files and folders over:
    * `saves` for your local worlds
