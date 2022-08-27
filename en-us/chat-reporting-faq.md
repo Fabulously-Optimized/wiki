@@ -160,7 +160,7 @@ When done playing the server, it is recommended to turn it off again:
 
 ### Why not stay on 1.18.2?
 
-It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still primarily focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
+It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
 
 ### Can I use exploits to break the system/avoid getting reported?
 
