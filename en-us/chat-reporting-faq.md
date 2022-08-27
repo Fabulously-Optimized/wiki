@@ -160,7 +160,7 @@ When done playing the server, it is recommended to turn it off again:
 
 ### Why not stay on 1.18.2?
 
-It is safe from reports so you are free to play it for as long as you like. For the time being, it is supported by the modpack, but as soon as 4.x.x becomes stable, the modpack will continue on "fixing" the new version(s) rather than continuously updating the old one.  
+It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still primarily focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
 
 ### Can I use exploits to break the system/avoid getting reported?
 
@@ -175,10 +175,6 @@ Fabulously Optimized will not include or endorse any exploits.
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
 Profanity by itself is no longer a category one can report other players for.
-
-### When will FO 4.x.x stable be released?
-
-[Probably August, but more specifically whenever I'm confident in releasing it.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/343)
 
 ### I have more questions.
 
