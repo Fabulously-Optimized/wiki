@@ -140,7 +140,7 @@ _This section previously claimed that it may be possible for 1.19.1+ players to 
 
 ### But my favorite server requires 1.19!
 
-Alright, please [send them this link](server-setup.md#how-to-protect-your-users) to let them know they don't have to stay on 1.19 just to disable chat reporting.
+Alright, please [send them this link](server-setup.md#how-to-protect-your-users) or [that link](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players) to let them know they don't have to stay on 1.19 just to disable chat reporting.
 
 In the meanwhile you can play in that server [by adding a mod](adding-more-mods.md) called [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric).
 
