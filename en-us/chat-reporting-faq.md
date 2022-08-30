@@ -44,6 +44,7 @@ _Some parts of the videos may be out of date, mainly the report categories and e
 - [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 - [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) (basically an older version of the FAQ)
+- [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 
 ### Is there a way to appeal the ban?
 
@@ -175,6 +176,20 @@ Fabulously Optimized will not include or endorse any exploits.
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
 Profanity by itself is no longer a category one can report other players for.
+
+### Does Mojang monitor my chats?
+
+Maybe, but only on Realms.
+
+[The chat reporting FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ) says
+
+> This system does not monitor chat – no chat messages are sent to us until a player decides to send a report. 
+
+but [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
+
+> Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
+
+[Featured Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) only exist in Minecraft: Bedrock Edition.
 
 ### I have more questions.
 
