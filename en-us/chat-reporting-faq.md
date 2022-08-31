@@ -129,10 +129,11 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
  
 ### Why not stay on 1.19?
 
-- It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
+- [The modpack opts out from chat reporting in 1.19.2 as well](#what-does-this-modpack-do-to-protect-me)
+- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated, meaning you cannot join all servers
-- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
+- It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
@@ -143,7 +144,7 @@ _This section previously claimed that it may be possible for 1.19.1+ players to 
 
 Alright, please [send them this link](server-setup.md#how-to-protect-your-users) or [that link](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players) to let them know they don't have to stay on 1.19 just to disable chat reporting.
 
-In the meanwhile you can play in that server [by adding a mod](adding-more-mods.md) called [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric).
+In the meanwhile you can play in that server by [installing the latest FO](install-instructions.md) and [adding a mod](adding-more-mods.md) called [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric).
 
 Then, after launching the game:
 
