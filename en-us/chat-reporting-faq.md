@@ -129,7 +129,7 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
  
 ### Why not stay on 1.19?
 
-- [The modpack opts out from chat reporting in 1.19.2 as well](#what-does-this-modpack-do-to-protect-me)
+- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-to-protect-me)
 - [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated, meaning you cannot join all servers
@@ -138,7 +138,7 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
 
-_This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case._
+_This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
 ### But my favorite server requires 1.19!
 
