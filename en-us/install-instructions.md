@@ -83,7 +83,7 @@ Technically you can install it in _some_ other launchers that support CurseForge
 
 ### Servers
 
-Any server is supported, no installation or changes are necessary. See [server setup](server-setup.md) for more info.
+Any server is supported so no setup is necessary, though it is highly recommended to protect your users from chat reports on 1.19.1+. See [server setup](server-setup.md) for more info.
 
 ### Quilt
 
