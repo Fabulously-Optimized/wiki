@@ -71,29 +71,17 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
-### Modrinth
+### PolyMC
 
-[Fabulously Optimized is available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but it is currently experimental, so it may have unexpected issues. Most users are suggested to `♡ Follow` the project for updates, but currently use a different launcher for a stable experience.
+1. Click `Add Instance`.
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. The modpack will now install.
 
-**The following tutorial is for people who would like to test the readiness of Modrinth instances and are willing to report any differences with the other versions.**
-You might also want farsight, which can be downloaded [here](https://www.curseforge.com/minecraft/mc-mods/farsight) to have further view distance on servers, sadly this cannot be included in the Modrinth pack because the mod is on Curseforge only.
+### Modrinth Launcher
 
-#### Enabling developer udpates in MultiMC or PolyMC
-For better Modrinth modpack support, enable developer updates this way:
-1. Go to Settings -> Launcher -> Update Channel: Development -> Close -> Update
-2. Click "Update Now"
-
-#### PolyMC or MultiMC (Modrinth)
-
-1. Press the Add Instance button.
-2. Select Modrinth.
-3. Search for "Fabulously Optimized"
-4. Press OK.
-5. The modpack should be installed.
-
-#### ATLauncher
-
-Modrinth has instructions on how to install modpacks in ATLauncher, [here](https://docs.modrinth.com/docs/modpacks/playing_modpacks/)
+I plan to support it, but it doesn't exist yet. For now see [PolyMC](#polymc) for a different launcher that also downloads from Modrinth.
 
 ### Other launchers
 
