@@ -82,7 +82,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Modrinth Launcher
 
-I plan to support it, but it doesn't exist yet. For now see [PolyMC](#polymc) for a different launcher that also downloads from Modrinth.
+Fabulously Optimized is indeed [already available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. For now see [PolyMC](#polymc) for a different launcher that also downloads from Modrinth.
 
 ### Other launchers
 
