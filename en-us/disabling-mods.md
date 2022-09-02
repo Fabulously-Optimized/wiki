@@ -45,6 +45,13 @@ Notes:
 
 Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There are workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
+### PolyMC
+
+1. Open PolyMC
+2. Click on Fabulously Optimized, then `Edit Instance`
+3. Go to `Mods`
+4. Find the mod you need, uncheck the checkbox.
+
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
