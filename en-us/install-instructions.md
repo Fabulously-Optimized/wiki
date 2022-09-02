@@ -34,10 +34,10 @@ You need [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
    * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-      1. Copy its url to your browser
+      1. Copy and paste the given address to your browser
       2. Click `Cancel Launch`
-      3. Click Download on the mod
-      4. On MultiMC, right click on the instance -> View Mods
+      3. Click `Download` on the mod
+      4. On MultiMC, click on the instance, then click `View Mods`
       5. Drag the downloaded mod into the mod list
       6. Click `Launch`
 
