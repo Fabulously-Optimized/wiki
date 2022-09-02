@@ -4,7 +4,7 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 ### CurseForge Launcher
 
-If you haven't changed the mods:
+#### If you haven't changed the mods:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
@@ -13,7 +13,7 @@ If you haven't changed the mods:
 4. Modpack will now update.
 5. After updating you can run it and check the version difference in the bottom right corner.
 
-If you added or removed some mods:
+#### If you added or removed some mods:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, click _Fabulously Optimized_
@@ -48,7 +48,7 @@ If you added or removed some mods:
 
 ### MultiMC (auto-update)
 
-In most cases:
+#### In most cases:
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
@@ -61,7 +61,7 @@ In most cases:
       6. Click `Launch`
 2. Check the version difference in the bottom right corner.
 
-If there is a new Minecraft version:
+#### If there is a new Minecraft version:
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
@@ -89,7 +89,7 @@ If there is a new Minecraft version:
 
 ### Minecraft Launcher (vanilla)
 
-Currently the only way to update is to "reinstall" the pack.
+Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
