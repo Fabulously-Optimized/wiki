@@ -93,6 +93,25 @@ If there is a new Minecraft version:
 6. Modpack will now update.
 7. After updating you can run it and check the version difference in the bottom right corner.
 
+### PolyMC
+
+1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
+
+1. Click `Add Instance`.
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. Click that version you just created, then `Minecraft Folder`
+6. Click the previous version, then `Minecraft Folder`
+7. Copy the important files and folders over:
+   * `saves` for your local worlds
+   * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
+   * `screenshots`
+   * `servers.dat` for your multiplayer servers
+   * `options.txt`, if you want to keep your vanilla option changes
+8. Close the folders and run the new version
+9. If everything looks right, delete the old version
+
 ### Minecraft Launcher (vanilla)
 
 Currently the only way to update is to "reinstall" the pack.
