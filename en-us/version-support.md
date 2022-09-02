@@ -18,9 +18,9 @@ No, they are not supported on CurseForge Launcher and are released too fast for 
 
 See the [CurseForge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) for the existing stable versions down to 1.16.1.
 
-**Note that versions 1.1.2-1.7.0 (MC 1.16.1-1.16.4) and 2.0.0b4 (MC 1.17)** [**are not safe for multiplayer**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **and are kept just for archival purposes.** Any newer versions listed there are patched and should be upgraded to ASAP.
+**Versions with a warning triangle ⚠️** [**are not safe for multiplayer**](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) **and are kept just for archival purposes.**
 
-If you need to use Minecraft 1.15 or older, your best bet is adding [multiconnect](https://www.curseforge.com/minecraft/mc-mods/multiconnect), [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) or both to your modpack profile [(instructions are here)](adding-more-mods.md). See also [why I can't add it for everyone just yet.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/15#issuecomment-786175477)
+If you need to play in a server that uses a version not supported by the modpack, your best bet is installing the latest version of FO and adding [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) to your modpack profile [(instructions are here)](adding-more-mods.md). I recommend keeping the mod enabled only while playing the server where you need it.
 
 #### Will you backport newer modpack changes to older versions?
 
