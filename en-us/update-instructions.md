@@ -29,8 +29,6 @@ If you added or removed some mods:
 
 ### MultiMC
 
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
-
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
@@ -49,8 +47,6 @@ If you added or removed some mods:
 8. If everything looks right, delete the old version
 
 ### MultiMC (auto-update)
-
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
 
 In most cases:
 
@@ -97,6 +93,7 @@ Currently the only way to update is to "reinstall" the pack.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
+   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
