@@ -8,7 +8,7 @@
 2. Click `Install` on the topmost CurseForge version
 3. Accept the prompt (if asked), download should start
 
-Or with the launcher already open:
+#### Or with the launcher already open:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
