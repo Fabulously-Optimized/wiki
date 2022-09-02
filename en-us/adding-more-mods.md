@@ -27,14 +27,6 @@ Method 2:
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-### GDLauncher
-
-1. Open GDLauncher
-2. Right click Fabulously Optimized, click on `Manage`
-3. Select `Mods` and `Add Mod`
-4. Choose any mod you want (make sure it is for Fabric) and click `Download`
-5. Close the sub-window and click on Fabulously Optimized to run the game. You should now have the new mod(s) installed!
-
 ### MultiMC/MultiMC (auto-update)
 
 1. Open MultiMC
@@ -44,6 +36,14 @@ Method 2:
 5. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
+
+### GDLauncher
+
+1. Open GDLauncher
+2. Right click Fabulously Optimized, click on `Manage`
+3. Select `Mods` and `Add Mod`
+4. Choose any mod you want (make sure it is for Fabric) and click `Download`
+5. Close the sub-window and click on Fabulously Optimized to run the game. You should now have the new mod(s) installed!
 
 ### Minecraft Launcher (vanilla)
 

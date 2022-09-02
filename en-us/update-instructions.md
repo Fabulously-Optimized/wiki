@@ -83,8 +83,6 @@ If there is a new Minecraft version:
 
 ### GDLauncher
 
-**Please make sure your GDLauncher is up to date (v1.1.14 or later - see settings) before installing FO. [Easiest way to do that is to redownload](https://gdevs.io/#downloadContainer) (no need to remove it first). Do NOT attempt to update FO on an older version of GDLauncher because it will delete your instance!**
-
 1. Right click the _Fabulously Optimized_ instance
 2. Select `🔧 Manage`
 3. Select `Modpack` from the right

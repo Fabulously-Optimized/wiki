@@ -27,13 +27,6 @@ Notes:
 
 **Note: you must disable "Allow content management for this profile" in order to update the modpack.**
 
-### GDLauncher
-
-1. Open GDLauncher
-2. Right click Fabulously Optimized, click on `Manage`
-3. Select `Mods`
-4. Find the mod you need, toggle the knob.
-
 ### MultiMC
 
 1. Open MultiMC
@@ -44,6 +37,13 @@ Notes:
 ### MultiMC (auto-update)
 
 Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There are workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
+
+### GDLauncher
+
+1. Open GDLauncher
+2. Right click Fabulously Optimized, click on `Manage`
+3. Select `Mods`
+4. Find the mod you need, toggle the knob.
 
 ### PolyMC
 
