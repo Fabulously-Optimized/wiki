@@ -51,7 +51,7 @@ You need [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/
 
 ### [PolyMC](https://polymc.org/)
 
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
+1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://polymc.org/wiki/getting-started/installing-java/)
 
 1. Click `Add Instance`.
 2. Select `Modrinth` tab from the left
