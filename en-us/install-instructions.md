@@ -71,7 +71,7 @@ For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/down
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
-### PolyMC
+### [PolyMC](https://polymc.org/)
 
 1. Click `Add Instance`.
 2. Select `Modrinth` tab from the left
