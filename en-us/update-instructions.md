@@ -89,8 +89,6 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 ### PolyMC
 
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
-
 1. Click `Add Instance`.
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
