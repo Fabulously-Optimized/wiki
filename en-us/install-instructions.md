@@ -16,7 +16,7 @@ Or with the launcher already open:
 
 ### [MultiMC](https://multimc.org)
 
-1.17 needs Java 16+, 1.18 needs Java 17+. [Get Java](https://www.oracle.com/java/technologies/downloads/)
+You need [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/) to play the game.
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
@@ -51,10 +51,11 @@ Or with the launcher already open:
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric installer.
+For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric Installer.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
+   * On the download page you'll see the installer version - that doesn't matter. What matters is the Loader version that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 4. Click `Download` on the latest **MultiMC version** of the pack
