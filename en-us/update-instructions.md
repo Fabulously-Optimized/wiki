@@ -36,8 +36,8 @@ If you added or removed some mods:
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
      * Alternatively, look for it in the sidebar under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Drag the ZIP-archive to MultiMC window
-4. Click that version, then `Minecraft Folder`
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. Click that version you just created, then `Minecraft Folder`
 5. Click the previous version, then `Minecraft Folder`
 6. Copy the important files and folders over:
    * `saves` for your local worlds
@@ -55,24 +55,17 @@ If you added or removed some mods:
 In most cases:
 
 1. Run the existing version, wait for the progress bar to fill up
-2. If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-   1. Copy its url to your browser
-   2. Click Cancel Launch
-   3. Click Download on the mod
-   4. On MultiMC, right click on the instance -> View Mods
-   5. Drag the downloaded mod into the mod list
-   6. Click Launch
-3. Check the version difference in the bottom right corner.
+   * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
+   * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+      1. Copy its url to your browser
+      2. Click `Cancel Launch`
+      3. Click Download on the mod
+      4. On MultiMC, right click on the instance -> View Mods
+      5. Drag the downloaded mod into the mod list
+      6. Click `Launch`
+2. Check the version difference in the bottom right corner.
 
-To update the Fabric Loader (if you get an error like "mod X needs fabric-loader x.y.z"):
-
-1. Click the instance
-2. Click `Edit Instance`
-3. On Minecraft, select the Fabric Loader, click `Remove`
-4. Click `Install Fabric`, click `OK`
-5. `Close` the window, you can now play the game.
-
-If there is a new Minecraft version or you are lazy to update your Fabric Loader:
+If there is a new Minecraft version:
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
@@ -104,7 +97,7 @@ If there is a new Minecraft version or you are lazy to update your Fabric Loader
 
 Currently the only way to update is to "reinstall" the pack.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.8**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
@@ -122,18 +115,20 @@ Currently the only way to update is to "reinstall" the pack.
 
 ### Resetting settings
 
-Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. However, at some point you may still want to do that in order to get the latest changes. So:
+Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 
-1. Open the modpack folder.
+However, at some point you may still want to do that in order to get the latest changes. So:
+
+1. Open the modpack folder
    * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
    * MultiMC: right click on the instance -> `Minecraft Folder`
    * GDLauncher: right click on the instance -> `Open Folder`
    * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
-2. Delete `options.txt` if you prefer (these are vanilla options - [see what the modpack changes](changed-options.md))
-3. Open "config" and delete the following:
-   * _fabric_ folder
-   * other files, except for
-     * _citresewn.json_
-     * _fabric\_loader\_dependencies.json_
-     * _yosbr_ folder
-4. Launch the game and new options are applied.
+2. Delete the `config` folder
+   * If you prefer, also delete `options.txt` which stores vanilla options
+3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
+4. Rename the file to `pack.zip`
+5. Open the file you renamed, go to `overrides`
+6. Copy/extract the folder `configs` out to the modpack folder you previously opened
+   * You may delete the `pack.zip` after you're done
+7. Launch the game. Modpack's defaults are now applied!

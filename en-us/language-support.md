@@ -14,11 +14,7 @@ I support people using Minecraft in their language and would like to promote tha
 6. Go back to `lang` folder, click Add file -> Create new file
 7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.fandom.com/wiki/Language#Languages)
 8. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
-
-```
-"coolmod.config.title": "Coolmod Options",
-```
-
+   * `"coolmod.config.title": "Coolmod Options",`
 9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
 10. If the language has been accepted, wait for the mod author to update their mod on CurseForge
 11. Once the mod has been updated on CurseForge, simply wait for the next Fabulously Optimized update to see it :P
@@ -28,21 +24,21 @@ I support people using Minecraft in their language and would like to promote tha
 List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
-2. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
-3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
-4. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.18/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
-5. [Mod Menu](https://crowdin.com/project/mod-menu)
-6. [Zoomify](https://github.com/isXander/Zoomify/blob/1.18/src/main/resources/assets/zoomify/lang/en\_us.json)
-7. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json) (to be in FO stable soon)
-8. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.18/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
-9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.18/src/main/resources/assets/lambdynlights/lang/en\_us)
-10. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.18/src/main/resources/assets/spruceui/lang/en\_us.json) (more strings used in LambdaBetterGrass and LambDynamicLights)
+2. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en\_us.json)
+3. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.19/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
+4. [Mod Menu](https://crowdin.com/project/mod-menu)
+5. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json)
+6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.2/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.19.2/fabric-item-groups-v0/src/main/resources/assets/fabric/lang/en_us.json)
+7. [Zoomify](https://github.com/isXander/Zoomify/blob/1.19/src/main/resources/assets/zoomify/lang/en\_us.json)
+8. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.19/src/main/resources/assets/lambdabettergrass/lang/en\_us.json)
+9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.19/src/main/resources/assets/lambdynlights/lang/en\_us)
+10. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.19/src/main/resources/assets/spruceui/lang/en\_us.json) (more strings used in LambdaBetterGrass and LambDynamicLights)
 11. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en\_us.json)
 12. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en\_us.json)
 13. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en\_us.json)
 14. [Colormatic](https://github.com/kvverti/colormatic/blob/master/src/main/resources/assets/colormatic/lang/en\_us.json)
-15. [CEM](https://github.com/dorianpb/cem/blob/1.18/src/main/resources/assets/cem/lang/en\_us.json)
-16. [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes/blob/1.18/common/src/main/resources/assets/notenoughcrashes/lang/en\_us.json)
+15. [CEM](https://github.com/dorianpb/cem/blob/main/src/main/resources/assets/cem/lang/en_us.json)
+16. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
 17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
 18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform that FO will fully support soon)
 
@@ -56,15 +52,12 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 4. Open en\_us.json and copy its full text
 5. Create a new file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
 6. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
-
-```
-"coolmod.config.title": "Coolmod Options",
-```
-
+   * `"coolmod.config.title": "Coolmod Options",`
 7. Keep the text short and simple, you can add or remove words to make it fit better.
    * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines (\n)
 8. Test in-game by going into `Options...` -> `Resource Packs...`, deactivating "Mod Menu Helper.zip" and activating "Mod Menu Helper" instead, then looking at `Mods` in your language.
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
+   * Of course you can rephrase the sentences to make them more understandable and/or shorter for your language. On the second row you do not have to list all options that English has, just list as many as you can fit.
    * As you test, you can use F3+J to reload languages.
 9. If you're satisfied with your translation, copy the full text.
 10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/modmenu/lang/), then Add file -> Create new file

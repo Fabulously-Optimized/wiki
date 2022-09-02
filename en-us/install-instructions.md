@@ -21,9 +21,9 @@ Or with the launcher already open:
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-      * Alternatively, look for it in the sidebar, under "server packs".
+      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Drag the ZIP-archive to MultiMC window
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
@@ -31,14 +31,15 @@ Or with the launcher already open:
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
-3. Drag the ZIP-archive to MultiMC window
-4. If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-   1. Copy its url to your browser
-   2. Click Cancel Launch
-   3. Click Download on the mod
-   4. On MultiMC, right click on the instance -> View Mods
-   5. Drag the downloaded mod into the mod list
-   6. Click Launch
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. Double-click that version you just created to download and launch the modpack
+   * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+      1. Copy its url to your browser
+      2. Click `Cancel Launch`
+      3. Click Download on the mod
+      4. On MultiMC, right click on the instance -> View Mods
+      5. Drag the downloaded mod into the mod list
+      6. Click `Launch`
 
 ### [GDLauncher](https://gdevs.io)
 
@@ -54,13 +55,13 @@ Or with the launcher already open:
 
 For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.8**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 4. Click `Download` on the latest **MultiMC version** of the pack
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-      * Alternatively, look for it in the sidebar, under "server packs".
+      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
@@ -100,7 +101,7 @@ Technically you can install it in _some_ other launchers that support CurseForge
 
 ### Servers
 
-Any server is supported, no installation or changes are necessary. See [server setup](server-setup.md) for more info.
+Any server is supported, no installation is necessary. Still, it is highly recommended to protect your users from chat reports on 1.19.1+ - see [server setup](server-setup.md) for more info.
 
 ### Quilt
 
