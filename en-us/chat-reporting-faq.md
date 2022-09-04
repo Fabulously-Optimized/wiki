@@ -183,17 +183,17 @@ Profanity by itself is no longer a category one can report other players for.
 
 ### Does Mojang monitor my chats?
 
-Maybe, but only on Realms.
+Yes, but only on Realms (Java and Bedrock) and [Featured Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) (only Bedrock).
 
-[The chat reporting FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ) says
+[Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE) says
 
-> This system does not monitor chat – no chat messages are sent to us until a player decides to send a report. 
+> For Bedrock and Java Realms as well as partnered Bedrock servers, we leverage an automated proactive chat filtering system.
+> 
+> We use it to classify, filter, and escalate online harms for human review and moderation to promote safe and welcoming interactions on Minecraft games. That includes behaviors such as harassment, abuse, and hate speech.
 
-but [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
+Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
 
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
-
-[Featured Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) only exist in Minecraft: Bedrock Edition.
 
 ### I have more questions.
 
