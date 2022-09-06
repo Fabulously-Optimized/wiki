@@ -16,7 +16,7 @@
 
 ### [MultiMC](https://multimc.org)
 
-You need [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/) to play the game.
+You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
@@ -27,7 +27,7 @@ You need [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
-You need [Java 17 or higher](https://www.oracle.com/java/technologies/downloads/) to play the game.
+You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
@@ -61,7 +61,7 @@ You need [Java 17 or higher](https://polymc.org/wiki/getting-started/installing-
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://www.oracle.com/java/technologies/downloads/) to run the Fabric Installer.
+For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.9**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.

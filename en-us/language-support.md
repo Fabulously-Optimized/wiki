@@ -60,7 +60,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
    * Of course you can rephrase the sentences to make them more understandable and/or shorter for your language. On the second row you do not have to list all options that English has, just list as many as you can fit.
    * As you test, you can use F3+J to reload languages.
 9. If you're satisfied with your translation, copy the full text.
-10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/modmenu/lang/), then Add file -> Create new file
+10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/modmenu/lang/), then `Add file` -> `Create new file`
 11. You'll fork the project and have a new file window open. Name the file the same way you did previously and paste the translation.
 12. Commit the file and create a pull request. If your translation is properly formatted and fits into the rows, I will accept it
 13. Wait for the next version for the modpack to see it in-game :P
