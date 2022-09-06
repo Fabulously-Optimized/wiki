@@ -36,7 +36,7 @@ Notes:
 
 ### MultiMC (auto-update)
 
-Unfortunately, the normal MultiMC method won't work with this as it redownloads disabled mods on launch. There are workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
+There is currently no _easy_ way because the tool downloads missing mods back on launch. There are script workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
 ### GDLauncher
 
