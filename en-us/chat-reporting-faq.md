@@ -181,7 +181,7 @@ Fabulously Optimized will not include or endorse any exploits.
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
-Profanity by itself is no longer a category one can report other players for.
+Profanity by itself is no longer a category one can report other players for. [Swearing at friends, even jokingly, is bannable though!](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/)
 
 ### Does Mojang monitor my chats?
 
