@@ -51,3 +51,8 @@ If you want simpler shaders, you can also try the the ones that are supported na
 * [Lumi Lights resource pack](https://spiralhalo.github.io)
 
 {% embed url="https://youtu.be/P_160odtr50" %}
+
+### Core shaders
+
+Core shaders are also a kind of vanilla shaders, usually utilized by resource packs to adjust the vanilla HUD. These may cause severe texture glitches and are therefore not supported on Fabulously Optimized.
+You may, however, still get them to work properly by removing Sodium and related mods (see [Canvas](#canvas-shaders) above)
