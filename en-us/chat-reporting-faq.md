@@ -35,10 +35,10 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 **Explanatory videos**
 
 - [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
-- [Timeline of events by TheMisterEpic](https://youtu.be/kEfyaAq90kg)¹ (~14 min)
-- [Simple explanation by FitMC](https://youtu.be/rdoFUhd0EkI)¹ (~10 min)
+- [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI)¹ (~10 min)
+- [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg)¹ (~14 min)
 - [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10)² (~48 min)
-- [Clearing some misconceptions by Aizistral](https://youtu.be/bF_37BrWBSM?t=87)² (~22 min)
+- [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87)² (~22 min)
 
 ¹ Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain.
 
