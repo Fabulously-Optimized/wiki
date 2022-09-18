@@ -41,6 +41,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 - [Clearing some misconceptions by Aizistral](https://youtu.be/bF_37BrWBSM?t=87)² (~22 min)
 
 ¹ Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain.
+
 ² Made by the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
 
 **Official posts**
