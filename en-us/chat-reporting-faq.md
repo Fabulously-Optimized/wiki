@@ -34,12 +34,15 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 **Explanatory videos**
 
-- [Simple explanation](https://youtu.be/rdoFUhd0EkI)
-- [Timeline of events](https://youtu.be/kEfyaAq90kg)
-- [Technical explanation (as of 1.19.2)](https://youtu.be/DobmW1ZUcbQ?t=10)
-- [Clearing some misconceptions](https://youtu.be/bF_37BrWBSM?t=87)
+- [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
+- [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI)¹ (~10 min)
+- [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg)¹ (~14 min)
+- [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10)² (~48 min)
+- [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87)² (~22 min)
 
-_Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain._
+¹ Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain.
+
+² Made by the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
 
 **Official posts**
 
@@ -181,11 +184,11 @@ Fabulously Optimized will not include or endorse any exploits.
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
-Profanity by itself is no longer a category one can report other players for.
+Profanity by itself is no longer a category one can report other players for. **[Swearing at friends, even jokingly, is bannable though!](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/)**
 
 ### Does Mojang monitor my chats?
 
-Yes, but only on Realms (Java and Bedrock) and [Featured Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) (only Bedrock).
+Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-titles/minecraft-realms-overview) (Java and Bedrock) and [Featured Servers](https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) (only Bedrock).
 
 [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE) says
 
