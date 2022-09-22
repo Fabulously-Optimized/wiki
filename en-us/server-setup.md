@@ -2,13 +2,13 @@
 
 Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly the same on **every server that allows vanilla clients**. 
 
-Yes, the CurseForge listing has a section of "server packs", but those are actually just the MultiMC versions that are marked as server packs for better visibility.
+Yes, the CurseForge listing has a section of "server packs", but [those are actually just the MultiMC versions](install-instructions.md#multimc) that are marked as server packs for better visibility.
 
 ### Software
 
-For server software I recommend using [Paper](https://papermc.io), which is a performance-optimized fork of Spigot, but supports all the same plugins. 
+For server software I recommend using [Paper](https://papermc.io), which is a performance-optimized fork of Spigot, but supports [all the same plugins](https://www.spigotmc.org/resources/categories/spigot.4/). 
 
-If you still like Fabric a lot, you can follow [the instruction on installing Fabric on a server](https://fabricmc.net/use/?page=server) and use [this server-side optimization](https://modrinth.com/mods?f=categories%3A%27optimization%27&g=categories%3A%27fabric%27&e=server) mod list provided by Modrinth, including many optimization mods, even ones that are in FO.
+If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/mods?f=categories%3A%27optimization%27&g=categories%3A%27fabric%27&e=server), including those in FO.
 
 If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
