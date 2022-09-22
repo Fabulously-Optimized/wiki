@@ -8,7 +8,7 @@ Yes, the CurseForge listing has a section of "server packs", but those are actua
 
 For server software I recommend using [Paper](https://papermc.io), which is a performance-optimized fork of Spigot, but supports all the same plugins. 
 
-If you still like Fabric a lot, you can also [use this list provided by Fabric itself](https://fabricmc.net/use/?page=server) or [this server-side optimization](https://modrinth.com/mods?f=categories%3A%27optimization%27&g=categories%3A%27fabric%27&e=server) mod list provided by Modrinth, including many optimization mods, even ones that are in FO.
+If you still like Fabric a lot, you can follow [the instruction on installing Fabric on a server](https://fabricmc.net/use/?page=server) and use [this server-side optimization](https://modrinth.com/mods?f=categories%3A%27optimization%27&g=categories%3A%27fabric%27&e=server) mod list provided by Modrinth, including many optimization mods, even ones that are in FO.
 
 If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
