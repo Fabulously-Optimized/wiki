@@ -43,6 +43,7 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
    * `screenshots`
    * `servers.dat` for your multiplayer servers
    * `options.txt`, if you want to keep your vanilla option changes
+   * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
 7. Close the folders and run the new version
 8. If everything looks right, delete the old version
 
@@ -74,6 +75,7 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
    * `screenshots`
    * `servers.dat` for your multiplayer servers
    * `options.txt`, if you want to keep your vanilla option changes
+   * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
 7. Close the folders and run the new version
 8. If everything looks right, delete the old version
 
