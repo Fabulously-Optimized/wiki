@@ -48,7 +48,6 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 - [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
-- [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) (basically an older version of the FAQ)
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 
 ### Is there a way to appeal the ban?
