@@ -34,6 +34,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **BungeeCord** / **Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
+  - Same comments apply as for "all servers" above.
 - **Paper/Spigot/Purpur**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin - no config required
 - **Fabric/Quilt/Forge**: install _one_ of the following plugins:
   - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat mods/vanilla chat, no config required 
