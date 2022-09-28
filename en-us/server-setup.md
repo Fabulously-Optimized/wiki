@@ -27,8 +27,8 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 #### How to protect your users
 
+- **All 1.18- backend servers**: no changes necessary, chat reporting doesn't exist.
 - **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
-  - 1.18.2 and older servers do not have this option available as chat reporting does not exist.
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
   - If no other measures are taken alongside this, _vanilla clients_ will see a warning toast in the top right corner and they will still sign the messages.
     - That means anyone can report them, but they cannot report FO users. To avoid those problems, use one of the plugins/mods below.
