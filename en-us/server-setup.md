@@ -27,15 +27,16 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 #### How to protect your users
 
-- **All servers**: set `enforce-secure-profile` to `false` in _server.properties_
+- **All 1.18- backend servers**: no changes necessary, chat reporting doesn't exist.
+- **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
   - If no other measures are taken alongside this, _vanilla clients_ will see a warning toast in the top right corner and they will still sign the messages.
     - That means anyone can report them, but they cannot report FO users. To avoid those problems, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
-- **Paper/Spigot/Purpur**: install _one_ of the following plugins:
-  - [FreedomChat](https://modrinth.com/mod/freedomchat) - compatible with most chat plugins/vanilla chat, no config required
-  - [No Chat Reports](https://www.spigotmc.org/resources/no-chat-reports-spigot-1-19.102931/) - claims to be compatible with vanilla chat; not by the dev of the Fabric mod
+- **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
+  - Same comments apply as for "all servers" above.
+- **Paper/Spigot/Purpur**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin - no config required
 - **Fabric/Quilt/Forge**: install _one_ of the following plugins:
   - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat mods/vanilla chat, no config required 
   - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat
