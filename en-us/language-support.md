@@ -38,7 +38,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 13. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
 14. [Colormatic](https://github.com/kvverti/colormatic/blob/master/src/main/resources/assets/colormatic/lang/en_us.json)
 15. [CEM](https://github.com/dorianpb/cem/blob/main/src/main/resources/assets/cem/lang/en_us.json)
-16. [Sodium](https://crowdin.com/project/sodium-fabric) (unofficial, but will be included in some way eventually)
+16. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
 17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
 18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform that FO will fully support soon)
 
