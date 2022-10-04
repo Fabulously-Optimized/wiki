@@ -31,7 +31,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.2/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.19.2/fabric-item-groups-v0/src/main/resources/assets/fabric/lang/en_us.json)
 7. [Zoomify](https://github.com/isXander/Zoomify/blob/1.19/src/main/resources/assets/zoomify/lang/en_us.json)
 8. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.19/src/main/resources/assets/lambdabettergrass/lang/en_us.json)
-9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.19/src/main/resources/assets/lambdynlights/lang/en_us)
+9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.19/src/main/resources/assets/lambdynlights/lang/en_us.json)
 10. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.19/src/main/resources/assets/spruceui/lang/en_us.json) (more strings used in LambdaBetterGrass and LambDynamicLights)
 11. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en_us.json)
 12. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
