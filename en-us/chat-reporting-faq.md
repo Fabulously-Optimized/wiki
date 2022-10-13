@@ -206,7 +206,7 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
-Profanity by itself is no longer a category one can report other players for. **[Swearing at friends, even jokingly, is bannable though!](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/)**
+Profanity by itself is no longer a category one can report other players for. **Swearing at friends, even jokingly, is bannable though** - read the next section for more info. 
 
 ### Does Mojang monitor my chats?
 
@@ -221,6 +221,8 @@ Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-ti
 Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
 
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
+
+Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
 
 ### I have more questions.
 
