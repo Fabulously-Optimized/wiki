@@ -189,10 +189,10 @@ Yes. This is mostly useful in Realms and in public servers' private messages wit
 In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
 
 1. Open `.minecraft` folder
-   * CurseForge Launcher: right click on the modpack tile -> Open Folder
-   * MultiMC: right click on the instance -> Minecraft Folder
-   * GDLauncher: right click on the instance -> Open Folder
-   * Vanilla launcher: go to Installations tab -> hover on the instance -> click 📁
+   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
+   * MultiMC: right click on the instance -> `Minecraft Folder`
+   * GDLauncher: right click on the instance -> `Open Folder`
+   * Vanilla launcher: go to Installations tab -> hover on the instance -> click <kbd>📁</kbd>
 2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
 3. Set `showEncryptionButton` to `true`
 4. Launch the game
