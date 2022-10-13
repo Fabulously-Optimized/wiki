@@ -184,7 +184,7 @@ Fabulously Optimized will not include or endorse any exploits.
 
 ### Can I encrypt my chat messages?
 
-Yes. This is mostly useful in Realms and in public servers' private messages with friends, as long as you know how and where to use it.
+Yes. This is [mostly useful in Realms](#does-mojang-monitor-my-chats) and in public servers' private messages with friends, as long as you know how and where to use it.
 
 In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
 
