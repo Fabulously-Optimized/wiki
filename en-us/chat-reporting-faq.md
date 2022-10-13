@@ -86,6 +86,10 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
 
+### What about Realms?
+
+See [does Mojang monitor my chats](chat-reporting-faq#does-mojang-monitor-my-chats).
+
 ### I want to give feedback to Mojang.
 
 Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
@@ -100,8 +104,9 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it. It also reverts most of the chat indicators added in 1.19.1, because they clutter the screen and are misleading in many cases.
 
 Look at the right corner of the chat window:
+- ![red ⚠️ with two exclamation marks](https://i.ibb.co/WcVggrL/chat-status-icons-extended.png) - only on Realms: your chat is constantly monitored by Mojang and always reportable. 
+   - If you are found to violate Minecraft's [Community Standards](https://www.minecraft.net/en-us/community-standards), you _will_ be (temporarily) banned, even when nobody you're chatting with reported you or found your message offensive.
 - ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) - you are vulnerable, any chat messages you send may be reported and used against you.
-  - This is always the case on Realms, so if you have that, you should [consider getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) (affiliate link - 25% off first month).
 - ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) - nobody can report your messages. Depending on the server, other players may see a red bar on the left of the message, ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right and if they enable the vanilla `Only Show Secure Chat` option, they may not see your chat messages at all. 
   - In practice, these mentioned chat side effects will likely only occur on vanilla servers. Most servers use Paper or Spigot and will take a stance to either disable or enforce chat reporting for everyone.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
@@ -177,6 +182,24 @@ No, that makes you more likely to get banned. It is up to the server to decide w
 
 Fabulously Optimized will not include or endorse any exploits.
 
+### Can I encrypt my chat messages?
+
+Yes. This is mostly useful in Realms and in public servers' private messages with friends, as long as you know how and where to use it.
+
+In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
+
+1. Open `.minecraft` folder
+   * CurseForge Launcher: right click on the modpack tile -> Open Folder
+   * MultiMC: right click on the instance -> Minecraft Folder
+   * GDLauncher: right click on the instance -> Open Folder
+   * Vanilla launcher: go to Installations tab -> hover on the instance -> click 📁
+2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
+3. Set `showEncryptionButton` to `true`
+4. Launch the game
+5. Join any world or server
+6. Click your chat key, default <kbd>T</kbd>
+7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
+
 ## Other questions
 
 ### Does Java Edition have a profanity filter?
@@ -198,24 +221,6 @@ Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-ti
 Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
 
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
-
-### Can I encrypt my chat messages?
-
-Yes. This is mostly useful in Realms and in public servers' private messages with friends, but you need to learn how to use it to take advantage of it.
-
-In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to to the following to enable it:
-
-1. Open `.minecraft` folder
-   * CurseForge Launcher: right click on the modpack tile -> Open Folder
-   * MultiMC: right click on the instance -> Minecraft Folder
-   * GDLauncher: right click on the instance -> Open Folder
-   * Vanilla launcher: go to Installations tab -> hover on the instance -> click 📁
-2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
-3. Set `showEncryptionButton` to `true`
-4. Launch Fabulously Optimized
-5. Join any world or server
-6. Click your chat key, default <kbd>T</kbd>
-7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
 
 ### I have more questions.
 
