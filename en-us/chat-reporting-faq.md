@@ -199,6 +199,24 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
 
+### Can I encrypt my chat messages?
+
+Yes. This is mostly useful in Realms and in public servers' private messages with friends, but you need to learn how to use it to take advantage of it.
+
+In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to to the following to enable it:
+
+1. Open `.minecraft` folder
+   * CurseForge Launcher: right click on the modpack tile -> Open Folder
+   * MultiMC: right click on the instance -> Minecraft Folder
+   * GDLauncher: right click on the instance -> Open Folder
+   * Vanilla launcher: go to Installations tab -> hover on the instance -> click 📁
+2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
+3. Set `showEncryptionButton` to `true`
+4. Launch Fabulously Optimized
+5. Join any world or server
+6. Click your chat key, default <kbd>T</kbd>
+7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
+
 ### I have more questions.
 
 Write to `#support` [in our Discord](https://discord.gg/yxaXtaQqdB).
