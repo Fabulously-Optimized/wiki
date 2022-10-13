@@ -12,7 +12,7 @@ If you still like Fabric a lot, you can [install it on a server as well](https:/
 
 If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
-### 1.19.1+
+### Chat Reporting
 
 Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). 
 
