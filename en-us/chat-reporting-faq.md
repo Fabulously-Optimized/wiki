@@ -88,7 +88,7 @@ See [server setup](server-setup.md#how-to-protect-your-users). If you are a play
 
 ### What about Realms?
 
-See [does Mojang monitor my chats](chat-reporting-faq#does-mojang-monitor-my-chats).
+See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 
 ### I want to give feedback to Mojang.
 
