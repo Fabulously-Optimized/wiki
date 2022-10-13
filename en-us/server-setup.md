@@ -6,7 +6,7 @@ Yes, the CurseForge listing has a section of "server packs", but [those are actu
 
 ### Software
 
-For server software I recommend using [Paper](https://papermc.io), which is a performance-optimized fork of Spigot, but supports [all the same plugins](https://www.spigotmc.org/resources/categories/spigot.4/). 
+For server software I recommend using [Paper](https://papermc.io), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) or [Purpur](https://github.com/PurpurMC/Purpur/), which are performance-optimized forks of Spigot, but support [all the same plugins](https://www.spigotmc.org/resources/categories/spigot.4/). 
 
 If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/mods?f=categories%3A%27optimization%27&g=categories%3A%27fabric%27&e=server), including those in FO.
 
@@ -36,7 +36,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
   - Same comments apply as for "all servers" above.
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all servers" above.
-- **Paper/Spigot/Purpur**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin - no config required
+- **Paper/Pufferfish/Purpur/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin - no config required
 - **Fabric/Quilt/Forge**: install _one_ of the following plugins:
   - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat mods/vanilla chat, no config required 
   - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat
