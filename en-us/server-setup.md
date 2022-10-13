@@ -24,6 +24,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
   * If you're using vanilla-like chat, vanilla users may see a red bar on the left of the message and ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right on FO users' messages. FO users can report vanilla users, but vanilla users cannot report FO users.
   * If you're using the [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) mod, FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) and the report button will be disabled
 * If your server is based on 1.19 or up and chat signatures are enforced, FO users will have their messages signed as well. FO users will see ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) on the bottom right corner of the chatbox.
+* If you're using Realms, everyone is monitored by Mojang and has chat messages signed. FO users will see ![red ⚠️ with two exclamation marks](https://i.ibb.co/WcVggrL/chat-status-icons-extended.png) on the bottom right corner of the chatbox.
 
 #### How to protect your users
 
@@ -42,7 +43,9 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
   - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat
     - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE)
+  - Consider [encrypting your chat messages](chat-reporting-faq.md#can-i-encrypt-my-chat-messages) to protect yourself. 
+    - You obviously need to let other members of the server also know how to do that and what method/key will you be using. 
   - [There is a workaround datapack](https://www.planetminecraft.com/data-pack/no-more-chat-reports-datapack/) where you can use a book to chat, but you are only protected if you use it instead of normal chat textbox
-  - Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) (affiliate link - 25% off first month).
+  - Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) to avoid surveillance altogether (affiliate link - 25% off first month).
 
 _This section is also reposted to [No Chat Reports wiki](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players)._
