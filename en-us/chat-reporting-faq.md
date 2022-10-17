@@ -148,7 +148,7 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
 
-To discourage 1.19 and 1.19.1 use, I have hidden the respective versions on CurseForge. If you want to stay on an older version, please use the latest version for 1.18.2.
+If you want to stay on an older version, please use the latest version for 1.18.2.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
