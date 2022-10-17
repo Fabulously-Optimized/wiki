@@ -49,6 +49,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 - [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
+- [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
 
 ### Is there a way to appeal the ban?
 
