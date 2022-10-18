@@ -45,9 +45,9 @@ Method 2:
 4. Choose any mod you want (make sure it is for Fabric) and click `Download`
 5. Close the sub-window and click on Fabulously Optimized to run the game. You should now have the new mod(s) installed!
 
-### PolyMC
+### Prism Launcher
 
-1. Open PolyMC
+1. Open Prism Launcher
 2. Click on Fabulously Optimized, then `Edit Instance`
 3. Click on `Mods`, then `Download mods`
 4. Search for the mod you want from either Modrinth or CurseForge
