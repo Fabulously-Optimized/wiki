@@ -12,7 +12,7 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
-* **Realms chat is monitored regardless of reports** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported or not. This was not possible before they introduced global bans.
+* **Realms chat is always reportable and always monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
 
 * **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically [pause the subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) of any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control. This makes sense for short-term bans like up to a week, but any longer than that should give an explicit option at least.
 
@@ -48,8 +48,8 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 - [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
-- [Blog post](https://www.minecraft.net/en-us/article/addressing-player-chat-reporting-tool) (basically an older version of the FAQ)
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
+- [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
 
 ### Is there a way to appeal the ban?
 
@@ -87,6 +87,10 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
 
+### What about Realms?
+
+See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
+
 ### I want to give feedback to Mojang.
 
 Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
@@ -101,8 +105,9 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it. It also reverts most of the chat indicators added in 1.19.1, because they clutter the screen and are misleading in many cases.
 
 Look at the right corner of the chat window:
+- ![red ⚠️ with two exclamation marks](https://i.ibb.co/WcVggrL/chat-status-icons-extended.png) - only on Realms: your chat is constantly monitored by Mojang and always reportable. 
+   - If you are found to violate Minecraft's [Community Standards](https://www.minecraft.net/en-us/community-standards), you _will_ be (temporarily) banned, even when nobody you're chatting with reported you or found your message offensive.
 - ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) - you are vulnerable, any chat messages you send may be reported and used against you.
-  - This is always the case on Realms, so if you have that, you should [consider getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) (affiliate link - 25% off first month).
 - ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) - nobody can report your messages. Depending on the server, other players may see a red bar on the left of the message, ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right and if they enable the vanilla `Only Show Secure Chat` option, they may not see your chat messages at all. 
   - In practice, these mentioned chat side effects will likely only occur on vanilla servers. Most servers use Paper or Spigot and will take a stance to either disable or enforce chat reporting for everyone.
 - ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
@@ -144,7 +149,7 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
 
-To discourage 1.19 and 1.19.1 use, I have hidden the respective versions on CurseForge. If you want to stay on an older version, please use the latest version for 1.18.2.
+If you want to stay on an older version, please use the latest version for 1.18.2.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
@@ -178,13 +183,31 @@ No, that makes you more likely to get banned. It is up to the server to decide w
 
 Fabulously Optimized will not include or endorse any exploits.
 
+### Can I encrypt my chat messages?
+
+Yes. This is [mostly useful in Realms](#does-mojang-monitor-my-chats) and in public servers' private messages with friends, as long as you know how and where to use it.
+
+In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
+
+1. Open `.minecraft` folder
+   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
+   * MultiMC: right click on the instance -> `Minecraft Folder`
+   * GDLauncher: right click on the instance -> `Open Folder`
+   * Vanilla launcher: go to Installations tab -> hover on the instance -> click <kbd>📁</kbd>
+2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
+3. Set `showEncryptionButton` to `true`
+4. Launch the game
+5. Join any world or server
+6. Click your chat key, default <kbd>T</kbd>
+7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
+
 ## Other questions
 
 ### Does Java Edition have a profanity filter?
 
 Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
-Profanity by itself is no longer a category one can report other players for. **[Swearing at friends, even jokingly, is bannable though!](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/)**
+Profanity by itself is no longer a category one can report other players for. **Swearing at friends, even jokingly, is bannable though** - read the next section for more info. 
 
 ### Does Mojang monitor my chats?
 
@@ -199,6 +222,8 @@ Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-ti
 Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
 
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
+
+Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
 
 ### I have more questions.
 
