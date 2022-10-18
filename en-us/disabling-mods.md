@@ -45,9 +45,9 @@ There is currently no _easy_ way because the tool downloads missing mods back on
 3. Select `Mods`
 4. Find the mod you need, toggle the knob.
 
-### PolyMC
+### Prism Launcher
 
-1. Open PolyMC
+1. Open Prism Launcher
 2. Click on Fabulously Optimized, then `Edit Instance`
 3. Go to `Mods`
 4. Find the mod you need, uncheck the checkbox.
