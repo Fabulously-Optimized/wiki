@@ -41,6 +41,11 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
       5. Drag the downloaded mod into the mod list
       6. Click `Launch`
 
+### PolyMC
+
+[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) - if you use it, please uninstall it immediately. 
+We recommend using MultiMC with the instructions above.
+
 ### [GDLauncher](https://gdevs.io)
 
 1. Click ➕ on bottom left corner
