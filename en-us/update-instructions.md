@@ -87,7 +87,7 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 6. Modpack will now update.
 7. After updating you can run it and check the version difference in the bottom right corner.
 
-### PolyMC
+### Prism Launcher
 
 1. Click `Add Instance`.
 2. Select `Modrinth` tab from the left
