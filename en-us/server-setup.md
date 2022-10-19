@@ -36,7 +36,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
   - Same comments apply as for "all servers" above.
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all servers" above.
-- **Spigot/Paper/Pufferfish/Purpur**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin and ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config folder for best effects.
+- **Spigot/Paper/Pufferfish/Purpur**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin and ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config folder. FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat.
 - **Forge/Fabric/Quilt**: install _one_ of the following plugins:
   - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat mods/vanilla chat, no config required.
   - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![green ✅](https://i.ibb.co/LPXNKRM/green.png) icon near chat.
