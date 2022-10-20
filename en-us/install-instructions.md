@@ -7,12 +7,16 @@
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Install` on the topmost CurseForge version
 3. Accept the prompt (if asked), download should start
+4. To run the modpack, hover on the modpack icon and click `Play`
+5. Once the Minecraft Launcher has opened, click `Play` again
 
 #### Or with the launcher already open:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
+4. To run the modpack, hover on the modpack icon and click `Play`
+5. Once the Minecraft Launcher has opened, click `Play` again
 
 ### [MultiMC](https://multimc.org)
 
@@ -24,6 +28,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. To run the modpack, double click the Fabulously Optimized icon
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
@@ -43,8 +48,24 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### PolyMC
 
-[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) - if you use it, please uninstall it immediately. 
-We recommend using MultiMC with the instructions above.
+**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+
+To migrate to MultiMC, follow these instructions:
+
+1. Uninstall PolyMC
+2. Install [MultiMC](https://multimc.org)
+3. Go to one of these directories according to your operating system:
+   - Portable (Windows / Linux): `PolyMC/instances`
+   - Windows: `%APPDATA%/PolyMC/instances`
+   - macOS: `~/Library/Application Support/PolyMC/instances`
+   - Linux: `~/.local/share/PolyMC/instances`
+4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
+5. Open MultiMC, click `Folders`, then `View Instance Folder`
+6. Once your instance folder has opened, right click anywhere and select `Paste`
+7. Close MultiMC and reopen it, your instances should be there
+8. Sign in to your accounts, configure MultiMC to your preferences
+9. If needed, [update](update-instructions.md#multimc) or [install](install-instructions.md#multimc) the modpack again
+10. To run the modpack, double click the Fabulously Optimized icon
 
 ### [GDLauncher](https://gdevs.io)
 
@@ -53,6 +74,7 @@ We recommend using MultiMC with the instructions above.
 3. Search for "Fabulously Optimized"
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
+6. To run the modpack, click the Fabulously Optimized icon
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
