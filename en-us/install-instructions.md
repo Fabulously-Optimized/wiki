@@ -64,7 +64,7 @@ To migrate to MultiMC, follow these instructions:
 6. Once your instance folder has opened, right click anywhere and select `Paste`
 7. Close MultiMC and reopen it, your instances should be there
 8. Sign in to your accounts, configure MultiMC to your preferences
-9. If needed, [update](update-instructions#multimc) or [install](install-instructions#multimc) the modpack again
+9. If needed, [update](update-instructions.md#multimc) or [install](install-instructions.md#multimc) the modpack again
 10. To run the instance, double click the Fabulously Optimized instance
 
 ### [GDLauncher](https://gdevs.io)
