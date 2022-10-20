@@ -95,16 +95,8 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
-5. Click that version you just created, then `Minecraft Folder`
-6. Click the previous version, then `Minecraft Folder`
-7. Copy the important files and folders over:
-   * `saves` for your local worlds
-   * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
-   * `screenshots`
-   * `servers.dat` for your multiplayer servers
-   * `options.txt`, if you want to keep your vanilla option changes
-8. Close the folders and run the new version
-9. If everything looks right, delete the old version
+5. Once the update prompt comes up, click `Update existing instance`
+6. Once the name prompt comes up, click `Yes`
 
 ### Minecraft Launcher (vanilla)
 

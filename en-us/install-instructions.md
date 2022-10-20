@@ -54,7 +54,7 @@ We recommend using MultiMC with the instructions above.
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
 
-### [PolyMC](https://polymc.org/)
+### [Prism Launcher](https://prismlauncher.org/)
 
 You need [Java 17 or higher](https://polymc.org/wiki/getting-started/installing-java/) to play the game.
 
@@ -63,6 +63,7 @@ You need [Java 17 or higher](https://polymc.org/wiki/getting-started/installing-
 3. Select "Fabulously Optimized"
 4. Click `OK`
 5. The modpack will now install.
+6. Once installed, double-click the icon to play.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
@@ -87,7 +88,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Modrinth Launcher
 
-Fabulously Optimized is indeed [already available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. For now see [PolyMC](#polymc) for a different launcher that also downloads from Modrinth.
+Fabulously Optimized is indeed [already available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
 ### Other launchers
 
