@@ -56,7 +56,7 @@ To migrate and move instances from PolyMC to MultiMC, follow these instructions:
   - macOS: ~/Library/Application Support/PolyMC/instances
   - Linux: ~/.local/share/PolyMC/instances
 
-4. Select all the files and folders in the instances folder, right click on of the files or folders and click `Copy`
+4. Select all the files and folders in the instances folder, right click on one of the files or folders and click `Copy`
 5. Open MultiMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
 6. Once your instance folder has opened, right click anywhere in the instance folder and click `Paste`
 7. Close MultiMC and reopen it, and your instances should be there
