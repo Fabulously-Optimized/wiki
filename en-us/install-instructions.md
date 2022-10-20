@@ -24,6 +24,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. To run the instance on the side bar, click `Launch` or click `Edit Instance` and at the bottom of the window click `Launch`
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
@@ -60,6 +61,7 @@ To migrate to MultiMC, follow these instructions:
 7. Close MultiMC and reopen it, your instances should be there
 8. Sign in to your accounts, configure MultiMC to your preferences
 9. If needed, [update](update-instructions#multimc) or [install](install-instructions#multimc) the modpack again
+10. To run the instance, on the side bar click `Launch` or click `Edit Instance` and at the bottom of the window click `Launch`
 
 ### [GDLauncher](https://gdevs.io)
 
