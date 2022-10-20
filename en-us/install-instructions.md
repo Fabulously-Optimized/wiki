@@ -46,6 +46,14 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 [PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) - if you use it, please uninstall it immediately. 
 We recommend using MultiMC with the instructions above.
 
+To migrate and move instances from PolyMC to MultiMC, follow these instructions:
+
+1. Open PolyMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
+2. Once your instance folder has opened, select all the folders and files in the instance folder, right click and click `Copy`
+3. Open MultiMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
+4. Once your instance folder has opened, right click anywhere in the instance folder and click `Paste`
+5. Finally, restart MultiMC and your instances should show up in the instance list
+
 ### [GDLauncher](https://gdevs.io)
 
 1. Click ➕ on bottom left corner
