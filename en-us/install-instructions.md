@@ -48,11 +48,18 @@ We recommend using MultiMC with the instructions above.
 
 To migrate and move instances from PolyMC to MultiMC, follow these instructions:
 
-1. Open PolyMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
-2. Once your instance folder has opened, select all the folders and files in the instance folder, right click and click `Copy`
-3. Open MultiMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
-4. Once your instance folder has opened, right click anywhere in the instance folder and click `Paste`
-5. Finally, restart MultiMC and your instances should show up in the instance list
+1. Uninstall PolyMC
+2. Install [MultiMC](https://multimc.org)
+3. Setup MultiMC to your prefrences
+4. Go to one of these directories according to your operating system:
+  - Portable (Windows / Linux): PolyMC/instances
+  - Windows: %APPDATA%/PolyMC/instances
+  - macOS: ~/Library/Application Support/PolyMC/instances
+  - Linux: ~/.local/share/PolyMC/instances
+
+5. Select all the files and folders in the instances folder, right click on of the files or folders and click `Copy`
+6. Open MultiMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
+7. Once your instance folder has opened, right click anywhere in the instance folder and click `Paste`
 
 ### [GDLauncher](https://gdevs.io)
 
