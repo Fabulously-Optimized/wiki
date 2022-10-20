@@ -74,7 +74,7 @@ To migrate to MultiMC, follow these instructions:
 3. Search for "Fabulously Optimized"
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
-6. To run the modpack, left click on the modpack icon
+6. To run the modpack, click the Fabulously Optimized icon
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
