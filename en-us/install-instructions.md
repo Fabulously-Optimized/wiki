@@ -43,8 +43,23 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### PolyMC
 
-[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) - if you use it, please uninstall it immediately. 
-We recommend using MultiMC with the instructions above.
+[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately.
+
+To migrate to MultiMC, follow these instructions:
+
+1. Uninstall PolyMC
+2. Install [MultiMC](https://multimc.org)
+3. Go to one of these directories according to your operating system:
+   - Portable (Windows / Linux): `PolyMC/instances`
+   - Windows: `%APPDATA%/PolyMC/instances`
+   - macOS: `~/Library/Application Support/PolyMC/instances`
+   - Linux: `~/.local/share/PolyMC/instances`
+4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
+5. Open MultiMC, click `Folders`, then `View Instance Folder`
+6. Once your instance folder has opened, right click anywhere and select `Paste`
+7. Close MultiMC and reopen it, your instances should be there
+8. Sign in to your accounts, configure MultiMC to your preferences
+9. If needed, [update](update-instructions#multimc) or [install](install-instructions#multimc) the modpack again
 
 ### [GDLauncher](https://gdevs.io)
 
