@@ -7,12 +7,16 @@
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Install` on the topmost CurseForge version
 3. Accept the prompt (if asked), download should start
+4. To run the modpack, hover on the modpack icon and click `Play`
+5. Once the Minecraft Launcher has opened, click `Play` again
 
 #### Or with the launcher already open:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
+4. To run the modpack, hover on the modpack icon and click `Play`
+5. Once the Minecraft Launcher has opened, click `Play` again
 
 ### [MultiMC](https://multimc.org)
 
@@ -24,6 +28,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. To run the modpack, double click the Fabulously Optimized icon
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
@@ -60,6 +65,7 @@ To migrate to MultiMC, follow these instructions:
 7. Close MultiMC and reopen it, your instances should be there
 8. Sign in to your accounts, configure MultiMC to your preferences
 9. If needed, [update](update-instructions.md#multimc) or [install](install-instructions.md#multimc) the modpack again
+10. To run the modpack, double click the Fabulously Optimized icon
 
 ### [GDLauncher](https://gdevs.io)
 
@@ -68,6 +74,7 @@ To migrate to MultiMC, follow these instructions:
 3. Search for "Fabulously Optimized"
 4. Click `Download Latest`
 5. Click ➡️ on the bottom right
+6. To run the modpack, click the Fabulously Optimized icon
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
