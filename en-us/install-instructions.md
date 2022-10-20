@@ -60,7 +60,8 @@ To migrate and move instances from PolyMC to MultiMC, follow these instructions:
 5. Open MultiMC, click `Folders`, and on the dropdown menu click `View Instance Folder`
 6. Once your instance folder has opened, right click anywhere in the instance folder and click `Paste`
 7. Close MultiMC and reopen it, and your instances should be there
-8. Finally, configure MultiMC to your preferences
+8. Sign in to your accounts, configure MultiMC to your preferences
+9. If needed, [update](update-instructions#multimc) or [install](install-instructions#multimc) the modpack again
 
 ### [GDLauncher](https://gdevs.io)
 
