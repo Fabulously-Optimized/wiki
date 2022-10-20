@@ -48,7 +48,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### PolyMC
 
-[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately.
+**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
 To migrate to MultiMC, follow these instructions:
 
