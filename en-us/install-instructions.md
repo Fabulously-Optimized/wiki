@@ -50,31 +50,22 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 **[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
-To migrate to MultiMC, follow these instructions:
+To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 1. Uninstall PolyMC
-2. Install [MultiMC](https://multimc.org)
+2. Install [Prism Launcher](https://prismlauncher.org/)
 3. Go to one of these directories according to your operating system:
    - Portable (Windows / Linux): `PolyMC/instances`
    - Windows: `%APPDATA%/PolyMC/instances`
    - macOS: `~/Library/Application Support/PolyMC/instances`
    - Linux: `~/.local/share/PolyMC/instances`
 4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
-5. Open MultiMC, click `Folders`, then `View Instance Folder`
+5. Open Prism Launcher, click `Folders`, then `View Instance Folder`
 6. Once your instance folder has opened, right click anywhere and select `Paste`
-7. Close MultiMC and reopen it, your instances should be there
-8. Sign in to your accounts, configure MultiMC to your preferences
-9. If needed, [update](update-instructions.md#multimc) or [install](install-instructions.md#multimc) the modpack again
+7. Close Prism Launcher and reopen it, your instances should be there
+8. Sign in to your accounts, configure Prism Launcher to your preferences
+9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
 10. To run the modpack, double click the Fabulously Optimized icon
-
-### [GDLauncher](https://gdevs.io)
-
-1. Click ➕ on bottom left corner
-2. Select `CurseForge` tab
-3. Search for "Fabulously Optimized"
-4. Click `Download Latest`
-5. Click ➡️ on the bottom right
-6. To run the modpack, click the Fabulously Optimized icon
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
@@ -86,6 +77,15 @@ You need [Java 17 or higher](https://polymc.org/wiki/getting-started/installing-
 4. Click `OK`
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
+
+### [GDLauncher](https://gdevs.io)
+
+1. Click ➕ on bottom left corner
+2. Select `CurseForge` tab
+3. Search for "Fabulously Optimized"
+4. Click `Download Latest`
+5. Click ➡️ on the bottom right
+6. To run the modpack, click the Fabulously Optimized icon
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
