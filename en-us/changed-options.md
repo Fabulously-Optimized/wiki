@@ -6,7 +6,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ### Options
 
-| Option                      | Description                                                                                                                                                                                           | Vanilla  | Modpack | Why changed?                                                                                                                                         |
+| Option                      | Description                                                                                                                                                                                           | Vanilla  | Modpack | Reason for Change                                                                                                                                         |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | autoJump                    | Makes the player jump when approaching a 1-height block                                                                                                                                               | true     | false   | Many people consider it annoying and therefore disable it                                                                                   |
 | snooperEnabled              | Toggles [Snooper](https://minecraft.fandom.com/wiki/Snooper), a hardware analytics service. The setting was removed in 1.13 but it still exists in options (and defaults to enabled) for some reason. | true     | false   | Just in case, to improve privacy. In 1.18+ [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to actually enforce it. |
@@ -24,7 +24,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ### Keybinds
 
-| Option                            | Description                                                         | Default | Modpack | Why changed?                                                            |
+| Option                            | Description                                                         | Default | Modpack | Reason for Change                                                            |
 | --------------------------------- | ------------------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
 | Vanilla: Save Hotbar Activator    | Saves your hotbar if this key and a number key are held             | c       | none    | This key is more often used for zoom                                    |
 | Zoomify/WI Zoom: Zoom             | Zooms the view when the key is held                                 | v       | c       | This key is more often used for zoom                                    |
