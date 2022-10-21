@@ -69,7 +69,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
-You need [Java 17 or higher](https://polymc.org/wiki/getting-started/installing-java/) to play the game.
+You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
 1. Click `Add Instance`.
 2. Select `Modrinth` tab from the left
