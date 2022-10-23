@@ -46,27 +46,6 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
       5. Drag the downloaded mod into the mod list
       6. Click `Launch`
 
-### PolyMC
-
-**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
-
-To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
-
-1. Uninstall PolyMC
-2. Install [Prism Launcher](https://prismlauncher.org/)
-3. Go to one of these directories according to your operating system:
-   - Portable (Windows / Linux): `PolyMC/instances`
-   - Windows: `%APPDATA%/PolyMC/instances`
-   - macOS: `~/Library/Application Support/PolyMC/instances`
-   - Linux: `~/.local/share/PolyMC/instances`
-4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
-5. Open Prism Launcher, click `Folders`, then `View Instance Folder`
-6. Once your instance folder has opened, right click anywhere and select `Paste`
-7. Close Prism Launcher and reopen it, your instances should be there
-8. Sign in to your accounts, configure Prism Launcher to your preferences
-9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
-10. To run the modpack, double click the Fabulously Optimized icon
-
 ### [Prism Launcher](https://prismlauncher.org/)
 
 You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
@@ -111,6 +90,27 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 ### Modrinth Launcher
 
 Fabulously Optimized is indeed [already available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
+
+### PolyMC
+
+**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+
+To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
+
+1. Uninstall PolyMC
+2. Install [Prism Launcher](https://prismlauncher.org/)
+3. Go to one of these directories according to your operating system:
+   - Portable (Windows / Linux): `PolyMC/instances`
+   - Windows: `%APPDATA%/PolyMC/instances`
+   - macOS: `~/Library/Application Support/PolyMC/instances`
+   - Linux: `~/.local/share/PolyMC/instances`
+4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
+5. Open Prism Launcher, click `Folders`, then `View Instance Folder`
+6. Once your instance folder has opened, right click anywhere and select `Paste`
+7. Close Prism Launcher and reopen it, your instances should be there
+8. Sign in to your accounts, configure Prism Launcher to your preferences
+9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
+10. To run the modpack, double click the Fabulously Optimized icon
 
 ### Other launchers
 
