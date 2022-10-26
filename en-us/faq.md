@@ -10,7 +10,7 @@
 
 ### What is the MultiMC ZIP?
 
-- MultiMC ZIP is packaged instance for the launcher called MultiMC. It is distributed in CurseForge because MultiMC itself no longer supports downloading CurseForge Modpacks and downloads from the ZIP file support the creator of FO. This also allows for a better installation of FO for vanilla launcher users.
+- MultiMC ZIP is a packaged instance for the launcher called MultiMC. It is distributed in CurseForge because MultiMC itself no longer supports downloading CurseForge Modpacks and downloads from the ZIP file support the creator of FO. This also allows for a better installation of FO for vanilla launcher users.
 
 ### What is in the ZIP file?
 
