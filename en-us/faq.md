@@ -2,7 +2,7 @@
 
 ### How to install?
 
-- There are many ways to install FO on multiple launchers. Please use this [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions) to install FO on the launcher that you use.
+- There are many ways to install FO on multiple launchers. Please use this [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) to install FO on the launcher that you use.
 
 ### So I just copy the mods, right?
 
