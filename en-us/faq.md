@@ -1,4 +1,4 @@
-# FAQ
+# Vanilla Launcher FAQ
 
 ### How to install?
 
