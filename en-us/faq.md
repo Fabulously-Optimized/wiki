@@ -2,7 +2,7 @@
 
 ## What is this?
 
-- This FAQ gives answers to questions you might have about the Vanilla Launcher. Please join our [Discord](https://discord.gg/yxaXtaQqdB) and visit the 'support' channel if you have any additional questions. 
+- This FAQ gives answers to questions you might have about the vanilla launcher. Please join our [Discord](https://discord.gg/yxaXtaQqdB) and visit the 'support' channel if you have any additional questions. 
 
 ### How to install?
 
@@ -22,7 +22,7 @@
 
 ### Why try a different launcher?
 
-- There are a variety of launchers available, each with unique features. If you use the Vanilla Launcher, you miss out on many features, including the ability to update the modpack and the version of Minecraft, add any mods with a few simple clicks, and finally download the modpack more easily.
+- There are a variety of launchers available, each with unique features. If you use the vanilla launcher, you miss out on many features, including the ability to update the modpack and the version of Minecraft, add any mod with a few simple clicks, and finally download the modpack more easily.
 
 ### Why is FO not a client?
 
@@ -30,4 +30,4 @@
 
 ### Is there an easier way to install FO?
 
-- For the time being, we advise using launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack. On the other hand, if you wish to install FO on the Vanilla Launcher, you can use this [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) if you want to install FO on the Vanilla Launcher. A vanilla Installer that will make it simpler to install the modpack on the vanilla launcher will be soon made available, you can check out the [Github Repo](https://github.com/Fabulously-Optimized/vanilla-installer) for the installer to see when a beta could be released.
+- For the time being, we advise using launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack. On the other hand, if you wish to install FO on the Vanilla Launcher, you can use this [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) if you want to install FO on the vanilla launcher. A vanilla Installer that will make it simpler to install the modpack on the vanilla launcher will be soon made available, you can check out the [Github Repo](https://github.com/Fabulously-Optimized/vanilla-installer) for the installer to see when a beta could be released.
