@@ -191,14 +191,10 @@ Yes. This is [mostly useful in Realms](#does-mojang-monitor-my-chats) and in pub
 
 In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
 
-1. Open `.minecraft` folder
-   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
-   * MultiMC: right click on the instance -> `Minecraft Folder`
-   * GDLauncher: right click on the instance -> `Open Folder`
-   * Vanilla launcher: go to Installations tab -> hover on the instance -> click <kbd>📁</kbd>
-2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
-3. Set `showEncryptionButton` to `true`
-4. Launch the game
+1. Click Mods
+2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
+3. Select `Technical` tab, set "Show encryption button" to `Yes`
+4. `Save changes`
 5. Join any world or server
 6. Click your chat key, default <kbd>T</kbd>
 7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
