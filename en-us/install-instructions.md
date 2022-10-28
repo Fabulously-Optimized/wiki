@@ -103,6 +103,12 @@ There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/mo
 
 Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
 
+### Pojav Launcher
+
+Pojav Launcher is not supported by Fabulously Optimized, because several mods are incompatible (Sodium, Iris and related mods, Colormatic, MidnightControls) and the installation process is also way too long to describe here.
+
+Sorry, but you are on your own.
+
 ### Other launchers
 
 Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
