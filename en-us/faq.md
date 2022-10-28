@@ -6,7 +6,7 @@
 
 ### So I just copy the mods, right?
 
-- Well no because each FO instance / ZIP contains configs and a custom resource pack that is built to help the user navigate through Mod Menu. If you only copy the mods over, the configs or overrides would not apply and you would configure the mods yourself which could lead to not having the right settings to replicate OptiFine.
+- No. Fabulously Optimized consists of mods, configs and a resource pack that is built to help the user naviagte through Mod Menu. If you simply copy the mods over, the settings would not be applied, and since you would have to configure the mods yourself, you might not have the proper settings to accurately replicate OptiFine.
 
 ### What is the MultiMC ZIP?
 
