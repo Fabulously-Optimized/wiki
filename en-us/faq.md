@@ -1,5 +1,9 @@
 # Vanilla Launcher FAQ
 
+## What is this?
+
+- This FAQ gives answers to questions you might have about the Vanilla Launcher. Please join our [Discord](https://discord.gg/yxaXtaQqdB) and visit the 'support' channel if you have any additional questions. 
+
 ### How to install?
 
 - There are many ways to install FO on multiple launchers. Please use this [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) to install FO on the launcher that you use.
