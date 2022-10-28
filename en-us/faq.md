@@ -18,7 +18,7 @@
 
 ### Why try a different launcher?
 
-- There are many launchers out there that have different features to one another. For example, if you want a launcher that you cna easily update the pack on, we recommend either using GDLauncher or the CurseForge Launcher. But if you want a launcher that can be used offline with the modpack, we recommend using MultiMC and GDLauncher.
+- There are a variety of launchers available, each with unique features. If you use the Vanilla Launcher, you miss out on many features, including the ability to update the modpack and the version of Minecraft, add any mods with a few simple clicks, and finally download the modpack more easily.
 
 ### Why is FO not a client?
 
