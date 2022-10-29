@@ -105,7 +105,7 @@ Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
 
 ### Pojav Launcher
 
-Pojav Launcher is not supported by Fabulously Optimized, because several mods are incompatible (Sodium, Iris and related mods, Colormatic, MidnightControls) and the installation process is also way too complex at the moment.
+Pojav Launcher is not supported by Fabulously Optimized, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
 
 Sorry, but you are on your own.
 
