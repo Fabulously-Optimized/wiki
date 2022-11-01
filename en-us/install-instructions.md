@@ -112,6 +112,12 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
 10. To run the modpack, double click the Fabulously Optimized icon
 
+### Pojav Launcher
+
+Pojav Launcher is not supported by Fabulously Optimized, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
+
+Sorry, but you are on your own.
+
 ### Other launchers
 
 Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
