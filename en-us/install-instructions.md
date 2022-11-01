@@ -2,6 +2,8 @@
 
 **Prefer video tutorials instead of text?** [**Click here!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
 
+## Supported
+
 ### [CurseForge Launcher](https://download.curseforge.com)
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
@@ -87,9 +89,12 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
+## Not supported
+
 ### Modrinth Launcher
 
-Fabulously Optimized is indeed [already available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
+Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. When it gets released, it will be supported.
+For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
 ### PolyMC
 
@@ -112,6 +117,10 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
 10. To run the modpack, double click the Fabulously Optimized icon
 
+### ATLauncher
+
+ATLauncher is currently not supported simply because the interface is quite confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
+
 ### Pojav Launcher
 
 Pojav Launcher is not supported by Fabulously Optimized, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
@@ -122,11 +131,11 @@ Sorry, but you are on your own.
 
 Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, I do not give support for them.
 
-### Servers
+## Servers
 
 Any server is supported, no installation is necessary. Still, it is highly recommended to protect your users from chat reports on 1.19.1+, see [server setup](server-setup.md) for more info.
 
-### Quilt
+## Quilt
 
 There have been questions regarding whether Fabulously Optimized can be installed with [Quilt](https://quiltmc.org). The answer is: probably, while Fabric mods are still supported in it, but this modpack's maintainer does not provide support for that. [(You can ask in Quilt's Discord, though.)](https://discord.quiltmc.org/)
 
