@@ -98,7 +98,7 @@ For now see [Prism Launcher](#prism-launcher) for a different launcher that also
 
 ### ATLauncher
 
-ATLauncher is currently not supported simply because the interface is currently confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
+ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
 
 ### Pojav Launcher
 
