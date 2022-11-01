@@ -9,7 +9,7 @@ OptiFine shaders are supported using [Iris](https://www.curseforge.com/minecraft
 The installation is simple:
 
 1. Open Minecraft with Fabulously Optimized installed
-2. Open `Options...` -> `Video Settings...` -> `Shader Packs...`
+2. Open `Options...` → `Video Settings...` → `Shader Packs...`
 3. Download any OptiFine-compatible shader pack, [recommended ones are here](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
 4. Drag the ZIP file into the shader pack screen
 5. Select the shader, make sure _Shaders_ is set to enabled and click `Apply`
