@@ -96,9 +96,19 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. When it gets released, it will be supported.
 For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
+### ATLauncher
+
+ATLauncher is currently not supported simply because the interface is currently confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
+
+### Pojav Launcher
+
+Pojav Launcher is not supported, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
+
+Sorry, but you are on your own.
+
 ### PolyMC
 
-**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+**[PolyMC is considered unsafe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
 To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
@@ -116,16 +126,6 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 8. Sign in to your accounts, configure Prism Launcher to your preferences
 9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
 10. To run the modpack, double click the Fabulously Optimized icon
-
-### ATLauncher
-
-ATLauncher is currently not supported simply because the interface is quite confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
-
-### Pojav Launcher
-
-Pojav Launcher is not supported by Fabulously Optimized, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
-
-Sorry, but you are on your own.
 
 ### Other launchers
 
