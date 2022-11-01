@@ -59,7 +59,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
-### [GDLauncher](https://gdevs.io)
+### [GDLauncher](https://gdlauncher.com/)
 
 1. Click ➕ on bottom left corner
 2. Select `CurseForge` tab
