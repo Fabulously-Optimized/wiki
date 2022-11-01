@@ -104,8 +104,6 @@ ATLauncher is currently not supported simply because the interface is confusing 
 
 Pojav Launcher is not supported, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
 
-Sorry, but you are on your own.
-
 ### PolyMC
 
 **[PolyMC is considered unsafe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
