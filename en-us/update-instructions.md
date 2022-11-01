@@ -128,6 +128,7 @@ However, at some point you may still want to do that in order to get the latest 
 1. Open the modpack folder
    * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
    * MultiMC: right click on the instance -> `Minecraft Folder`
+   * Prism Launcher: right click on the instance -> `Folder` -> `.minecraft`
    * GDLauncher: right click on the instance -> `Open Folder`
    * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
 2. Delete the `config` folder
