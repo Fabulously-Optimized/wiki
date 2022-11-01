@@ -38,6 +38,13 @@ Notes:
 
 There is currently no _easy_ way because the tool downloads missing mods back on launch. There are script workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
+### Prism Launcher
+
+1. Open Prism Launcher
+2. Click on Fabulously Optimized, then `Edit`
+3. Go to `Mods`
+4. Find the mod you need, uncheck the checkbox.
+
 ### GDLauncher
 
 1. Open GDLauncher

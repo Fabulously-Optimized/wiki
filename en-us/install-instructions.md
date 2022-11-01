@@ -46,26 +46,16 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
       5. Drag the downloaded mod into the mod list
       6. Click `Launch`
 
-### PolyMC
+### [Prism Launcher](https://prismlauncher.org/)
 
-**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
-To migrate to MultiMC, follow these instructions:
-
-1. Uninstall PolyMC
-2. Install [MultiMC](https://multimc.org)
-3. Go to one of these directories according to your operating system:
-   - Portable (Windows / Linux): `PolyMC/instances`
-   - Windows: `%APPDATA%/PolyMC/instances`
-   - macOS: `~/Library/Application Support/PolyMC/instances`
-   - Linux: `~/.local/share/PolyMC/instances`
-4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
-5. Open MultiMC, click `Folders`, then `View Instance Folder`
-6. Once your instance folder has opened, right click anywhere and select `Paste`
-7. Close MultiMC and reopen it, your instances should be there
-8. Sign in to your accounts, configure MultiMC to your preferences
-9. If needed, [update](update-instructions.md#multimc) or [install](install-instructions.md#multimc) the modpack again
-10. To run the modpack, double click the Fabulously Optimized icon
+1. Click `Add Instance`.
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. The modpack will now install.
+6. Once installed, double-click the icon to play.
 
 ### [GDLauncher](https://gdevs.io)
 
@@ -97,11 +87,30 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
-### Modrinth
+### Modrinth Launcher
 
-There is indeed [an official listing of FO on Modrinth.](https://modrinth.com/modpack/fabulously-optimized) However, it is currently experimental and there is no official launcher yet, so no instructions or support are given.
+Fabulously Optimized is indeed [already available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
-Meanwhile you can `♡ Follow` the project to get notified of updates 🙂
+### PolyMC
+
+**[PolyMC has been compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+
+To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
+
+1. Uninstall PolyMC
+2. Install [Prism Launcher](https://prismlauncher.org/)
+3. Go to one of these directories according to your operating system:
+   - Portable (Windows / Linux): `PolyMC/instances`
+   - Windows: `%APPDATA%/PolyMC/instances`
+   - macOS: `~/Library/Application Support/PolyMC/instances`
+   - Linux: `~/.local/share/PolyMC/instances`
+4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
+5. Open Prism Launcher, click `Folders`, then `View Instance Folder`
+6. Once your instance folder has opened, right click anywhere and select `Paste`
+7. Close Prism Launcher and reopen it, your instances should be there
+8. Sign in to your accounts, configure Prism Launcher to your preferences
+9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
+10. To run the modpack, double click the Fabulously Optimized icon
 
 ### Pojav Launcher
 
