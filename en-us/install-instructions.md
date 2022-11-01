@@ -102,7 +102,7 @@ ATLauncher is currently not supported simply because the interface is confusing 
 
 ### Pojav Launcher
 
-Pojav Launcher is not supported, because several mods are incompatible (Sodium, Iris and related mods; Colormatic; MidnightControls) and the installation process is also way too complex at the moment.
+Pojav Launcher is not supported, because several mods are incompatible (Sodium, Iris and related mods; possibly more), mobile devices need adjusted video settings to be more performant and the installation process is also way too complex at the moment.
 
 ### PolyMC
 
