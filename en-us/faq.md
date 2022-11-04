@@ -27,6 +27,7 @@
 ### Why is FO not a client?
 
 - FO is not a client because simply we would need to be able to code a client which would require people to know the programming language that we are writing the client in. By being a modpack, this makes it easier for the creator and user to add their own mods in and use Fabulously Optimized as base pack for their own mods they want to add in. This can also make it easier to update the modpack by adding in replacement mods while waiting for other mods in the pack to update.
+
 ### Is there an easier way to install FO?
 
 - For the time being, we advise using launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack and have extra features which can help with downloading mods or downloading a new Minecraft version. On the other hand, if you wish to install FO on the vanilla launcher, you can use this [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) if you want to install FO on the vanilla launcher. A vanilla Installer that will make it simpler to install the modpack on the vanilla launcher will be soon made available, you can check out the [Github Repo](https://github.com/Fabulously-Optimized/vanilla-installer) for the installer to see when a beta could be released.
