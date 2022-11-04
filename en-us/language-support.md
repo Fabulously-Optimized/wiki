@@ -78,10 +78,9 @@ Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simpl
 6. Using the two files you have opened, translate the strings
    * Vanilla strings have to be faithful, FO's strings understandable
    * Unlike with Mod Menu Helper, the strings are less constrained in width, so you don't necessarily have to test them in-game.
-7. Translate the strings by the English file
-8. When done, commit the changes.
-9. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
-10. Wait for the next version for the modpack to see it in-game :P
+7. When done, commit the changes.
+8. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
+9. Wait for the next version for the modpack to see it in-game :P
 
 ## Translating the description
 
