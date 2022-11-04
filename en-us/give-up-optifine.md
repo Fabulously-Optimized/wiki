@@ -55,7 +55,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 1. [Disable Cull Less Leaves](disabling-mods.md)
 2. [Install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 3. Enable Cull Leaves' bundled resource pack
-4. Disable "Use Block Face Culling" in <kbd>Options</kbd> -> <kbd>Video Settings...</kbd> -> <kbd>Performance</kbd>.
+4. Disable "Use Block Face Culling" in <kbd>Options</kbd> → <kbd>Video Settings...</kbd> → <kbd>Performance</kbd>.
 
 ² The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
 

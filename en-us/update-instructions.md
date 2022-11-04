@@ -79,6 +79,15 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 7. Close the folders and run the new version
 8. If everything looks right, delete the old version
 
+### Prism Launcher
+
+1. Click `Add Instance`.
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. Once the update prompt comes up, click `Update existing instance`
+6. Once the name prompt comes up, click `Yes`
+
 ### GDLauncher
 
 1. Right click the _Fabulously Optimized_ instance
@@ -117,10 +126,11 @@ Because the pack is using YOSBR, your vanilla options and most of the mod ones w
 However, at some point you may still want to do that in order to get the latest changes. So:
 
 1. Open the modpack folder
-   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
-   * MultiMC: right click on the instance -> `Minecraft Folder`
-   * GDLauncher: right click on the instance -> `Open Folder`
-   * Vanilla launcher: go to `Installations` tab -> hover on the instance -> click `📁`
+   * CurseForge Launcher: right click on the modpack tile → `Open Folder`
+   * MultiMC: right click on the instance → `Minecraft Folder`
+   * Prism Launcher: right click on the instance → `Folder` → `.minecraft`
+   * GDLauncher: right click on the instance → `Open Folder`
+   * Vanilla launcher: go to `Installations` tab → hover on the instance → click `📁`
 2. Delete the `config` folder
    * If you prefer, also delete `options.txt` which stores vanilla options
 3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)

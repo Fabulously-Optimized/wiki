@@ -15,7 +15,7 @@ Notes:
    * If the pencil is blue and the text says something else, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if you can disable the specific feature you need
    * If the pencil is gray and there is no config button, follow your launcher-specific instructions below
    * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason.
-     1. Click `Done` -> `Options...` -> `Resource Packs...` -> `⏵` on "Mod Menu Helper.zip" -> `Done` -> go to point 1 of this tutorial
+     1. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
 ### CurseForge Launcher
 
@@ -37,6 +37,13 @@ Notes:
 ### MultiMC (auto-update)
 
 There is currently no _easy_ way because the tool downloads missing mods back on launch. There are script workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
+
+### Prism Launcher
+
+1. Open Prism Launcher
+2. Click on Fabulously Optimized, then `Edit`
+3. Go to `Mods`
+4. Find the mod you need, uncheck the checkbox.
 
 ### GDLauncher
 
