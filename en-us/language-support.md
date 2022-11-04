@@ -72,15 +72,14 @@ Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simpl
 
 1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper/assets/fo/lang)
 2. Click `Add file` -> `Create new file` and name it `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
-3. Open [the English file](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/chat-reporting-helper/Chat%20Reporting%20Helper/assets/fo/lang/en_us.json) in a new tab
-4. Open [vanilla language files](https://github.com/InventivetalentDev/minecraft-assets/tree/1.19.3/assets/minecraft/lang) in a new tab and click on your language file
-5. Open [the English file](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Chat%20Reporting%20Helper/assets/fo/lang/en_us.json) in a new tab
-6. Using the two files you have opened, translate the strings
-   * Vanilla strings have to be faithful, FO's strings understandable
+3. Open [vanilla language files](https://github.com/InventivetalentDev/minecraft-assets/tree/1.19.3/assets/minecraft/lang) in a new tab and click on your language file
+4. Open [the Chat Reporting Helper's file](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Chat%20Reporting%20Helper/assets/fo/lang/en_us.json) in a new tab
+5. Using the two files you have opened, translate the strings
+   * Vanilla strings have to be faithful, NCR's strings understandable
    * Unlike with Mod Menu Helper, the strings are less constrained in width, so you don't necessarily have to test them in-game.
-7. When done, commit the changes.
-8. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
-9. Wait for the next version for the modpack to see it in-game :P
+6. When done, commit the changes.
+7. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
+8. Wait for the next version for the modpack to see it in-game :P
 
 ## Translating the description
 
