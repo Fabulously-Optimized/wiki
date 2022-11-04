@@ -20,13 +20,15 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 * **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 9 messages before the selected ones - at most 40 messages in total. That is a very partial context for serious offenses as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc.
 
-* **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be done on _thousands_ of reports every day? Compare that to a single server that has less players, therefore less reports and less admins needed.
+* **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be done on _thousands_ of reports every day? The investigators may accidentally overlook a part of the conversation or misintepret the intent due to words used. Compare that to a single server that has less players, therefore less reports and less admins needed, appeals that are dealt with faster.
 
-* **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like alcohol freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
+* **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like world politics, alcohol and drugs freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
 * **Categories are vague** - for example, take the rule "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? Are they just going to assume it is a lie and ban them? At that point players can not even say who they are because they can get punished either way.
 
 * **Ban reasons and appeals are vague** - [while there is a way to appeal](#is-there-a-way-to-appeal-the-ban), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban is an unjust ban. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
+
+* **Reports may not be sufficient** - in the case of most serious offenses (e.g. threatening, abuse, harassment), you should really feel that proper action is taken. With these reports, Mojang does not actually elaborate on [what their "appropriate actions" are](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition#h_01GD13PG9R60SYNDV88FKFSHRH). They may send a player suicide prevention info for example, but there is no guarantee Mojang will contact the police for you. [Do it yourself!](#what-should-i-do-instead-when-someone-breaks-the-rules)
 
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
@@ -189,14 +191,10 @@ Yes. This is [mostly useful in Realms](#does-mojang-monitor-my-chats) and in pub
 
 In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
 
-1. Open `.minecraft` folder
-   * CurseForge Launcher: right click on the modpack tile -> `Open Folder`
-   * MultiMC: right click on the instance -> `Minecraft Folder`
-   * GDLauncher: right click on the instance -> `Open Folder`
-   * Vanilla launcher: go to Installations tab -> hover on the instance -> click <kbd>📁</kbd>
-2. Open the NCR config file: `config` -> `NoChatReports` -> `NCR-Encryption.json`
-3. Set `showEncryptionButton` to `true`
-4. Launch the game
+1. Click Mods
+2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
+3. Select `Technical` tab, set "Show encryption button" to `Yes`
+4. `Save changes`
 5. Join any world or server
 6. Click your chat key, default <kbd>T</kbd>
 7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
