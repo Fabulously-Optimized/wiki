@@ -130,7 +130,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 Any launchers that let you run the game without having purchased it first are not supported.
 
 There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-gift-code)
-[Sign up with this referral link for additional 10% off](https://punktid.ee/?ref=robotkoer).
+[Sign up with this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
 
 After that, pick any supported launcher from this page and enjoy the game! 
 
