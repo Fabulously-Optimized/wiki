@@ -125,9 +125,18 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
 10. To run the modpack, double click the Fabulously Optimized icon
 
+### Cracked launchers
+
+Any launchers that let you run the game without having purchased it first are not supported.
+
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-gift-code)
+[Sign up with this referral link for additional 10% off](https://punktid.ee/?ref=robotkoer).
+
+After that, pick any supported launcher from this page and enjoy the game! 
+
 ### Other launchers
 
-Technically you can install it in _some_ other launchers that support CurseForge modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
+Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
 
 ## Servers
 
