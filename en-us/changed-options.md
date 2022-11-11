@@ -34,7 +34,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
 | Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
 
-The changed mod settings can be found on the repo at [.../yosbr/1.18.2/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.18.2/config).
+The changed mod settings can be found on the repo at [.../yosbr/1.19.2/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.2/config).
 
 See also: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Options.txt#Java\_Edition)
 
