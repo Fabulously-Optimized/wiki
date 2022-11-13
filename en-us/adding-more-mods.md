@@ -53,7 +53,7 @@ Method 2:
 1. Open GDLauncher
 2. Right click Fabulously Optimized, click on `Manage`
 3. Select `Mods` and `Add Mod`
-4. Choose any mod you want (make sure it is for Fabric) and click `Download`
+4. Choose any mod you want and click `Download`
 5. Close the sub-window and click on Fabulously Optimized to run the game. You should now have the new mod(s) installed!
 
 ### Minecraft Launcher (vanilla)
