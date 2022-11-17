@@ -91,9 +91,9 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### Pojav Launcher (Android)
 
-**This process is lengthy, may not work or may not improve performance for you. You've been warned.**
+**This process is lengthy, it may not work or may not improve performance for you. You've been warned.**
 
-All the following instructions should be ran on your high-end Android device.
+All the following instructions should be run on your high-end Android device.
 
 1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
    * Do not fall into scam websites. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
@@ -118,7 +118,7 @@ All the following instructions should be ran on your high-end Android device.
 14. Navigate to `Download` -> `Fabulously+Optimized+x.x.x.zip` -> `Fabulously Optimized x.x.x` -> `minecraft`
 15. Hold down on one folder and tap on all three folders
 16. Tap the `Extract` button at the top
-17. Navigate back to root, then `Android` -> `data` -> `net.kdt.pojavlaunch` -> `files` -> `.minecraft`
+17. Navigate back to the root directory, then `Android` -> `data` -> `net.kdt.pojavlaunch` -> `files` -> `.minecraft`
     * If it's easier for you, press 3 dots -> `Go to` -> paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` -> `OK`
 18. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
 19. Navigate to `Download`, hold down on `bsvsb-x.x.x.jar`, select `Cut` from the top
@@ -128,7 +128,7 @@ All the following instructions should be ran on your high-end Android device.
 22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
 23. Fabulously Optimized should now be running! 
 
-Note that options.txt does not apply as Pojav overwrites it. You may want to change your GUI scale to 6 for better usage.
+Note that FO's options.txt does not apply as Pojav overwrites it. You may want to change your GUI scale to 6 for better usage.
 
 ## Not supported
 
