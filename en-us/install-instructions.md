@@ -93,7 +93,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 **This process is lengthy, it may not work or may not improve performance for you. You've been warned.**
 
-All the following instructions should be run on your high-end Android device.
+All the following instructions should be run on your high-end Android device. Pojav is also available for iOS, but no support is provided for it here.
 
 1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
    * Do not fall into scam websites. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
