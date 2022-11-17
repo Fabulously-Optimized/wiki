@@ -126,7 +126,9 @@ All the following instructions should be ran on your high-end Android device.
     * If it's easier for you, press 3 dots -> `Go to` -> paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/mods` -> `OK`
 21. Tap `Paste`, close Material Files.
 22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
-23. Fabulously Optimized should now be running! You may want to change your GUI scale to 6 for better usage.
+23. Fabulously Optimized should now be running! 
+
+Note that options.txt does not apply as Pojav overwrites it. You may want to change your GUI scale to 6 for better usage.
 
 ## Not supported
 
