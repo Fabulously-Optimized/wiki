@@ -128,8 +128,6 @@ All the following instructions should be run on your high-end Android device. Po
 22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
 23. Fabulously Optimized should now be running! 
 
-Note that FO's options.txt does not apply as Pojav overwrites it. You may want to change your GUI scale to 6 for better usage.
-
 ## Not supported
 
 ### Modrinth Launcher
