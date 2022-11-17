@@ -104,8 +104,8 @@ All the following instructions should be run on your high-end Android device. Po
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-5. [Download Better Sodium Video Settings Button](https://modrinth.com/mod/better-sdoium-video-settings-button/versions)
-   * This is a workaround because the original video settings don't work on mobile for some reason.
+5. [Download Fabulously Optimized patches for Pojav Launcher](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.2)
+   * This optimizes the FO experience for mobile users.
 6. Run Pojav Launcher
 7. Tap `Add account` → `Microsoft account` and sign in
 8. Tap the settings button → `Video and renderer` → `ANGLE (release 1.17+, mid)` → `Back to the last screen`→ `Back to the last screen`
