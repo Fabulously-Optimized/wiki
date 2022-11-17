@@ -89,7 +89,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
-### Pojav Launcher (Android)
+### [Pojav Launcher](https://github.com/PojavLauncherTeam/PojavLauncher) (Android)
 
 **This process is lengthy, it may not work or may not improve performance for you. You've been warned.**
 
