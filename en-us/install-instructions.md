@@ -105,7 +105,7 @@ All the following instructions should be ran on your high-end Android device.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. [Download Better Sodium Video Settings Button](https://modrinth.com/mod/better-sdoium-video-settings-button/versions)
-   * This is a workaround be cause the original video settings don't work on mobile for some reason.
+   * This is a workaround because the original video settings don't work on mobile for some reason.
 6. Run Pojav Launcher
 7. Tap `Add account` -> `Microsoft account` and sign in
 8. Tap the settings button -> `Video and renderer`-> `ANGLE (release 1.17+, mid)` -> `Back to the last screen`-> `Back to the last screen`
