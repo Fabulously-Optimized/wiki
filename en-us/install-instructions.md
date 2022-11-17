@@ -89,6 +89,44 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
+### Pojav Launcher (mobile)
+
+**This process is lengthy, may not work or may not improve performance for you. You've been warned.**
+All the following instructions should be run on your high-end Android device.
+
+1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
+   * Do not fall into scam websites. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
+2. [Download Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+   * This is the file manager we'll be using for this tutorial. You could use others too, but instructions may vary.
+3. [Download Fabric installer](https://fabricmc.net/use/installer/)
+4. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
+   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
+   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
+5. [Download Better Sodium Video Settings Button](https://modrinth.com/mod/better-sdoium-video-settings-button)
+   * This is a workaround be cause the original video settings don't work on mobile for some reason.
+6. Run Pojav Launcher
+7. Tap `Add account` -> `Microsoft account` and sign in
+8. Tap the settings button -> `Video and renderer`-> `ANGLE (release 1.17+, mid)` -> `Back to the last screen`-> `Back to the last screen`
+9. Tap `Create new profile` -> `Create new profile` -> `Save profile`
+10. Tap `Play`. Wait for it to fully load to the title screen, then exit the game.
+    * If you can't get past a black screen, try creating a new 1.18.2 profile first - I think it downloads the necessary Java and dependencies.
+11. Launch Pojav again, tap `Install .jar` -> select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
+12. Tap :x: to close the logs, then `Install` -> `OK` -> `[X]`
+13. Close Pojav and open Material Files.
+14. Navigate to `Download` -> `Fabulously+Optimized+x.x.x.zip` -> `Fabulously Optimized x.x.x` -> `minecraft`
+15. Hold down on one folder and tap on all three folders
+16. Tap the `Extract` button at the top
+17. Navigate back to root, then `Android` -> `data` -> `net.kdt.pojavlaunch` -> `files` -> `.minecraft`
+    * If it's easier for you, press 3 dots -> `Go to` -> paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` -> `OK`
+18. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
+19. Navigate to `Download`, hold down on `bsvsb-x.x.x.jar`, select `Cut` from the top
+20. Navigate back to root, then `Android` -> `data` -> `net.kdt.pojavlaunch` -> `files` -> `.minecraft` -> `mods`
+    * If it's easier for you, press 3 dots -> `Go to` -> paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/mods` -> `OK`
+21. Tap `Paste`, close Material Files.
+22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
+23. Fabulously Optimized should now be running! You may want to change your GUI scale to 6 for better usage.
+
 ## Not supported
 
 ### Modrinth Launcher
@@ -99,10 +137,6 @@ For now see [Prism Launcher](#prism-launcher) for a different launcher that also
 ### ATLauncher
 
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
-
-### Pojav Launcher
-
-Pojav Launcher is not supported, because several mods are incompatible (Sodium, Iris and related mods; possibly more), mobile devices need adjusted video settings to be more performant and the installation process is also way too complex at the moment.
 
 ### PolyMC
 
