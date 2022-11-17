@@ -89,10 +89,11 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
-### Pojav Launcher (mobile)
+### Pojav Launcher (Android)
 
 **This process is lengthy, may not work or may not improve performance for you. You've been warned.**
-All the following instructions should be run on your high-end Android device.
+
+All the following instructions should be ran on your high-end Android device.
 
 1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
    * Do not fall into scam websites. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
@@ -103,7 +104,7 @@ All the following instructions should be run on your high-end Android device.
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-5. [Download Better Sodium Video Settings Button](https://modrinth.com/mod/better-sdoium-video-settings-button)
+5. [Download Better Sodium Video Settings Button](https://modrinth.com/mod/better-sdoium-video-settings-button/versions)
    * This is a workaround be cause the original video settings don't work on mobile for some reason.
 6. Run Pojav Launcher
 7. Tap `Add account` -> `Microsoft account` and sign in
