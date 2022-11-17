@@ -99,7 +99,7 @@ All the following instructions should be ran on your high-end Android device.
    * Do not fall into scam websites. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
 2. [Download Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
    * This is the file manager we'll be using for this tutorial. You could use others too, but instructions may vary.
-3. [Download Fabric installer](https://fabricmc.net/use/installer/)
+3. [Download Fabric installer](https://fabricmc.net/use/installer/) (jar version)
 4. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
