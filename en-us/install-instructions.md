@@ -113,7 +113,7 @@ All the following instructions should be run on your high-end Android device. Po
 10. Tap `Play`. Wait for it to fully load to the title screen, then exit the game.
     * If you can't get past a black screen, try creating a new 1.18.2 profile first - it seems to download the necessary Java and dependencies.
 11. Launch Pojav again, tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
-12. Tap :x: to close the logs, then `Install` → `OK` → `⛝`
+12. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
 13. Close Pojav and open Material Files.
 14. Navigate to `Download` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
 15. Hold down on one folder and tap on all three folders, then `Extract` button at the top
