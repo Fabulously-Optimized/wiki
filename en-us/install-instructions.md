@@ -96,7 +96,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 All the following instructions should be run on your high-end Android device. Pojav is also available for iOS, but no support is provided for it here.
 
 1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
-   * Do not fall into scam websites. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
+   * Do not fall into scam websites and apps. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
 2. [Download Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
    * This is the file manager we'll be using for this tutorial. You could use others too, but instructions may vary.
 3. [Download Fabric installer](https://fabricmc.net/use/installer/) (jar version)
