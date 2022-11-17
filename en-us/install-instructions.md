@@ -116,15 +116,15 @@ All the following instructions should be run on your high-end Android device. Po
 12. Tap :x: to close the logs, then `Install` → `OK` → `⛝`
 13. Close Pojav and open Material Files.
 14. Navigate to `Download` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
-15. Hold down on one folder and tap on all three folders
-16. Tap the `Extract` button at the top
-17. Navigate back to the root directory, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
+15. Hold down on one folder and tap on all three folders, then `Extract` button at the top
+16. Navigate back to the root directory, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
     * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` → `OK`
-18. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
-19. Navigate to `Download`, hold down on `bsvsb-x.x.x.jar`, select `Cut` from the top
-20. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft` → `mods`
-    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/mods` → `OK`
-21. Tap `Paste`, close Material Files.
+17. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
+18. Navigate to `Download`→ `x.x.x.zip` → `x.x.x` (the x.x.x stands for Minecraft version)
+19. Hold down on `config` folder and tap on all three folders, then `Extract` button at the top
+20. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
+    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/` → `OK`
+21. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
 22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
 23. Fabulously Optimized should now be running! 
 
