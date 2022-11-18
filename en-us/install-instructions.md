@@ -121,7 +121,7 @@ All the following instructions should be run on your high-end Android device. Po
     * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` → `OK`
 17. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
 18. Navigate to `Download`→ `x.x.x.zip` → `x.x.x` (the x.x.x stands for Minecraft version)
-19. Hold down on `config` folder and tap on all three folders, then `Extract` button at the top
+19. Hold down on `config` folder and tap on all items, then `Extract` button at the top
 20. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
     * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/` → `OK`
 21. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
