@@ -50,26 +50,6 @@ Beds:
 ![Random colors on the wall](https://i.ibb.co/jbkg1PG/unknown.png)
 If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.
 
-### Custom sky
-
-_Or "custom skymap"._
-
-Currently not supported with resource packs, follow [issue #72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72) for details. Or, if you can run shaders, [BSL](https://bitslablab.com/bslshaders/) can change clouds for example and [AstraLex](https://www.curseforge.com/minecraft/customization/astralex-shader-bsl-edit) can change the sky as well.
-
-Other shaders that can provide a custom sky:
-
-* AstraLex
-* Continuum
-* Prismarine
-* ProjectLUMA
-* RedHat
-* Sildur's Vibrant
-* Skylec
-* SkyLEX
-* Triliton
-
-Thanks JulienRaptor01 for the shader investigation!
-
 ### Custom entity models
 
 _Or "mobs with a custom shape"._

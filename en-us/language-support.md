@@ -46,11 +46,11 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 
 Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
 
-1. Make sure your Fabulously Optimized instance [is fully up to date](https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions).
+1. Make sure your Fabulously Optimized instance [is fully up to date](update-instructions.md).
 2. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
 3. Extract Mod Menu Helper.zip to a folder, then go inside it → assets → minecraft → lang
 4. Open en\_us.json and copy its full text
-   * Looks ugly? That's because it's minified JSON. [You can copy a prettier version from here](https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Mod%20Menu%20Helper/assets/modmenu/lang/en_us.json) and translate that instead (they are identical).
+   * Looks ugly? That's because it's minified JSON. [You can copy a prettier version from here](https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Mod%20Menu%20Helper/assets/fo/lang/en_us.json) and translate that instead (they are identical).
 5. Create a new file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
 6. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
    * `"coolmod.config.title": "Coolmod Options",`
@@ -61,9 +61,9 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
    * Of course you can rephrase the sentences to make them more understandable and/or shorter for your language. On the second row you do not have to list all options that English has, just list as many as you can fit.
    * As you test, you can use F3+J to reload languages.
 9. If you're satisfied with your translation, copy the full text.
-10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/modmenu/lang/), then `Add file` → `Create new file`
+10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Mod%20Menu%20Helper/assets/fo/lang/), then `Add file` → `Create new file`
 11. You'll fork the project and have a new file window open. Name the file the same way you did previously and paste the translation.
-12. Commit the file and create a pull request. If your translation is properly formatted and fits into the rows, I will accept it
+12. Commit the file and create a pull request (you'll see the button for it). If your translation is properly formatted and fits into the rows, I will accept it.
 13. Wait for the next version for the modpack to see it in-game :P
 
 ## Translating the description
