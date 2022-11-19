@@ -26,7 +26,7 @@ This FAQ gives answers to questions you might have about the vanilla launcher. P
 
 ### Why is FO not a client?
 
-- FO is not a client because simply we would need to be able to code a client which would require people to know the programming language that we are writing the client in. By being a modpack, this makes it easier for the creator and user to add their own mods in and use Fabulously Optimized as base pack for their own mods they want to add in. This can also make it easier to update the modpack by adding in replacement mods while waiting for other mods in the pack to update.
+- FO is also not a client because simply we would need explicit permission from the mod authors to use their mods in a client and the authors of each mod would receive no benefits by being included in a client. We would also need to be able to code a client which would require lots of time and maintenance to keep the client up to date with the latest version of Minecraft. By being a modpack, this makes it easier for the creator and user to add their own mods in and use Fabulously Optimized as base pack for their own mods they want to add in. This can also make it easier to update the modpack by adding in replacement mods while waiting for other mods in the pack to update.
 
 ### Is there an easier way to install FO?
 
