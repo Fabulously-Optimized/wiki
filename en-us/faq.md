@@ -17,7 +17,7 @@ This FAQ gives answers to questions you might have about the vanilla launcher. P
 
 ### What is in the ZIP file?
 
-- In both the CurseForge and MultiMC ZIP files, they contain configs for each mod and resource packs which are essential for FO to run. The config folder contain configs for each mod in FO so the modpack is configured perfectly when you first start up the modpack, the mods folder contains mods that are essential to replicate OptiFine's features, and the resource folder contains a resource pack that helps the user navigate through Mod Menu. There is also a file called 'Copy all 3 folders!', this file makes it easier to update the pack rather than having to download and make a new instance each time there is a new update.
+- In both the CurseForge and MultiMC ZIP files, they include resource packs that are necessary for FO to function, as well as configuration files for each mod. The resourcepacks folder contains a resource pack that aids in navigating through Mod Menu, and the config folder contains configs for each mod in FO so that the modpack is perfectly configured when you first start it up.
 
 ### Why try a different launcher?
 
