@@ -29,4 +29,4 @@ This FAQ gives answers to questions you might have about the vanilla launcher. P
 
 ### Is there an easier way to install FO?
 
-- Soon, there will be a vanilla installer that will make it easier to install the modpack on the vanilla launcher. You can check out the [Github Repo](https://github.com/Fabulously-Optimized/vanilla-installer/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) for the installer to see when a beta could be released. We advise using other launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack for the time being until the vanilla installer is released.
+- Soon, there will be a program that will make it easier to install the modpack on the vanilla launcher. You can check out the [GitHub Repo](https://github.com/Fabulously-Optimized/vanilla-installer/releases) for the installer to see when a beta could be released. We advise using other launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack for the time being until the vanilla installer is released.
