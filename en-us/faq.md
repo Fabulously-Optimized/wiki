@@ -21,7 +21,7 @@ This FAQ gives answers to questions you might have about the vanilla launcher. P
 
 ### Why try a different launcher?
 
-- There are a variety of launchers available, each with unique features. If you use the vanilla launcher, you miss out on many features, including the ability to update the modpack and the version of Minecraft, add any mod with a few simple clicks, and finally download the modpack more easily.
+- There are a variety of launchers available, each with unique features. The vanilla launcher is a basic launcher, and it is missing many features that other launchers have. You miss out on many features, including the ability to download the modpack more easily, update the modpack and the version of Minecraft, and add any mod with a few simple clicks. Also, you would miss out on some unique features that only some launchers have like a built-in modpack browser and a built-in mod browser which allows you to download mods and modpacks without having to go to CurseForge or Modrinth and a more user-friendly / modern interface.
 
 ### Why is FO not a client?
 
@@ -29,4 +29,4 @@ This FAQ gives answers to questions you might have about the vanilla launcher. P
 
 ### Is there an easier way to install FO?
 
-- Soon, there will be a program that will make it easier to install the modpack on the vanilla launcher. You can check out the [GitHub Repo](https://github.com/Fabulously-Optimized/vanilla-installer/releases) for the installer to see when a beta could be released. We advise using other launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack for the time being until the vanilla installer is released.
+- Soon, there will be a vanilla installer that will make it easier to install the modpack on the vanilla launcher. You can check out the [Github Repo](https://github.com/Fabulously-Optimized/vanilla-installer/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) for the installer to see when a beta could be released. We advise using other launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack for the time being until the vanilla installer is released.
