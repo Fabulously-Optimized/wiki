@@ -39,6 +39,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Custom Colors               | ✔️            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic)                                                                                                                         |
 | Custom GUIs                 | ✔️            | [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)                                                                                                                               |
 | Custom Items                | ✔️            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)                                                                                                                         |
+| Custom Sky                  | ✔️             | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes) + [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop)   |
 | Emissive Blocks             | ✔️            | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                              |
 | Emissive Entities           | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | HD Fonts                    | ✔️            | [Vanilla feature since 1.13.](https://minecraft.fandom.com/wiki/Java\_Edition\_1.13-pre6#Changes) [Download some from my profile](https://www.curseforge.com/members/robotkoer/projects)                                                                                             |
@@ -48,7 +49,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Resource pack splash screen | ✔️            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                                                                                                                 |
 | Custom Entity Models        | 🚧            | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |                                             |
 | Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)                             |
-| Custom Sky                  | ❌             | See [#72](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/72)                                                                                                             |
+
 
 ¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
 
