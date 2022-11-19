@@ -66,6 +66,17 @@ Method 2:
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
 
+### Pojav Launcher (Android)
+
+1. Open [CurseForge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
+2. Choose any mod you want and go to its _Files_ page
+3. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
+4. Once downloaded, open Material Files
+5. Navigate to `Download`, hold down on any file and select the mod(s) you downloaded, then tap `Copy`
+6. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft` → `.mods`
+    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/mods` → `OK`
+7. Tap `Paste` and run the game.
+
 ### Other hints
 
 * Need to disable a mod instead? [See this page.](disabling-mods.md)
