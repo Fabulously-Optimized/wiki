@@ -10,7 +10,7 @@ This FAQ gives answers to questions you might have about the vanilla launcher. P
 
 ### So I just copy the mods, right?
 
-- No. Fabulously Optimized consists of mods, configs and resourcepacks. If you simply copied the mods over, the settings would not be applied, and since you would have to configure the mods yourself, you might not have the proper settings to accurately replicate OptiFine.
+- No. Fabulously Optimized consists of mods, configs and resourcepacks. The settings would not be applied if you simply copied the mods over, and because you would have to setup the mods manually, you might not have the right settings to precisely match OptiFine.
 
 ### What is the MultiMC ZIP?
 
