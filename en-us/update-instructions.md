@@ -119,6 +119,33 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 9. Launch the installed Fabric profile
 10. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
 
+### Pojav Launcher (Android)
+
+1. [Download Fabric installer](https://fabricmc.net/use/installer/) (jar version)
+2. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
+   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
+   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
+3. [Download Fabulously Optimized patches for Pojav Launcher](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.2)
+   * This optimizes the FO experience for mobile users.
+4. Run Pojav Launcher
+5. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
+6. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
+7. Close Pojav and open Material Files.
+8. Navigate to `Download` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
+9. Hold down on one folder and tap on all three folders, then `Extract` button at the top
+10. Navigate back to the root directory, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
+    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` → `OK`
+11. Tap three dots on `mods` folder, select `Delete` → `OK`
+11. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
+12. Navigate to `Download`→ `x.x.x.zip` → `x.x.x` (the x.x.x stands for Minecraft version)
+13. Hold down on `config` folder and tap on all items, then `Extract` button at the top
+14. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
+    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/` → `OK`
+15. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
+16. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
+17. Fabulously Optimized should now be running! 
+
 ### Resetting settings
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
