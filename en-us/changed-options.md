@@ -27,8 +27,8 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | Option                            | Description                                                         | Default | Modpack | Reason for Change                                                            |
 | --------------------------------- | ------------------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
 | Vanilla: Save Hotbar Activator    | Saves your hotbar if this key and a number key are held             | c       | none    | This key is more often used for zoom                                    |
-| Zoomify/WI Zoom: Zoom             | Zooms the view when the key is held                                 | v       | c       | This key is more often used for zoom                                    |
-| Zoomify: GUI                      | Opens the Zoomify mod settings                                      | F8      | none    | Not needed for most players                                             |
+| Zoomify: Zoom             | Zooms the view when the key is held                                 | v       | c       | This key is more often used for zoom                                    |
+| Zoomify: Secondary zoom                      | Activates the secondary zoom option                                      | F6      | none    | Not needed for most players                                             |
 | AntiGhost: Reveal ghost blocks    | Asks the server to send blocks around you in order to un-glitch you | g       | none    | Accidental presses and holding can cause issues, use **/ghost** instead |
 | Iris: Reload Shaders              | Reloads the applied shaders                                         | r       | none    | Not needed for most players                                             |
 | Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
