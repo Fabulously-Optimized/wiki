@@ -4,7 +4,9 @@
 
 ## Supported
 
-### [CurseForge Launcher](https://download.curseforge.com)
+### [CurseForge Launcher](https://download.curseforge.com/#download-options)
+
+**On Windows, I recommend using the standalone alpha of CurseForge.**
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Install` on the topmost CurseForge version
