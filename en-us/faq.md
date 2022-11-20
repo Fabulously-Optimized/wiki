@@ -21,7 +21,7 @@ In both the CurseForge and MultiMC ZIP files, they include resource packs that a
 
 - The resourcepacks folder - Contains a resource pack that gives descriptions that explain what each mod does in Mod Menu and aids in navigating through the mod menu.
 
-- The config folder - Contains configs for each mod in FO so that the modpack is perfectly configured when you first start it up. It also contains a folder called 'yosbr' which allows to give default configs without changing them each tine you update the modpack
+- The config folder - Contains configs for each mod in FO so that the modpack is perfectly configured when you first start it up. It also contains a folder called 'yosbr' which allows to give default configs without changing them each tine you update the modpack.
 
 ### Why try a different launcher?
 
