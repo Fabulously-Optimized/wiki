@@ -17,7 +17,11 @@ The MultiMC ZIP is a packaged instance for the launcher called MultiMC. It is di
 
 ### What is in the ZIP file?
 
-In both the CurseForge and MultiMC ZIP files, they include resource packs that are necessary for FO to function, as well as configuration files for each mod. The resourcepacks folder contains a resource pack that aids in navigating through Mod Menu, and the config folder contains configs for each mod in FO so that the modpack is perfectly configured when you first start it up.
+In both the CurseForge and MultiMC ZIP files, they include resource packs that are necessary for FO to function, as well as configuration files for each mod. 
+
+- The resourcepacks folder - Contains a resource pack that gives descriptions that explain what each mod does in Mod Menu and aids in navigating through the mod menu.
+
+- The config folder - Contains configs for each mod in FO so that the modpack is perfectly configured when you first start it up. It also contains a folder called 'yosbr' which allows to give default configs without changing them each tine you update the modpack
 
 ### Why try a different launcher?
 
