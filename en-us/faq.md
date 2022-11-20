@@ -9,7 +9,7 @@ This FAQ gives answers to questions you might have about using Fabulously Optimi
 
 ### So I just copy the mods, right?
 
-- No. Fabulously Optimized consists of mods, configs and resourcepacks. The settings would not be applied if you simply copied the mods over, and because you would have to setup the mods manually, you might not have the right settings to precisely match OptiFine.
+- No. Fabulously Optimized consists of mods, configs and resourcepacks. If you skip configurations, there is a high chance of some resource packs not working at all, mods may have unwanted features enabled or wanted features disabled. If you skip resource packs, you'll lose out on the descriptions that explain what each mod does in Mod Menu.
 
 ### What is the MultiMC ZIP?
 
