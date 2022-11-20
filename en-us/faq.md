@@ -29,4 +29,4 @@ This FAQ gives answers to questions you might have about using Fabulously Optimi
 
 ### Is there an easier way to install FO?
 
-- Soon, there will be a vanilla installer that will make it easier to install the modpack on the vanilla launcher. You can check out the [Github Repo](https://github.com/Fabulously-Optimized/vanilla-installer/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) for the installer to see when a beta could be released. We advise using other launchers like CurseForge Launcher, MultiMC, and GDLauncher to make it simple and easy to install and update the modpack for the time being until the vanilla installer is released.
+- Soon, there will be an installer that will make it easier to install the modpack on the vanilla launcher. You can check out the [relevant issue](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110) to see when a beta could be released. However, we still advise you to prefer other launchers like CurseForge Launcher, as they make installing, updating and adding mods much easier than vanilla ever can, and support the development of the modpack alongside it.
