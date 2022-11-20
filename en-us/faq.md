@@ -5,7 +5,7 @@ This FAQ gives answers to questions you might have about using Fabulously Optimi
 
 ### How to install?
 
-- To install FO on the Vanilla Launcher, please follow this guide [guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla)
+- To install FO on the Vanilla Launcher, [please follow this guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla).
 
 ### So I just copy the mods, right?
 
