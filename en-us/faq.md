@@ -1,7 +1,7 @@
 # Vanilla launcher FAQ
 
 
-This FAQ gives answers to questions you might have about the vanilla launcher. Please join our [Discord](https://discord.gg/yxaXtaQqdB) and visit the 'support' channel if you have any additional questions. 
+This FAQ gives answers to questions you might have about using Fabulously Optimized with the vanilla launcher. Please join our [Discord](https://discord.gg/yxaXtaQqdB) and visit the 'support' channel if you have any additional questions. 
 
 ### How to install?
 
