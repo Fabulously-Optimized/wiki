@@ -68,7 +68,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 ## Translating Chat Reporting helper
 
-Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have translation will use original strings.
+Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have translation will unfortunately use original vanilla/NCR strings, so having them in the resource pack will help a lot.
 
 1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper/assets/fo/lang)
 2. Click `Add file` -> `Create new file` and name it `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
