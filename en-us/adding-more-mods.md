@@ -16,8 +16,6 @@ Method 1:
 6. Choose any mod you want and click Install. You can manage them later under Installed Mods tab
 7. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-**Note: you must disable "Allow content management for this profile" in order to update the modpack.**
-
 Method 2:
 
 1. [Open CurseForge site](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499\&filter-sort=4), search for a compatible mod
