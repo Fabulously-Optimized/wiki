@@ -108,6 +108,8 @@ Fabulously Optimized can indeed be run on a mobile device! But there are _a lot_
 * In the worst case, you may not get it running at all. Try again after a Pojav Launcher update.
 * The process has 20+ steps which you must follow carefully.
 
+<details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft</a></summary></details>
+
 <details>
   <summary>I agree and would like to see the instructions</summary>
 
@@ -145,8 +147,6 @@ Fabulously Optimized can indeed be run on a mobile device! But there are _a lot_
 23. Fabulously Optimized should now be running! 
 
 </details>
-
-<details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft</a></summary></details>
 
 
 ## Not supported
