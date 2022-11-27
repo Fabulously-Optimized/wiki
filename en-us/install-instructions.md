@@ -100,9 +100,10 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 Fabulously Optimized can indeed be run on a mobile device! But there are a lot of caveats:
 
-* This process is for Android devices. iOS devices could work, but would also require even more steps and is untested.
+* This process is for Android devices - phones and tablets. iOS devices _could_ work, but would also require even more steps and is untested.
 * Your device must be "mid-range" or "high-end" if you want decent FPS. 6+ GB RAM recommended.
-* Attempts have been made to improve performance, but depending on your device you may also need to adjust video settings further.
+* Pojav Launcher supports Android 5 and up, but these instructions were tested on Android 12L, so some things may vary.
+* Attempts have been made to improve performance, but depending on your device you may need to adjust video settings.
 * Your device will likely heat and consume a lot of battery as you play. It is not as device-optimized as Bedrock Edition.
 * In the worst case, you may not get it running at all. Try again after a Pojav Launcher update.
 * The process has 20+ steps which you must follow carefully.
