@@ -156,10 +156,6 @@ Fabulously Optimized can indeed be run on a mobile device! But there are _a lot_
 Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. When it gets released, it will be supported.
 For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
-### Pojav Launcher
-
-Pojav Launcher is not yet supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
-
 ### ATLauncher
 
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
