@@ -25,8 +25,6 @@ Method 2:
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-**Note: you must disable "Allow content management for this profile" in order to update the modpack. Your mods will persist, however.**
-
 ### MultiMC/MultiMC (auto-update)
 
 1. Open MultiMC
