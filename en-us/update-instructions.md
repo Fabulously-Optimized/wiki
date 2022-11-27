@@ -128,7 +128,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
 1. [Download Fabric installer](https://fabricmc.net/use/installer/) (jar version)
 2. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
-   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+   * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 3. [Download Fabulously Optimized patches for Pojav Launcher](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.2)
