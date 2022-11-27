@@ -98,9 +98,17 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### [Pojav Launcher](https://github.com/PojavLauncherTeam/PojavLauncher) (Android)
 
-**This process is lengthy, it may not work or may not improve performance for you. You've been warned.**
+Fabulously Optimized can indeed be run on a mobile device! But there are a lot of caveats:
 
-All the following instructions should be run on your high-end Android device. Pojav is also available for iOS, but no support is provided for it here.
+* This process is for Android devices. iOS devices could work, but would also require even more steps and is untested.
+* Your device must be "mid-range" or "high-end" if you want decent FPS. 6+ GB RAM recommended.
+* Attempts have been made to improve performance, but depending on your device you may also need to adjust video settings further.
+* Your device will likely heat and consume a lot of battery as you play. It is not as device-optimized as Bedrock Edition.
+* In the worst case, you may not get it running at all. Try again after a Pojav Launcher update.
+* The process has 20+ steps which you must follow carefully.
+
+<details>
+  <summary>I agree and would like to see the instructions</summary>
 
 1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
    * Do not fall into scam websites and apps. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
@@ -134,6 +142,11 @@ All the following instructions should be run on your high-end Android device. Po
 21. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
 22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
 23. Fabulously Optimized should now be running! 
+
+</details>
+
+<details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft</a></summary></details>
+
 
 ## Not supported
 
