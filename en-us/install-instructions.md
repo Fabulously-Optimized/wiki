@@ -146,7 +146,7 @@ Fabulously Optimized can indeed be run on a mobile device! But there are a lot o
 
 </details>
 
-<details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft on my Android</a></summary></details>
+<details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft</a></summary></details>
 
 
 ## Not supported
