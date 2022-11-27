@@ -40,19 +40,20 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 2. Click the version number you need in the MultiMC (auto-update) section
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
-    <details>
-      <summary>Need to download some mods manually?</summary>
 
-      If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+<details>
+  <summary>Need to download some mods manually?</summary>
 
-      1. Copy and paste the given address to your browser
-      2. Click `Cancel Launch`
-      3. Click `Download` on the mod
-      4. On MultiMC, click on the instance, then click `View Mods`
-      5. Drag the downloaded mod into the mod list
-      6. Click `Launch`
+  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
 
-    </details>
+  1. Copy and paste the given address to your browser
+  2. Click `Cancel Launch`
+  3. Click `Download` on the mod
+  4. On MultiMC, click on the instance, then click `View Mods`
+  5. Drag the downloaded mod into the mod list
+  6. Click `Launch`
+
+</details>
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
