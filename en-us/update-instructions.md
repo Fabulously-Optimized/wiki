@@ -53,7 +53,6 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
-   
        <details>
           <summary>Need to download some mods manually?</summary>
           If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
@@ -66,7 +65,6 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
         6. Click `Launch`
   
       </details>
-
 2. Check the version difference in the bottom right corner.
 
 #### If there is a new Minecraft version:
