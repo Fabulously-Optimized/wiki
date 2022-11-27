@@ -98,7 +98,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### [Pojav Launcher](https://github.com/PojavLauncherTeam/PojavLauncher) (Android)
 
-Fabulously Optimized can indeed be run on a mobile device! But there are a lot of caveats:
+Fabulously Optimized can indeed be run on a mobile device! But there are _a lot_ of caveats:
 
 * This process is for Android devices - phones and tablets. iOS devices _could_ work, but would also require even more steps and is untested.
 * Your device must be "mid-range" or "high-end" if you want decent FPS. 6+ GB RAM recommended.
