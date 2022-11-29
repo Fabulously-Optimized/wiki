@@ -1,5 +1,3 @@
 files:
-  - source: '*.md'
-    ignore:
-      - .github
-    translation: '%two_letters_code%/%original_file_name%'
+  - source: en-us/*.md
+    translation: '%locale%/%original_file_name%'
