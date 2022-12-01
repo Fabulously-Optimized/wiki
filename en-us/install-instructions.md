@@ -79,7 +79,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.10**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.11**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
