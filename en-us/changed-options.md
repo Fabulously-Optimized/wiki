@@ -38,7 +38,16 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 The changed mod settings can be found on the repo at [.../yosbr/1.19.3/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config).
 
-See also: [Minecraft Wiki: options.txt](https://minecraft.fandom.com/wiki/Options.txt#Java\_Edition)
+### Resource packs
+
+Fabulously Optimized contains two exclusive resource packs, and enables mod-provided resource packs for better experience.
+
+The exclusive resource packs are:
+
+- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Mod%20Menu%20Helper) - explains what each mod does in a consistent and clear way
+- [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) - explains [chat reporting](chat-reporting-faq) in a clear way by simplifying vanilla and No Chat Reports tooltips, and No Chat Reports icons 
+
+Both resource packs [can be translated to your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) and they will _not_ change the look of your blocks, items, menus etc.
 
 ### Fixed bugs
 
