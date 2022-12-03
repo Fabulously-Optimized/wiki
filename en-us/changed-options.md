@@ -24,6 +24,8 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ¹ \["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","midnightcontrols/bedrock"]
 
+**Changed mod settings can be found on the repo at [.../yosbr/1.19.3/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config).**
+
 ### Keybinds
 
 | Option                            | Description                                                         | Default | Modpack | Reason for Change                                                            |
@@ -35,8 +37,6 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | Iris: Reload Shaders              | Reloads the applied shaders                                         | r       | none    | Not needed for most players                                             |
 | Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
 | Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
-
-The changed mod settings can be found on the repo at [.../yosbr/1.19.3/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config).
 
 ### Resource packs
 
