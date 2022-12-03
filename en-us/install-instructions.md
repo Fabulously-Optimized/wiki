@@ -1,7 +1,5 @@
 # Install instructions
 
-**Prefer video tutorials instead of text?** [**Click here!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
-
 ## Supported
 
 ### [CurseForge Launcher](https://download.curseforge.com/#download-options)
