@@ -10,6 +10,8 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 ### Why is it bad?
 
+While the system does have noble goals of protecting players from malicious and illegal actions, its current implementation actually has the potential to cause more harm than good.
+
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
 * **Realms chat is always reportable and always monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
