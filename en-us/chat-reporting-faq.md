@@ -10,9 +10,11 @@ See [the official help page](https://help.minecraft.net/hc/en-us/articles/714982
 
 ### Why is it bad?
 
+While the system does have noble goals of protecting players from malicious and illegal actions, its current implementation actually has the potential to cause more harm than good.
+
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
-* **Realms chat is always reportable and always monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
+* **Realms chat is constantly monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
 
 * **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically [pause the subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) of any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control. This makes sense for short-term bans like up to a week, but any longer than that should give an explicit option at least.
 
@@ -197,7 +199,7 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 4. `Save changes`
 5. Join any world or server
 6. Click your chat key, default <kbd>T</kbd>
-7. Click the <kbd>🔒</kbd>. You'll see the warnings and config on how to use the encryption feature.
+7. Click the <kbd>🔒</kbd>. You'll see warnings and configuration for the encryption feature.
 
 ## Other questions
 

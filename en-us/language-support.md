@@ -66,6 +66,8 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 12. Commit the file and create a pull request (you'll see the button for it). If your translation is properly formatted and fits into the rows, I will accept it.
 13. Wait for the next version for the modpack to see it in-game :P
 
+**P.S. If you didn't follow this tutorial and instead just made a PR on GitHub, [there is now an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that can help you approximate whether the sentences will fit.**
+
 ## Translating Chat Reporting helper
 
 Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have a translation may use original strings, so PRs are appreciated.

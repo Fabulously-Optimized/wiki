@@ -1,12 +1,8 @@
 # Install instructions
 
-**Prefer video tutorials instead of text?** [**Click here!**](https://github.com/Fabulously-Optimized/fabulously-optimized#reviews)
-
 ## Supported
 
 ### [CurseForge Launcher](https://download.curseforge.com/#download-options)
-
-**On Windows, there is now a standalone (Overwolf-free) alpha available. Try at own risk.**
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Install` on the topmost CurseForge version
@@ -28,9 +24,9 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
-   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+   * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
+   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.   
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. To run the modpack, double click the Fabulously Optimized icon
 
@@ -42,13 +38,20 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 2. Click the version number you need in the MultiMC (auto-update) section
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
-   * If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-      1. Copy and paste the given address to your browser
-      2. Click `Cancel Launch`
-      3. Click `Download` on the mod
-      4. On MultiMC, click on the instance, then click `View Mods`
-      5. Drag the downloaded mod into the mod list
-      6. Click `Launch`
+
+<details>
+  <summary>Need to download some mods manually?</summary>
+
+  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+
+  1. Copy and paste the given address to your browser
+  2. Click `Cancel Launch`
+  3. Click `Download` on the mod
+  4. On MultiMC, click on the instance, then click `View Mods`
+  5. Drag the downloaded mod into the mod list
+  6. Click `Launch`
+
+</details>
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
@@ -74,13 +77,13 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.10**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.11**
    * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 4. Click `Download` on the latest **MultiMC version** of the pack
-   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+   * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
@@ -98,13 +101,13 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. When it gets released, it will be supported.
 For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
+### Pojav Launcher
+
+Pojav Launcher is not yet supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
+
 ### ATLauncher
 
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
-
-### Pojav Launcher
-
-Pojav Launcher is not supported, because several mods are incompatible (Sodium, Iris and related mods; possibly more), mobile devices need adjusted video settings to be more performant and the installation process is also way too complex at the moment.
 
 ### PolyMC
 
@@ -131,10 +134,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 Any launchers that let you run the game without having purchased it first are not supported.
 
-There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-gift-code)
-
-[Sign up with this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
-
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-gift-code) Sign up with [this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
 After that, pick any supported launcher from this page and enjoy the game! 
 
 ### Other launchers
