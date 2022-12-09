@@ -38,10 +38,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
   - Same comments apply as for "all servers" above.
 - **Paper/Purpur/Pufferfish/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin and ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config folder. FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
   - Spigot itself will however not be able to support the `send-prevents-chat-reports-to-client` feature itself as a whole.
-- **Fabric/Quilt/Forge**: install _one_ of the following plugins:
-  - [NoChatReport](https://modrinth.com/mod/no-chat-report) - compatible with most chat mods/vanilla chat, no config required.
-  - [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
-    - If you want to allow vanilla clients to join, set `demandOnClient` to `false` and `convertToGameMessage` to `true`. 
+- **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE)
   - Consider [encrypting your chat messages](chat-reporting-faq.md#can-i-encrypt-my-chat-messages) to protect yourself, 
     - You obviously need to let other members of the server also know how to do that and what method/key will you be using. 
