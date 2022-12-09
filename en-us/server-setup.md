@@ -18,21 +18,20 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 #### How your server works in Fabulously Optimized
 
-* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png) on the bottom right corner of the chat box.
-  * Chat reporting is disabled for everyone.
+The following icons show the status of the server. Icons are shown on the bottom right corner of the chat box.
+
+* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png).
+    * Chat reporting is disabled for everyone and on vanilla clients, gray bars are displayed on the left of the messages.
 * **1.19 or up**:
-  * Using [one of the mods/plugins described below](#how-to-protect-your-users): FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png)
-     * Chat reporting is disabled for everyone.
-  * In other cases, FO users will see (questionmark) until they first chat
-     * If `enforce-secure-profile` = `true` (default), FO users will see ![enabled](https://i.ibb.co/3k1H6VV/insecure.png)
-        * Chat reporting is enabled for everyone.
-     * 
-* If your server is based on 1.19 or up and chat signatures are not enforced, FO users will not sign the messages either. FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png) on the bottom right corner of the chat box.
-  * If you're using a vanilla server or vanilla-like chat, vanilla users may see a gray bar on the left of FO users' messages. FO users can report vanilla users, but vanilla users cannot report FO users by default.
-  * If you're using a plugin that uses system messages for chat (e.g. the ones below), the report button will be disabled for all users.
-   and the report button will be disabled.
-* If your server is based on 1.19 or up and chat signatures are enforced, FO users will have their messages signed as well. FO users will see ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) on the bottom right corner of the chat box.
-* If you're using Realms, everyone is monitored by Mojang and has chat messages signed. FO users will see ![realms](https://i.ibb.co/KsCBwVb/realms.png) on the bottom right corner of the chat box.
+    1. Using [one of the mods/plugins](#how-to-protect-your-users): FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png)
+        * Chat reporting is disabled for everyone and on vanilla clients, gray bars are displayed on the left of the messages.
+    2. In other cases, FO users will see ![unknown](https://i.ibb.co/dQrb7rf/unknown.png) until they send the first chat message.
+        1. If `enforce-secure-profile` = `true` (default), FO users will see ![enabled](https://i.ibb.co/3k1H6VV/insecure.png).
+            * Chat reporting is enabled for everyone.
+        2. If `enforce-secure-profile` = `false` (recommended), FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png).
+            * Chat reporting is enabled for vanilla users' messages and disabled for FO users' messages. On vanilla, FO users' messages will show gray bars on the left.
+* **Realms**: FO users will see ![realms](https://i.ibb.co/KsCBwVb/realms.png).
+    * Chat reporting is enabled for everyone and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
 #### How to protect your users
 
@@ -44,13 +43,15 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
   - Same comments apply as for "all servers" above.
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all servers" above.
-- **Paper/Purpur/Pufferfish/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin and ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config folder. FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
+- **Paper/Purpur/Pufferfish/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
+   -  Ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
   - Spigot itself will however not be able to support the `send-prevents-chat-reports-to-client` feature itself as a whole.
-- **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) - same mod as in FO; FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
-- **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE)
+- **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+   - FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
+- **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
   - Consider [encrypting your chat messages](chat-reporting-faq.md#can-i-encrypt-my-chat-messages) to protect yourself, 
     - You obviously need to let other members of the server also know how to do that and what method/key will you be using. 
-  - [There is a workaround datapack](https://www.planetminecraft.com/data-pack/no-more-chat-reports-datapack/) where you can use a book to chat, but you are only protected if you use it instead of normal chat text box,
+  - [There is a workaround datapack](https://www.planetminecraft.com/data-pack/no-more-chat-reports-datapack/) where you can use a book to chat, but you are only protected if you use it instead of normal chat text box.
   - Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) to avoid surveillance altogether (affiliate link - 25% off first month).
 
 _This section is also reposted to [No Chat Reports wiki](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players)._
