@@ -122,7 +122,7 @@ In order to get the status of the server, open the chat box and look at the righ
 - ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) - chat reporting is enabled for everyone
 - ![realms](https://i.ibb.co/KsCBwVb/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
 
-(Expected different icons? [See No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))
+_(Expected different icons? Disable Chat Reporting Helper resource pack and [see No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))_
 
 The behaviour can be configured per-server, hover on the icon for more details.
 
