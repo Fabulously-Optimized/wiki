@@ -22,7 +22,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 * If your server is based on 1.19 or up and chat signatures are not enforced, FO users will not sign the messages either. FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png) on the bottom right corner of the chat box.
   * If you're using a vanilla server or vanilla-like chat, vanilla users may see a gray bar on the left of FO users' messages. FO users can report vanilla users, but vanilla users cannot report FO users by default.
   * If you're using a plugin that uses system messages for chat (e.g. the ones below), the report button will be disabled for all users.
-  * If you're using [one of the methods described below](how-to-protect-your-users), FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) and the report button will be disabled.
+  * If you're using [one of the methods described below](#how-to-protect-your-users), FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) and the report button will be disabled.
 * If your server is based on 1.19 or up and chat signatures are enforced, FO users will have their messages signed as well. FO users will see ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) on the bottom right corner of the chat box.
 * If you're using Realms, everyone is monitored by Mojang and has chat messages signed. FO users will see ![realms](https://i.ibb.co/KsCBwVb/realms.png) on the bottom right corner of the chat box.
 
