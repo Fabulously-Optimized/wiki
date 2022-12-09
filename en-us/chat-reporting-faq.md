@@ -118,7 +118,8 @@ In order to get the status of the server, open the chat box (press <kbd>T</kbd>)
 
 - ![unknown](https://i.ibb.co/dQrb7rf/unknown.png) - status not yet known, you must send one chat message to get it
 - ![disabled](https://i.ibb.co/WPcZsxp/secure.png) - chat reporting is disabled for everyone
-- ![optional](https://i.ibb.co/Zd86KN0/warning.png) - chat reporting is optional, Fabulously Optimized users opt-out by default 
+- ![optional](https://i.ibb.co/Zd86KN0/warning.png) - chat reporting is optional, Fabulously Optimized users opt-out by default
+   - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
 - ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) - chat reporting is enabled for everyone
 - ![realms](https://i.ibb.co/KsCBwVb/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
 
