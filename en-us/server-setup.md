@@ -18,7 +18,7 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 #### How your server works in Fabulously Optimized
 
-* If your server is based on 1.18.2 or below with a protocol tweak (e.g. ViaVersion), nothing will change. FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png) on the bottom right corner of the chat box.
+* If your server is based on 1.18.2 or below with a protocol tweak (e.g. ViaVersion), chat reporting doesn't exist. FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png) on the bottom right corner of the chat box.
 * If your server is based on 1.19 or up and chat signatures are not enforced, FO users will not sign the messages either. FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png) on the bottom right corner of the chat box.
   * If you're using a plugin that uses system messages for chat (e.g. the ones below), the report button will be disabled,
   * If you're using vanilla-like chat, vanilla users may see a gray bar on the left of FO users' messages. FO users can report vanilla users, but vanilla users cannot report FO users (by default).
