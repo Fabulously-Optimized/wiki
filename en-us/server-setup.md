@@ -42,9 +42,9 @@ The following icons show the status of the server. Icons are shown on the bottom
       - FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png) and their messages cannot be reported.
       - _vanilla clients_ will see a warning toast in the top right corner and their messages can be reported. To avoid those problems, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
-  - Same comments apply as for "all servers" above.
+  - Same comments apply as for "all 1.19+ backend servers" above.
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
-  - Same comments apply as for "all servers" above.
+  - Same comments apply as for "all 1.19+ backend servers" above.
 - **Paper/Purpur/Pufferfish/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
    - Ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
    - In Spigot, users will always see ![optional](https://i.ibb.co/Zd86KN0/warning.png) icon.
