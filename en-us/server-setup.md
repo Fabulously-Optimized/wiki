@@ -44,8 +44,8 @@ The following icons show the status of the server. Icons are shown on the bottom
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all servers" above.
 - **Paper/Purpur/Pufferfish/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
-   -  Ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
-  - Spigot itself will however not be able to support the `send-prevents-chat-reports-to-client` feature itself as a whole.
+   - Ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
+   - In Spigot, users will always see ![optional](https://i.ibb.co/Zd86KN0/warning.png) icon.
 - **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
    - FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
