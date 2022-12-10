@@ -37,8 +37,10 @@ The following icons show the status of the server. Icons are shown on the bottom
 
 - **All 1.18- backend servers**: no changes necessary, chat reporting doesn't exist.
 - **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
-  - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy,
-  - If no other measures are taken alongside this, _vanilla clients_ will see a warning toast in the top right corner and they will still sign the messages. That means anyone can report them, but they cannot report FO users. To avoid those problems, use one of the plugins/mods below.
+  - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
+  - If no other measures are taken alongside this:
+      - FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png) and their messages cannot be reported.
+      - _vanilla clients_ will see a warning toast in the top right corner and their messages can be reported. To avoid those problems, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all servers" above.
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
