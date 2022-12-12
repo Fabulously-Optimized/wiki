@@ -88,8 +88,8 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 1. Select existing FO instance
 2. Click `Edit` on the sidebar
-2. Select `Modrinth` on the tab list
-3. Click `Update pack`
+3. Select `Modrinth` on the tab list
+4. Click `Update pack`
 
 ### GDLauncher
 
