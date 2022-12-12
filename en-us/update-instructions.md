@@ -90,6 +90,7 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 2. Click `Edit` on the sidebar
 3. Select `Modrinth` on the tab list
 4. Click `Update pack`
+5. Once the name prompt comes up, click `Yes`
 
 ### GDLauncher
 
