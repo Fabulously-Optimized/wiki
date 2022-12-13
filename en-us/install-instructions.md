@@ -89,6 +89,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
 7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
+    * If not, you should enable FO-branded and mod-based resource packs manually later.
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
