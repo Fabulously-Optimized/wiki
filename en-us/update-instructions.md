@@ -86,12 +86,11 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 ### Prism Launcher
 
-1. Click `Add Instance`.
-2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
-4. Click `OK`
-5. Once the update prompt comes up, click `Update existing instance`
-6. Once the name prompt comes up, click `Yes`
+1. Select existing FO instance
+2. Click `Edit` on the sidebar
+3. Select `Modrinth` on the tab list
+4. Click `Update pack`
+5. Once the name prompt comes up, click `Yes`
 
 ### GDLauncher
 
