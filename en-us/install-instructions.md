@@ -131,8 +131,6 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 <details>
   <summary>Manual migration</summary>
 
-  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-
   1. Close Prism Launcher
   2. Go to one of these directories according to your operating system:
       - Portable (Windows/Linux): `PolyMC/instances`
