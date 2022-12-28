@@ -167,18 +167,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 1. Uninstall PolyMC
 2. Install [Prism Launcher](https://prismlauncher.org/)
-3. Go to one of these directories according to your operating system:
-   - Portable (Windows / Linux): `PolyMC/instances`
-   - Windows: `%APPDATA%/PolyMC/instances`
-   - macOS: `~/Library/Application Support/PolyMC/instances`
-   - Linux: `~/.local/share/PolyMC/instances`
-4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
-5. Open Prism Launcher, click `Folders`, then `View Instance Folder`
-6. Once your instance folder has opened, right click anywhere and select `Paste`
-7. Close Prism Launcher and reopen it, your instances should be there
-8. Sign in to your accounts, configure Prism Launcher to your preferences
-9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
-10. To run the modpack, double click the Fabulously Optimized icon
+3. A migration dialog should pop up. You can now migrate your instances and settings to Prism Launcher!
 
 ### Cracked launchers
 
