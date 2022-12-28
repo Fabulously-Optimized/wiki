@@ -118,18 +118,34 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 1. Uninstall PolyMC
 2. Install [Prism Launcher](https://prismlauncher.org/)
-3. Go to one of these directories according to your operating system:
-   - Portable (Windows / Linux): `PolyMC/instances`
-   - Windows: `%APPDATA%/PolyMC/instances`
-   - macOS: `~/Library/Application Support/PolyMC/instances`
-   - Linux: `~/.local/share/PolyMC/instances`
-4. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
-5. Open Prism Launcher, click `Folders`, then `View Instance Folder`
-6. Once your instance folder has opened, right click anywhere and select `Paste`
-7. Close Prism Launcher and reopen it, your instances should be there
-8. Sign in to your accounts, configure Prism Launcher to your preferences
-9. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
-10. To run the modpack, double click the Fabulously Optimized icon
+3. Launch it and pay attention to the prompt you get:
+    1. > It looks like you used PolyMC before. Do you want to migrate your data to the new location of Prism Launcher?
+         * Click `Yes` and the migration will complete.
+    2. > It looks like you used PolyMC on Windows before. Do you want to migrate your data to the new location of Prism Launcher?
+         * Click `Yes` and the migration will complete.
+    3. > Old data from PolyMC was found, but you already have existing data for Prism Launcher. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start Prism Launcher?
+        * Click `No` and follow manual migration instructions below.
+4. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
+5. To run the modpack, double click the Fabulously Optimized icon
+
+<details>
+  <summary>Manual migration</summary>
+
+  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+
+  1. Close Prism Launcher
+  2. Go to one of these directories according to your operating system:
+      - Portable (Windows/Linux): `PolyMC/instances`
+      - Windows: `%APPDATA%/PolyMC/instances`
+      - macOS: `~/Library/Application Support/PolyMC/instances`
+      - Linux: `~/.local/share/PolyMC/instances`
+  2. Select all the files and folders in the instances folder, right click on one of them and select `Copy`
+  3. Open Prism Launcher, click `Folders`, then `View Instance Folder`
+  4. Once your instance folder has opened, right click anywhere and select `Paste`
+  5. Close Prism Launcher and reopen it, your instances should be there
+  6. Sign in to your accounts, configure Prism Launcher to your preferences
+
+</details>
 
 ### Cracked launchers
 
