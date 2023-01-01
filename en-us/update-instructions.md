@@ -107,6 +107,8 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.12**
+   * Older versions of the modpack - 1.12.3 and 2.7.3 require the use of Fabric Loader 0.14.12 instead.
+   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
