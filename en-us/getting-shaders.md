@@ -4,6 +4,17 @@
 
 OptiFine shaders are supported using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
 
+### Modrinth shaders
+Select your preferred shader type and download a pack of your choice:
+
+- [👁️ for **Iris** (mostly used by FO)](https://modrinth.com/shaders?g=categories%3A%27iris%27)
+
+- [☕ for **Vanilla** (*Fabulous* Setting + Resource pack)](https://modrinth.com/shaders?g=categories%3A%27vanilla%27)
+
+- [🖼️ for **Canvas**](https://modrinth.com/shaders?g=categories%3A%27canvas%27)
+
+***
+
 [Here is a list of recommended shaders.](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md)
 
 The installation is simple:
