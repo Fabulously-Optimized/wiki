@@ -87,9 +87,6 @@ Canvas shaders are **not supported by default on FO**. By replacing some mods, y
 <summary>Read more</summary>
 
 * [Lumi Lights resource pack](https://spiralhalo.github.io)
-
-{% embed url="https://youtu.be/P_160odtr50" %}
-
 * [More shaders can be found on Modrinth](https://modrinth.com/shaders?g=categories%3A%27canvas%27)
 
 #### Installation
