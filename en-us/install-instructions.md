@@ -78,7 +78,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.12**
-   * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
+   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
@@ -130,8 +130,6 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 <details>
   <summary>Manual migration</summary>
-
-  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
 
   1. Close Prism Launcher
   2. Go to one of these directories according to your operating system:

@@ -100,6 +100,8 @@ You can now translate the modpack's description! It will be posted as a spoiler 
 
 ## Translating the wiki
 
+**[This may be discontinued or restructured](https://github.com/Fabulously-Optimized/wiki/issues/58). Please translate other aspects of FO first (above), before considering translating the wiki.**
+
 You can also translate this wiki. It is up to you, whether you want to do a single overview page or translate multiple pages into your language.
 
 1. [Go to wiki repo](https://github.com/Fabulously-Optimized/wiki) and hit `Fork`
