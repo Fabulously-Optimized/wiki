@@ -20,17 +20,17 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 The following icons show the status of the server. Icons are shown on the bottom right corner of the chat box.
 
-* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png).
+* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![disabled](https://i.ibb.co/QDFzXCT/secure.png).
     * Chat reporting is disabled for everyone and on vanilla clients, gray bars are displayed on the left of the messages.
 * **1.19 or up**:
-    1. Using [one of the mods/plugins](#how-to-protect-your-users): FO users will see ![disabled](https://i.ibb.co/WPcZsxp/secure.png)
+    1. Using [one of the mods/plugins](#how-to-protect-your-users): FO users will see ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
         * Chat reporting is disabled for everyone and on vanilla clients, gray bars are displayed on the left of the messages.
-    2. In other cases, FO users will see ![unknown](https://i.ibb.co/dQrb7rf/unknown.png) until they send the first chat message.
-        1. If `enforce-secure-profile` = `true` (default), FO users will see ![enabled](https://i.ibb.co/3k1H6VV/insecure.png).
+    2. In other cases, FO users will see ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) until they send the first chat message.
+        1. If `enforce-secure-profile` = `true` (default), FO users will see ![enabled](https://i.ibb.co/2YgMHpR/insecure.png).
             * Chat reporting is enabled for everyone.
-        2. If `enforce-secure-profile` = `false` (recommended), FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png).
+        2. If `enforce-secure-profile` = `false` (recommended), FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
             * Chat reporting is enabled for vanilla users' messages and disabled for FO users' messages. On vanilla, FO users' messages will show gray bars on the left.
-* **Realms**: FO users will see ![realms](https://i.ibb.co/KsCBwVb/realms.png).
+* **Realms**: FO users will see ![realms](https://i.ibb.co/gTxw84X/realms.png).
     * Chat reporting is enabled for everyone and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
 #### How to protect your users
@@ -39,17 +39,17 @@ The following icons show the status of the server. Icons are shown on the bottom
 - **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
   - If no other measures are taken alongside this:
-      - FO users will see ![optional](https://i.ibb.co/Zd86KN0/warning.png) and their messages cannot be reported.
+      - FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png) and their messages cannot be reported.
       - Vanilla users will see a warning toast in the top right corner and their messages can be reported. To avoid those problems, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all 1.19+ backend servers" above.
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all 1.19+ backend servers" above.
 - **Paper/Purpur/Pufferfish/Spigot**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
-   - Ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
-   - In Spigot, FO users will always see ![optional](https://i.ibb.co/Zd86KN0/warning.png) icon.
+   - Ensure `rewrite-chat`, `claim-secure-chat-enforced` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
+   - In Spigot, FO users will always see ![optional](https://i.ibb.co/hstcjW7/neutral.png) icon.
 - **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
-   - FO users will get a ![disabled](https://i.ibb.co/WPcZsxp/secure.png) icon near chat.
+   - FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
   - Consider [encrypting your chat messages](chat-reporting-faq.md#can-i-encrypt-my-chat-messages) to protect yourself, 
     - You obviously need to let other members of the server also know how to do that and what method/key will you be using. 

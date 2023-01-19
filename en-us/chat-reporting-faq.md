@@ -116,12 +116,12 @@ As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/
   
 In order to get the status of the server, open the chat box (press <kbd>T</kbd>) and look at the right bottom corner:
 
-- ![unknown](https://i.ibb.co/dQrb7rf/unknown.png) - status not yet known, you must send one chat message to get it
-- ![disabled](https://i.ibb.co/WPcZsxp/secure.png) - chat reporting is disabled for everyone
-- ![optional](https://i.ibb.co/Zd86KN0/warning.png) - chat reporting is optional, Fabulously Optimized users opt-out by default
+- ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
+- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
+- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional, Fabulously Optimized users opt-out by default
    - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
-- ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) - chat reporting is enabled for everyone
-- ![realms](https://i.ibb.co/KsCBwVb/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
+- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - chat reporting is enabled for everyone
+- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
 
 _(Expected different icons? Disable Chat Reporting Helper resource pack and [see No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))_
 
@@ -129,7 +129,7 @@ The behaviour can be configured per-server, hover on the icon for more details.
 
 ### I don't want to join chat reporting servers at all!
 
-If you don't think the ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (you can only use commands then).
+If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (you can only use commands then).
 
 1. Click Mods
 2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
@@ -148,7 +148,7 @@ Disabling chat signing is not a punishable offense, otherwise Mojang would not h
 
 Understandable, the modpack helps you as well. 
 
-If you join a server and see a ![enabled](https://i.ibb.co/3k1H6VV/insecure.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
+If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
 
 ## Alternative approaches
  
