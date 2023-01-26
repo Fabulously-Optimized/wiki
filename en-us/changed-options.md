@@ -23,7 +23,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | telemetryOptInExtra                 | Sets the telemetry (analytics data collection) toggle to "minimal".                                                                                          | false     | false   | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FO. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback.                        |
 | onboardAccessibility                 | Indicates whether the user has not seen the accessibility onboarding screen                                                                                          | true     | false   | Minecraft already has a very visible accessibility button in the main menu, this screen just creates annoyances for the majority who don't need it                        |
 
-¹ \["vanilla","Fabric Mods","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","midnightcontrols/bedrock"]
+¹ \["vanilla","fabric","midnightcontrols/bedrock","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
 
 **Changed mod settings can be found on the repo at [.../yosbr/1.19.3/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config).**
 
@@ -46,10 +46,11 @@ Fabulously Optimized enables relevant mod-provided resource packs and two exclus
 
 The exclusive resource packs are:
 
-- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Mod%20Menu%20Helper) - explains what each mod does in a consistent and clear way on Mod Menu
-- [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons 
+- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Mod%20Menu%20Helper) - explains what each mod does in a consistent and clear way on Mod Menu
+- [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
+- [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Fast%20Better%20Grass) - imitates OptiFine's "Better Grass" (fast mode)
 
-Both resource packs use minimal resources, [can be translated to your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) and they will _not_ change the look of your blocks, items, menus etc.
+The resource packs use minimal resources, [can be translated to your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) and they will _not_ change the look of your blocks, items, menus etc.
 
 ### Fixed bugs
 
