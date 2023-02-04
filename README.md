@@ -2,7 +2,7 @@
 
 Welcome to the Fabulously Optimized wiki!
 
-**[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)** | **[❗Chat Reporting FAQ](en-us/chat-reporting-faq.md)**
+**[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
 
 [⬇️ Installing modpack](en-us/install-instructions.md) | [🆕 Updating modpack](en-us/update-instructions.md) [(resetting settings)](en-us/update-instructions.md#resetting-settings) | [➕ Adding mods](en-us/adding-more-mods.md) | [➖ Disabling mods](en-us/disabling-mods.md) | [🎛️ Changed options](en-us/changed-options.md) [(fixed bugs)](en-us/changed-options.md#fixed-bugs)
 
@@ -12,6 +12,6 @@ Comparison with [🇴​🇫 OptiFine](en-us/give-up-optifine.md) | [🔣 Other 
 
 You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating to your language](en-us/language-support.md)
 
-More info about [🍦Vanilla launcher](en-us/vanilla-launcher-faq.md) | [🔢 Version support](en-us/version-support.md) | [🙅 Mods that won't be added](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod) | [🔃 MultiMC (auto-update)](en-us/multimc-auto-update.md) | [🗄️ Server setup](en-us/server-setup.md)
+More info about [🍦Vanilla launcher](en-us/vanilla-launcher-faq.md) | [❗Chat Reporting](en-us/chat-reporting-faq.md) | [🔢 Version support](en-us/version-support.md) | [🔃 MultiMC (auto-update)](en-us/multimc-auto-update.md) | [🗄️ Server setup](en-us/server-setup.md)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
