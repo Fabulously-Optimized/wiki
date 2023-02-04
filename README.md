@@ -1,6 +1,6 @@
-# 🇺🇸 English (US)
+# Fabulously Optimized
 
-Welcome to the Fabulously Optimized wiki!
+Welcome to the Fabulously Optimized wiki! [🌐 Read in your language](https://fabulously--optimized-gitbook-io.translate.goog/modpack/?_x_tr_sl=auto&_x_tr_tl=et&_x_tr_hl=et&_x_tr_pto=wapp)
 
 **[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)** | **[❗Chat Reporting FAQ](chat-reporting-faq.md)**
 
@@ -10,7 +10,7 @@ Getting [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼�
 
 Comparison with [🇴​🇫 OptiFine](give-up-optifine.md) | [🔣 Other modpacks](principles.md) [(why use Fabric?)](principles.md#why-use-fabric)
 
-You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [🌐 Translating to your language](language-support.md)
+You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [✍️ Translating to your language](language-support.md)
 
 More info about [🍦Vanilla launcher](vanilla-launcher-faq.md) | [🔢 Version support](version-support.md) | [🙅 Mods that won't be added](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md)
 
