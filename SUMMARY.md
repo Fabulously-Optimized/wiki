@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🇺🇸 English (US)](README.md)
+* [Fabulously Optimized](README.md)
   * [Adding more mods](adding-more-mods.md)
   * [Changed options](changed-options.md)
   * [Chat Reporting FAQ](chat-reporting-faq.md)
