@@ -25,22 +25,14 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
 2. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en_us.json)
-3. [Cull Less Leaves](https://github.com/isXander/CullLessLeaves/blob/1.19/src/main/resources/assets/cull-less-leaves/lang/en_us.json) (appears in Video Settings)
+3. [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
 4. [Mod Menu](https://crowdin.com/project/mod-menu)
 5. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json)
-6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.2/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.19.2/fabric-item-groups-v0/src/main/resources/assets/fabric/lang/en_us.json)
+6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.3/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.19.3/fabric-item-groups-v0/src/main/resources/assets/fabric/lang/en_us.json)
 7. [Zoomify](https://github.com/isXander/Zoomify/blob/1.19/src/main/resources/assets/zoomify/lang/en_us.json)
-8. [LambdaBetterGrass](https://github.com/LambdAurora/LambdaBetterGrass/blob/1.19/src/main/resources/assets/lambdabettergrass/lang/en_us.json)
-9. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.19/src/main/resources/assets/lambdynlights/lang/en_us.json)
-10. [SpruceUI](https://github.com/LambdAurora/SpruceUI/blob/1.19/src/main/resources/assets/spruceui/lang/en_us.json) (more strings used in LambdaBetterGrass and LambDynamicLights)
-11. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en_us.json)
-12. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
-13. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
-14. [Colormatic](https://github.com/kvverti/colormatic/blob/master/src/main/resources/assets/colormatic/lang/en_us.json)
-15. [CEM](https://github.com/dorianpb/cem/blob/main/src/main/resources/assets/cem/lang/en_us.json)
-16. [Sodium](https://github.com/amnotbananaama/sodium-fabric-translations) (unofficial, but will be included in some way eventually)
-17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
-18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform where FO is in)
+8. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en_us.json)
+9. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
+10. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
 
 ## Mod Menu helper
 
