@@ -100,18 +100,4 @@ You can now translate the modpack's description! It will be posted as a spoiler 
 
 ## Translating the wiki
 
-**[This may be discontinued or restructured](https://github.com/Fabulously-Optimized/wiki/issues/58). Please translate other aspects of FO first (above), before considering translating the wiki.**
-
-You can also translate this wiki. It is up to you, whether you want to do a single overview page or translate multiple pages into your language.
-
-1. [Go to wiki repo](https://github.com/Fabulously-Optimized/wiki) and hit `Fork`
-2. Click `Add file` → `Create new file`
-   * If you want to do a single page, name the file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages).md, e.g. `es_es.md`
-   * If you want to do a set of pages, name the first file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages)/readme.md, e.g. `es_es/readme.md`
-     * Other pages will then be in that language code folder. You may keep the file names in your language, but please try to keep it ASCII (no non-English characters).
-3. Fill the page(s) with content and click `Commit new file`
-4. [Create a new pull request](https://github.com/Fabulously-Optimized/wiki/compare).
-5. I'll review your page and if everything seems okay, will accept it!
-6. You can add contents to your pages at any time by repeating this process.
-   * Make sure you click `🔄Fetch upstream` → `Fetch and merge` to get the latest changes from the wiki.
- 
+The wiki is no longer accepting translations because it required translating too many pages and translations got outdated very fast.
