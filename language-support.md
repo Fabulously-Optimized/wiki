@@ -2,7 +2,7 @@
 
 You can translate various parts of the pack!
 
-## Translating mods
+## Mods
 
 I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods.
 
@@ -42,7 +42,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
 18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform where FO is in)
 
-## Translating Mod Menu helper
+## Mod Menu helper
 
 Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
 
@@ -50,7 +50,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 2. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
 3. Extract Mod Menu Helper.zip to a folder, then go inside it → assets → minecraft → lang
 4. Open en\_us.json and copy its full text
-   * Looks ugly? That's because it's minified JSON. [You can copy a prettier version from here](https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Resourcepacks/Mod%20Menu%20Helper/assets/fo/lang/en_us.json) and translate that instead (they are identical).
+   * Looks ugly? That's because it's minified JSON. [You can copy a prettier version from here](https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Resource%20Packs/Mod%20Menu%20Helper/assets/fo/lang/en_us.json) and translate that instead (they are identical).
 5. Create a new file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
 6. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
    * `"coolmod.config.title": "Coolmod Options",`
@@ -61,20 +61,20 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
    * Of course you can rephrase the sentences to make them more understandable and/or shorter for your language. On the second row you do not have to list all options that English has, just list as many as you can fit.
    * As you test, you can use F3+J to reload languages.
 9. If you're satisfied with your translation, copy the full text.
-10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Resourcepacks/Mod%20Menu%20Helper/assets/fo/lang/), then `Add file` → `Create new file`
+10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Resource%20Packs/Mod%20Menu%20Helper/assets/fo/lang/), then `Add file` → `Create new file`
 11. You'll fork the project and have a new file window open. Name the file the same way you did previously and paste the translation.
 12. Commit the file and create a pull request (you'll see the button for it). If your translation is properly formatted and fits into the rows, I will accept it.
 13. Wait for the next version for the modpack to see it in-game :P
 
 **P.S. If you didn't follow this tutorial and instead just made a PR on GitHub, [there is now an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that can help you approximate whether the sentences will fit.**
 
-## Translating Chat Reporting helper
+## Chat Reporting helper
 
 Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have a translation may use original strings, so PRs are appreciated.
 
-1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper/assets/fo/lang)
+1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper/assets/fo/lang)
 2. Click `Add file` -> `Create new file` and name it `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
-3. Open [the Chat Reporting Helper's file](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Resourcepacks/Chat%20Reporting%20Helper/assets/fo/lang/en_us.json) in a new tab
+3. Open [the Chat Reporting Helper's file](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Resource%20Packs/Chat%20Reporting%20Helper/assets/fo/lang/en_us.json) in a new tab
 4. Open [vanilla language files](https://github.com/InventivetalentDev/minecraft-assets/tree/1.19.3/assets/minecraft/lang) in a new tab and click on your language file
 5. Using the two files you have opened, translate the strings
    * Use vanilla strings for reference where relevant, but mostly follow the Chat Reporting Helper ones
@@ -83,7 +83,7 @@ Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simpl
 7. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
 8. Wait for the next version for the modpack to see it in-game :P
 
-## Translating the description
+## Listing description
 
 You can now translate the modpack's description! It will be posted as a spoiler below the English text.
 
@@ -98,20 +98,6 @@ You can now translate the modpack's description! It will be posted as a spoiler 
 7. You can edit it at any time by repeating this process.
    * Make sure you click `🔄Fetch upstream` → `Fetch and merge` to get the latest changes from the wiki.
 
-## Translating the wiki
+## Wiki
 
-**[This may be discontinued or restructured](https://github.com/Fabulously-Optimized/wiki/issues/58). Please translate other aspects of FO first (above), before considering translating the wiki.**
-
-You can also translate this wiki. It is up to you, whether you want to do a single overview page or translate multiple pages into your language.
-
-1. [Go to wiki repo](https://github.com/Fabulously-Optimized/wiki) and hit `Fork`
-2. Click `Add file` → `Create new file`
-   * If you want to do a single page, name the file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages).md, e.g. `es_es.md`
-   * If you want to do a set of pages, name the first file [locale\_code](https://minecraft.fandom.com/wiki/Language#Languages)/readme.md, e.g. `es_es/readme.md`
-     * Other pages will then be in that language code folder. You may keep the file names in your language, but please try to keep it ASCII (no non-English characters).
-3. Fill the page(s) with content and click `Commit new file`
-4. [Create a new pull request](https://github.com/Fabulously-Optimized/wiki/compare).
-5. I'll review your page and if everything seems okay, will accept it!
-6. You can add contents to your pages at any time by repeating this process.
-   * Make sure you click `🔄Fetch upstream` → `Fetch and merge` to get the latest changes from the wiki.
- 
+The wiki is no longer accepting translations because it required translating too many pages and translations got outdated very fast.
