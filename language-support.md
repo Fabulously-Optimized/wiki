@@ -100,4 +100,4 @@ You can now translate the modpack's description! It will be posted as a spoiler 
 
 ## Translating the wiki
 
-Fabulously Optimized's wiki no is no longer accepting translations due to high amount of pages and maintenance needed.
+The wiki is no longer accepting translations because it required translating too many pages and translations got outdated very fast.
