@@ -107,11 +107,11 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 
 ## Chat reporting and Fabulously Optimized
 
-### What does this modpack do to protect me?
+### What does this modpack do for me?
 
 Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it. It also reverts most of the chat indicators added in 1.19.1, because they clutter the screen and are misleading in many cases.
 
-As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Chat%20Reporting%20Helper) is also added, which does the following:
+As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) is also added, which does the following:
   - Makes No Chat Reports icons more neutral
   - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
   
