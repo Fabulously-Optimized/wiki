@@ -2,7 +2,7 @@
 
 You can translate various parts of the pack!
 
-## Translating mods
+## Mods
 
 I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods.
 
@@ -42,7 +42,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
 18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform where FO is in)
 
-## Translating Mod Menu helper
+## Mod Menu helper
 
 Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
 
@@ -68,7 +68,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 **P.S. If you didn't follow this tutorial and instead just made a PR on GitHub, [there is now an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that can help you approximate whether the sentences will fit.**
 
-## Translating Chat Reporting helper
+## Chat Reporting helper
 
 Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have a translation may use original strings, so PRs are appreciated.
 
@@ -83,7 +83,7 @@ Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simpl
 7. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
 8. Wait for the next version for the modpack to see it in-game :P
 
-## Translating the description
+## Listing description
 
 You can now translate the modpack's description! It will be posted as a spoiler below the English text.
 
@@ -98,6 +98,6 @@ You can now translate the modpack's description! It will be posted as a spoiler 
 7. You can edit it at any time by repeating this process.
    * Make sure you click `🔄Fetch upstream` → `Fetch and merge` to get the latest changes from the wiki.
 
-## Translating the wiki
+## Wiki
 
 The wiki is no longer accepting translations because it required translating too many pages and translations got outdated very fast.
