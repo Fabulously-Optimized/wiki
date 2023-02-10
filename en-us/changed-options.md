@@ -46,9 +46,9 @@ Fabulously Optimized enables relevant mod-provided resource packs and two exclus
 
 The exclusive resource packs are:
 
-- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Mod%20Menu%20Helper) - explains what each mod does in a consistent and clear way on Mod Menu
-- [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Chat%20Reporting%20Helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
-- [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Fast%20Better%20Grass) - imitates OptiFine's "Better Grass" (fast mode)
+- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) - explains what each mod does in a consistent and clear way on Mod Menu
+- [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
+- [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) - imitates OptiFine's "Better Grass" (fast mode)
 
 The resource packs use minimal resources, [can be translated to your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) and they will _not_ change the look of your blocks, items, menus etc.
 
