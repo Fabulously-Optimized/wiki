@@ -4,7 +4,7 @@ You can translate various parts of the pack!
 
 ## Mods
 
-I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods.
+I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods too.
 
 1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
 2. On every page, find the Issues or Source link at the top
@@ -44,7 +44,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 
 ## Mod Menu helper
 
-Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
+Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and available options.
 
 1. Make sure your Fabulously Optimized instance [is fully up to date](update-instructions.md).
 2. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
@@ -70,7 +70,7 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 ## Chat Reporting helper
 
-Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have a translation may use original strings, so PRs are appreciated.
+Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand.
 
 1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper/assets/fo/lang)
 2. Click `Add file` -> `Create new file` and name it `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
@@ -85,7 +85,7 @@ Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simpl
 
 ## Listing description
 
-You can now translate the modpack's description! It will be posted as a spoiler below the English text.
+Listing description translations are posted as a spoiler tag below the English text.
 
 1. Go to the [descriptions folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Description)
 2. Click on `en_US.md`. Read it, see how it looks, then click `Raw` and copy the text.
