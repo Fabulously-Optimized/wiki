@@ -42,7 +42,7 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 17. [Cloth Config](https://crowdin.com/project/cloth-config) (global strings in some settings menus)
 18. [Modrinth](https://crowdin.com/project/modrinth) (a mod platform where FO is in)
 
-## Mod Menu helper
+## Mod Menu Helper
 
 Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and available options.
 
@@ -68,7 +68,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 
 **P.S. If you didn't follow this tutorial and instead just made a PR on GitHub, [there is now an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that can help you approximate whether the sentences will fit.**
 
-## Chat Reporting helper
+## Chat Reporting Helper
 
 Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand.
 
