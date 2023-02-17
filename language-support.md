@@ -6,7 +6,7 @@ You can translate various parts of the pack!
 
 I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods too.
 
-1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth)
+1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) and click the name of the mod you want to translate
 2. On every page, find the Issues or Source link at the top
 3. Read the readme, wiki and/or issues to see if there is already a translation platform. If yes, go there.
 4. If not, go to Code tab and browse the folders in order: `src` → `main` → `resources` → `assets` → `(mod's name)` → `lang` → `en_us.json`
