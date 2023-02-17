@@ -4,9 +4,9 @@ You can translate various parts of the pack!
 
 ## Mods
 
-I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods.
+I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods too.
 
-1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods)
+1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) and click the name of the mod you want to translate
 2. On every page, find the Issues or Source link at the top
 3. Read the readme, wiki and/or issues to see if there is already a translation platform. If yes, go there.
 4. If not, go to Code tab and browse the folders in order: `src` → `main` → `resources` → `assets` → `(mod's name)` → `lang` → `en_us.json`
@@ -34,9 +34,9 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 9. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
 10. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
 
-## Mod Menu helper
+## Mod Menu Helper
 
-Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly describes each mod's purpose and available options. By default it is in English, but I am open to accepting language translations, so simply follow this tutorial.
+Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and available options.
 
 1. Make sure your Fabulously Optimized instance [is fully up to date](update-instructions.md).
 2. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
@@ -60,9 +60,9 @@ Fabulously Optimized includes a resource pack "Mod Menu Helper" that shortly des
 
 **P.S. If you didn't follow this tutorial and instead just made a PR on GitHub, [there is now an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that can help you approximate whether the sentences will fit.**
 
-## Chat Reporting helper
+## Chat Reporting Helper
 
-Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand. Languages that don't have a translation may use original strings, so PRs are appreciated.
+Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand.
 
 1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper/assets/fo/lang)
 2. Click `Add file` -> `Create new file` and name it `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
@@ -77,14 +77,14 @@ Fabulously Optimized includes a resource pack "Chat Reporting Helper" that simpl
 
 ## Listing description
 
-You can now translate the modpack's description! It will be posted as a spoiler below the English text.
+Listing description translations are posted as a spoiler tag below the English text.
 
 1. Go to the [descriptions folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Description)
 2. Click on `en_US.md`. Read it, see how it looks, then click `Raw` and copy the text.
 3. Go back, click `Add file` → `Create new file`
 4. Paste and translate every sentence.
    * If your language varies by region (like English, Spanish and others do), you can include the country in parentheses. Otherwise feel free to skip it.
-   * If your language has a local link (video, wiki etc), use that in the format `[text](link)`, otherwise use the English one by keeping the number as-is.
+   * If your language has a localized review video, use that. Otherwise use the English one.
 5. [Create a new pull request](https://github.com/Fabulously-Optimized/fabulously-optimized/compare).
 6. I'll review your text and if everything seems okay, will accept and publish it!
 7. You can edit it at any time by repeating this process.
