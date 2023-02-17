@@ -92,7 +92,7 @@ Listing description translations are posted as a spoiler tag below the English t
 3. Go back, click `Add file` → `Create new file`
 4. Paste and translate every sentence.
    * If your language varies by region (like English, Spanish and others do), you can include the country in parentheses. Otherwise feel free to skip it.
-   * If your language has a local link (video, wiki etc), use that in the format `[text](link)`, otherwise use the English one by keeping the number as-is.
+   * If your language has a localized review video, use that. Otherwise use the English one.
 5. [Create a new pull request](https://github.com/Fabulously-Optimized/fabulously-optimized/compare).
 6. I'll review your text and if everything seems okay, will accept and publish it!
 7. You can edit it at any time by repeating this process.
