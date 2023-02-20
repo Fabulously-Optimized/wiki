@@ -58,7 +58,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
 * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines.
 
-Testing tutorial:
+#### Testing tutorial
 
 1. Select your language on Crowdin
 2. Select `Mod Menu Helper`
