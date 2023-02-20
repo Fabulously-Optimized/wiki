@@ -66,9 +66,10 @@ Testing tutorial:
 4. Run Fabulously Optimized
 5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
 6. Open `Mod Menu Helper.zip` → `assets` → `fo` → `lang`
-   * On macOS, opening the ZIP will create a new folder, Mod Menu Helper, so activate that after step 7.
+   * On macOS, opening the ZIP will create a new folder, so open that one.
 7. Drag the file you downloaded into the archive
 8. Go back to the game, `Done` → `Done`
+   * On macOS, activate the `Mod Menu Helper` (without .zip) resource pack first.
 9. Play any world or server
 10. Press `F3` + `T`
 11. Press `Esc` → `Mods`
