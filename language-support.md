@@ -60,9 +60,19 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 
 Testing tutorial:
 
-1. Click your language on Crowdin. Press `↑↓`, then `Download translations`
-2. (TODO: move the right file to your resource pack - go inside it → assets → fo → lang)
-3. (Start FO and look around)
+1. Select your language on Crowdin
+2. Select `Mod Menu Helper`
+3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+4. Run Fabulously Optimized
+5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
+6. Open `Mod Menu Helper.zip` → `assets` → `fo` → `lang`
+   * On macOS, opening the ZIP will create a new folder, Mod Menu Helper, so activate that after step 7.
+7. Drag the file you downloaded into the archive
+8. Go back to the game, `Done` → `Done`
+9. Play any world or server
+10. Press `F3` + `T`
+11. Press `Esc` → `Mods`
+12. Look around and make sure everything fits. If not, change the translation on Crowdin and repeat from step 3.
 
 ### Chat Reporting Helper
 
