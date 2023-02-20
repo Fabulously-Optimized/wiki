@@ -38,7 +38,7 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 
 Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized). Here are the steps:
 
-1. [Login/sign up to Crowdin](https://crowdin.com)
+1. [Log in or sign up to Crowdin](https://crowdin.com)
 2. Join [the Fabulously Optimized project](https://crowdin.com/project/fabulously-optimized)
 3. Start translating the file you prefer. The files are listed in the order of priority, but you are free to translate whatever you like.
    * You can vote for existing suggestions with ➕ and ➖ buttons
