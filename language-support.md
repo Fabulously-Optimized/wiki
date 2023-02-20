@@ -56,7 +56,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
    * [There is an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that helps you assume how long the string might be, but it is not 100% accurate.
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
-* Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines.
+* Keep paragraph sign (§), pencil emoji (🖉), asterisk (`*`) and newlines as they are on the original.
 
 #### Testing tutorial
 
