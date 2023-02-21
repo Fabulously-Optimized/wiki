@@ -1,0 +1,3 @@
+files:
+  - source: en-US.md
+    translation: /%locale%.md
