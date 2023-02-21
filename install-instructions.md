@@ -156,6 +156,14 @@ After that, pick any supported launcher from this page and enjoy the game!
 
 Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
 
+### Game clients
+
+Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
+
+### Bedrock Edition
+
+Fabulously Optimized is not compatible with Bedrock Edition.
+
 ## Servers
 
 Any server is supported, no installation is necessary. Still, it is highly recommended to protect your users from chat reports on 1.19.1+, see [server setup](server-setup.md) for more info.
