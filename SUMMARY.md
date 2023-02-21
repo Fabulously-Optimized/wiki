@@ -16,3 +16,5 @@
   * [Server setup](server-setup.md)
   * [Update instructions](update-instructions.md)
   * [Version support](version-support.md)
+* [Localized listings](localized-listings/README.md)
+  * [Test page](localized-listings/test-page.md)
