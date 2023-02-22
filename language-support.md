@@ -40,7 +40,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 
 1. Make sure your Fabulously Optimized instance [is fully up to date](update-instructions.md).
 2. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
-3. Extract Mod Menu Helper.zip to a folder, then go inside it → assets → minecraft → lang
+3. Extract Mod Menu Helper.zip to a folder, then go inside it → assets → fo → lang
 4. Open en\_us.json and copy its full text
    * Looks ugly? That's because it's minified JSON. [You can copy a prettier version from here](https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Resource%20Packs/Mod%20Menu%20Helper/assets/fo/lang/en_us.json) and translate that instead (they are identical).
 5. Create a new file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
