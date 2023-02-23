@@ -24,14 +24,14 @@ I support people using Minecraft in their language and would like to promote tha
 List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform.
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
-2. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en_us.json)
+2. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/1.18.2/src/main/resources/assets/iris/lang/en_us.json)
 3. [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
 4. [Mod Menu](https://crowdin.com/project/mod-menu)
-5. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19/src/main/resources/assets/midnightcontrols/lang/en_us.json)
-6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.3/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.19.3/fabric-item-groups-v0/src/main/resources/assets/fabric/lang/en_us.json)
-7. [Zoomify](https://github.com/isXander/Zoomify/blob/1.19/src/main/resources/assets/zoomify/lang/en_us.json)
-8. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/master/src/main/resources/assets/capes/lang/en_us.json)
-9. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
+5. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.19.3/src/main/resources/assets/midnightcontrols/lang/en_us.json)
+6. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.19.3/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.19.3/fabric-item-group-api-v1/src/main/resources/assets/fabric/lang/en_us.json)
+7. [Zoomify](https://github.com/isXander/Zoomify/blob/1.19.3/src/main/resources/assets/zoomify/lang/en_us.json)
+8. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
+9. [Continuity](https://github.com/PepperCode1/Continuity/blob/1.19/dev/src/main/resources/assets/continuity/lang/en_us.json)
 10. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
 
 ## Modpack
@@ -44,7 +44,7 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
 3. [Join our Discord](https://discord.gg/yxaXtaQqdB) to become a proofreader in your language or discuss with an existing one.
-4. As a proofreader, read over every string, test MMH in-game and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
+4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
 5. Wait for the next release of FO to see your translations live!
 6. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
 
