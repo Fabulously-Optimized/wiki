@@ -1,6 +1,6 @@
 # Language support
 
-You can translate various parts of the pack!
+You can translate the mods themselves and the modpack-specific content.
 
 ## Mods
 
@@ -21,7 +21,7 @@ I support people using Minecraft in their language and would like to promote tha
 
 ### Notable mods to translate
 
-List of mods that contribute the most viewed strings in the modpack, click to get to their English language file/translation platform.
+List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform.
 
 1. [Sodium Extra](https://crowdin.com/project/sodium-extra)
 2. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/trunk/src/main/resources/assets/iris/lang/en_us.json)
@@ -34,62 +34,71 @@ List of mods that contribute the most viewed strings in the modpack, click to ge
 9. [Continuity](https://github.com/PepperCode1/Continuity/blob/main/src/main/resources/assets/continuity/lang/en_us.json)
 10. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
 
-## Mod Menu Helper
+## Modpack
+
+Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized). Here are the steps:
+
+1. [Log in or sign up to Crowdin](https://crowdin.com)
+2. Join [the Fabulously Optimized project](https://crowdin.com/project/fabulously-optimized)
+3. Start translating the file you prefer. The files are listed in the order of priority, but you are free to translate whatever you like.
+   * You can vote for existing suggestions with ➕ and ➖ buttons
+   * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
+   * File-specific tips and requirements [are listed below](#mod-menu-helper)
+4. [Join our Discord](https://discord.gg/yxaXtaQqdB) to become a proofreader in your language or discuss with an existing one.
+5. As a proofreader, read over every string, test MMH in-game and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
+6. Wait for the next release of FO to see your translations live!
+7. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
+
+### Mod Menu Helper
 
 Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and available options.
 
-1. Make sure your Fabulously Optimized instance [is fully up to date](update-instructions.md).
-2. In your Fabulously Optimized instance, go to resource packs menu, click _Open Pack Folder_
-3. Extract Mod Menu Helper.zip to a folder, then go inside it → assets → fo → lang
-4. Open en\_us.json and copy its full text
-   * Looks ugly? That's because it's minified JSON. [You can copy a prettier version from here](https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Resource%20Packs/Mod%20Menu%20Helper/assets/fo/lang/en_us.json) and translate that instead (they are identical).
-5. Create a new file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
-6. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
-   * `"coolmod.config.title": "Coolmod Options",`
-7. Keep the text short and simple, you can add or remove words to make it fit better.
-   * Do not change the color format (paragraph sign §), pencil emoji (🖉) or newlines (\n)
-8. Test in-game by going into `Options...` → `Resource Packs...`, deactivating "Mod Menu Helper.zip" and activating "Mod Menu Helper" instead, then looking at `Mods` in your language.
+* The phrases have very specific length requirements, so you must test them after translating [with the instructions below](#testing-tutorial).
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
-   * Of course you can rephrase the sentences to make them more understandable and/or shorter for your language. On the second row you do not have to list all options that English has, just list as many as you can fit.
-   * As you test, you can use F3+J to reload languages.
-9. If you're satisfied with your translation, copy the full text.
-10. [Click here](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Resource%20Packs/Mod%20Menu%20Helper/assets/fo/lang/), then `Add file` → `Create new file`
-11. You'll fork the project and have a new file window open. Name the file the same way you did previously and paste the translation.
-12. Commit the file and create a pull request (you'll see the button for it). If your translation is properly formatted and fits into the rows, I will accept it.
-13. Wait for the next version for the modpack to see it in-game :P
+   * [There is an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that helps you assume how long the string might be, but it is not 100% accurate.
+* Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
+* Keep paragraph sign (§), pencil emoji (🖉), asterisk (`*`) and newlines as they are on the original.
 
-**P.S. If you didn't follow this tutorial and instead just made a PR on GitHub, [there is now an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that can help you approximate whether the sentences will fit.**
+#### Testing tutorial
 
-## Chat Reporting Helper
+1. Select your language on Crowdin
+2. Select `Mod Menu Helper`
+3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+4. Run Fabulously Optimized
+5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
+6. Open `Mod Menu Helper.zip` → `assets` → `fo` → `lang`
+   * On macOS, opening the ZIP will create a new folder, so open that one.
+7. Drag the file you downloaded into the archive
+8. Go back to the game, `Done` → `Done`
+   * On macOS, activate the `Mod Menu Helper` (without .zip) resource pack first.
+9. Play any world or server
+10. Press `F3` + `T`
+11. Press `Esc` → `Mods`
+12. Look around and make sure everything fits. If not, change the translation on Crowdin and repeat from step 3.
 
-Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports strings to make chat reporting easier to understand.
+### Chat Reporting Helper
 
-1. Go to [Chat Reporting Helper's language folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper/assets/fo/lang)
-2. Click `Add file` -> `Create new file` and name it `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.gamepedia.com/Language#Available\_languages)
-3. Open [the Chat Reporting Helper's file](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/Resource%20Packs/Chat%20Reporting%20Helper/assets/fo/lang/en_us.json) in a new tab
-4. Open [vanilla language files](https://github.com/InventivetalentDev/minecraft-assets/tree/1.19.3/assets/minecraft/lang) in a new tab and click on your language file
-5. Using the two files you have opened, translate the strings
-   * Use vanilla strings for reference where relevant, but mostly follow the Chat Reporting Helper ones
-   * Unlike with Mod Menu Helper, the strings are less constrained in width, so you don't necessarily have to test them in-game.
-6. When done, commit the changes.
-7. Create a pull request (you'll see the button for it). If your translation is properly formatted and faithful, I will accept it
-8. Wait for the next version for the modpack to see it in-game :P
+Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports phrases to make chat reporting availability and interactions easier to understand.
 
-## Listing description
+* There are no length constraints, so in-game testing is not required.
+* Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
+* Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
+* For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19.3-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
+
+### Fast Better Grass
+
+Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". 
+
+* Beginning with 1.19.4, its description will be translated within [Mod Menu Helper](#mod-menu-helper).
+
+### Listing description
 
 Listing description translations are posted as a spoiler tag below the English text.
 
-1. Go to the [descriptions folder](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Description)
-2. Click on `en_US.md`. Read it, see how it looks, then click `Raw` and copy the text.
-3. Go back, click `Add file` → `Create new file`
-4. Paste and translate every sentence.
-   * If your language varies by region (like English, Spanish and others do), you can include the country in parentheses. Otherwise feel free to skip it.
-   * If your language has a localized review video, use that. Otherwise use the English one.
-5. [Create a new pull request](https://github.com/Fabulously-Optimized/fabulously-optimized/compare).
-6. I'll review your text and if everything seems okay, will accept and publish it!
-7. You can edit it at any time by repeating this process.
-   * Make sure you click `🔄Fetch upstream` → `Fetch and merge` to get the latest changes from the wiki.
+* "English" must be translated as the name of your language, in your language. If relevant, add the region in parentheses.
+* If your language has a localized review video, use that in video URL and thumbnail URL. Otherwise just keep the English one.
+* Crowdin supports "translation preview", which shows the description as it will appear on the listing. Look for the eye icon 👁️.
 
-## Wiki
+### Wiki
 
-The wiki is no longer accepting translations because it required translating too many pages and translations got outdated very fast.
+The wiki is not accepting translations because there are too many pages to translate and the translations get outdated very fast.
