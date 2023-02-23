@@ -88,7 +88,7 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". 
 
-* Beginning with 1.19.4, its description will be translated within [Mod Menu Helper](#mod-menu-helper).
+* The description is translated within [Mod Menu Helper](#mod-menu-helper).
 
 ### Listing description
 
