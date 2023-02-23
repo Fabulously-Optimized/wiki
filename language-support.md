@@ -83,6 +83,7 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 * There are no length constraints, so in-game testing is not required.
 * Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
+* For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19.3-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
 ### Fast Better Grass
 
