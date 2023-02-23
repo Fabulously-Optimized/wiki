@@ -38,16 +38,15 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 
 Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized). Here are the steps:
 
-1. [Log in or sign up to Crowdin](https://crowdin.com)
-2. Join [the Fabulously Optimized project](https://crowdin.com/project/fabulously-optimized)
-3. Start translating the file you prefer. The files are listed in the order of priority, but you are free to translate whatever you like.
+1. Join [the Fabulously Optimized project](https://crowdin.com/project/fabulously-optimized)
+2. Start translating the file you prefer. The files are listed in the order of priority.
    * You can vote for existing suggestions with ➕ and ➖ buttons
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
-4. [Join our Discord](https://discord.gg/yxaXtaQqdB) to become a proofreader in your language or discuss with an existing one.
-5. As a proofreader, read over every string, test MMH in-game and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
-6. Wait for the next release of FO to see your translations live!
-7. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
+3. [Join our Discord](https://discord.gg/yxaXtaQqdB) to become a proofreader in your language or discuss with an existing one.
+4. As a proofreader, read over every string, test MMH in-game and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
+5. Wait for the next release of FO to see your translations live!
+6. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
 
 ### Mod Menu Helper
 
