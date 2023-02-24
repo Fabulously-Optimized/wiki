@@ -68,7 +68,7 @@ Some servers tend to put a list of allowed mods into their rules. While it may s
 >
 > **DO:** (don't mention it) - arbitary mod count limits do not benefit anything at all.
 
-> **DON'T** "Only Forge mods are allowed." - Fabulously Optimized does not use Forge.
+> **DON'T:** "Only Forge mods are allowed." - Fabulously Optimized does not use Forge.
 >
 > **DO:** (don't mention it) - restricting certain mod loaders or clients is bad for the user and harmful for the Minecraft ecosystem as a whole. Just restrict behaviours.
 
