@@ -24,7 +24,7 @@ The MultiMC ZIP is a packaged instance for the launcher called [MultiMC](https:/
   - `minecraft` - the main folders that make the modpack
      - `config` - configuration files that adjust the mods for best experience
      - `mods` - mods that are included in the modpack
-     - `resourcepacks` - small resource packs that improve the experience [(what do they do?)](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
+     - `resourcepacks` - small resource packs that improve the experience [(what do they do?)](changed-options.md#resource-packs)
      - `Copy all 3 folders!` - a dummy file that reminds you to do just that
   - `instance.cfg` - manifest file describing the name, icon, type and notes for the instance
   - `mmc-pack.json` - manifest file describing the Minecraft, Fabric and other dependency versions
