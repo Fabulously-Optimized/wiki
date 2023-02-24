@@ -75,4 +75,4 @@ Some servers tend to put a list of allowed mods into their rules. While it may s
 Other recommendations:
 
 * Get voluntary moderators for your server
-* Use anti-cheat plugins
+* Use anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)
