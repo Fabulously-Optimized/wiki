@@ -20,8 +20,8 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 
 The following icons show the status of the server. Icons are shown on the bottom right corner of the chat box.
 
-* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![disabled](https://i.ibb.co/QDFzXCT/secure.png).
-    * Chat reporting is disabled for everyone and on vanilla clients, gray bars are displayed on the left of the messages.
+* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
+    * Chat reporting is disabled for everyone. On vanilla clients, gray bars are displayed on the left of the messages.
 * **1.19 or up**:
     1. Using [one of the mods/plugins](#how-to-protect-your-users): FO users will see ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
         * Chat reporting is disabled for everyone and on vanilla clients, gray bars are displayed on the left of the messages.
