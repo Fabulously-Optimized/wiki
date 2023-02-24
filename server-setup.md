@@ -20,7 +20,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 ### Chat Reporting
 
-Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). This is unwanted by most users, as it can result users being banned for things that are allowed by server rules.
+Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). This is unwanted for most servers, as it can result users being banned for things that are allowed by server rules.
 
 #### How your server works in Fabulously Optimized
 
@@ -79,11 +79,11 @@ Some servers tend to put a list of allowed mods into their rules. While it may s
 >
 > **DO:** (don't mention it) - arbitary mod count limits do not benefit anything at all.
 
-> **DON'T** "Only Forge mods are allowed." - Fabulously Optimized does not use Forge.
+> **DON'T:** "Only Forge mods are allowed." - Fabulously Optimized does not use Forge.
 >
 > **DO:** (don't mention it) - restricting certain mod loaders or clients is bad for the user and harmful for the Minecraft ecosystem as a whole. Just restrict behaviours.
 
 Other recommendations:
 
 * Get voluntary moderators for your server
-* Use anti-cheat plugins
+* Use anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)
