@@ -80,7 +80,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 10. Select "Fabulously Optimized"
 11. Click `OK`
 12. The modpack will now install.
-13. Once installed, double-tap the icon to play.
+13. Once installed, double-tap the icon and wait.
 14. Tap `Options...` → `Controls...` → `🎮` → `Mode: Controller` → `Done` → `Done` → `Done`
 15. The game is now set up and you can just launch it from your game library from now on. 
 16. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
