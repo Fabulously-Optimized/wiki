@@ -59,7 +59,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
-1. Click `Add Instance`.
+1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
@@ -68,14 +68,14 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 ### [Steam Deck](https://www.steamdeck.com/)
 
-1. With Steam Deck turned on, hold down `⏻` and press `Switch to Desktop`.
+1. With Steam Deck turned on, hold down `⏻` and tap `Switch to Desktop`.
 2. From the taskbar, select 👜 "Discover".
 3. Search for "Prism Launcher" and tap `Install`.
 4. Launch it and go through its initial setup process, then close it.
 5. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
 6. Close Steam and launch `Return to Gaming Mode`.
 7. Launch Prism Launcher from your game library.
-8. Click `Add Instance`.
+8. Tap `Add Instance`
 9. Select `Modrinth` tab from the left
 10. Select "Fabulously Optimized"
 11. Click `OK`
