@@ -59,12 +59,33 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
-1. Click `Add Instance`.
+1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
+
+### [Steam Deck](https://www.steamdeck.com/)
+
+1. With Steam Deck turned on, hold down `⏻` and tap `Switch to Desktop`.
+2. From the taskbar, select 👜 "Discover".
+3. Search for "Prism Launcher" and tap `Install`.
+4. Launch it and go through its initial setup process, then close it.
+5. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
+6. Close Steam and launch `Return to Gaming Mode`.
+7. Launch Prism Launcher from your game library.
+8. Tap `Add Instance`
+9. Select `Modrinth` tab from the left
+10. Select "Fabulously Optimized"
+11. Click `OK`
+12. The modpack will now install.
+13. Once installed, double-tap the icon and wait.
+14. Tap `Options...` → `Controls...` → `🎮` → `Mode: Controller` → `Done` → `Done` → `Done`
+15. The game is now set up and you can just launch it from your game library from now on. 
+16. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
+
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
 
 ### [GDLauncher](https://gdlauncher.com/)
 
