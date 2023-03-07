@@ -1,6 +1,11 @@
 # Update instructions
 
-Please __do not upgrade from stable to alpha/beta__, use a separate instance. Any downgrades are also not supported.
+### Disclaimers
+
+- As with any update, *things may break*. Probably not due to Fabulously Optimized, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
+- Upgrades from stable to unstable (alpha, beta) versions are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
+- Any kind of instance downgrading is **never** supported. Make a separate old instance or [use something like ViaFabric](chat-reporting-faq.md#but-my-favorite-server-requires-1.19) if your server hasn't updated yet.
+- If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
 
 ### CurseForge Launcher
 
@@ -31,6 +36,7 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
+   * On CurseForge's new UI, `⌵` → `Download file`
    * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
      * Alternatively, look for it in the sidebar under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
@@ -106,14 +112,15 @@ Please __do not upgrade from stable to alpha/beta__, use a separate instance. An
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.12**
-   * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.14**
+   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
 4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 5. Click `Download` the latest **MultiMC version** of the pack
+   * On CurseForge's new UI, `⌵` → `Download file`
    * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs".
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.

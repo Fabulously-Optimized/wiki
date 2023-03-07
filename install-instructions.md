@@ -6,6 +6,7 @@
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Install` on the topmost CurseForge version
+   * On CurseForge's new UI, `⋮` → `Install with CurseForge app`
 3. Accept the prompt (if asked), download should start
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
@@ -24,6 +25,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
 2. Click `Download` on the latest **MultiMC version**
+   * On CurseForge's new UI, `⌵` → `Download file`
    * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.   
@@ -77,12 +79,13 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.12**
-   * Older versions of the modpack - 1.12.3 and 2.7.3 need Fabric Loader 0.13.3.
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.14**
+   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 4. Click `Download` on the latest **MultiMC version** of the pack
+   * On CurseForge's new UI, `⌵` → `Download file`
    * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
@@ -180,8 +183,6 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 <details>
   <summary>Manual migration</summary>
 
-  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-
   1. Close Prism Launcher
   2. Go to one of these directories according to your operating system:
       - Portable (Windows/Linux): `PolyMC/instances`
@@ -207,12 +208,31 @@ After that, pick any supported launcher from this page and enjoy the game!
 
 Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
 
+### Other modpacks
+
+Some users have experienced interest in using FO with other, content-focused modpacks. 
+
+While it is theoretically possible, this is **not advised**:
+
+* mods may have conflicts
+* neither FO or the other modpack will be able to support you
+
+Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
+
+### Game clients
+
+Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
+
+### Bedrock Edition
+
+Fabulously Optimized is not compatible with Bedrock Edition.
+
 ## Servers
 
 Any server is supported, no installation is necessary. Still, it is highly recommended to protect your users from chat reports on 1.19.1+, see [server setup](server-setup.md) for more info.
 
 ## Quilt
 
-There have been questions regarding whether Fabulously Optimized can be installed with [Quilt](https://quiltmc.org). The answer is: probably, while Fabric mods are still supported in it, but this modpack's maintainer does not provide support for that. [(You can ask in Quilt's Discord, though.)](https://discord.quiltmc.org/)
+Fabulously Optimized is currently based on Fabric, not Quilt. It _may_ run on [Quilt](https://quiltmc.org), but it has not been tested and is not currently supported to ensure all mods work reliably. If you use it, do not ask for support in FO's Discord, but rather [Quilt's Discord](https://discord.quiltmc.org/).
 
 If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
