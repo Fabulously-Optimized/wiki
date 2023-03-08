@@ -121,15 +121,15 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### [Pojav Launcher](https://github.com/PojavLauncherTeam/PojavLauncher) (Android)
 
-Fabulously Optimized can indeed be run on a mobile device! But there are _a lot_ of caveats:
+Fabulously Optimized can indeed be run on a mobile device! Be aware:
 
-* The process has 20+ steps which you must follow carefully.
-* This process is for Android devices - phones and tablets. iOS devices _could_ work, but would also require even more steps and is untested.
+* This process has a lot of steps which you must follow carefully.
+* The tutorial is made for Android devices - phones and tablets. iOS devices _could_ work, but that requires jailbreak and the steps are probably more complicated.
 * Your device must be "mid-range" or "high-end" if you want decent FPS. 6+ GB RAM recommended.
-* Pojav Launcher supports Android 5 and up, but these instructions were tested on Android 12L, so some things may vary.
-* Your device will likely heat and consume a lot of battery as you play. It is not as device-optimized as Bedrock Edition.
+* Pojav Launcher supports Android 5 and up, but these instructions were tested on Android 13.
+* Your device will likely heat and consume a lot of battery as you play. It is _not_ as device-optimized as Bedrock Edition.
 * Attempts have been made to improve performance, but depending on your device you may need to adjust video settings.
-* In the worst case, you may not get it running at all. Try again after a Pojav Launcher update.
+* In the worst case, you may not get it running at all. Try again after Pojav Launcher updates.
 
 <details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft</a></summary></details>
 
@@ -138,35 +138,44 @@ Fabulously Optimized can indeed be run on a mobile device! But there are _a lot_
 
 1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
    * Do not fall into scam websites and apps. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
-2. [Download Material Files](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
-   * This is the file manager we'll be using for this tutorial. You could use others too, but instructions may vary.
-3. [Download Fabric installer](https://fabricmc.net/use/installer/) (jar version)
+2. [Download Files](https://play.google.com/store/apps/details?id=com.marc.files)
+   * This is a shortcut to your system's file manager. Other file managers may need root to follow these instructions.
+3. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
 4. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
+   * On CurseForge's new UI, `⌵` → `Download file`
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-5. [Download Fabulously Optimized patches for Pojav Launcher](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.2)
-   * This optimizes the FO experience for mobile users.
+5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.3](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.3)
+   * This optimizes the modpack for mobile users.
 6. Run Pojav Launcher
 7. Tap `Add account` → `Microsoft account` and sign in
-8. Tap the settings button → `Video and renderer` → `ANGLE (release 1.17+, mid)` → `Back to the last screen`→ `Back to the last screen`
-9. Tap `Create new profile` → `Create new profile` → `Save profile`
-10. Tap `Play`. Wait for it to fully load to the title screen, then exit the game.
-    * If you can't get past a black screen, try creating a new 1.18.2 profile first - it seems to download the necessary Java and dependencies.
-11. Launch Pojav again, tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
-12. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
-13. Close Pojav and open Material Files.
-14. Navigate to `Download` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
-15. Hold down on one folder and tap on all three folders, then `Extract` button at the top
-16. Navigate back to the root directory, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
-    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` → `OK`
-17. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
-18. Navigate to `Download`→ `x.x.x.zip` → `x.x.x` (the x.x.x stands for Minecraft version)
-19. Hold down on `config` folder and tap on all items, then `Extract` button at the top
-20. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
-    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/` → `OK`
-21. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
-22. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
+8. Tap `(Default) - Unknown` → `Create new profile` → `SAVE`
+9. Tap `Play`. Wait for it to fully load to the title screen, then exit the game.
+    * If you get a RAM warning ("The current amount of..."), tap `OK` for now. It usually means you just need to close background apps for better performance.
+    * If you get a black screen: quit the game, go back to Pojav → `🎛️` → `Video and renderer` → `Renderer` → (choose any) → ⬅️ → ⬅️ → try playing again
+10. Launch Pojav again, tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
+11. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
+12. Close Pojav and open Files.
+13. Tap `☰` → `PojavLauncher` → hold down on `options.txt`, tap `🗑️` → `OK`
+14. Tap `☰` → `Downloads` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
+15. Hold down on one folder and tap on all three folders, then tap `⋮` → `Extract to...`
+16. Tap `☰` → `PojavLauncher` → `⋮` → `Show hidden files` → `.minecraft` → `EXTRACT`
+17. Tap `☰` → `Downloads` → `DownGit.zip` → `(Minecraft version)`
+    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
+19. Tap `☰` → `PojavLauncher` → `.minecraft` → `EXTRACT`
+* Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+20. Tap `☰` → `PojavLauncher` → `.minecraft`
+    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+21. On each duplicated folder (e.g. "config (2)" or "resourcepacks (2)"), do the following:
+     1. Open the folder
+     2. Hold on any file and select all
+     3. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `.minecraft` → (the original folder, e.g. "config" or "resourcepacks")
+          * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+     4. Repeat until all files are transferred
+     5. Delete the duplicate folders
+22. Launch Pojav, tap `New - Latest Release` → `fabric-loader-x.x.x` → `Play`.
 23. Fabulously Optimized should now be running! 
 
 </details>
