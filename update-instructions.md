@@ -98,6 +98,10 @@
 4. Click `Update pack`
 5. Once the name prompt comes up, click `Yes`
 
+### Steam Deck
+
+See [Prism Launcher](#prism-launcher).
+
 ### GDLauncher
 
 1. Right click the _Fabulously Optimized_ instance
