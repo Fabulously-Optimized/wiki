@@ -61,8 +61,8 @@ There is currently no _easy_ way because the tool downloads missing mods back on
 
 ### Pojav Launcher (Android)
 
-1. Open Material Files
-2. Navigate to `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft` → `.mods`
-    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/mods` → `OK`
-3. Press three dots on the mod you want → `Rename`, then add ".disabled" to the end of it
-    * Rename ".jar.disabled" back to ".jar" to use the mod again.
+1. Open Files
+2. Tap `☰` → `PojavLauncher` → `.minecraft` → `mods`
+    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+3. `⋮` → `Move to...` → `Move`
+    * Move it back to `mods` to use the mod again.

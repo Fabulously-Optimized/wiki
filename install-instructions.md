@@ -165,9 +165,7 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
     * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
 18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
 19. Tap `☰` → `PojavLauncher` → `.minecraft` → `EXTRACT`
-* Can't see .minecraft? Tap `⋮` → `Show hidden files` 
-20. Tap `☰` → `PojavLauncher` → `.minecraft`
-    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+20. Tap `☰` → `PojavLauncher` → `.minecraft` 
 21. On each duplicated folder (e.g. "config (2)" or "resourcepacks (2)"), do the following:
      1. Open the folder
      2. Hold on any file and select all

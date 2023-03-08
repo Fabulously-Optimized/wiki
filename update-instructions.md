@@ -136,30 +136,35 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
 ### Pojav Launcher (Android)
 
-1. [Download Fabric installer](https://fabricmc.net/use/installer/) (jar version)
+1. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
 2. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
+   * On CurseForge's new UI, `⌵` → `Download file`
    * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. [Download Fabulously Optimized patches for Pojav Launcher](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.2)
-   * This optimizes the FO experience for mobile users.
+3. Download Fabulously Optimized patches for Pojav Launcher: [1.19.3](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.3)
 4. Run Pojav Launcher
 5. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
 6. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
-7. Close Pojav and open Material Files.
-8. Navigate to `Download` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
-9. Hold down on one folder and tap on all three folders, then `Extract` button at the top
-10. Navigate back to the root directory, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
-    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft` → `OK`
-11. Tap three dots on `mods` folder, select `Delete` → `OK`
-11. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
-12. Navigate to `Download`→ `x.x.x.zip` → `x.x.x` (the x.x.x stands for Minecraft version)
-13. Hold down on `config` folder and tap on all items, then `Extract` button at the top
-14. Navigate back to root, then `Android` → `data` → `net.kdt.pojavlaunch` → `files` → `.minecraft`
-    * If it's easier for you, press 3 dots → `Go to` → paste `/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/.minecraft/` → `OK`
-15. Tap `Paste` at the bottom, select `Apply this action to all files`, tap `Merge`
-16. Launch Pojav, make sure `fabric-loader-x.x.x - fabric-loader-x.x.x-x.x.x` is selected, `Play`.
-17. Fabulously Optimized should now be running! 
+7. Close Pojav and open Files.
+8. Tap `☰` → `PojavLauncher` → hold down on `mods`, tap `🗑️` → `OK`
+9. Tap `☰` → `Downloads` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
+10. Hold down on one folder and tap on all three folders, then tap `⋮` → `Extract to...`
+11. Tap `☰` → `PojavLauncher` → `⋮` → `Show hidden files` → `.minecraft` → `EXTRACT`
+12. Tap `☰` → `Downloads` → `DownGit.zip` → `(Minecraft version)`
+    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+13. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
+14. Tap `☰` → `PojavLauncher` → `.minecraft` → `EXTRACT`
+15. Tap `☰` → `PojavLauncher` → `.minecraft` 
+16. On each duplicated folder (e.g. "config (2)" or "resourcepacks (2)"), do the following:
+     1. Open the folder
+     2. Hold on any file and select all
+     3. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `.minecraft` → (the original folder, e.g. "config" or "resourcepacks")
+          * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+     4. Repeat until all files are transferred
+     5. Delete the duplicate folders
+17. Launch Pojav, make sure `fabric-loader-x.x.x` is selected, `Play`.
+18. Fabulously Optimized should now be running! 
 
 ### Resetting settings
 
