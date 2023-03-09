@@ -59,12 +59,33 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
-1. Click `Add Instance`.
+1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
+
+### [Steam Deck](https://www.steamdeck.com/)
+
+1. With Steam Deck turned on, hold down `⏻` and tap `Switch to Desktop`.
+2. From the taskbar, select 👜 "Discover".
+3. Search for "Prism Launcher" and tap `Install`.
+4. Launch it and go through its initial setup process, then close it.
+5. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
+6. Close Steam and launch `Return to Gaming Mode`.
+7. Launch Prism Launcher from your game library.
+8. Tap `Add Instance`
+9. Select `Modrinth` tab from the left
+10. Select "Fabulously Optimized"
+11. Click `OK`
+12. The modpack will now install.
+13. Once installed, double-tap the icon and wait.
+14. Tap `Options...` → `Controls...` → `🎮` → `Mode: Controller` → `Done` → `Done` → `Done`
+15. The game is now set up and you can just launch it from your game library from now on. 
+16. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
+
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
 
 ### [GDLauncher](https://gdlauncher.com/)
 
@@ -79,7 +100,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.12**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.17**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
@@ -115,7 +136,7 @@ ATLauncher is currently not supported simply because the interface is confusing 
 
 ### PolyMC
 
-**[PolyMC is considered unsafe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+**[PolyMC is not safe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
 To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
@@ -159,6 +180,17 @@ After that, pick any supported launcher from this page and enjoy the game!
 
 Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
 
+### Other modpacks
+
+Some users have experienced interest in using FO with other, content-focused modpacks. 
+
+While it is theoretically possible, this is **not advised**:
+
+* mods may have conflicts
+* neither FO or the other modpack will be able to support you
+
+Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
+
 ### Game clients
 
 Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
@@ -173,6 +205,6 @@ Any server is supported, no installation is necessary. Still, it is highly recom
 
 ## Quilt
 
-There have been questions regarding whether Fabulously Optimized can be installed with [Quilt](https://quiltmc.org). The answer is: probably, while Fabric mods are still supported in it, but this modpack's maintainer does not provide support for that. [(You can ask in Quilt's Discord, though.)](https://discord.quiltmc.org/)
+Fabulously Optimized is currently based on Fabric, not Quilt. It _may_ run on [Quilt](https://quiltmc.org), but it has not been tested and is not currently supported to ensure all mods work reliably. If you use it, do not ask for support in FO's Discord, but rather [Quilt's Discord](https://discord.quiltmc.org/).
 
 If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
