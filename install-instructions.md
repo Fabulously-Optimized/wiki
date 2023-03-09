@@ -253,7 +253,7 @@ Fabulously Optimized is not compatible with any "game clients", including "hacke
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition.
+Fabulously Optimized is not compatible with Bedrock Edition. See [Pojav Launcher](#pojav-launcher-android) for an alternative.
 
 ## Servers
 
