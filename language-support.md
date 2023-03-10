@@ -80,7 +80,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 
 Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports phrases to make chat reporting availability and interactions easier to understand.
 
-* Most strings don't have length constraints; in-game testing is needed only for the resource pack description.
+* In-game testing is needed only for the resource pack description - [use MMH's instructions](#testing-tutorial).
 * Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
 * For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19.3-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
@@ -89,7 +89,7 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". 
 
-* Beginning with 1.19.4, its description will be translated within [Mod Menu Helper](#mod-menu-helper).
+* The resource pack description is translated within [Mod Menu Helper](#mod-menu-helper).
 
 ### Listing description
 
