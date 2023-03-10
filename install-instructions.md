@@ -70,20 +70,21 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 1. With Steam Deck turned on, hold down `⏻` and tap `Switch to Desktop`.
 2. From the taskbar, select 👜 "Discover".
-3. Search for "Prism Launcher" and tap `Install`.
-4. Launch it and go through its initial setup process, then close it.
-5. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
-6. Close Steam and launch `Return to Gaming Mode`.
-7. Launch Prism Launcher from your game library.
-8. Tap `Add Instance`
-9. Select `Modrinth` tab from the left
-10. Select "Fabulously Optimized"
-11. Click `OK`
-12. The modpack will now install.
-13. Once installed, double-tap the icon and wait.
-14. Tap `Options...` → `Controls...` → `🎮` → `Mode: Controller` → `Done` → `Done` → `Done`
-15. The game is now set up and you can just launch it from your game library from now on. 
-16. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
+3. Tap the searchbar in the top left corner, then press `⮾` open the on-screen keyboard.
+4. Search for "Prism Launcher" and tap `Install` on the first result.
+5. Launch it and go through its initial setup process, then close it.
+6. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
+7. Close Steam and launch `Return to Gaming Mode`.
+8. Launch Prism Launcher from your game library.
+9. Tap `Add Instance`
+10. Select `Modrinth` tab from the left
+11. Select "Fabulously Optimized"
+12. Click `OK`
+13. The modpack will now install.
+14. Once installed, double-tap the icon and wait.
+15. Tap `Options...` → `Controls...` → `🎮` → `Mode: Controller` → `Done` → `Done` → `Done`
+16. The game is now set up and you can just launch it from your game library from now on. 
+17. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
 P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
 
