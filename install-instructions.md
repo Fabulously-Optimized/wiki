@@ -161,7 +161,7 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 14. Tap `☰` → `Downloads` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
 15. Hold down on one folder and tap on all three folders, then tap `⋮` → `Extract to...`
 16. Tap `☰` → `PojavLauncher` → `⋮` → `Show hidden files` → `.minecraft` → `EXTRACT`
-17. Tap `☰` → `Downloads` → `DownGit.zip` → `(Minecraft version)`
+17. Tap `☰` → `Downloads` → `(Minecraft version).zip` → `(Minecraft version)`
 18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
 19. Tap `☰` → `PojavLauncher` → `.minecraft` → `EXTRACT`
     * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
