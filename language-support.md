@@ -71,15 +71,16 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 8. Go back to the game, `Done` → `Done`
    * On macOS, activate the `Mod Menu Helper` (without .zip) resource pack first.
 9. Play any world or server
-10. Press `F3` + `T`
-11. Press `Esc` → `Mods`
-12. Look around and make sure everything fits. If not, change the translation on Crowdin and repeat from step 3.
+10. Hold down `F3` and press `T`
+11. Press `Esc` → `Mods`. Look around and make sure everything fits.
+12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
+13. If not everything fits yet, change the translation on Crowdin and repeat from step 3.
 
 ### Chat Reporting Helper
 
 Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports phrases to make chat reporting availability and interactions easier to understand.
 
-* There are no length constraints, so in-game testing is not required.
+* In-game testing is needed only for the resource pack description - [use MMH's instructions](#testing-tutorial).
 * Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
 * For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19.3-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
@@ -88,7 +89,7 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". 
 
-* The description is translated within [Mod Menu Helper](#mod-menu-helper).
+* The resource pack description is translated within [Mod Menu Helper](#mod-menu-helper).
 
 ### Listing description
 
