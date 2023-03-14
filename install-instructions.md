@@ -202,7 +202,7 @@ Fabulously Optimized is not compatible with Bedrock Edition.
 
 ## Servers
 
-Any server is supported, no installation is necessary. Still, it is highly recommended to protect your users from chat reports on 1.19.1+, see [server setup](server-setup.md) for more info.
+Any server is supported, no installation is necessary. See [server setup](server-setup.md) for tips.
 
 ## Quilt
 
