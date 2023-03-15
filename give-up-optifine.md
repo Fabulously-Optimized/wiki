@@ -46,7 +46,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Natural Textures            | ✔️            | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java\_Edition\_14w17a#Model%20format%20improvements)                                                                            |
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | Resource pack splash screen | ✔️            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                                                                                                                 |
-| Better Grass/Snow³          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Fast%20Better%20Grass) (fancy mode is currently unsupported)  |                                                                                                         |
+| Better Grass³          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resourcepacks/Fast%20Better%20Grass) (fancy mode is currently unsupported)  |                                                                                                         |
 | Custom Entity Models        | 🚧            | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |
 | Custom Colors               | 🔜            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) is not yet up to date |                                             
 | Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    |
@@ -63,11 +63,6 @@ Here is the list of OptiFine features that are supported in this modpack:
 
 1. Click `Mods` button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
 2. Head over to Misc tab, set the preset to `OptiFine`
-
-³ Better Snow is opt-in, because changes some textures too, making it weird with some resource packs:
-
-1. Click `Mods`, search for `LambdaBetterGrass`, click it and on the top left hit the `Configure` icon.
-2. Set Better Snow to `ON`
 
 ---
 
