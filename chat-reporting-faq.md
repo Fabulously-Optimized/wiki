@@ -34,7 +34,7 @@ While the system does have noble goals of protecting players from malicious and 
 
 * **Reports may not be sufficient** - in the case of most serious offenses (e.g. threatening, abuse, harassment), you should really feel that proper action is taken. With these reports, Mojang does not actually elaborate on [what their "appropriate actions" are](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition#h_01GD13PG9R60SYNDV88FKFSHRH). They may send a player suicide prevention info for example, but there is no guarantee Mojang will contact the police for you. [Do it yourself!](#what-should-i-do-instead-when-someone-breaks-the-rules)
 
-* **Servers can and do opt out** - most public servers, including Hypixel, have already opt out of the system. Obviously the system cannot work if servers opt out. This is another reason for the game to [add clear indication](#what-does-this-modpack-do-to-protect-me) about whether a server enabled the system or not, instead of making players assume it is everywhere (or even nowhere).
+* **Servers can and do opt out** - most public servers, including Hypixel, have already opt out of the system. Obviously the system cannot work if servers opt out. This is another reason for the game to [add clear indication](#what-does-this-modpack-do-for-me) about whether a server enabled the system or not, instead of making players assume it is everywhere (or even nowhere).
 
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
