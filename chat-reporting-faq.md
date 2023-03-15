@@ -151,7 +151,7 @@ If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) i
  
 ### Why not stay on 1.19?
 
-- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-to-protect-me)
+- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-for-me)
 - [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated on 1.19, so you cannot join all servers
