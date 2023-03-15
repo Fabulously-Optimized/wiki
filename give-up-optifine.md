@@ -57,16 +57,16 @@ Here is the list of OptiFine features that are supported in this modpack:
 1. [Disable MoreCulling](disabling-mods.md)
 2. [Install](adding-more-mods.md) the original [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves)
 3. Enable Cull Leaves' bundled resource pack
-4. Disable "Use Block Face Culling" in <kbd>Options</kbd> → <kbd>Video Settings...</kbd> → <kbd>Performance</kbd>.
+4. Disable "Use Block Face Culling" in `Options` → `Video Settings...` → `Performance`.
 
 ² The defaults do not match OptiFine, because people preferred a smoother zoom. To make it identical to OptiFine:
 
-1. Click <kbd>Mods</kbd> button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
+1. Click `Mods` button, search for `Zoomify`, click it and on the top left hit the `Configure` icon.
 2. Head over to Misc tab, set the preset to `OptiFine`
 
 ³ Better Snow is opt-in, because changes some textures too, making it weird with some resource packs:
 
-1. Click <kbd>Mods</kbd>, search for `LambdaBetterGrass`, click it and on the top left hit the `Configure` icon.
+1. Click `Mods`, search for `LambdaBetterGrass`, click it and on the top left hit the `Configure` icon.
 2. Set Better Snow to `ON`
 
 ---
