@@ -6,7 +6,7 @@
 
 ### 效能
 
-Fabulously Optimized 通常比 OptiFine 更快，感謝[現代效能模組][1]例如：Sodium、Lithium 和更多！
+Fabulously Optimized 通常比 OptiFine 更快，感謝[現代效能模組][1]例如 Sodium、Lithium 和更多！
 
 ### 與 OptiFine 兼容
 
@@ -14,7 +14,7 @@ Fabulously Optimized [支援幾乎所有 OptiFine 功能][2]，包括光影、�
 
 ### 小調整
 
-Fabulously Optimized [包含一些微小的調整][4]，不會影響到原版遊戲的感覺，例如：擴展聊天記錄、窗口化全螢幕模式、修復大多數常見的錯誤和診斷崩潰的工具。
+Fabulously Optimized [包含一些微小的調整][4]，不會影響到原版遊戲的感覺，例如擴展聊天記錄、窗口化全螢幕模式、修復大多數常見的錯誤和診斷崩潰的工具。
 
 ### 適用於任何地方
 
