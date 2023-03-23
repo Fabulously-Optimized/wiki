@@ -63,6 +63,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 1. Select your language on Crowdin
 2. Select `Mod Menu Helper`
 3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+   * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
 4. Run Fabulously Optimized
 5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
 6. Open `Mod Menu Helper.zip` → `assets` → `fo` → `lang`
@@ -73,6 +74,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 9. Play any world or server
 10. Hold down `F3` and press `T`
 11. Press `Esc` → `Mods`. Look around and make sure everything fits.
+    * Use maximized window or fullscreen, Full HD (1920×1080) screen, GUI scale 3, default font.
 12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
 13. If not everything fits yet, change the translation on Crowdin and repeat from step 3.
 
