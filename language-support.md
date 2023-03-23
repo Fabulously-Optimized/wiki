@@ -74,7 +74,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 9. Play any world or server
 10. Hold down `F3` and press `T`
 11. Press `Esc` → `Mods`. Look around and make sure everything fits.
-   * Make sure you're using a maximized window or full screen on a Full HD (1080p) screen, GUI scale 3.
+    * Make sure you're using a maximized window or full screen on a Full HD (1080p) screen, GUI scale 3.
 12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
 13. If not everything fits yet, change the translation on Crowdin and repeat from step 3.
 
