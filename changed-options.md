@@ -50,7 +50,7 @@ The exclusive resource packs are:
 - [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
 - [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) - imitates OptiFine's "Better Grass" (fast mode)
 
-The resource packs use minimal resources, [can be translated to your language](https://fabulously-optimized.gitbook.io/modpack/readme/language-support) and they will _not_ change the look of your blocks, items, menus etc.
+The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will _not_ change the look of your blocks, items, menus etc.
 
 ### Fixed bugs
 
