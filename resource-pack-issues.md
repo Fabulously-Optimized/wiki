@@ -22,7 +22,7 @@ _Or "mobs with a custom shape"._
 
 Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
 
-If you are just looking for Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) with the instructions below [(discuss any issues here)](https://github.com/dorianpb/cem/issues/11).
+If you are just looking for Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3919356) with the instructions below [(discuss any issues here)](https://github.com/dorianpb/cem/issues/11).
 
 If your resource pack's entities are supported but are still not displayed correctly, you can try this:
 
