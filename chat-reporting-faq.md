@@ -236,6 +236,10 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 
 Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
 
+### Does Bedrock Edition also have chat reporting?
+
+[Unfortunately, yes.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+
 ### I have more questions.
 
 Write to `#support` [in our Discord](https://discord.gg/yxaXtaQqdB).
