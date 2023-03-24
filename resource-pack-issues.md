@@ -16,6 +16,27 @@ If this is the case, the modpack will warn you and allow overriding it, but note
 
 To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9._-`.
 
+### Custom entity models
+
+_Or "mobs with a custom shape"._
+
+Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
+
+If you are just looking for Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) with the instructions below [(discuss any issues here)](https://github.com/dorianpb/cem/issues/11).
+
+If your resource pack's entities are supported but are still not displayed correctly, you can try this:
+
+1. Click `Mods`
+2. Search for "Custom Entity Models", click the config button (top right, above `Issues`)
+3. Set "Use model creation fix?" to `No`
+4. Click `Save & Quit` and `Done`
+5. In your world, hold down `F3` (and `Fn` on laptops), press `T`
+6. You'll see a short loading screen. After that, check if the models are displayed correctly.
+7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
+   * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
+
+See also: [a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
+
 ### Invisible blocks
 
 This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
@@ -51,24 +72,3 @@ Chests:
 ![Random colors on the wall](https://i.ibb.co/jbkg1PG/unknown.png)
 
 If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.
-
-### Custom entity models
-
-_Or "mobs with a custom shape"._
-
-Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
-
-If you are just looking for Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) with the instructions below [(discuss any issues here)](https://github.com/dorianpb/cem/issues/11).
-
-If your resource pack's entities are supported but are still not displayed correctly, you can try this:
-
-1. Click `Mods`
-2. Search for "Custom Entity Models", click the config button (top right, above `Issues`)
-3. Set "Use model creation fix?" to `No`
-4. Click `Save & Quit` and `Done`
-5. In your world, hold down `F3` (and `Fn` on laptops), press `T`
-6. You'll see a short loading screen. After that, check if the models are displayed correctly.
-7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
-   * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
-
-See also: [a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
