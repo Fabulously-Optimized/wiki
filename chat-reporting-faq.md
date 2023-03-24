@@ -132,7 +132,7 @@ The behaviour can be configured per-server, hover on the icon for more details.
 
 ### I don't want to join chat reporting servers at all!
 
-If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (you can only use commands then).
+If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (on such servers, you can only use commands then).
 
 1. Click Mods
 2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
