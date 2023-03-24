@@ -23,7 +23,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | telemetryOptInExtra                 | Sets the telemetry (analytics data collection) toggle to "minimal".                                                                                          | false     | false   | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FO. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback.                        |
 | onboardAccessibility                 | Indicates whether the user has not seen the accessibility onboarding screen (1.19.4)                                                                                         | true     | false   | Minecraft already has a very visible accessibility button in the main menu, this screen just creates annoyances for the majority who don't need it                        |
 
-¹ \["vanilla","fabric","midnightcontrols/bedrock","continuity/default","continuity/glass_pane_culling_fix","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+¹ \["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","midnightcontrols:bedrock","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
 
 **Changed mod settings can be found on the repo at [.../yosbr/1.19.3/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.19.3/config).**
 
