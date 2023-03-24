@@ -117,7 +117,7 @@ As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/
   - Makes No Chat Reports icons more neutral
   - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
   
-In order to get the status of the server, open the chat box (press <kbd>T</kbd>) and look at the right bottom corner:
+In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
 - ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
 - ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
