@@ -26,24 +26,25 @@ Enhanced Block Entities is the mod that makes various blocks faster on latest ve
 
 1. Click `Mods`
 2. Search for "Enhanced Block Entities", click the config button ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
+3. Enable "Force Resource Pack Compatibility"
+   * If that doesn't help or the option is not visible, disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
 4. Click `Done`
 
-#### FastChest and Better Beds
+#### Better Beds and FastChest
 
 Some versions of FO include these mods instead.
-
-Chests:
-
-1. Click `Mods`
-2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
-3. Disable the mod, click `Done`.
 
 Beds:
 
 1. Close the game
 2. Remove or disable the Better Beds mod from your launcher.
 3. Start the game and see if it is fixed.
+
+Chests:
+
+1. Click `Mods`
+2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
+3. Disable the mod, click `Done`.
 
 ### Lighting problems
 
