@@ -14,4 +14,4 @@ You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optim
 
 More info about [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🚨 Chat Reporting](chat-reporting-faq.md) | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md)
 
-Couldn't find the answer? [💬 Chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
+Couldn't find the answer? [💬 Chat with us on Discord!](https://fabulously-optimized.github.io/discord)

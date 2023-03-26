@@ -107,4 +107,4 @@ For other things like dynamic lights, better grass and zoom:
 
 If you need to disable a mod, [see this wiki page](disabling-mods.md).
 
-If you have more questions about the mods, [chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
+If you have more questions about the mods, [chat with us on Discord!](https://fabulously-optimized.github.io/discord)

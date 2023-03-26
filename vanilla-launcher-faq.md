@@ -1,6 +1,6 @@
 # Vanilla launcher FAQ
 
-This FAQ gives answers to questions you might have about using Fabulously Optimized in [the official Minecraft Launcher](https://www.minecraft.net/en-us/download), also known as simply "vanilla launcher". If you have any additional questions, please join our [Discord](https://discord.gg/yxaXtaQqdB) and ask in #support. 
+This FAQ gives answers to questions you might have about using Fabulously Optimized in [the official Minecraft Launcher](https://www.minecraft.net/en-us/download), also known as simply "vanilla launcher". If you have any additional questions, please join our [Discord](https://fabulously-optimized.github.io/discord) and ask in #support. 
 
 ### How to install?
 

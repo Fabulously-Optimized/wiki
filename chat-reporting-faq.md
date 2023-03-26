@@ -242,4 +242,4 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 
 ### I have more questions.
 
-Write to `#support` [in our Discord](https://discord.gg/yxaXtaQqdB).
+Write to `#support` [in our Discord](https://fabulously-optimized.github.io/discord).

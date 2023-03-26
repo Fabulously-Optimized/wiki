@@ -43,7 +43,7 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * You can vote for existing suggestions with ➕ and ➖ buttons
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
-3. [Join our Discord](https://discord.gg/yxaXtaQqdB) to become a proofreader in your language or discuss with an existing one.
+3. [Join our Discord](https://fabulously-optimized.github.io/discord) to become a proofreader in your language or discuss with an existing one.
 4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
 5. Wait for the next release of FO to see your translations live!
 6. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
