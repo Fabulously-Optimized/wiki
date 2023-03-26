@@ -80,11 +80,11 @@
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[10]: https://discord.gg/yxaXtaQqdB
-[10]: https://discord.gg/yxaXtaQqdB
+[10]: https://fabulously-optimized.github.io/discord
 [11]: https://fabulously-optimized.gitbook.io/modpack/
+[10]: https://fabulously-optimized.github.io/discord
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
 [16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
+[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
