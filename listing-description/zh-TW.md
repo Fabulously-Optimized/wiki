@@ -18,7 +18,7 @@ Fabulously Optimized [包含一些微小的調整][4]，不會影響到原版遊
 
 ### 適用於任何地方
 
-[][6][Fabulously Optimized 沒有任何內容性模組，因此可以在任何世界或伺服器上運作。此模組包 <0>可以在 5 個啟動器上運行，並在 3 個網站上進行託管，</0>此外，<1>還翻譯成許多語言，包括繁體中文][7]。
+Fabulously Optimized 沒有任何內容性模組，因此可以在任何世界或伺服器上運作。此模組包 [可以在 5 個啟動器上運行，並在 3 個網站上進行託管，][6]此外，[還翻譯成許多語言，包括繁體中文][7]。
 
 ### 最新
 
@@ -76,7 +76,6 @@ Fabulously Optimized [是開源的][8]，它的大部分模組也是如此。我
 [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
 [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
 [5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
-[6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
 [6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
