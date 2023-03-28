@@ -38,7 +38,7 @@ You'll have to download a new version of the pack that is specific to that Minec
 
 There is no official procedure for this yet, but [RaptaG](https://github.com/RaptaG) and [Ultrasonic1209](https://github.com/Ultrasonic1209) have made tutorials and scripts for an improved version of the [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81). The user now only has to replace the instance parameters and list the mods that will be disabled.
 
-If you have any problems, you can ask for support in our [Discord server](https://discord.gg/yxaXtaQqdB).
+If you have any problems, you can ask for support in our [Discord server](https://fabulously-optimized.github.io/discord).
 
 ### Windows
 
