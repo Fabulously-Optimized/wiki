@@ -6,11 +6,11 @@
 
 ### 效能
 
-Fabulously Optimized 通常比 OptiFine 更快，感謝[現代效能模組][1]例如 Sodium、Lithium 和更多！
+Fabulously Optimized 通常比 OptiFine 更快，感謝 [現代效能模組][1] 例如 Sodium、Lithium 和更多！
 
 ### 與 OptiFine 兼容
 
-Fabulously Optimized [支援幾乎所有 OptiFine 功能][2]，包括光影、連接材質和放大。 [你甚至可以獲得您自己的披風！][3]
+Fabulously Optimized [支援幾乎所有 OptiFine 功能][2]，包括光影、連接材質和放大。[你甚至可以獲得您自己的披風！][3]
 
 ### 小調整
 
@@ -18,11 +18,11 @@ Fabulously Optimized [包含一些微小的調整][4]，不會影響到原版遊
 
 ### 適用於任何地方
 
-Fabulously Optimized 沒有任何內容性模組，因此可以在任何世界或伺服器上運作。此模組包[可以在 5 個啟動器上運行，並在 3 個網站上進行託管][6]，此外，[還翻譯成許多語言][7]。
+Fabulously Optimized 沒有任何內容性模組，因此可以在任何世界或伺服器上運作。此模組包 [可以在 5 個啟動器上運行，並在 3 個網站上進行託管，][6]此外，[還翻譯成許多語言，包括繁體中文][7]。
 
 ### 最新
 
-Fabulously Optimized [會快速更新][5]，並且是首批升級到較新 Minecraft 版本的模組包之一。
+Fabulously Optimized [會快速更新][5]，並且是首批更新到較新 Minecraft 版本的模組包之一。
 
 ### 建立在 Fabric 上
 
@@ -34,7 +34,7 @@ Fabulously Optimized [是開源的][8]，它的大部分模組也是如此。我
 
 ### 熱於幫助的社群
 
-我們有一個日漸壯大的友善成員社群，喜歡討論這個模組包，互相幫助。 [立刻加入我們！][10]
+我們有一個日漸壯大的友善成員社群，喜歡討論這個模組包，互相幫助。[立刻加入我們！][10]
 
 ## 常見問題
 
