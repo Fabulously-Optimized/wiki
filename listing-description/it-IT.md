@@ -80,8 +80,8 @@ Siamo una community crescente di membri che vogliono discutere riguardo il modpa
 [7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[10]: https://discord.gg/yxaXtaQqdB
-[10]: https://discord.gg/yxaXtaQqdB
+[10]: https://fabulously-optimized.github.io/discord
+[10]: https://fabulously-optimized.github.io/discord
 [11]: https://fabulously-optimized.gitbook.io/modpack/
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup

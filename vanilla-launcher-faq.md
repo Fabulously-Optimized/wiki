@@ -1,6 +1,6 @@
 # Vanilla launcher FAQ
 
-This FAQ gives answers to questions you might have about using Fabulously Optimized in [the official Minecraft Launcher](https://www.minecraft.net/en-us/download), also known as simply "vanilla launcher". If you have any additional questions, please join our [Discord](https://discord.gg/yxaXtaQqdB) and ask in #support. 
+This FAQ gives answers to questions you might have about using Fabulously Optimized in [the official Minecraft Launcher](https://www.minecraft.net/en-us/download), also known as simply "vanilla launcher". If you have any additional questions, please join our [Discord](https://fabulously-optimized.github.io/discord) and ask in #support. 
 
 ### How to install?
 
@@ -24,8 +24,7 @@ The MultiMC ZIP is a packaged instance for the launcher called [MultiMC](https:/
   - `minecraft` - the main folders that make the modpack
      - `config` - configuration files that adjust the mods for best experience
      - `mods` - mods that are included in the modpack
-     - `resourcepacks` - small resource packs that improve the experience
-        - `Mod Menu Helper.zip` - tells you what each mod does in Mod Menu
+     - `resourcepacks` - small resource packs that improve the experience [(what do they do?)](changed-options.md#resource-packs)
      - `Copy all 3 folders!` - a dummy file that reminds you to do just that
   - `instance.cfg` - manifest file describing the name, icon, type and notes for the instance
   - `mmc-pack.json` - manifest file describing the Minecraft, Fabric and other dependency versions

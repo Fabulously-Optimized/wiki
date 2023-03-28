@@ -43,7 +43,7 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * You can vote for existing suggestions with ➕ and ➖ buttons
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
-3. [Join our Discord](https://discord.gg/yxaXtaQqdB) to become a proofreader in your language or discuss with an existing one.
+3. [Join our Discord](https://fabulously-optimized.github.io/discord) to become a proofreader in your language or discuss with an existing one.
 4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
 5. Wait for the next release of FO to see your translations live!
 6. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
@@ -63,6 +63,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 1. Select your language on Crowdin
 2. Select `Mod Menu Helper`
 3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+   * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
 4. Run Fabulously Optimized
 5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
 6. Open `Mod Menu Helper.zip` → `assets` → `fo` → `lang`
@@ -73,6 +74,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 9. Play any world or server
 10. Hold down `F3` and press `T`
 11. Press `Esc` → `Mods`. Look around and make sure everything fits.
+    * Use maximized window or fullscreen, Full HD (1920×1080) screen, GUI scale 3, default font.
 12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
 13. If not everything fits yet, change the translation on Crowdin and repeat from step 3.
 
@@ -95,6 +97,7 @@ Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' 
 
 Listing description translations are posted as a spoiler tag below the English text.
 
+* Sometimes the tags get messed up on import. Please ensure they are `<0>`text`</0>`, `<1>`text`</1>` or similar to the original, _not_ `<a href=...>`text`<0>`.
 * "English" must be translated as the name of your language, in your language. If relevant, add the region in parentheses.
 * If your language has a localized review video, use that in video URL and thumbnail URL. Otherwise just keep the English one.
 * Crowdin supports "translation preview", which shows the description as it will appear on the listing. Look for the eye icon 👁️.

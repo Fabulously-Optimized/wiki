@@ -101,7 +101,7 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.re
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.17**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.18**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
@@ -258,7 +258,7 @@ Fabulously Optimized is not compatible with Bedrock Edition. See [Pojav Launcher
 
 ## Servers
 
-Any server is supported, no installation is necessary. Still, it is highly recommended to protect your users from chat reports on 1.19.1+, see [server setup](server-setup.md) for more info.
+Any server is supported, no installation is necessary. See [server setup](server-setup.md) for tips.
 
 ## Quilt
 
