@@ -47,7 +47,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Natural Textures            | ✔️            | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java\_Edition\_14w17a#Model%20format%20improvements)                                                                            |
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | Resource pack splash screen | ✔️            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                                                                                                                 |
-| Custom Entity Models        | 🚧            | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem). [Doesn't support all entities yet](https://github.com/dorianpb/cem#current-state-of-this-mod). |                                             |
+| Custom Entity Models        | 🚧            | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) |                                             |
 | Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)                             |
 
 
