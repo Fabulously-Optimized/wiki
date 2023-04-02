@@ -54,11 +54,11 @@ If you are seeing problems with lighting, such as flickering light sources or li
 
 _Or "mobs with a custom shape"._
 
-### 4.7.0 and newer
+#### 4.7.0 and newer
 
 FO is now using a different mod that should have more compatibility. [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) latest version is seamlessly supported, though it's addon may not be. Issues and workarounds are tracked [on the mod's Discord](https://discord.com/invite/rURmwrzUcz), in the channel `#emf-issues`.
 
-### 4.6.0 and earlier
+#### 4.6.0 and earlier
 
 Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
 
