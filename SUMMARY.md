@@ -26,3 +26,5 @@
   * [Português (Brasil)](listing-description/pt-BR.md)
   * [Русский](listing-description/ru-RU.md)
   * [Türkçe](listing-description/tr-TR.md)
+  * [简体中文](listing-description/zh-CN.md)
+  * [繁體中文](listing-description/zh-TW.md)

@@ -16,40 +16,6 @@ If this is the case, the modpack will warn you and allow overriding it, but note
 
 To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9._-`.
 
-### Invisible blocks
-
-This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
-
-#### Enhanced Block Entities
-
-Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
-
-1. Click `Mods`
-2. Search for "Enhanced Block Entities", click the config button ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
-4. Click `Done`
-
-#### FastChest and Better Beds
-
-Some versions of FO include these mods instead.
-
-Chests:
-
-1. Click `Mods`
-2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
-3. Disable the mod, click `Done`.
-
-Beds:
-
-1. Close the game
-2. Remove or disable the Better Beds mod from your launcher.
-3. Start the game and see if it is fixed.
-
-### Lighting problems
-
-![Random colors on the wall](https://i.ibb.co/jbkg1PG/unknown.png)
-If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.
-
 ### Custom entity models
 
 _Or "mobs with a custom shape"._
@@ -78,3 +44,39 @@ If your resource pack's entities are supported but are still not displayed corre
    * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
 
 See also: [a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
+
+### Invisible blocks
+
+This may occur when the pack is using broken paths and is trying to change the models of some blocks, like chests.
+
+#### Enhanced Block Entities
+
+Enhanced Block Entities is the mod that makes various blocks faster on latest versions of FO. Some optimizations may not be supported by your resource packs, so here's how to configure it:
+
+1. Click `Mods`
+2. Search for "Enhanced Block Entities", click the config button ![config](https://i.ibb.co/j35cBtn/image.png)
+3. Enable "Force Resource Pack Compatibility"
+   * If that doesn't help or the option is not visible, disable any blocks that seem broken to you. Usually disabling `Enhanced Chests` is enough.
+4. Click `Done`
+
+#### Better Beds and FastChest
+
+Some versions of FO include these mods instead.
+
+Beds:
+
+1. Close the game
+2. Remove or disable the Better Beds mod from your launcher.
+3. Start the game and see if it is fixed.
+
+Chests:
+
+1. Click `Mods`
+2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
+3. Disable the mod, click `Done`.
+
+### Lighting problems
+
+![Random colors on the wall](https://i.ibb.co/jbkg1PG/unknown.png)
+
+If you are seeing problems with lighting, such as flickering light sources or lights of random colors, [try disabling](disabling-mods.md) Colormatic.

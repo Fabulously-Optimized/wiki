@@ -1,6 +1,6 @@
 # Fabulously Optimized
 
-Welcome to the Fabulously Optimized wiki! [🌐 Read in your language](https://translate.google.com/translate?js=n&sl=auto&u=https://translate.google.com/translate?js=n&sl=auto&u=https://github.com/Fabulously-Optimized/wiki/blob/main/README.md)
+Welcome to the Fabulously Optimized wiki! [🌐 Read in your language](https://translate.google.com/translate?js=n&sl=auto&u=https://github.com/Fabulously-Optimized/wiki/blob/main/README.md)
 
 **[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
 
@@ -14,4 +14,4 @@ You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optim
 
 More info about [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🚨 Chat Reporting](chat-reporting-faq.md) | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md)
 
-Couldn't find the answer? [💬 Chat with us on Discord!](https://discord.gg/yxaXtaQqdB)
+Couldn't find the answer? [💬 Chat with us on Discord!](https://fabulously-optimized.github.io/discord)

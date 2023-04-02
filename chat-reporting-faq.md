@@ -34,6 +34,8 @@ While the system does have noble goals of protecting players from malicious and 
 
 * **Reports may not be sufficient** - in the case of most serious offenses (e.g. threatening, abuse, harassment), you should really feel that proper action is taken. With these reports, Mojang does not actually elaborate on [what their "appropriate actions" are](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition#h_01GD13PG9R60SYNDV88FKFSHRH). They may send a player suicide prevention info for example, but there is no guarantee Mojang will contact the police for you. [Do it yourself!](#what-should-i-do-instead-when-someone-breaks-the-rules)
 
+* **Servers can and do opt out** - most public servers, including Hypixel, have already opt out of the system. Obviously the system cannot work if servers opt out. This is another reason for the game to [add clear indication](#what-does-this-modpack-do-for-me) about whether a server enabled the system or not, instead of making players assume it is everywhere (or even nowhere).
+
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
 ### Where can I learn more about it?
@@ -107,31 +109,37 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 
 ## Chat reporting and Fabulously Optimized
 
-### What does this modpack do to protect me?
+### What does this modpack do for me?
 
 Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it. It also reverts most of the chat indicators added in 1.19.1, because they clutter the screen and are misleading in many cases.
 
-Look at the right corner of the chat window:
-- ![red ⚠️ with two exclamation marks](https://i.ibb.co/WcVggrL/chat-status-icons-extended.png) - only on Realms: your chat is constantly monitored by Mojang and always reportable. 
-   - If you are found to violate Minecraft's [Community Standards](https://www.minecraft.net/en-us/community-standards), you _will_ be (temporarily) banned, even when nobody you're chatting with reported you or found your message offensive.
-- ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) - you are vulnerable, any chat messages you send may be reported and used against you.
-- ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) - nobody can report your messages. Depending on the server, other players may see a red bar on the left of the message, ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the right and if they enable the vanilla `Only Show Secure Chat` option, they may not see your chat messages at all. 
-  - In practice, these mentioned chat side effects will likely only occur on vanilla servers. Most servers use Paper or Spigot and will take a stance to either disable or enforce chat reporting for everyone.
-- ![green ✅](https://i.ibb.co/LPXNKRM/green.png) - you can chat securely. Nobody can report anyone, nobody has a red bar or ![red markings](https://i.ibb.co/ftRMqHL/exclamation.png) on the chat and nobody's chat will get hidden by `Only Show Secure Chat`.
-  - This is currently shown for singleplayer and very few public servers. Most servers will still show ![yellow ℹ️](https://i.ibb.co/YXQdJRr/yellow.png) due to technical restrictions, so ask your admin or look at whether the chat reporting icon is grayed out in Social Interactions to confirm whether it has additional protections in place.
+As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) is also added, which does the following:
+  - Makes No Chat Reports icons more neutral
+  - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
+  
+In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
-The report button itself still works on servers that _force_ reporting (others can report you too if you see ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png)). Please use it only in case of serious danger and even then don't forget to inform the server admins and, if needed, the local police.
+- ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
+- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
+- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional, Fabulously Optimized users opt-out by default
+   - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
+- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - chat reporting is enabled for everyone
+- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
 
-The modpack also disables chat previews, which protects your messages from being sent to the server before you actually press Enter.
+_(Expected different icons? Disable Chat Reporting Helper resource pack and [see No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))_
+
+The behaviour can be configured per-server, hover on the icon for more details.
 
 ### I don't want to join chat reporting servers at all!
 
-If you don't think the ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) icon is enough, you can also re-enable the full-screen warning.
+If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (on such servers, you can only use commands then).
 
 1. Click Mods
 2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Select `Technical` tab, set "Whitelist all servers" to `No`
+3. Set "Default signing mode" to `PROMPT` or `NEVER`
 4. `Save changes`
+
+The behaviour can also be configured per-server, hover on the status icon (bottom right corner of the chatbox) for more details.
 
 ### Is No Chat Reports itself a risk?
 
@@ -143,13 +151,13 @@ Disabling chat signing is not a punishable offense, otherwise Mojang would not h
 
 Understandable, the modpack helps you as well. 
 
-If you join a server and see a ![red ⚠️](https://i.ibb.co/tzd8CvB/red.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
+If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
 
 ## Alternative approaches
  
 ### Why not stay on 1.19?
 
-- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-to-protect-me)
+- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-for-me)
 - [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated on 1.19, so you cannot join all servers
@@ -201,8 +209,8 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 3. Select `Technical` tab, set "Show encryption button" to `Yes`
 4. `Save changes`
 5. Join any world or server
-6. Click your chat key, default <kbd>T</kbd>
-7. Click the <kbd>🔒</kbd>. You'll see warnings and configuration for the encryption feature.
+6. Click your chat key, default `T`
+7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
 
 ## Other questions
 
@@ -228,6 +236,10 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 
 Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
 
+### Does Bedrock Edition also have chat reporting?
+
+[Unfortunately, yes.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+
 ### I have more questions.
 
-Write to `#support` [in our Discord](https://discord.gg/yxaXtaQqdB).
+Write to `#support` [in our Discord](https://fabulously-optimized.github.io/discord).
