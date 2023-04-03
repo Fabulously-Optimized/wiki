@@ -24,6 +24,13 @@ _Or "mobs with a custom shape"._
 
 FO is now using a different mod that should have more compatibility. [Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations) latest version is seamlessly supported, though it's addon may not be. 
 
+If the entities are missing parts of their body, try this:
+
+1. Click `Mods`
+2. Search for "Entity Model Features", click the config button (top right, above `Issues`)
+3. Set "Substitute missing model parts" to `Yes`
+4. Click `Save changes` and `Done`
+
 Issues and workarounds are tracked [on the mod's Discord](https://discord.com/invite/rURmwrzUcz), in the channel `#emf-issues`.
 
 #### 4.6.0 and earlier
