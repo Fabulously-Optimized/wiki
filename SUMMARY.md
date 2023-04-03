@@ -18,6 +18,7 @@
   * [Version support](version-support.md)
 * [Listing description](listing-description/README.md)
   * [English](listing-description/en-US.md)
+  * [Español](listing-description/es-ES.md)
   * [Eesti keel](listing-description/et-EE.md)
   * [Ελληνικά](listing-description/el-GR.md)
   * [Français](listing-description/fr-FR.md)
