@@ -16,7 +16,7 @@ Own a gaming computer? This section is for you.
 
 ### Nvidia
 
-https://support.wacom.com/hc/en-us/articles/1500006265741-How-to-enable-a-specified-application-to-run-with-the-NVIDIA-graphics-processor
+https://www.addictivetips.com/windows-tips/add-games-geforce-experience/
 
 ### AMD
 
