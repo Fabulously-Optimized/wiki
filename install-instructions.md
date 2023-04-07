@@ -101,7 +101,7 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.re
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.18**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
@@ -113,8 +113,9 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
-    * If not, you should enable FO-branded and mod-based resource packs manually later.
+7. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
+    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
+    * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
