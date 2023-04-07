@@ -59,6 +59,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 
 | Mojang bug                                            | Description                                                                | Fixed by                                                                  |
 | ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [MC-577](https://bugs.mojang.com/browse/MC-577)   | Mouse buttons block all inventory controls that are not default   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)     |
 | [MC-59810](https://bugs.mojang.com/browse/MC-59810)   | Cannot break blocks while sprinting (Ctrl+Click = right click on macOS)    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)     |
 | [MC-73186](https://bugs.mojang.com/browse/MC-73186)   | Gaps between the faces of item models                                      | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) |
 | [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag (Singleplayer only)                        | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)           |
