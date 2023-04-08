@@ -54,15 +54,21 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 #### History of changes
 
 - **1.19** snapshot [22w17a](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
-   - [22w18a](https://minecraft.fandom.com/wiki/Java_Edition_22w18a#General) now signs the messages sent by `/say`, `/msg`, /teammsg`, and `/me`.
-   - [22w19a](https://minecraft.fandom.com/wiki/Java_Edition_22w19a#General) added an option to hide messages by players who did not sign their messages.
-- **1.19.1** snapshot [22w24a](https://minecraft.fandom.com/wiki/Java_Edition_22w24a#General) introduced chat reporting interface.
+   - [22w18a](https://minecraft.fandom.com/wiki/Java_Edition_22w18a#General) now signs the messages sent by `/say`, `/msg`, `/teammsg`, and `/me`.
+   - [22w19a](https://minecraft.fandom.com/wiki/Java_Edition_22w19a#General) added an option for players to hide messages by other players who did not sign their messages.
+   - Some snapshot also introduced a way to modify chat messages by filtering words, [presumably for Realms](#does-java-edition-have-a-profanity-filter).
+- **1.19.1** snapshot [22w24a](https://minecraft.fandom.com/wiki/Java_Edition_22w24a#General) introduced the chat reporting interface.
    - [1.19.1-pre.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_1#General) introduced account-wide bans.
-   - [1.19.1-rc.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_1) removed the "Extreme violence or gore", "Nudity or pornography", and "Profanity" categories. It was also Mojang's initial "final" plan of how the reporting system would work. Due to major exploits found by the community, the release was postponed by a month.
-   - [1.19.1-pre.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_2#General) introduced red indicators on unsigned messages and yellow on "modified" messages. It also made the system enabled on new servers by default.
+   - [1.19.1-rc.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_1) removed the "Extreme violence or gore", "Nudity or pornography", and "Profanity" categories. It was also Mojang's initial "final" plan of how the reporting system would work. Due to major exploits found by the community though, the release of 1.19.1 was postponed by a month.
+   - [1.19.1-pre.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_2#General) introduced red bars and `(!)` indicators on unsigned messages, yellow bars and `(?)` indicators on "modified" messages. It also made the system enabled on new servers by default.
    - [1.19.1-pre.3](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_3#General_2) introduced gray indicators for system messages.
-   - [1.19.1-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_4#General) fixed an exploit where players could add new messages to a report that weren't there previously.
-   - [1.19.1-rc.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_2#General)
+   - [1.19.1-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_4#General) fixed an exploit where players could add new messages to a report that weren't there previously. It also introduced the concept of deleted messages, where the server can remove any message from the client.
+   - [1.19.1-rc.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_2#General) introduced a warning toast to players entering a server where the server does not restrict the joining of non-signing users. Practically, this toast mostly affected vanilla and vanilla-like servers, as other servers quickly found a way to remove it.
+ - **[1.19.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.2#Fixes)** fixed an exploit where some players could kick everyone else by abusing chat signing features.
+ - **1.19.3** snapshot [22w42a](https://minecraft.fandom.com/wiki/Java_Edition_22w42a#Gameplay) removed red `(!)` indicators on unsigned messages and made the bar gray, modified messages changed the `(?)` indicator to gray and is no longer displayed if only the style was changed. Deleted messages are now displayed for 3 seconds and are replaced by a system message. Players are now able to join all servers and use most commands (except any that are related to messages) even if they don't sign their chat.
+   - [22w43a](https://minecraft.fandom.com/wiki/Java_Edition_22w43a#General) introduced chat report drafts.
+- **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
+   - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
 
 #### Official posts
 
