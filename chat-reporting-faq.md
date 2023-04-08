@@ -185,7 +185,7 @@ If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated on 1.19, so you cannot join all servers
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
-- If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
+- If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
 
