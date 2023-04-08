@@ -40,20 +40,31 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 ### Where can I learn more about it?
 
-**Explanatory videos**
+#### Explanatory videos
 
-- [Explanation as of 1.19.3/1.19.4 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min)²
+- [Explanation as of 1.19.3 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min, applies to 1.19.4 too)
 - [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
-- [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI)¹ (~10 min)
-- [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg)¹ (~14 min)
-- [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10)² (~48 min)
-- [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87)² (~22 min)
+- [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI) (~10 min)
+- [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg) (~14 min)
+- [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10) (~48 min)
+- [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87) (~22 min)
 
-¹ Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain.
+All videos are suitable for describing the interactions and ethical concerns, but for technical details only 1.19.3 and later videos are still relevant. Aizistral is the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
 
-² Made by the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
+#### History of changes
 
-**Official posts**
+- **1.19** snapshot [22w17a](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
+   - [22w18a](https://minecraft.fandom.com/wiki/Java_Edition_22w18a#General) now signs the messages sent by `/say`, `/msg`, /teammsg`, and `/me`.
+   - [22w19a](https://minecraft.fandom.com/wiki/Java_Edition_22w19a#General) added an option to hide messages by players who did not sign their messages.
+- **1.19.1** snapshot [22w24a](https://minecraft.fandom.com/wiki/Java_Edition_22w24a#General) introduced chat reporting interface.
+   - [1.19.1-pre.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_1#General) introduced account-wide bans.
+   - [1.19.1-rc.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_1) removed the "Extreme violence or gore", "Nudity or pornography", and "Profanity" categories. It was also Mojang's initial "final" plan of how the reporting system would work. Due to major exploits found by the community, the release was postponed by a month.
+   - [1.19.1-pre.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_2#General) introduced red indicators on unsigned messages and yellow on "modified" messages. It also made the system enabled on new servers by default.
+   - [1.19.1-pre.3](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_3#General_2) introduced gray indicators for system messages.
+   - [1.19.1-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_4#General) fixed an exploit where players could add new messages to a report that weren't there previously.
+   - [1.19.1-rc.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_2#General)
+
+#### Official posts
 
 - [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
