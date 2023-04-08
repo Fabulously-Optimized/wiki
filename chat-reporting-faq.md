@@ -64,7 +64,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 
-On public servers, you can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, if the system is enabled on the server.
+On public servers, you can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, [if the system is enabled on the server](#i-am-a-server-owner.-how-can-i-protect-my-users).
 
 ### Is there a way to appeal the ban?
 
