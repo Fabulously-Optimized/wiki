@@ -42,7 +42,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 **Explanatory videos**
 
-- [Explanation as of 1.19.3 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min)²
+- [Explanation as of 1.19.3/1.19.4 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min)²
 - [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
 - [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI)¹ (~10 min)
 - [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg)¹ (~14 min)
