@@ -60,6 +60,12 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 - [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
 
+### Can I be banned without anyone reporting me?
+
+On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
+
+On public servers, you can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, if the system is enabled on the server.
+
 ### Is there a way to appeal the ban?
 
 Yes, if you [meet their criteria (see "how to submit a case review")](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20A%20CASE%20REVIEW). It is unknown how many appeals are accepted.
@@ -96,7 +102,7 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
 
-### What about Realms?
+### How does this affect Realms?
 
 See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 
