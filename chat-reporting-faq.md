@@ -239,9 +239,11 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 
 ### Does Java Edition have a profanity filter?
 
-Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
+Yes, but currently only on Realms chat. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
 Profanity by itself is no longer a category one can report other players for. **Swearing at friends, even jokingly, is bannable though** - read the next section for more info. 
+
+Bedrock Edition has the filter on chat, signs, item names etc. across all servers, including singleplayer.
 
 ### Does Mojang monitor my chats?
 
