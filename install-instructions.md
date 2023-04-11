@@ -1,5 +1,9 @@
 # Install instructions
 
+Here are the instructions to install Fabulously Optimized to various launchers.
+
+Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
+
 ## Supported
 
 ### [CurseForge Launcher](https://download.curseforge.com/#download-options)
