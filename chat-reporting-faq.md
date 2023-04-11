@@ -243,7 +243,7 @@ Yes, but currently only on Realms chat. If you are an adult, you can disable it 
 
 Profanity by itself is no longer a category one can report other players for. **Swearing at friends, even jokingly, is bannable though** - read the next section for more info. 
 
-Bedrock Edition has the filter on chat, signs, item names etc. across all servers, including singleplayer.
+Bedrock Edition has the filter on chat, signs, item names, books etc. across all servers and content, including singleplayer.
 
 ### Does Mojang monitor my chats?
 
