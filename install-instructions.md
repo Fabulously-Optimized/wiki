@@ -74,7 +74,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
 2. From the taskbar, select 👜 "Discover".
-3. Tap the searchbar on the top left corner, then press `❎` to open the on-screen keyboard.
+3. Tap the searchbar on the top left corner, then press ❎ to open the on-screen keyboard.
 4. Search for "Prism Launcher" and tap `Install` on the first result.
 5. Launch it and go through its initial setup process, then close it.
 6. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
