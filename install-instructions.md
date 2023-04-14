@@ -72,7 +72,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 ### [Steam Deck](https://www.steamdeck.com/)
 
-1. With Steam Deck turned on, hold down `⏻` and tap `Switch to Desktop`.
+1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
 2. From the taskbar, select 👜 "Discover".
 3. Tap the searchbar on the top left corner, then press `⮾` to open the on-screen keyboard.
 4. Search for "Prism Launcher" and tap `Install` on the first result.
