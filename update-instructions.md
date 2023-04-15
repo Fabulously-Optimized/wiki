@@ -16,42 +16,38 @@
    * Don't see that option? Follow the other instructions below.
 3. Select the topmost version, then `Continue`.
 4. Modpack will now update.
-5. After updating you can run it and check the version difference in the bottom right corner.
+5. Run it and check the version difference in the bottom right corner.
 
 #### If you added or removed some mods:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, click _Fabulously Optimized_
-3. Click `⫶`
-4. Click `Profile Options`
-5. Uncheck "Allow content management for this profile". You can re-enable content management after the update.
-6. Click `Continue`
-7. Click `⫶`
-8. Click `⇄ Change Version`.
-9. Select the topmost version, then `Continue`.
-10. Modpack will now update.
-11. After updating you can run it and check the version difference in the bottom right corner.
+3. Click `⫶`→ `Profile Options`
+4. Uncheck "Allow content management for this profile". You can re-enable content management after the update.
+5. Click `Continue`
+6. Click `⫶` → `⇄ Change Version`.
+7. Select the topmost version, then `Continue`.
+8. Modpack will now update.
+9. Run it and check the version difference in the bottom right corner.
 
 ### MultiMC
 
-1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
-2. Click `Download` on the latest **MultiMC version**
-   * On CurseForge's new UI, `⌵` → `Download file`
-   * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-     * Alternatively, look for it in the sidebar under "server packs".
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
-4. Click that version you just created, then `Minecraft Folder`
-5. Click the previous version, then `Minecraft Folder`
-6. Copy the important files and folders over:
+1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
+2. Click the topmost version, scroll down to "Additional files" section
+3. Click `⋮` → `Download file` on the latest **MultiMC version**
+   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
+4. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+5. Click that version you just created, then `Minecraft Folder`
+6. Click the previous version, then `Minecraft Folder`
+7. Copy the important files and folders over:
    * `saves` for your local worlds
    * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
    * `screenshots`
    * `servers.dat` for your multiplayer servers
    * `options.txt`, if you want to keep your vanilla option changes
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
-7. Close the folders and run the new version
-8. If everything looks right, delete the old version
+8. Close the folders and run the new version
+9. If everything looks right, delete the old version
 
 ### MultiMC (auto-update)
 
@@ -123,16 +119,14 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
 4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-5. Click `Download` the latest **MultiMC version** of the pack
-   * On CurseForge's new UI, `⌵` → `Download file`
-   * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-      * Alternatively, look for it in the sidebar, under "server packs".
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-7. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-8. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
-9. Launch the installed Fabric profile
-10. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
+5. Click the topmost version, scroll down to "Additional files" section
+6. Click `⋮` → `Download file` on the latest **MultiMC version**
+   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
+7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
+8. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+9. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
+10. Launch the installed Fabric profile
+11. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
 
 ### Resetting settings
 
