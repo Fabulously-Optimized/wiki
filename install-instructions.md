@@ -83,9 +83,10 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 12. Click `OK`
 13. The modpack will now install.
 14. Once installed, double-tap the icon and wait.
-15. Tap `Options...` → `Controls...` → `🎮` → `Mode: Controller` → `Done` → `Done` → `Done`
-16. The game is now set up and you can just launch it from your game library from now on. 
-17. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
+15. Tap `Options...` → `Controls...` → `🎮`
+16. Set `Mode: Controller`, then `Done` → `Done` → `Done`
+17. The game is now set up and you can just launch it from your game library from now on. 
+18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
 P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
 
