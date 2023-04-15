@@ -36,6 +36,8 @@ Notes:
 
 There is currently no _easy_ way because the tool downloads missing mods back on launch. There are script workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
+Consider [switching to Prism Launcher instead.](install-instructions.md#prism-launcher)
+
 ### Prism Launcher
 
 1. Open Prism Launcher
