@@ -110,11 +110,11 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.re
 4. Select the Minecraft version and directory, and click `Install`.
 5. You're all done!
 
-## macOS
+#### macOS
 
 TODO
 
-## Linux
+#### Linux
 
 1. Install Python 3.8 or higher (3.11 recommended) from your package manager using one of the following examples: 
    - Ubuntu: `sudo apt install python3`
