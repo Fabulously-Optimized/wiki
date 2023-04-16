@@ -26,12 +26,12 @@ Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.
 
 You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
-1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-2. Click the topmost version, scroll down to "Additional files" section
-3. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.   
-4. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
-5. To run the modpack, double click the Fabulously Optimized icon
+1. Click `Add Instance`
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. The modpack will now install.
+6. Once installed, double-click the icon to play.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
@@ -101,25 +101,28 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.re
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
+#### Windows
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
-   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
-   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
-3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-4. Click the topmost version, scroll down to "Additional files" section
-5. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
-6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-7. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-8. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
-    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-    * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
-9. Launch the installed Fabric profile
-10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+1. Open the [releases page](https://github.com/Fabulously-Optimized/vanilla-installer/releases/latest) and download the file with the `.exe` extension. (Example: `Vanilla Installer-GUI v0.1.0.exe`)
+2. If it asks you where to save your file, select your Downloads folder (`%USERPROFILE%\Downloads`)
+3. Navigate to the Downloads folder and double-click the file you just downloaded.
+   * If you see a Microsoft Defender SmartScreen prompt, click `More info`, then `Run Anyway`.
+4. Select the Minecraft version and directory, and click `Install`.
+5. You're all done!
 
-A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
+## macOS
+
+TODO
+
+## Linux
+
+1. Install Python 3.8 or higher (3.11 recommended) from your package manager using one of the following examples: 
+   - Ubuntu: `sudo apt install python3`
+   - Arch Linux: `sudo pacman -S python3`
+   - Fedora: `sudo dnf install python3` 
+
+2. Run `pip3 install vanilla-installer[gui]`.
+3. Then you can run `vanilla-installer-gui` to launch the program. If you have issues, try `python3 -m vanilla_installer gui`.
 
 ## Not supported
 
