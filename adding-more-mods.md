@@ -70,8 +70,9 @@ Method 2:
 2. Choose any mod you want and go to its _Files_ page
 3. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
 4. Once downloaded, open Files
-5. Tap `☰` → `Downloads` → hold down on any file → select the mod(s) you downloaded → `⋮` → `Move to...` → `☰` → `PojavLauncher` → `.minecraft` → `mods`
-6. Tap `MOVE` and run the game.
+5. Tap `☰` → `Downloads` → hold down on any file → select the mod(s) you downloaded
+6. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `.minecraft` → `mods`
+7. Tap `MOVE` and run the game.
 
 ### Other hints
 
