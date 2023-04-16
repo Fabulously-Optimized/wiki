@@ -147,11 +147,7 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 2. [Download Files](https://play.google.com/store/apps/details?id=com.marc.files)
    * This is a shortcut to your system's file manager. Other file managers may need root to follow these instructions.
 3. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
-4. [Download the latest **MultiMC version** of Fabulously Optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files)
-   * On CurseForge's new UI, `⌵` → `Download file`
-   * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-      * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
+4. [Download CurseForge GUI installer](https://github.com/Madis0/CurseForge-GUI/releases/download/2e9023f/CurseForge-GUI-1.0-SNAPSHOT.jar)
 5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4)
    * This optimizes the modpack for mobile users.
 6. Run Pojav Launcher
@@ -162,25 +158,26 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
     * If you get a black screen: quit the game, go back to Pojav → `🎛️` → `Video and renderer` → `Renderer` → (choose any) → ⬅️ → ⬅️ → try playing again
 10. Launch Pojav again, tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
 11. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
-12. Close Pojav and open Files.
-13. Tap `☰` → `PojavLauncher` → hold down on `options.txt`, tap `🗑️` → `OK`
-14. Tap `☰` → `Downloads` → `Fabulously+Optimized+x.x.x.zip` → `Fabulously Optimized x.x.x` → `minecraft`
-15. Hold down on one folder and tap on all three folders, then tap `⋮` → `Extract to...`
-16. Tap `☰` → `PojavLauncher` → `⋮` → `Show hidden files` → `.minecraft` → `EXTRACT`
-17. Tap `☰` → `Downloads` → `(Minecraft version).zip` → `(Minecraft version)`
+12. Tap `Install .jar` → select `CurseForge-GUI-1.0-SNAPSHOT.jar`. You'll see a different kind of installer with some logs.
+13. Tap `❌` to close the logs, then `Install modpack` → `KEYBOARD`
+14. Enter the following code, according to the version you prefer. The keyboard may cover your screen, but try to get it right regardless.
+   * **Latest for 1.19.4**: enter `396246`.
+   * **3.14.1 for 1.18.2**: enter `3983420`.
+   * **2.7.3 for 1.17.1**: enter `3667614`.
+   * **1.12.3 for 1.16.5**: enter `3667608`.
+15. Press Enter on the keyboard and wait for the install to complete. Once installed, press `OK` → `⛝`
+   * If you failed to enter the correct code, just close and try again from step 12.
+16. Close Pojav and open Files.
+17. Tap `☰` → `Downloads` → `DownGit.zip` → `(Minecraft version)`
 18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
-19. Tap `☰` → `PojavLauncher` → `.minecraft` → `EXTRACT`
-    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
-20. Tap `☰` → `PojavLauncher` → `.minecraft` 
-21. On each duplicated folder (e.g. "config (2)" or "resourcepacks (2)"), do the following:
-     1. Open the folder
-     2. Hold on any file and select all
-     3. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `.minecraft` → (the original folder, e.g. "config" or "resourcepacks")
-          * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
-     4. Repeat until all files are transferred
-     5. Delete the duplicate folders
-22. Launch Pojav, tap `New - Latest Release` → `fabric-loader-x.x.x` → `Play`.
-23. Fabulously Optimized should now be running! 
+19. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `EXTRACT`
+20. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config (2)`
+21. Hold on any file and select the other one
+21. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config`
+22. Press `fabulously-optimized_396246` on the "address bar"
+23. Hold down on `config (2)` → tap `🗑️` → `OK`
+24. Launch Pojav, tap `New - Latest Release` → `Fabulously Optimized - ...` → `Play`.
+25. Fabulously Optimized should now be running! 
 
 </details>
 
