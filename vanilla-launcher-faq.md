@@ -10,9 +10,42 @@ To install Fabulously Optimized on the vanilla launcher, [please follow this gui
 
 No. Fabulously Optimized consists of mods, configs and resourcepacks. 
 
-If you skip configurations, there is a high chance of some resource packs not working at all, mods may have unwanted features enabled or wanted features disabled. 
+If you try to install FO to the vanilla launcher by copying just the `mods` folder, you may notice these issues:
 
-If you skip resource packs, you'll lose out on the descriptions that explain what each mod does in Mod Menu.
+* Some of your resource packs are broken
+* Zoom is broken and new unexpected keybinds exist 
+* Confusing mod buttons and texts appear in the interface
+* Mod list does not contain the simplified descriptions and has some confusing ones
+* No version number in the title screen (main menu)
+* Other features do not work as advertised
+
+### I only copied the mods, what should I do now?
+
+Don't worry, we can fix that!
+
+1. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
+2. Backup and delete `config` folder and `options.txt` file
+   * `config` contains all of your mod configs.
+   * `options.txt` contains vanilla settings and keybinds
+   * "Backup" means copying the existing folder and file to a different location, in case you need to reference or copy it back later. If you don't care about your existing settings, you don't have to do this.
+3. Open the ZIP file of Fabulously Optimized that you have or download it again (see below)
+4. Go to _Fabulously Optimized x.x.x_ > _.minecraft_
+5. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+6. Launch the Fabric profile
+7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+8. Optional: copy back any mod settings you need from the folder you backed up
+
+<details>
+  <summary>Downloading the ZIP again</summary>
+
+  1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
+  2. Click `Download` on the latest **MultiMC version** of the pack
+     * On CurseForge's new UI, `⌵` → `Download file`
+     * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
+        * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
+     * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
+
+</details>
 
 ### What is the MultiMC ZIP?
 

@@ -1,5 +1,9 @@
 # Install instructions
 
+Here are the instructions to install Fabulously Optimized to various launchers.
+
+Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
+
 ## Supported
 
 ### [CurseForge Launcher](https://download.curseforge.com/#download-options)
@@ -68,9 +72,9 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 ### [Steam Deck](https://www.steamdeck.com/)
 
-1. With Steam Deck turned on, hold down `⏻` and tap `Switch to Desktop`.
+1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
 2. From the taskbar, select 👜 "Discover".
-3. Tap the searchbar on the top left corner, then press `⮾` to open the on-screen keyboard.
+3. Tap the searchbar on the top left corner, then press ❎ to open the on-screen keyboard.
 4. Search for "Prism Launcher" and tap `Install` on the first result.
 5. Launch it and go through its initial setup process, then close it.
 6. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
@@ -101,7 +105,7 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.re
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.18**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
@@ -113,8 +117,9 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
 5. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
 6. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-7. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
-    * If not, you should enable FO-branded and mod-based resource packs manually later.
+7. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
+    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
+    * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
 8. Launch the installed Fabric profile
 9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
@@ -230,7 +235,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 Any launchers that let you run the game without having purchased it first are not supported.
 
-There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-gift-code) Sign up with [this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-java-bedrock) Sign up with [this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
 After that, pick any supported launcher from this page and enjoy the game! 
 
 ### Other launchers

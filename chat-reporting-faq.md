@@ -40,25 +40,48 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 ### Where can I learn more about it?
 
-**Explanatory videos**
+#### Explanatory videos
 
-- [Explanation as of 1.19.3 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min)²
+- [Explanation as of 1.19.3 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min, applies to 1.19.4 too)
 - [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
-- [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI)¹ (~10 min)
-- [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg)¹ (~14 min)
-- [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10)² (~48 min)
-- [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87)² (~22 min)
+- [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI) (~10 min)
+- [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg) (~14 min)
+- [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10) (~48 min)
+- [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87) (~22 min)
 
-¹ Some parts of the videos may be out of date, mainly the report categories and exploits. Problems with ethics and overall technical approach still remain.
+All videos are suitable for describing the interactions and ethical concerns, but for technical details only 1.19.3 and later videos are still relevant. Aizistral is the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
 
-² Made by the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
-
-**Official posts**
+#### Official posts
 
 - [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 - [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
+
+#### History of changes
+
+- **1.19** snapshot [22w17a](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
+   - [22w18a](https://minecraft.fandom.com/wiki/Java_Edition_22w18a#General) started signing the messages sent by `/say`, `/msg`, `/teammsg`, and `/me`.
+   - [22w19a](https://minecraft.fandom.com/wiki/Java_Edition_22w19a#General) added an option for players to hide messages by other players who did not sign their messages.
+   - Some snapshot also introduced a way to modify chat messages by filtering words, [presumably for Realms](#does-java-edition-have-a-profanity-filter).
+- **1.19.1** snapshot [22w24a](https://minecraft.fandom.com/wiki/Java_Edition_22w24a#General) introduced the chat reporting interface.
+   - [1.19.1-pre.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_1#General) introduced account-wide bans.
+   - [1.19.1-rc.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_1) removed the "Extreme violence or gore", "Nudity or pornography", and "Profanity" categories. It was also Mojang's initial "final" plan of how the reporting system would work. Due to major exploits found by the community though, the release of 1.19.1 was postponed by a month.
+   - [1.19.1-pre.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_2#General) introduced red bars and `(!)` indicators on unsigned messages, yellow bars and `(?)` indicators on "modified" messages. It also made the system enabled on new servers by default.
+   - [1.19.1-pre.3](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_3#General_2) introduced gray indicators for system messages.
+   - [1.19.1-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_4#General) fixed an exploit where players could add new messages to a report that weren't there previously. It also introduced the concept of deleted messages, where the server can remove any message from the client.
+   - [1.19.1-rc.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_2#General) introduced a warning toast to players entering a server where the server does not restrict the joining of non-signing users. Practically, this toast mostly affected vanilla and vanilla-like servers, as other servers quickly found a way to remove it.
+ - **[1.19.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.2#Fixes)** fixed an exploit where some players could kick everyone else by abusing chat signing features.
+ - **1.19.3** snapshot [22w42a](https://minecraft.fandom.com/wiki/Java_Edition_22w42a#Gameplay) removed red `(!)` indicators on unsigned messages and made the bar gray, modified messages changed the `(?)` indicator to gray and is no longer displayed if only the style was changed. Deleted messages are now displayed for 3 seconds and are replaced by a system message. Players are now able to join all servers and use most commands (except any that are related to messages) even if they don't sign their chat.
+   - [22w43a](https://minecraft.fandom.com/wiki/Java_Edition_22w43a#General) introduced chat report drafts.
+- **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
+   - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
+
+### Can I be banned without anyone reporting me?
+
+On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
+
+On public servers, no. You can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, [if the system is enabled on the server](#i-am-a-server-owner.-how-can-i-protect-my-users).
 
 ### Is there a way to appeal the ban?
 
@@ -96,7 +119,7 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
 
-### What about Realms?
+### How does this affect Realms?
 
 See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 
@@ -162,7 +185,7 @@ If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png)
 - Most mods are not interested in continuing to support it
 - No Chat Reports is outdated on 1.19, so you cannot join all servers
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
-- If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](https://minecraft.fandom.com/wiki/Java_Edition_1.19#General).
+- If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
 If you want to stay on an older version, please use the latest version for 1.18.2.
 
@@ -216,9 +239,11 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 
 ### Does Java Edition have a profanity filter?
 
-Yes, but currently only on Realms. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
+Yes, but currently only on Realms chat. If you are an adult, you can disable it for yourself [in your minecraft.net profile](https://www.minecraft.net/en-us/msaprofile/accountsettings). [Learn more](https://help.minecraft.net/hc/en-us/articles/6160517019149)
 
 Profanity by itself is no longer a category one can report other players for. **Swearing at friends, even jokingly, is bannable though** - read the next section for more info. 
+
+Bedrock Edition has the filter on chat, signs, item names, books etc. across all servers and content, including singleplayer.
 
 ### Does Mojang monitor my chats?
 
