@@ -66,5 +66,5 @@ Consider [switching to Prism Launcher instead.](install-instructions.md#prism-la
 1. Open Files
 2. Tap `☰` → `PojavLauncher` → `.minecraft` → `mods`
     * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
-3. `⋮` → `Move to...` → `Move`
+3. Tap `⋮` → `Move to...` → `Move`
     * Move it back to `mods` to use the mod again.
