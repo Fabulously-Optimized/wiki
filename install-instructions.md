@@ -161,12 +161,12 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 12. Tap `Install .jar` → select `CurseForge-GUI-1.0-SNAPSHOT.jar`. You'll see a different kind of installer with some logs.
 13. Tap `❌` to close the logs, then `Install modpack` → `KEYBOARD`
 14. Enter the following code, according to the version you prefer. The keyboard may cover your screen, but try to get it right regardless.
-   * **Latest for 1.19.4**: enter `396246`.
-   * **3.14.1 for 1.18.2**: enter `3983420`.
-   * **2.7.3 for 1.17.1**: enter `3667614`.
-   * **1.12.3 for 1.16.5**: enter `3667608`.
+    * **Latest for 1.19.4**: enter `396246`.
+    * **3.14.1 for 1.18.2**: enter `3983420`.
+    * **2.7.3 for 1.17.1**: enter `3667614`.
+    * **1.12.3 for 1.16.5**: enter `3667608`.
 15. Press Enter on the keyboard and wait for the install to complete. Once installed, press `OK` → `⛝`
-   * If you failed to enter the correct code, just close and try again from step 12.
+    * If you failed to enter the correct code, just close and try again from step 12.
 16. Close Pojav and open Files.
 17. Tap `☰` → `Downloads` → `DownGit.zip` → `(Minecraft version)`
 18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
