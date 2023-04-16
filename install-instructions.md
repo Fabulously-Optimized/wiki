@@ -152,7 +152,7 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
    * Don't see the MultiMC version? Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.3](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.3)
+5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4)
    * This optimizes the modpack for mobile users.
 6. Run Pojav Launcher
 7. Tap `Add account` → `Microsoft account` and sign in

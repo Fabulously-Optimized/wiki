@@ -142,7 +142,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
    * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
       * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-3. Download Fabulously Optimized patches for Pojav Launcher: [1.19.3](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.3)
+3. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4)
 4. Run Pojav Launcher
 5. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
 6. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
