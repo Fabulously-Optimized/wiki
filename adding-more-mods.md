@@ -18,56 +18,49 @@ Method 1:
 
 Method 2:
 
-1. [Open CurseForge site](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689%3A7499\&filter-sort=4), search for a compatible mod
+1. [Open CurseForge site](https://www.curseforge.com/minecraft/search?page=1&gameFlavorsIds=4), search for a compatible mod
 2. On the compatible version, click Install
 3. CurseForge Launcher opens. Click `Select a profile`
 4. Select "Fabulously Optimized", click `Install`
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-### MultiMC/MultiMC (auto-update)
-
-1. Open MultiMC
-2. Click on Fabulously Optimized, then `Instance Folder`
-3. Open [CurseForge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
-4. Choose any mod you want and go to its _Files_ page
-5. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
-6. Once downloaded, copy the JAR file to the pack's "mods" folder.
-7. Run the game as usual. You should now have the new mod(s) installed!
-
 ### Prism Launcher
 
 1. Open Prism Launcher
 2. Click on Fabulously Optimized, then `Edit`
 3. Click on `Mods`, then `Download mods`
-4. Search for the mod you want from either Modrinth or CurseForge
+4. Search for the mod you want
 5. Select the mod and click `Select mod for download`. Repeat for any other mods you'd want to add.
 6. Click `Review and confirm`. 
 7. A confirmation window appears, click `OK`.
 8. The mods will be downloaded and added to your instance.
 
-### GDLauncher
+### MultiMC/MultiMC (auto-update)
 
-1. Open GDLauncher
-2. Right click Fabulously Optimized, click on `Manage`
-3. Select `Mods` and `Add Mod`
-4. Choose any mod you want and click `Download`
-5. Close the sub-window and click on Fabulously Optimized to run the game. You should now have the new mod(s) installed!
+1. Open MultiMC
+2. Click on Fabulously Optimized, then `Instance Folder`
+3. Open [Modrinth, set Loader to Fabric](https://modrinth.com/mods?g=categories:%27fabric%27)
+4. Choose any mod you want and go to its _Versions_ page
+5. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version
+6. Once downloaded, copy the JAR file to the pack's "mods" folder.
+7. Run the game as usual. You should now have the new mod(s) installed!
 
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
 2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
-3. Open [CurseForge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
-4. Choose any mod you want and go to its _Files_ page
-5. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
+3. Open [Modrinth, set Loader to Fabric](https://modrinth.com/mods?g=categories:%27fabric%27)
+4. Choose any mod you want and go to its _Versions_ page
+5. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
+
+### GDLauncher
+
+No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
 ### Other hints
 
 * Need to disable a mod instead? [See this page.](disabling-mods.md)
-* Looking for mods that may improve your use case but were rejected from the modpack? [See this list!](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is%3Aissue+label%3Arejected+is%3Aclosed+label%3Amod)
-* Want to suggest your mod to everyone? Check out [the issues of this repo](https://github.com/Fabulously-Optimized/fabulously-optimized/issues).
 * Coming from Forge and don't know what to install? Check out the [community list of equivalent mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md).
-* Looking for exclusive Fabric mods? [Modrinth](https://modrinth.com/mods?q=\&f=categories%3Afabric) is a new modding platform where many Fabric developers go nowadays, which has some cool stuff you'll not find on CurseForge.

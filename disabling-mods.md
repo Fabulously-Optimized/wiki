@@ -25,6 +25,13 @@ Notes:
 4. Check "Allow content management for this profile", click `Done`
 5. Find the mod you need, toggle the knob.
 
+### Prism Launcher
+
+1. Open Prism Launcher
+2. Click on Fabulously Optimized, then `Edit`
+3. Go to `Mods`
+4. Find the mod you need, uncheck the checkbox.
+
 ### MultiMC
 
 1. Open MultiMC
@@ -36,21 +43,7 @@ Notes:
 
 There is currently no _easy_ way because the tool downloads missing mods back on launch. There are script workarounds though, [tutorials written here](multimc-auto-update.md#can-i-ignore-some-of-the-mods).
 
-Consider [switching to Prism Launcher instead.](install-instructions.md#prism-launcher)
-
-### Prism Launcher
-
-1. Open Prism Launcher
-2. Click on Fabulously Optimized, then `Edit`
-3. Go to `Mods`
-4. Find the mod you need, uncheck the checkbox.
-
-### GDLauncher
-
-1. Open GDLauncher
-2. Right click Fabulously Optimized, click on `Manage`
-3. Select `Mods`
-4. Find the mod you need, toggle the knob.
+Consider [switching to Prism Launcher instead,](install-instructions.md#prism-launcher) which also has a seamless modpack updater.
 
 ### Minecraft Launcher (vanilla)
 
@@ -60,3 +53,7 @@ Consider [switching to Prism Launcher instead.](install-instructions.md#prism-la
 4. Rename the specific mod from "modname.jar" to "modname.jar.disabled"
    * Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
    * Rename ".jar.disabled" back to ".jar" to use the mod again.
+
+### GDLauncher
+
+No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
