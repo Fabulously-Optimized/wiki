@@ -94,23 +94,12 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 #### Windows
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
-   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
-   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-2. **For 4.8.0 and up**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.1+1.19.4)
-3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-5. Click the topmost version, scroll down to "Additional files" section
-6. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
-7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-8. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-9. **For 4.8.0 and up**: Copy downloaded Sodium and Iris JARs to _mods_ folder
-10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
-    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-    * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
-11. Launch the installed Fabric profile
-12. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+1. Open the [releases page](https://github.com/Fabulously-Optimized/vanilla-installer/releases/latest) and download the file with the `.exe` extension. (Example: `Vanilla Installer-GUI v0.1.0.exe`)
+2. If it asks you where to save your file, select your Downloads folder (`%USERPROFILE%\Downloads`)
+3. Navigate to the Downloads folder and double-click the file you just downloaded.
+   * If you see a Microsoft Defender SmartScreen prompt, click `More info`, then `Run Anyway`.
+4. Select the Minecraft version and directory, and click `Install`.
+5. You're all done!
 
 #### macOS
 
