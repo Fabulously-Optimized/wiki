@@ -14,47 +14,13 @@ Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
-#### Or with the launcher already open:
+Or with the launcher already open:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
-
-### [MultiMC](https://multimc.org)
-
-You need [Java 17 or higher](https://adoptium.net/) to play the game.
-
-1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-2. Click the topmost version, scroll down to "Additional files" section
-3. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.   
-4. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
-5. To run the modpack, double click the Fabulously Optimized icon
-
-### [MultiMC](https://multimc.org) (auto-update)
-
-You need [Java 17 or higher](https://adoptium.net/) to play the game.
-
-1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
-2. Click the version number you need in the MultiMC (auto-update) section
-3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
-4. Double-click that version you just created to download and launch the modpack
-
-<details>
-  <summary>Need to download some mods manually?</summary>
-
-  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-
-  1. Copy and paste the given address to your browser
-  2. Click `Cancel Launch`
-  3. Click `Download` on the mod
-  4. On MultiMC, click on the instance, then click `View Mods`
-  5. Drag the downloaded mod into the mod list
-  6. Click `Launch`
-
-</details>
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
@@ -90,14 +56,39 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 
 P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
 
-### [GDLauncher](https://gdlauncher.com/)
+### [MultiMC](https://multimc.org)
 
-1. Click ➕ on bottom left corner
-2. Select `CurseForge` tab
-3. Search for "Fabulously Optimized"
-4. Click `Download Latest`
-5. Click ➡️ on the bottom right
-6. To run the modpack, click the Fabulously Optimized icon
+You need [Java 17 or higher](https://adoptium.net/) to play the game.
+
+1. Click `Add Instance`
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. The modpack will now install.
+6. Once installed, double-click the icon to play.
+
+### [MultiMC](https://multimc.org) (auto-update)
+
+You need [Java 17 or higher](https://adoptium.net/) to play the game.
+
+1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
+2. Click the version number you need in the MultiMC (auto-update) section
+3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
+4. Double-click that version you just created to download and launch the modpack
+
+<details>
+  <summary>Need to download some mods manually?</summary>
+
+  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+
+  1. Copy and paste the given address to your browser
+  2. Click `Cancel Launch`
+  3. Click `Download` on the mod
+  4. On MultiMC, click on the instance, then click `View Mods`
+  5. Drag the downloaded mod into the mod list
+  6. Click `Launch`
+
+</details>
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
@@ -106,22 +97,48 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
-3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-4. Click the topmost version, scroll down to "Additional files" section
-5. Click `⋮` → `Download file` on the latest **MultiMC version**
+2. **For 4.8.0 and up**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.1+1.19.4)
+3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
+5. Click the topmost version, scroll down to "Additional files" section
+6. Click `⋮` → `Download file` on the latest **MultiMC version**
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
-6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-7. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-8. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
+7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
+8. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+9. **For 4.8.0 and up**: Copy downloaded Sodium and Iris JARs to _mods_ folder
+10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
     * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
-9. Launch the installed Fabric profile
-10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+11. Launch the installed Fabric profile
+12. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
 ## Not supported
+
+### GDLauncher
+
+Due to technical issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
+
+1. [Install and run Prism Launcher](https://prismlauncher.org/)
+2. Click `Add Instance`
+3. Select `Modrinth` tab from the left
+4. Select "Fabulously Optimized"
+5. Click `OK`
+6. The modpack will now install.
+7. Once installed, click the `Folder` button on the left.
+8. Open GDLauncher
+9. Right click on your previously used instance → `Open Folder`
+10. Copy the important files and folders over:
+   * `saves` for your local worlds
+   * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
+   * `screenshots`
+   * `servers.dat` for your multiplayer servers
+   * `options.txt`, if you want to keep your vanilla option changes
+11. Launch the instance on Prism and confirm everything is correct
+12. Uninstall GDLauncher
+
+[GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
 
 ### Modrinth Launcher
 
