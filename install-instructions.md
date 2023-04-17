@@ -118,7 +118,7 @@ A simple installer for vanilla launcher [is coming soon](https://github.com/Fabu
 
 ### GDLauncher
 
-Due to technical issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
+Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
 
 1. [Install and run Prism Launcher](https://prismlauncher.org/)
 2. Click `Add Instance`
