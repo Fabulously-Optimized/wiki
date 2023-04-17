@@ -14,13 +14,47 @@ Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
-#### Or with the launcher already open:
+Or with the launcher already open:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
+
+### [Prism Launcher](https://prismlauncher.org/)
+
+You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+
+1. Click `Add Instance`
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. The modpack will now install.
+6. Once installed, double-click the icon to play.
+
+### [Steam Deck](https://www.steamdeck.com/) + Prism Launcher
+
+1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
+2. From the taskbar, select 👜 "Discover".
+3. Tap the searchbar on the top left corner, then press ❎ to open the on-screen keyboard.
+4. Search for "Prism Launcher" and tap `Install` on the first result.
+5. Launch it and go through its initial setup process, then close it.
+6. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
+7. Close Steam and launch `Return to Gaming Mode`.
+8. Launch Prism Launcher from your game library.
+9. Tap `Add Instance`
+10. Select `Modrinth` tab from the left
+11. Select "Fabulously Optimized"
+12. Click `OK`
+13. The modpack will now install.
+14. Once installed, double-tap the icon and wait.
+15. Tap `Options...` → `Controls...` → `🎮`
+16. Set `Mode: Controller`, then `Done` → `Done` → `Done`
+17. The game is now set up and you can just launch it from your game library from now on. 
+18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
+
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
 
 ### [MultiMC](https://multimc.org)
 
@@ -56,59 +90,27 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 </details>
 
-### [Prism Launcher](https://prismlauncher.org/)
-
-You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
-
-1. Click `Add Instance`
-2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
-4. Click `OK`
-5. The modpack will now install.
-6. Once installed, double-click the icon to play.
-
-### [Steam Deck](https://www.steamdeck.com/)
-
-1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
-2. From the taskbar, select 👜 "Discover".
-3. Tap the searchbar on the top left corner, then press ❎ to open the on-screen keyboard.
-4. Search for "Prism Launcher" and tap `Install` on the first result.
-5. Launch it and go through its initial setup process, then close it.
-6. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
-7. Close Steam and launch `Return to Gaming Mode`.
-8. Launch Prism Launcher from your game library.
-9. Tap `Add Instance`
-10. Select `Modrinth` tab from the left
-11. Select "Fabulously Optimized"
-12. Click `OK`
-13. The modpack will now install.
-14. Once installed, double-tap the icon and wait.
-15. Tap `Options...` → `Controls...` → `🎮`
-16. Set `Mode: Controller`, then `Done` → `Done` → `Done`
-17. The game is now set up and you can just launch it from your game library from now on. 
-18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
-
-P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
-
-### [GDLauncher](https://gdlauncher.com/)
-
-1. Click ➕ on bottom left corner
-2. Select `CurseForge` tab
-3. Search for "Fabulously Optimized"
-4. Click `Download Latest`
-5. Click ➡️ on the bottom right
-6. To run the modpack, click the Fabulously Optimized icon
-
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 #### Windows
 
-1. Open the [releases page](https://github.com/Fabulously-Optimized/vanilla-installer/releases/latest) and download the file with the `.exe` extension. (Example: `Vanilla Installer-GUI v0.1.0.exe`)
-2. If it asks you where to save your file, select your Downloads folder (`%USERPROFILE%\Downloads`)
-3. Navigate to the Downloads folder and double-click the file you just downloaded.
-   * If you see a Microsoft Defender SmartScreen prompt, click `More info`, then `Run Anyway`.
-4. Select the Minecraft version and directory, and click `Install`.
-5. You're all done!
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
+   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
+   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
+2. **For 4.8.0 and up**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.1+1.19.4)
+3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
+5. Click the topmost version, scroll down to "Additional files" section
+6. Click `⋮` → `Download file` on the latest **MultiMC version**
+   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
+7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
+8. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+9. **For 4.8.0 and up**: Copy downloaded Sodium and Iris JARs to _mods_ folder
+10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
+    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
+    * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
+11. Launch the installed Fabric profile
+12. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 #### macOS
 
@@ -125,6 +127,30 @@ TODO
 3. Then you can run `vanilla-installer-gui` to launch the program. If you have issues, try `python3 -m vanilla_installer gui`.
 
 ## Not supported
+
+### GDLauncher
+
+Due to technical issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
+
+1. [Install and run Prism Launcher](https://prismlauncher.org/)
+2. Click `Add Instance`
+3. Select `Modrinth` tab from the left
+4. Select "Fabulously Optimized"
+5. Click `OK`
+6. The modpack will now install.
+7. Once installed, click the `Folder` button on the left.
+8. Open GDLauncher
+9. Right click on your previously used instance → `Open Folder`
+10. Copy the important files and folders over:
+    * `saves` for your local worlds
+    * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
+    * `screenshots`
+    * `servers.dat` for your multiplayer servers
+    * `options.txt`, if you want to keep your vanilla option changes
+11. Launch the instance on Prism and confirm everything is correct
+12. Uninstall GDLauncher
+
+[GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
 
 ### Modrinth Launcher
 
