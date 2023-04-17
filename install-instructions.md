@@ -130,11 +130,11 @@ Due to technical issues, GDLauncher is no longer supported. It is recommended to
 8. Open GDLauncher
 9. Right click on your previously used instance → `Open Folder`
 10. Copy the important files and folders over:
-     * `saves` for your local worlds
-     * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
-     * `screenshots`
-     * `servers.dat` for your multiplayer servers
-     * `options.txt`, if you want to keep your vanilla option changes
+    * `saves` for your local worlds
+    * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
+    * `screenshots`
+    * `servers.dat` for your multiplayer servers
+    * `options.txt`, if you want to keep your vanilla option changes
 11. Launch the instance on Prism and confirm everything is correct
 12. Uninstall GDLauncher
 
