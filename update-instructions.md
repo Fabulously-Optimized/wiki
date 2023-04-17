@@ -38,10 +38,6 @@ If you added or removed some mods:
 4. Click `Update pack`
 5. Once the name prompt comes up, click `Yes`
 
-### Steam Deck
-
-See [Prism Launcher](#prism-launcher).
-
 ### MultiMC
 
 1. Click `Add Instance`
