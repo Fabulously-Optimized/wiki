@@ -157,7 +157,7 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 15. Press Enter on the keyboard and wait for the install to complete. Once installed, press `OK` → `⛝`
     * If you failed to enter the correct code, just close and try again from step 12.
 16. Close Pojav and open Files.
-17. Tap `☰` → `Downloads` → `DownGit.zip` → `(Minecraft version)`
+17. Tap `☰` → `Downloads` → `(Minecraft version).zip` or `DownGit.zip` → `(Minecraft version)`
 18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
 19. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `EXTRACT`
 20. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config (2)`
