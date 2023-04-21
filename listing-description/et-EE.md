@@ -18,7 +18,7 @@ Fabulously Optimized [sisaldab paar pisiparandust][4], mis ei kaota puhta Minecr
 
 ### Töötab kõikjal
 
-Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 5 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
+Fabulously Optimized ei sisalda sisumode, seega see töötab mistahes mistahes maailmas ja serveris. Modipakki [saab käitada 4 käivitajas, on avalikustatud 3 saidil][6] ning [tõlgitud paljudesse keeltesse][7], sealhulgas eesti keel.
 
 ### Kaasaegne
 

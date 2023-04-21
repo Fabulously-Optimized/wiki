@@ -132,7 +132,7 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 9. Right click on your previously used instance → `Open Folder`
 10. Copy the important files and folders over:
     * `saves` for your local worlds
-    * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
+    * `resourcepacks`, if you use any (do not copy old versions of FO-bundled packs though)
     * `screenshots`
     * `servers.dat` for your multiplayer servers
     * `options.txt`, if you want to keep your vanilla option changes
