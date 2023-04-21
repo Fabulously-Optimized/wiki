@@ -18,7 +18,7 @@ Fabulously Optimized [inclu des modifications mineures][4] qui n'interfèrent pa
 
 ### Fonctionne partout
 
-Fabulously Optimized est designé pour fonctionner dans n'importe quel monde ou serveur, [fonctionne sur 5 launchers, est hébergé sur 3 sites][6] et [supporte de multiples langues][7].
+Fabulously Optimized est designé pour fonctionner dans n'importe quel monde ou serveur, [fonctionne sur 4 launchers, est hébergé sur 3 sites][6] et [supporte de multiples langues][7].
 
 ### Mis à Jour
 
