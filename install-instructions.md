@@ -136,7 +136,7 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 2. [Download Files](https://play.google.com/store/apps/details?id=com.marc.files)
    * This is a shortcut to your system's file manager. Other file managers may need root to follow these instructions.
 3. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
-4. [Download CurseForge GUI installer](https://github.com/Madis0/CurseForge-GUI/releases/download/2e9023f/CurseForge-GUI-1.0-SNAPSHOT.jar)
+4. [Download CurseForge GUI installer](https://github.com/Madis0/CurseForge-GUI/releases/download/694de8b/CurseForge-GUI-1.0-SNAPSHOT.jar)
 5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4)
    * This optimizes the modpack for mobile users.
 6. Run Pojav Launcher

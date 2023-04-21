@@ -123,7 +123,7 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 ### Pojav Launcher (Android)
 
 1. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
-2. [Download CurseForge GUI installer](https://github.com/Madis0/CurseForge-GUI/releases/download/2e9023f/CurseForge-GUI-1.0-SNAPSHOT.jar)
+2. [Download CurseForge GUI installer](https://github.com/Madis0/CurseForge-GUI/releases/download/694de8b/CurseForge-GUI-1.0-SNAPSHOT.jar)
 3. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4)
 4. Run Pojav Launcher
 5. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
