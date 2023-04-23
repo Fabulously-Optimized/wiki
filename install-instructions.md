@@ -103,8 +103,8 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 5. Click the topmost version, scroll down to "Additional files" section
 6. Click `⋮` → `Download file` on the latest **MultiMC version**
    * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
-7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-8. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+8. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
 9. **For 4.8.0 and up**: Copy downloaded Sodium JAR to _mods_ folder
 10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
