@@ -1,6 +1,6 @@
 # Principles
 
-I am aware that since Fabulously Optimized was created, several similar packs have started appearing on CurseForge. So what separates this from the rest?
+I am aware that since Fabulously Optimized was created, several similar packs have started appearing. So what separates this from the rest?
 
 * **Accessibility**  - Fabulously Optimized supports [several launchers](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), is [hosted on three sites](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), [supports various languages](language-support.md).
 * **Community** - Fabulously Optimized is developed with the community, [helping you fix problems](https://github.com/Fabulously-Optimized/fabulously-optimized/issues),  [considering your mod suggestions](https://github.com/Fabulously-Optimized/fabulously-optimized/issues), [hosting public votes for mod inclusion](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829) and [even reverting changes if they were not popular](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#131-2020-09-29). The author also contributes to the mods themselves by reporting issues and suggesting fixes.
