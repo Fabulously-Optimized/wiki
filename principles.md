@@ -20,7 +20,7 @@ Some facts about Fabric that can make you reconsider using Forge...
 * **Fabric updates fast** - on the same day as Minecraft itself, and so do many of its mods
 * **Fabric loads fast** - roughly the same as vanilla Minecraft, unlike Forge that takes minutes to open
 * **Fabric is small** - no huge libraries taking space on your computer, for most mods you only need the [Fabric Loader](https://fabricmc.net/use/) and [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-* **Fabric is popular** - there are [more than 6600 mods on CurseForge](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499) and [more than 4000 mods on Modrinth](https://modrinth.com/mods?f=categories%3Afabric&g=categories%3A%27fabric%27) (most overlap though)
+* **Fabric is popular** - there are [more than 8000 mods on CurseForge](https://www.curseforge.com/minecraft/search?page=1&class=mc-mods&gameFlavorsIds=4&sortType=1&pageSize=20) and [more than 4000 mods on Modrinth](https://modrinth.com/mods?f=categories%3Afabric&g=categories%3A%27fabric%27) (most overlap though)
 * **Fabric is supported** - many mod developers support both Fabric and Forge nowadays, some even move to only Fabric now
 * **Fabric is compatible** - many mod developers work together to keep their mods compatible with each other
 * **Fabric is easy** - many launchers are supported, and the [installers are accessible right from the homepage](https://fabricmc.net/use/installer/)
