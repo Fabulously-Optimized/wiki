@@ -42,7 +42,8 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 #### Explanatory videos
 
-- [Explanation as of 1.19.3 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min, applies to 1.19.4 too)
+- [Explanation as of 1.19.3 by Aizistral](https://youtu.be/48H5nMQ_8Yg?t=79) (~7 min, applies to 1.19.4 and up as well)
+- [_Written_ technical explanation as of 1.19.3 by Aizistral](https://gist.github.com/Aizistral/61553d6d76b998da9a52afd49c9ead76)
 - [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
 - [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI) (~10 min)
 - [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg) (~14 min)
