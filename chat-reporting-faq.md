@@ -42,7 +42,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 #### Explanatory videos
 
-- [Explanation as of 1.19.3 by Aizistral](https://youtu.be/48H5nMQ_8Yg?t=79) (~7 min, applies to 1.19.4 and up as well)
+- [Explanation as of 1.19.3 by Aizistral](https://youtu.be/48H5nMQ_8Yg?t=79) (~7 min)
 - [_Written_ technical explanation as of 1.19.3 by Aizistral](https://gist.github.com/Aizistral/61553d6d76b998da9a52afd49c9ead76#the-absolute-state-of-chat-reporting)
 
 <details>
@@ -56,7 +56,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 </details>
    
-All videos are suitable for describing the interactions and ethical concerns, but for technical details only 1.19.3 and later videos are still relevant. Aizistral is the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
+All videos are suitable for describing the interactions and ethical concerns, but for technical details only videos about 1.19.3 and later versions are still relevant. Aizistral is the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
 
 #### Official posts
 
