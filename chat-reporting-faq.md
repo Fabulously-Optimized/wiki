@@ -159,7 +159,7 @@ If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is
 
 1. Click Mods
 2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Set "Default signing mode" to `PROMPT` or `NEVER`
+3. Set "Default signing mode" to `Prompt` or `Never`
 4. `Save changes`
 
 The behaviour can also be configured per-server, hover on the status icon (bottom right corner of the chatbox) for more details.
