@@ -1,6 +1,6 @@
 # Language support
 
-You can translate the mods themselves and the modpack-specific content.
+You can translate the mods themselves and the modpack-specific content. All modpack translations are licensed under CC0, meaning they can be freely copied, modified, republished and so on.
 
 ## Mods
 
