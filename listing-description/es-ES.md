@@ -18,7 +18,7 @@ Fabulously Optimized [incluye unos pocos retoques menores][4] que no desentonan 
 
 ### Funciona en cualquier lado
 
-Fabulously Optimized no tiene mods de contenido, así que funciona en cualquier mundo o servidor [puede ejecutarse en 4 launchers diferentes y está alojado en 3 sitios distintos][6] y [cuenta con traducciones en varios lenguajes][7].
+Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 4 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
 
 ### Siempre al día
 
