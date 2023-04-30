@@ -1,36 +1,36 @@
 # Türkçe
 
-Performans ve grafik iyileştirmelerine odaklanan Minecraft için Fabric tabanlı bir mod paketidir.
+A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
 
-[![Mevcut inceleme](https://img.youtube.com/vi/Vj7S5_4Rkfg/hqdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
+[![Mevcut inceleme](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=Vj7S5_4Rkfg)
 
 ### Performans
 
-Fabulously Optimized, Sodium ve Lithium gibi [modern performans modlarının][1] eklenmesi nedeniyle genellikle OptiFine'dan daha hızlıdır.
+Fabulously Optimized is usually faster than OptiFine thanks to [modern performance mods][1] such as Sodium, Lithium and more!
 
 ### OptiFine benzerliği
 
-Fabulously Optimized; shader, bağlantılı dokular ve yakınlaştırma dahil [neredeyse tüm OptiFine özelliklerini destekler.][2] [Ücretsiz bir pelerin alın!][3]
+Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [You can even get your own free cape!][3]
 
-### Küçük değişiklikler
+### Minor tweaks
 
-Fabulously Optimized artırılmış sohbet geçmişi, pencereli tam ekran modu ve en yaygın sorunlara yönelik hata düzeltmeleri gibi vanilya hissini bozmayan [küçük değişiklikler içerir.][4]
+Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as extended chat history, windowed fullscreen mode, fixes to most common bugs and utilities to diagnose crashes.
 
 ### Her yerde çalışır
 
-Fabulously Optimized herhangi bir dünya veya sunucuda çalışmak üzere tasarlanmıştır, [4 başlatıcıda çalışır, 3 sitede barındırılır][6] ve [birçok dili destekler.][7].
+Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 4 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
 
 ### Güncel
 
-Fabulously Optimized [hızlı güncellemeler alır][5] ve daha yeni Minecraft sürümlerine yükseltilen ilk mod paketlerinden biridir.
+Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
 
 ### Fabric üzerine kurulu
 
-Forge ile karşılaştırıldığında, Fabric hızlı bir şekilde güncellenir ve yüklenir, büyük kütüphaneler içermezken aynı zamanda harika bir mod desteğine sahiptir.
+Compared to Forge, Fabric is lightweight, updates and loads fast, and still has great mod support.
 
 ### Açık geliştirme
 
-Fabulously Optimized [açık kaynaklıdır][8] ve modlarının çoğu da öyle. Herkes için daha iyi bir kullanıcı deneyimi yaratmak için mod geliştiricileriyle işbirliği yaparak topluluğun fikirleriyle geliştirilmiştir.
+Fabulously Optimized [is open-source][8] and so are most of its mods. We welcome suggestions from the users and collaborate with mod developers to create a better user experience for everyone.
 
 ### Yardımsever topluluk
 
@@ -62,7 +62,7 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 > 
 > **C**: Hayır, bu vanilya istemcilerine izin veren tüm sunucularda çalışır. [Ayrıntılı cevap ve sunucu ipuçları burada.][13]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Bir hostinge ihtiyacınız varsa, buraya tıklayın - ilk ay için %25 indirim!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
 
 
 > **S**: Daha fazla sorum var!
@@ -81,10 +81,10 @@ Paketi tartışmayı ve birbirlerine yardım etmeyi seven, büyüyen arkadaş ca
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
 [10]: https://fabulously-optimized.github.io/discord
-[10]: https://fabulously-optimized.github.io/discord
 [11]: https://fabulously-optimized.gitbook.io/modpack/
+[10]: https://fabulously-optimized.github.io/discord
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
 [16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
+[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
