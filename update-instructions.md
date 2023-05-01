@@ -108,7 +108,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
+   * If you see 0-5 mods in the zip, you downloaded the wrong version.  
 8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
 10. **For 4.8.0 and up**: Copy downloaded Sodium JAR to _mods_ folder
