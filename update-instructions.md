@@ -120,6 +120,23 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
 No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
+### Updating mods
+
+* If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
+
+   * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
+
+   * Updating mods that are in FO may cause unforeseen issues, which are prevented by FO releases, so you'd only make your own life harder.
+
+* If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
+
+   * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
+
+* Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
+
+    * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
+    * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
+
 ### Resetting settings
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
