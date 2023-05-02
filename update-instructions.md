@@ -126,7 +126,7 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 
    * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
 
-   * Updating mods that are in FO may cause unforeseen issues, which are prevented by FO releases, so you'd only make your own life harder.
+   * Updating mods that are in FO may cause unexpected issues which Fabulously Optimized releases would prevent, so manual updating may only make your own life harder.
 
 * If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
 
