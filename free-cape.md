@@ -10,6 +10,8 @@ Fabulously Optimized supports capes from Mojang, OptiFine, MinecraftCapes mod, L
 4. Open Minecraft with Fabulously Optimized installed
 5. Look at your cape! Everyone with Fabulously Optimized or MinecraftCapes mod installed will see it.
 
+![image](https://user-images.githubusercontent.com/8611110/230607851-3ddd87c5-fe74-4bc4-8484-9cca5ceffc64.png)
+
 #### Video instructions
 
 {% embed url="https://youtu.be/xeJoaxJcM9w?t=442" %}

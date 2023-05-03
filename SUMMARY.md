@@ -15,6 +15,7 @@
   * [Resource pack issues](resource-pack-issues.md)
   * [Server setup](server-setup.md)
   * [Update instructions](update-instructions.md)
+  * [Vanilla launcher FAQ](vanilla-launcher-faq.md)
   * [Version support](version-support.md)
 * [Listing description](listing-description/README.md)
   * [English](listing-description/en-US.md)
