@@ -100,6 +100,7 @@ Listing description translations are posted as a spoiler tag below the English t
 * Sometimes the tags get messed up on import. Please ensure they are `<0>`text`</0>`, `<1>`text`</1>` or similar to the original, _not_ `<a href=...>`text`</0>`.
 * "English" must be translated as the name of your language, in your language. If relevant, add the region in parentheses.
 * If your language has a localized review video, use that in video URL and thumbnail URL. Otherwise just keep the English one.
+   * The video must not show launchers and installation methods that don't match the wiki.
 * Crowdin supports "translation preview", which shows the description as it will appear on the listing. Look for the eye icon 👁️.
 * Listing translations are currently less prioritized and need more manual work than in-game content and as such, will be updated less often. Thank you for your patience.
 
