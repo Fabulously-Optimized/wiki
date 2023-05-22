@@ -101,6 +101,7 @@ Listing description translations are posted as a spoiler tag below the English t
 * "English" must be translated as the name of your language, in your language. If relevant, add the region in parentheses.
 * If your language has a localized review video, use that in video URL and thumbnail URL. Otherwise just keep the English one.
 * Crowdin supports "translation preview", which shows the description as it will appear on the listing. Look for the eye icon 👁️.
+* Listing translations are currently less prioritized and need more manual work than in-game content and as such, will be updated less often. Thank you for your patience.
 
 ### Wiki
 
