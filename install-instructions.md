@@ -30,10 +30,11 @@ Or with the launcher already open:
 4. There, click the `🔍 Auto detect` button.
 5. Then, click `+ Select` on the first option you see.
 6. Now, click the `🏠 Home` button on the top left.
-7. Put your cursor on top of "Fabulously Optimized"
+7. Under the "Popular packs" category, hover on top of "Fabulously Optimized"
 8. Click the green ⬇️ button.
 9. The modpack will now install.
-10. 
+10. Once installed 100%, hover on top of now installed "Fabulously Optimized" instance under "Jump back in"
+11. Click the green ▶️ button to play.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
