@@ -24,7 +24,7 @@ Or with the launcher already open:
 
 ### [Modrinth Launcher](https://github.com/modrinth/theseus)
 
-1. Install Java [following these instuctions](https://prismlauncher.org/wiki/getting-started/installing-java/).
+1. Install Java [following these instructions](https://prismlauncher.org/wiki/getting-started/installing-java/).
 2. On the Modrinth Launcher, click the `⚙️ Settings` button on the bottom left.
 3. Scroll down to `Java 17 location`.
 4. There, click the `🔍 Auto detect` button.
