@@ -33,6 +33,19 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
+### [Modrinth Launcher](https://github.com/modrinth/theseus)
+
+1. Install Java [following these insructions](https://prismlauncher.org/wiki/getting-started/installing-java/).
+2. On the Modrinth Launcher, click the `⚙️ Settings` button on the bottom left.
+3. Scroll down to `Java 17 location`.
+4. There, click the `🔍 Auto detect` button.
+5. Then, click `+ Select` on the first option you see.
+6. Now, click the `🏠 Home` button on the top left.
+7. Put your cursor on top of "Fabulously Optimized"
+8. Click the green ⬇️ button.
+9. The modpack will now install.
+10. 
+
 ### [Steam Deck](https://www.steamdeck.com/) + Prism Launcher
 
 1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
