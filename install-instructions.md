@@ -22,17 +22,6 @@ Or with the launcher already open:
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
-### [Prism Launcher](https://prismlauncher.org/)
-
-You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
-
-1. Click `Add Instance`
-2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
-4. Click `OK`
-5. The modpack will now install.
-6. Once installed, double-click the icon to play.
-
 ### [Modrinth Launcher](https://github.com/modrinth/theseus)
 
 1. Install Java [following these insructions](https://prismlauncher.org/wiki/getting-started/installing-java/).
@@ -45,6 +34,17 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 8. Click the green ⬇️ button.
 9. The modpack will now install.
 10. 
+
+### [Prism Launcher](https://prismlauncher.org/)
+
+You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+
+1. Click `Add Instance`
+2. Select `Modrinth` tab from the left
+3. Select "Fabulously Optimized"
+4. Click `OK`
+5. The modpack will now install.
+6. Once installed, double-click the icon to play.
 
 ### [Steam Deck](https://www.steamdeck.com/) + Prism Launcher
 
