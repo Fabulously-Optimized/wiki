@@ -156,7 +156,6 @@ See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
 * [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
 * [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
-* [Overall snapshot category](https://feedback.minecraft.net/hc/en-us/community/topics/360001692331-Minecraft-Java-Edition-Snapshots?sort_by=votes)
 
 ## Chat reporting and Fabulously Optimized
 
@@ -289,7 +288,7 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 
 ### Does Bedrock Edition also have chat reporting?
 
-[Unfortunately, yes.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+[Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
 
 ### I have more questions.
 
