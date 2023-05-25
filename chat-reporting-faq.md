@@ -216,25 +216,9 @@ If you want to stay on an older version, please use the latest version for 1.18.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
-### But my favorite server requires 1.19!
+### But my favorite server is afraid to update!
 
-Alright, please [send them this link](server-setup.md#how-to-protect-your-users) or [that link](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players) to let them know they don't have to stay on 1.19 just to disable chat reporting.
-
-In the meanwhile you can play in that server by [installing the latest FO](install-instructions.md) and [adding a mod](adding-more-mods.md) called [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric).
-
-Then, after launching the game:
-
-1. Go to Multiplayer
-2. Click the `VIA` button in the top right corner
-3. Click `Enable client-side`
-4. Read the warning and click `Enable`
-5. Click `Done` and join your server
-
-When done playing the server, it is recommended to turn it off again:
-
-1. Click the `VIA` button in the top right corner
-2. Click `Disable client-side`
-3. Click `Done` 
+Alright, please [send them this link](server-setup.md#how-to-protect-your-users) to let them know they don't have to stay on 1.19 just to disable chat reporting.
 
 ### Why not stay on 1.18.2?
 
