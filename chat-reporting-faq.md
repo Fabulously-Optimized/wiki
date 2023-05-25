@@ -122,14 +122,21 @@ Do what you always did.
 - If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
 - If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
 
-### What would make the system fair?
+### What would improve the system to reduce controversy?
 
-One of the following:
+In the best scenario, one of the following:
 
-- Sending the reports to server admins instead of Mojang would be the most preferable, as they have the most context to take the appropriate action and players would have a consistent way of reporting on every server.
-- Making the whole system opt-in (or out) would also be reasonable as then only the servers that need this help would enable it.
-- Implementing the system only on Realms or other Mojang-partnering servers.
-- Not implementing the system at all because there are enough moderation tools built already.
+- Sending the reports to server admins instead of Mojang, as they have the most context to take the appropriate action
+- Making the whole system opt-in (or out) as then only the servers that need this help would enable it
+- Implementing the system only on Realms or other Mojang-partnering servers
+- Not implementing the system at all because there are enough moderation tools built already
+
+If core changes to the system will not be made, Mojang could still improve its communication about the feature in-game and on help pages:
+
+- Make it clear that reports are sent to Mojang instead of server admins
+- Add an indicator that shows the system is in place (on servers where it is)
+- Use less cryptic terminology in errors related to the system
+- Write a technical overview about the system's working so that users inclined would be able to read it from the official source
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
 
