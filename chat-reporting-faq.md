@@ -193,7 +193,7 @@ The behaviour can also be configured per-server, hover on the status icon (botto
 
 ### Is No Chat Reports itself a risk?
 
-No, the mod simply disables chat signing on servers that explicitly mark it as optional. In servers that enforce the system your game will work as it does in vanilla.
+No. The mod disables chat signing on servers that explicitly tell the clients "chat reporting is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
 
 ### I think chat reporting is fair.
 
