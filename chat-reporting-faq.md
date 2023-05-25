@@ -75,6 +75,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 - [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
+- [Community Standards](https://www.minecraft.net/en-us/community-standards)
 
 #### History of changes
 
