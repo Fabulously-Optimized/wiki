@@ -6,11 +6,28 @@
 
 In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
-See [the official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) to read about the reporting interaction and offense categories or keep reading to see how it affects you.
+### How are reports created?
 
-### Why is it bad?
+[The official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) states the following:
 
-While the system does have noble goals of protecting players from malicious and illegal actions, its current implementation actually has the potential to cause more harm than good.
+> Reporting can be accessed via the social interactions screen (default keybind is P) or via the pause menu. 
+> 
+> [...]
+> 
+> 1. A player creates a chat report, selects the offending messages, category and details, and submits it 
+> 2. The report is sent to our team of Minecraft Investigators
+> 3. A moderator reviews the report and the evidence and assigns an appropriate action (if any) 
+> 4. If action is taken, the offending player’s account is suspended from online play for some duration of time or in extreme cases permanently 
+
+### Why was it implemented?
+
+[Minecraft: Java Edition Player Reporting FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197) states the following:
+
+> [...] Without human moderation, online communities can become unwelcoming, harmful, or in some cases, dangerous to the security of individual players. We need to provide safeguards that will help keep all our players safe and welcome in the online environments where they play Minecraft. Player Reporting will help to keep Minecraft communities free from hate speech, bullying, harassment, sexual solicitation, and personal threats. We believe that human moderation and community guidelines are critical to reducing harmful behavior and promoting healthy Minecraft online communities. 
+
+### Why is it controversial?
+
+Because the current implementation of it is vaguely described, unsustainable and unethical.
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
