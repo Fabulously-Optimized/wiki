@@ -104,21 +104,17 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
-4. **For 4.8.0 and up**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+4. **For 4.8.0-4.9.x**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.  
-8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _.minecraft_
-9. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
-10. **For 4.8.0 and up**: Copy downloaded Sodium JAR to _mods_ folder
+   * If you see 0-5 mods in the zip, you downloaded the wrong version.  
+8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
+10. **For 4.8.0-4.9.x**: Copy downloaded Sodium JAR to _mods_ folder
 11. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 12. Launch the installed Fabric profile
 13. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
-
-### GDLauncher
-
-No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
 ### Pojav Launcher (Android)
 
@@ -148,6 +144,22 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 23. Hold down on `config (2)` → tap `🗑️` → `OK`
 24. Launch Pojav, tap `New - Latest Release` → `Fabulously Optimized - ...` → `Play`.
 25. Fabulously Optimized should now be running! 
+
+### GDLauncher
+
+No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
+
+### Updating mods
+
+* If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
+   * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
+   * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
+* If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
+   * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
+* Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
+    * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
+    * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
+* If you did any of the things above and are having issues, simply update Fabulously Optimized again, even if you have the same version.
 
 ### Resetting settings
 

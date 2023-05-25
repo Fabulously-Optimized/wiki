@@ -18,7 +18,7 @@
 
 ### Λειτουργεί παντού
 
-Το Fabulously Optimized είναι σχεδιασμένο ώστε να λειτουργεί στον οποιοδήποτε κόσμο ή διακομιστή, [τρέχει σε πέντε εκκινητές, βρίσκεται σε τρεις ιστοσελίδες][6] και [υποστηρίζει πολλές γλώσσες][7].
+Το Fabulously Optimized είναι σχεδιασμένο ώστε να λειτουργεί στον οποιοδήποτε κόσμο ή διακομιστή, [τρέχει σε τέσσερις εκκινητές, βρίσκεται σε τρεις ιστοσελίδες][6] και [υποστηρίζει πολλές γλώσσες][7].
 
 ### Εντός χρόνου
 
@@ -86,5 +86,5 @@
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md

@@ -42,14 +42,15 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 #### Explanatory videos
 
-- [Explanation as of 1.19.3 by Aizistral](https://www.youtube.com/watch?v=48H5nMQ_8Yg) (~7 min, applies to 1.19.4 too)
+- [Explanation as of 1.19.3 by Aizistral](https://youtu.be/48H5nMQ_8Yg?t=79) (~7 min)
+- [_Written_ technical explanation as of 1.19.3 by Aizistral](https://gist.github.com/Aizistral/61553d6d76b998da9a52afd49c9ead76#the-absolute-state-of-chat-reporting)
 - [Explanation as of 1.19.2 by AntVenom](https://youtu.be/IKgucpgVraY) (~20 min)
 - [Explanation as of 1.19.1-rc.1 by FitMC](https://youtu.be/rdoFUhd0EkI) (~10 min)
 - [Timeline of events as of 1.19.1-rc.1 by TheMisterEpic](https://youtu.be/kEfyaAq90kg) (~14 min)
 - [Technical explanation as of 1.19.2 by Aizistral](https://youtu.be/DobmW1ZUcbQ?t=10) (~48 min)
 - [Clearing some misconceptions for 1.19.2 by Aizistral](https://youtu.be/bF_37BrWBSM?t=87) (~22 min)
-
-All videos are suitable for describing the interactions and ethical concerns, but for technical details only 1.19.3 and later videos are still relevant. Aizistral is the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
+   
+All videos are suitable for describing the interactions and ethical concerns, but for technical details only videos about 1.19.3 and later versions are still relevant. Aizistral is the developer of [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports).
 
 #### Official posts
 
@@ -134,7 +135,7 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 
 ### What does this modpack do for me?
 
-Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that do not require it. It also reverts most of the chat indicators added in 1.19.1, because they clutter the screen and are misleading in many cases.
+Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that explicitly tell the client "chat reporting is optional here". It also reverts most of the vanilla chat indicators, as they are not as reliable and consistent as the modded ones.
 
 As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) is also added, which does the following:
   - Makes No Chat Reports icons more neutral
@@ -159,7 +160,7 @@ If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is
 
 1. Click Mods
 2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Set "Default signing mode" to `PROMPT` or `NEVER`
+3. Set "Default signing mode" to `Prompt` or `Never`
 4. `Save changes`
 
 The behaviour can also be configured per-server, hover on the status icon (bottom right corner of the chatbox) for more details.
