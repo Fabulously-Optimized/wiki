@@ -138,6 +138,7 @@ If core changes to the system will not be made, Mojang could still improve its c
 
 - Make it clear that reports are sent to Mojang instead of server admins
 - Add an indicator that shows the system is in place (on servers where it is)
+- Be very clear and truthful about the system in help pages (e.g. they repeatedly claim that only players initiate reports [while that is not the case](#does-mojang-monitor-my-chats))
 - Use less cryptic terminology in errors related to the system
 - Write a technical overview about the system's working so that users inclined would be able to read it from the official source
 
