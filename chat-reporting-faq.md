@@ -76,6 +76,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 - [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
 - [Community Standards](https://www.minecraft.net/en-us/community-standards)
+- [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
 #### History of changes
 
@@ -180,7 +181,7 @@ _(Expected different icons? Disable Chat Reporting Helper resource pack and [see
 
 The behaviour can be configured per-server, hover on the icon for more details.
 
-### I don't want to join chat reporting servers at all!
+### I don't want to join such servers at all!
 
 If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (on such servers, you can only use commands then).
 
@@ -193,15 +194,13 @@ The behaviour can also be configured per-server, hover on the status icon (botto
 
 ### Is No Chat Reports itself a risk?
 
-No, the mod simply disables chat signing on servers that don't require it. Those that do will have the chat signing (and therefore reports) working the same as they do in vanilla.
+No, the mod simply disables chat signing on servers that explicitly mark it as optional. In servers that enforce the system your game will work as it does in vanilla.
 
-Disabling chat signing is not a punishable offense, otherwise Mojang would not have added an option for it in the servers.
+### I think chat reporting is fair.
 
-### I still think chat reporting is fair.
+Understandable. If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) in the bottom right corner of the chat, that server enforces the report system and the modpack will adhere to it, just like vanilla. 
 
-Understandable, the modpack helps you as well. 
-
-If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
+In vanilla itself there is no such clear indication as the toast and chat line icons do not accurately work on every server, hence the mod.
 
 ## Alternative approaches
  
