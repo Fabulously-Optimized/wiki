@@ -161,17 +161,20 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 
 ### What does this modpack do for me?
 
-Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that explicitly tell the client "chat reporting is optional here". It also reverts most of the vanilla chat indicators, as they are not as reliable and consistent as the modded ones.
-
-As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) is also added, which does the following:
-  - Makes No Chat Reports icons more neutral
-  - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
+Fabulously Optimized includes:
+- A mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that:
+   - adds new consistent chat indicators
+   - disables inconsistent vanilla chat indicators and the annoying toast
+   - provides optional features for users who want to configure their experience
+- A resource pack called [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) that:
+   - makes No Chat Reports icons more neutral
+   - improves vanilla and No Chat Reports tooltips to be shorter, clearer and unbiased
   
 In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
 - ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
 - ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
-- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional, Fabulously Optimized users opt-out by default
+- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional and you opt out
    - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
 - ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - chat reporting is enabled for everyone
 - ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
