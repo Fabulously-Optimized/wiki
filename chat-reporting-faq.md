@@ -219,7 +219,7 @@ After the release of FO 4.2.0 (MC 1.19.2), there were more discussions about the
 As of Minecraft 1.20, Mojang has still not fully [fixed the issues](#why-is-it-controversial) or [the communication](#how-could-mojang-improve-the-system). 
 Therefore, Fabulously Optimized cannot fulfill the [principles of being transparent and prioritizing its users](principles.md) without also giving them [clear indicators](#what-does-this-modpack-do-for-me), honest phrasing and customizable options for users to make their own decisions about the new feature - visually and functionally. It is very important that every user is aware of the system's existence, where and how it works. At the same time, it is important to reiterate that neither the mod or the resourcepack will actually break any rules or prevent users from reporting if the server prefers it. 
 
-If Mojang will improve their communication or improve the system again, it is possible that both the mod and resource pack will be removed from the modpack.
+If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
 ## Alternative approaches
  
