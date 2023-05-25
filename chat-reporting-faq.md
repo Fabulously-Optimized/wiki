@@ -95,6 +95,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [22w43a](https://minecraft.fandom.com/wiki/Java_Edition_22w43a#General) introduced chat report drafts.
 - **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
+- _as of 1.20, no additional changes have been made_
 
 ### Can I be banned without anyone reporting me?
 
@@ -123,7 +124,7 @@ Do what you always did.
 - If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
 - If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
 
-### What would improve the system to reduce controversy?
+### How could Mojang improve the system?
 
 In the best scenario, one of the following:
 
