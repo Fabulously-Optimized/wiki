@@ -41,6 +41,8 @@ The following icons show the status of the server. Icons are shown on the bottom
 
 #### How to protect your users
 
+Make sure you follow _all_ steps that match your server's configuration, not just one of them.
+
 - **All 1.18- backend servers**: no changes necessary, chat reporting doesn't exist.
 - **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
   - This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
