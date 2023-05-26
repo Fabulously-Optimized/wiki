@@ -137,7 +137,8 @@ In the best scenario, one of the following:
 If core changes to the system will not be made, Mojang could still improve its communication about the feature in-game and on help pages:
 
 - Make it clear that reports are sent to Mojang instead of server admins
-- Add an indicator that shows the system is in place (on servers where it is)
+- Add a clear indicator that shows whether the system is in place or not for given server
+  - Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is cryptic, annoying and technically easy to disable. A reliable and consistent indicator is needed.
 - Be very clear and truthful about the system in help pages 
    - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case](#does-mojang-monitor-my-chats)
 - Use less cryptic terminology in errors related to the system
