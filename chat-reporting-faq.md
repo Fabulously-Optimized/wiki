@@ -264,6 +264,7 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 5. Join any world or server
 6. Click your chat key, default `T`
 7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
+   * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
 
 ## Other questions
 
