@@ -226,10 +226,10 @@ If Mojang will improve their communication or overhaul the system again, it is p
  
 ### Why not stay on 1.19?
 
-- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-for-me)
-- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
+- [The modpack tells you clearly where chat reporting exists and where it doesn't](#what-does-this-modpack-do-for-me)
+   - [It is easy for server owners to disable chat reporting](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - Most mods are not interested in continuing to support it
-- No Chat Reports is outdated on 1.19, so you cannot join all servers
+- No Chat Reports is limited and outdated on 1.19, so you cannot join all servers
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
