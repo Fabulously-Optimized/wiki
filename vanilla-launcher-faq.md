@@ -28,6 +28,7 @@ Don't worry, we can fix that!
    * `config` contains all of your mod configs.
    * `options.txt` contains vanilla settings and keybinds
    * "Backup" means copying the existing folder and file to a different location, in case you need to reference or copy it back later. If you don't care about your existing settings, you don't have to do this.
+   * If your FO is not up to date, also delete the `mods` folder.
 3. Open the ZIP file of Fabulously Optimized that you have or download it again (see below)
 4. Go to _Fabulously Optimized x.x.x_ > _.minecraft_
 5. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files

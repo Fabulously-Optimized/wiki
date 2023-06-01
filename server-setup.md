@@ -12,7 +12,7 @@ The CurseForge listing has a section of "server packs", but [those are actually 
 
 ### Software
 
-For server software it is recommended to use [Paper](https://papermc.io), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) or [Purpur](https://github.com/PurpurMC/Purpur/), which are performance-optimized forks of Spigot, but support [all the same plugins](https://www.spigotmc.org/resources/categories/spigot.4/). 
+For server software it is recommended to use [Paper](https://papermc.io), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) or [Purpur](https://github.com/PurpurMC/Purpur/), which are performance-optimized forks of Spigot, but support [all the same plugins](https://www.spigotmc.org/resources/categories/spigot.4/). [Using Realms is not advised](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
 If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/mods?f=categories%3A%27optimization%27&g=categories%3A%27fabric%27&e=server), including those in FO.
 
@@ -40,6 +40,8 @@ The following icons show the status of the server. Icons are shown on the bottom
     * Chat reporting is enabled for everyone and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
 #### How to protect your users
+
+Make sure you follow _all_ steps that match your server's configuration, not just one of them.
 
 - **All 1.18- backend servers**: no changes necessary, chat reporting doesn't exist.
 - **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
@@ -86,4 +88,4 @@ Some servers tend to put a list of allowed mods into their rules. While it may s
 Other recommendations:
 
 * Get voluntary moderators for your server
-* Use anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)
+* Use anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) or [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)

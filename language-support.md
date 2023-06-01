@@ -44,9 +44,10 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
 3. [Join our Discord](https://fabulously-optimized.github.io/discord) to become a proofreader in your language or discuss with an existing one.
-4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **All files must be 100% approved before they get pushed to FO.**
-5. Wait for the next release of FO to see your translations live!
-6. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
+4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FO.**   
+   * For example, if you fully translate two files but fully approve one, then only the fully approved file will be published at the moment.
+6. Wait for the next release of FO to see your translations live!
+7. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
 
 ### Mod Menu Helper
 
@@ -91,16 +92,18 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". 
 
-* The resource pack description is translated within [Mod Menu Helper](#mod-menu-helper).
+* The resource pack description is translated within [Mod Menu Helper](#mod-menu-helper), to keep the original pack small and simple.
 
 ### Listing description
 
 Listing description translations are posted as a spoiler tag below the English text.
 
-* Sometimes the tags get messed up on import. Please ensure they are `<0>`text`</0>`, `<1>`text`</1>` or similar to the original, _not_ `<a href=...>`text`<0>`.
+* Sometimes the tags get messed up on import. Please ensure they are `<0>`text`</0>`, `<1>`text`</1>` or similar to the original, _not_ `<a href=...>`text`</0>`.
 * "English" must be translated as the name of your language, in your language. If relevant, add the region in parentheses.
 * If your language has a localized review video, use that in video URL and thumbnail URL. Otherwise just keep the English one.
+   * The video must not show launchers and installation methods that don't match the wiki at the time of publishing.
 * Crowdin supports "translation preview", which shows the description as it will appear on the listing. Look for the eye icon 👁️.
+* Listing translations are currently less prioritized and will be published to listings less often. Thank you for your patience.
 
 ### Wiki
 
