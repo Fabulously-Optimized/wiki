@@ -30,6 +30,10 @@ If you added or removed some mods:
 8. Modpack will now update.
 9. Run it and check the version difference in the bottom right corner.
 
+### Modrinth App
+
+TODO
+
 ### Prism Launcher
 
 1. Select existing FO instance

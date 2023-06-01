@@ -22,10 +22,10 @@ Or with the launcher already open:
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
-### [Modrinth Launcher](https://github.com/modrinth/theseus)
+### [Modrinth App](https://github.com/modrinth/theseus)
 
 1. Install Java [following these instructions](https://prismlauncher.org/wiki/getting-started/installing-java/).
-2. On the Modrinth Launcher, click the `⚙️ Settings` button on the bottom left.
+2. On the Modrinth App, click the `⚙️ Settings` button on the bottom left.
 3. Scroll down to `Java 17 location`.
 4. There, click the `🔍 Auto detect` button.
 5. Then, click `+ Select` on the first option you see.

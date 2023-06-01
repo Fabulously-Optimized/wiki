@@ -25,6 +25,15 @@ Method 2:
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
+### Modrinth App
+
+1. Open Modrinth App
+2. Click on Fabulously Optimized
+3. Click `+ Add Content`
+4. Search for the mod you want
+5. Click `⤓ Install`
+6. Go back to `🏠 Home` and run the game as usual. You should now have the new mod(s) installed!
+
 ### Prism Launcher
 
 1. Open Prism Launcher
@@ -35,6 +44,7 @@ Method 2:
 6. Click `Review and confirm`. 
 7. A confirmation window appears, click `OK`.
 8. The mods will be downloaded and added to your instance.
+9. Run the game as usual. You should now have the new mod(s) installed!
 
 ### MultiMC/MultiMC (auto-update)
 

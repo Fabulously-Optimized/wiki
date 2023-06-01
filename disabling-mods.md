@@ -25,6 +25,12 @@ Notes:
 4. Check "Allow content management for this profile", click `Done`
 5. Find the mod you need, toggle the knob.
 
+### Modrinth App
+
+1. Open Modrinth App
+2. Click on Fabulously Optimized
+3. Find the mod you need, switch the toggle.
+
 ### Prism Launcher
 
 1. Open Prism Launcher
