@@ -141,9 +141,9 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 
 [GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
 
-### Modrinth Launcher
+### Modrinth app
 
-Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. When it gets released, it will be supported.
+Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but Modrinth's own official launcher is currently in early alpha. When it gets released, it will be supported.
 For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
 ### Pojav Launcher
