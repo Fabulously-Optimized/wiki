@@ -2,7 +2,7 @@
 
 Here are the instructions to install Fabulously Optimized to various launchers.
 
-Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
+Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
 
 ## Supported
 
@@ -94,10 +94,10 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.21**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-2. **For 4.8.0-4.9.x**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+2. **For 4.8.0+**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
 3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 5. Click the topmost version, scroll down to "Additional files" section
@@ -105,7 +105,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
    * If you see 0-5 mods in the zip, you downloaded the wrong version.  
 7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 8. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
-9. **For 4.8.0-4.9.x**: Copy downloaded Sodium JAR to _mods_ folder
+9. **For 4.8.0+**: Copy downloaded Sodium JAR to _mods_ folder
 10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
     * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
@@ -140,9 +140,9 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 
 [GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
 
-### Modrinth Launcher
+### Modrinth app
 
-Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but an official launcher doesn't exist yet. When it gets released, it will be supported.
+Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but Modrinth's own official launcher is currently in early alpha. When it gets released, it will be supported.
 For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
 
 ### Pojav Launcher

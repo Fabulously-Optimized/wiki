@@ -6,11 +6,28 @@
 
 In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
-See [the official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) to read about the reporting interaction and offense categories or keep reading to see how it affects you.
+### How are reports created?
 
-### Why is it bad?
+[The official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) states the following:
 
-While the system does have noble goals of protecting players from malicious and illegal actions, its current implementation actually has the potential to cause more harm than good.
+> Reporting can be accessed via the social interactions screen (default keybind is P) or via the pause menu. 
+> 
+> [...]
+> 
+> 1. A player creates a chat report, selects the offending messages, category and details, and submits it 
+> 2. The report is sent to our team of Minecraft Investigators
+> 3. A moderator reviews the report and the evidence and assigns an appropriate action (if any) 
+> 4. If action is taken, the offending player’s account is suspended from online play for some duration of time or in extreme cases permanently 
+
+### Why was it implemented?
+
+[Minecraft: Java Edition Player Reporting FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197) states the following:
+
+> [...] We need to provide safeguards that will help keep all our players safe and welcome in the online environments where they play Minecraft. Player Reporting will help to keep Minecraft communities free from hate speech, bullying, harassment, sexual solicitation, and personal threats. We believe that human moderation and community guidelines are critical to reducing harmful behavior and promoting healthy Minecraft online communities. 
+
+### Why is it controversial?
+
+Because the current implementation of it is vaguely described, unsustainable and unethical.
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
@@ -58,6 +75,8 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
 - [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 - [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
+- [Community Standards](https://www.minecraft.net/en-us/community-standards)
+- [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
 #### History of changes
 
@@ -77,6 +96,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [22w43a](https://minecraft.fandom.com/wiki/Java_Edition_22w43a#General) introduced chat report drafts.
 - **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
+- _as of 1.20, no additional changes have been made_
 
 ### Can I be banned without anyone reporting me?
 
@@ -86,7 +106,7 @@ On public servers, no. You can be banned by server admins throughout the same se
 
 ### Is there a way to appeal the ban?
 
-Yes, if you [meet their criteria (see "how to submit a case review")](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20A%20CASE%20REVIEW). It is unknown how many appeals are accepted.
+Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20AN%20APPEAL). It is unknown how many appeals are accepted.
 
 1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
 2. Select "Minecraft: Java" as the game.
@@ -105,14 +125,24 @@ Do what you always did.
 - If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
 - If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
 
-### What would make the system fair?
+### How could Mojang improve the system?
 
-One of the following:
+In the best scenario, one of the following:
 
-- Sending the reports to server admins instead of Mojang would be the most preferable, as they have the most context to take the appropriate action and players would have a consistent way of reporting on every server.
-- Making the whole system opt-in (or out) would also be reasonable as then only the servers that need this help would enable it.
-- Implementing the system only on Realms or other Mojang-partnering servers.
-- Not implementing the system at all because there are enough moderation tools built already.
+- Sending the reports to server admins instead of Mojang, as they have the most context to take the appropriate action
+- Making the whole system opt-in (or out) as then only the servers that need this help would enable it
+- Implementing the system only on Realms or other Mojang-partnering servers
+- Not implementing the system at all because there are enough moderation tools built already
+
+If core changes to the system will not be made, Mojang could still improve its communication about the feature in-game and on help pages:
+
+- Make it clear that reports are sent to Mojang instead of server admins
+- Add a clear, yet unobtrusive indicator that shows whether the system is in place or not for given server
+  - Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is annoying and technically easy to disable.
+- Be very clear and truthful about the system in help pages 
+   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case](#does-mojang-monitor-my-chats).
+- Use less cryptic terminology in errors related to the system
+- Write a technical overview about the system's working so that users inclined would be able to read it from the official source
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
 
@@ -129,23 +159,25 @@ See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
 * [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
 * [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
-* [Overall snapshot category](https://feedback.minecraft.net/hc/en-us/community/topics/360001692331-Minecraft-Java-Edition-Snapshots?sort_by=votes)
 
 ## Chat reporting and Fabulously Optimized
 
 ### What does this modpack do for me?
 
-Fabulously Optimized has added a mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that informs you of the availability of chat reporting and makes your messages unreportable on servers that explicitly tell the client "chat reporting is optional here". It also reverts most of the vanilla chat indicators, as they are not as reliable and consistent as the modded ones.
-
-As of 1.19.3, a resource pack called [Chat Reporting Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Chat%20Reporting%20Helper) is also added, which does the following:
-  - Makes No Chat Reports icons more neutral
-  - Makes relevant vanilla and No Chat Reports tooltips shorter, clearer, more accurate and unbiased
+Fabulously Optimized includes:
+- A mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that:
+   - adds new consistent chat indicators
+   - disables inconsistent vanilla chat indicators and the annoying toast
+   - provides optional features for users who want to configure their experience
+- A resource pack called [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) that:
+   - makes No Chat Reports icons more neutral
+   - improves vanilla and No Chat Reports tooltips to be shorter, clearer and unbiased
   
 In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
 - ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
 - ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
-- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional, Fabulously Optimized users opt-out by default
+- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional and you opt out
    - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
 - ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - chat reporting is enabled for everyone
 - ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
@@ -154,7 +186,7 @@ _(Expected different icons? Disable Chat Reporting Helper resource pack and [see
 
 The behaviour can be configured per-server, hover on the icon for more details.
 
-### I don't want to join chat reporting servers at all!
+### I don't want to join such servers at all!
 
 If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is enough, you can also be prompted before sending a signed message or block sending all signed messages altogether (on such servers, you can only use commands then).
 
@@ -167,24 +199,37 @@ The behaviour can also be configured per-server, hover on the status icon (botto
 
 ### Is No Chat Reports itself a risk?
 
-No, the mod simply disables chat signing on servers that don't require it. Those that do will have the chat signing (and therefore reports) working the same as they do in vanilla.
+No. The mod disables chat signing on servers that explicitly tell the clients "chat reporting is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
 
-Disabling chat signing is not a punishable offense, otherwise Mojang would not have added an option for it in the servers.
+### I think chat reporting is fair.
 
-### I still think chat reporting is fair.
+Understandable. If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) in the bottom right corner of the chat, that server enforces the report system and the modpack will adhere to it, just like vanilla. 
 
-Understandable, the modpack helps you as well. 
+In vanilla itself there is no such clear indication as the toast and chat line icons do not accurately work on every server, hence the mod.
 
-If you join a server and see a ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) in the bottom right corner of the chat, that server enforces the report system and FO will adhere to it, just like vanilla. Because of that, having [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) does benefit you, because in vanilla itself there is no such clear indication (the toast and chat line icons do not accurately work on every server).
+### Why does Fabulously Optimized take a stance on the matter?
+
+Fabulously Optimized is not "just a performance pack" or an "OptiFine clone". While these are its core priorities, indeed, the priorities also include [the community itself, privacy and transparency](principles.md).
+
+When the system was first visibly introduced in 22w24a, [the players were clearly upset](https://www.reddit.com/r/Minecraft/comments/vcz7ou/this_is_getting_out_of_hand_now_there_are_two/). Not only was there zero prior communication about the system ([except the introduction of chat signing](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay), which most users didn't think much of at the time), but also within said snapshot and [the next one](https://www.reddit.com/r/Minecraft/comments/vhiwc0/a_5minute_dance_minecraft_1191_prerelease_1_is_out/) (which was supposed to be "the last one before 1.19.1") Mojang did not communicate with the users. Not via QnA, no tweets, no help pages. There were practical exploits and ethical concerns which stayed unanswered. [1.19.1-rc.1 removed 3 of the most concerning report categories](https://www.reddit.com/r/Minecraft/comments/vj2ast/minecraft_1191_release_candidate_1_is_out/), but still did not communicate with users.
+
+Then they took a step back. Postponed the release by a month to rework the system internally, [made it visually more annoying than before](#history-of-changes) and eventually released 1.19.1. After that, Mojang started working on some help pages to explain the feature in fuller detail. Due to aforementioned concerns and players spreading misinformation, this modpack received a FAQ (which you're reading now) to explain the system as it actually is, while taking a very protective stance in-game. [Step by step](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/376), while discussing with the players and learning more about the feature, Fabulously Optimized changed its stance from "protective" towards "neutral".
+
+After the release of FO 4.2.0 (MC 1.19.2), there were more discussions about the feature, with [users requesting even more neutrality](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/497) from the modpack. By discussing and evaluating the pain points of chat reporting and [Mojang's improvements made in 1.19.3](#history-of-changes), a solution was found - [neutral texts and icons](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/499). The resource pack [was released in FO 4.6.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#460-2023-03-24) and separately distributed as of [FO 4.9.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#490-2023-05-02).
+
+As of Minecraft 1.20, Mojang has still not fully [fixed the issues](#why-is-it-controversial) or [the communication](#how-could-mojang-improve-the-system). 
+Therefore, Fabulously Optimized cannot fulfill the [principles of being transparent and prioritizing its users](principles.md) without also giving them [clear indicators](#what-does-this-modpack-do-for-me), honest phrasing and customizable options so that users could make their own decisions about the new feature. It is very important that every user is aware of the system's existence, where and how it works. At the same time, it is important to reiterate that neither the mod or the resourcepack will actually break any rules or prevent users from reporting if the server prefers it. 
+
+If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
 ## Alternative approaches
  
 ### Why not stay on 1.19?
 
-- [The modpack opts out from chat reporting in 1.19.1+ as well](#what-does-this-modpack-do-for-me)
-- [It is easy for server owners to disable chat reporting in 1.19.1+ anyway](#i-am-a-server-owner.-how-can-i-protect-my-users)
+- [The modpack tells you clearly where chat reporting exists and where it doesn't](#what-does-this-modpack-do-for-me)
+   - [It is easy for server owners to disable chat reporting](#i-am-a-server-owner.-how-can-i-protect-my-users)
 - Most mods are not interested in continuing to support it
-- No Chat Reports is outdated on 1.19, so you cannot join all servers
+- No Chat Reports is limited and outdated on 1.19, so you cannot join all servers
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
@@ -192,25 +237,9 @@ If you want to stay on an older version, please use the latest version for 1.18.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
-### But my favorite server requires 1.19!
+### But my favorite server is afraid to update!
 
-Alright, please [send them this link](server-setup.md#how-to-protect-your-users) or [that link](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players) to let them know they don't have to stay on 1.19 just to disable chat reporting.
-
-In the meanwhile you can play in that server by [installing the latest FO](install-instructions.md) and [adding a mod](adding-more-mods.md) called [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric).
-
-Then, after launching the game:
-
-1. Go to Multiplayer
-2. Click the `VIA` button in the top right corner
-3. Click `Enable client-side`
-4. Read the warning and click `Enable`
-5. Click `Done` and join your server
-
-When done playing the server, it is recommended to turn it off again:
-
-1. Click the `VIA` button in the top right corner
-2. Click `Disable client-side`
-3. Click `Done` 
+Alright, please [send them this link](server-setup.md#how-to-protect-your-users) to let them know they don't have to stay on 1.19 just to disable chat reporting.
 
 ### Why not stay on 1.18.2?
 
@@ -235,6 +264,7 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 5. Join any world or server
 6. Click your chat key, default `T`
 7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
+   * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
 
 ## Other questions
 
@@ -264,7 +294,7 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 
 ### Does Bedrock Edition also have chat reporting?
 
-[Unfortunately, yes.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+[Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
 
 ### I have more questions.
 
