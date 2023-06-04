@@ -2,7 +2,9 @@
 
 Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly the same on **every server that allows vanilla clients**. 
 
-The CurseForge listing has a section of "server packs", but [those are actually just the MultiMC versions](install-instructions.md#multimc) that are marked as server packs for better visibility.
+The CurseForge listing has a section of "server packs", but [those are actually just the legacy MultiMC versions](vanilla-launcher-faq.md#what-is-the-multimc-zip) that are marked as server packs for better visibility.
+
+**Disclaimer: all content on this page are just suggestions. If you need any help with server setup, please ask in the respective mod or platform support site.**
 
 ## Tips
 
