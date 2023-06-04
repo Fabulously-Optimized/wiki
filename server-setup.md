@@ -82,7 +82,7 @@ P.S. Before continuing, [make sure you have disabled chat reporting](#chat-repor
 * **ViaBackwards** lets users join with an _older_ client version. For example, if your server is using 1.19.4, users can join with 1.19.3 and older.
   * By default, ViaBackwards allows users to join from Minecraft 1.8 up to your server's Minecraft version. This can be filtered in the ViaVersion configuration file.
   * Any new blocks, items and entities will be shown as older types with equivalent properties (like mobs of similar size or blocks of similar breaking speed). Users with newer clients will see them as normal.
-  * Download for: [Paper/Spigot/Purpur/Velocity/Waterfall](https://hangar.papermc.io/ViaVersion/ViaBackwards)
+  * Download for: [Paper/Spigot/Purpur/Fabric/Quilt/Velocity/Waterfall](https://hangar.papermc.io/ViaVersion/ViaBackwards)
 
 Depending on your server, you can choose to use only ViaVersion or both. If your server is hub-based, it is recommended to install the plugin(s) to each backend server and _not_ the proxy itself.
 
