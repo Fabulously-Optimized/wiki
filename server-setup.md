@@ -72,19 +72,21 @@ _This section is also reposted to [No Chat Reports wiki](https://github.com/Aizi
 
 Ever wondered, how some servers are able to update the same day a new Minecraft version is released? Chances are, they are using a plugin that enables this without having to change the server version (yet).
 
-**ViaVersion** and **ViaBackwards** are plugins that transform the network packets to let users join your server with a different client version. This is especially welcome for users who mod their client, such as Fabulously Optimized users, as not every mod is updated as soon as the new version of Minecraft is released, so users may be inclined to use outdated clients for a bit longer.
+**ViaVersion** and **ViaBackwards** are plugins that transform the network packets to let users join your server with a different client version. This is especially welcome for users who mod their client, such as Fabulously Optimized users, as not every mod is updated as soon as the new version of Minecraft is released, so users may be inclined to use outdated clients for a bit longer. 
+
+P.S. Before continuing, [make sure you have disabled chat reporting](#chat-reporting), otherwise the plugins cannot work.
 
 * **ViaVersion** lets users join with a _newer_ client version. For example, if your server is still using 1.19.2, this will let users join with 1.19.3 and later.
    * By default, ViaVersion allows users to join from your server's Minecraft version up to the latest stable Minecraft version. This is configurable in the config file.
-   * Download for: [Paper/Spigot/Purpur/Waterfall/Velocity](https://hangar.papermc.io/ViaVersion/ViaVersion) | [Fabric/Quilt](https://www.curseforge.com/minecraft/mc-mods/viafabric/) 
+   * Download for: [Paper/Spigot/Purpur/Waterfall/Velocity](https://hangar.papermc.io/ViaVersion/ViaVersion) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viafabric/) 
 * **ViaBackwards** lets users join with an _older_ client version. For example, if your server is using 1.19.4, users can join with 1.19.3 and older.
   * By default, ViaBackwards allows users to join from Minecraft 1.8 up to your server's Minecraft version. This is configurable in the config file.
   * Any new blocks, items and entities will be shown as older types with equivalent properties (like mobs of similar size or blocks of similar breaking speed). Users with newer clients will see them as normal.
-  * Download for: [Paper/Spigot/Purpur/Waterfall/Velocity](https://hangar.papermc.io/ViaVersion/ViaBackwards) | [Fabric/Quilt](https://www.curseforge.com/minecraft/mc-mods/viabackwards)
+  * Download for: [Paper/Spigot/Purpur/Waterfall/Velocity](https://hangar.papermc.io/ViaVersion/ViaBackwards) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viabackwards)
 
 Depending on your server, you can choose to use only ViaVersion or both. If your server has a hub, make sure to install it on there as well.
 
-_P.S. Yes, the Fabric/Quilt versions work even in the client. This is usually not advised though, as different servers' anticheats may not like it. It is always safer to use these in the server itself._
+_* Fabric/Quilt versions can also work in the client, though this is not advised due to potential conflicts with anticheats. It is recommended to keep it on the server only. Quilt support is untested for both server and client._
 
 ### Mods in rules
 
