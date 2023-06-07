@@ -1,6 +1,6 @@
 # Português (Brasil)
 
-Um modpack de Minecraft feito com o Fabric, voltado para desempenho e melhorias gráficas.
+Um modpack de Minecraft feito com o Fabric, voltado para desempenho e otimização gráfica.
 
 [![Análise atual](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
@@ -14,27 +14,27 @@ O Fabulously Optimized [oferece quase todas as funcionalidades do OptiFine][2], 
 
 ### Pequenos ajustes
 
-O Fabulously Optimized [inclui pequenos menores][4] que não interferem com o estilo padrão, como o histórico estendido do chat, modo de tela inteira com janela, correção de erros comuns e ferramentas para investigar falhas.
+O Fabulously Optimized [inclui pequenos ajustes][4] que não interferem com o estilo padrão, como o histórico de chat expandido, modo de tela inteira com janela, correção de erros comuns e ferramentas para investigar erros.
 
 ### Funciona sempre
 
-O Fabulously Optimized não contém mods de conteúdo, funciona em qualquer mundo ou servidor. O modpack [pode ser jogado em 4 launchers, está hospedado em 3 sites][6] e [está traduzido em muitos idiomas][7].
+O Fabulously Optimized não contém mods de conteúdo, ou seja, funciona em qualquer mundo ou servidor. O modpack [pode ser jogado em 4 launchers, está hospedado em 3 sites][6] e [está traduzido em muitos idiomas][7].
 
 ### Atualizado
 
-O Fabulously Optimized [é atualizado rapidamente][5] e é um dos primeiros modpacks a ser atualizado para novas versões do Minecraft Java.
+O Fabulously Optimized [é atualizado rapidamente][5], um dos primeiros modpacks a ser atualizado para novas versões do Minecraft Java.
 
 ### Feito com o Fabric
 
-Comparado com o Forge, o Fabric é leve, avançado e compatível com uma ampla gama de mods.
+O Fabric é leve, avançado e compatível com uma ampla gama de mods.
 
 ### Desenvolvimento aberto
 
-O Fabulously Optimized [está em código-aberto][8] e o mesmo se aplica aos mods. Agradecemos a sugestão dos usuários e colaboramos com desenvolvedores para proporcionar a melhor experiência a todos.
+O Fabulously Optimized [está em código-aberto][8] e o mesmo se aplica aos mods. Agradeço a sugestão dos usuários e colaboro com desenvolvedores para proporcionar a melhor experiência a todos.
 
 ### Comunidade prestativa
 
-A nossa comunidade em crescimento está repleta de jogadores que debatem e ajudam uns aos outros. [Seja bem-vindo!][10]
+A nossa comunidade em crescimento está repleta de jogadores que debatem e ajudam uns aos outros. [Faça parte também!][10]
 
 ## Dúvidas
 
@@ -55,14 +55,14 @@ A nossa comunidade em crescimento está repleta de jogadores que debatem e ajuda
 
 > **P**: Gostei, como posso contribuir?
 > 
-> **R**: [Formas de contribuir são descritas aqui.][16] Obrigado!
+> **R**: [Veja como contribuir aqui.][16] Obrigado!
 
 
 > **P**: Preciso do modpack no servidor?
 > 
 > **R**: Não, o modpack funciona em todos os servidores que permitem clientes padrão. [A resposta detalhada e dicas para configurar servidores estão aqui.][13]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Caso precise de uma hospedagem, clique aqui — 25% OFF no primeiro mês!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Caso queira uma hospedagem, clique aqui — 25% OFF no primeiro mês!][14]
 
 
 > **P**: Tenho mais perguntas!
