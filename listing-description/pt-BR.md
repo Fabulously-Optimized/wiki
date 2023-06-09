@@ -16,7 +16,7 @@ O Fabulously Optimized [oferece quase todas as funcionalidades do OptiFine][2], 
 
 O Fabulously Optimized [inclui pequenos ajustes][4] que não interferem com o estilo padrão, como o histórico de chat expandido, modo de tela inteira com janela, correção de erros comuns e ferramentas para investigar erros.
 
-### Funciona sempre
+### Funciona sempre, em todo lugar
 
 O Fabulously Optimized não contém mods de conteúdo, ou seja, funciona em qualquer mundo ou servidor. O modpack [pode ser jogado em 4 launchers, está hospedado em 3 sites][6] e [está traduzido em muitos idiomas][7].
 
@@ -26,7 +26,7 @@ O Fabulously Optimized [é atualizado rapidamente][5], um dos primeiros modpacks
 
 ### Feito com o Fabric
 
-O Fabric é leve, avançado e compatível com uma ampla gama de mods.
+Comparado com o Forge, o Fabric é leve, avançado e compatível com uma ampla gama de mods.
 
 ### Desenvolvimento aberto
 
