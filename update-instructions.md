@@ -104,7 +104,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
-4. **For 4.8.0+**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+4. **For 4.8.0-4.x.x**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
