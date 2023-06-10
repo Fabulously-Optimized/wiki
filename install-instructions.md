@@ -97,7 +97,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.21**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-2. **For 4.8.0+**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+2. **For 4.8.0-4.x.x**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
 3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 5. Click the topmost version, scroll down to "Additional files" section
