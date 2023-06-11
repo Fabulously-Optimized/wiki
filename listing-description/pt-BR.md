@@ -8,7 +8,7 @@ Um modpack de Minecraft feito com o Fabric, voltado para otimização gráfica e
 
 O Fabulously Optimized é mais otimizado do que o OptiFine devido a uma série de [mods de desempenho modernos][1] como o Sodium e o Lithium.
 
-### Semelhanças com o OptiFine
+### Igual ao OptiFine
 
 O Fabulously Optimized [oferece quase todas as funcionalidades do OptiFine][2], incluindo shaders, texturas conectadas e zoom. [Você pode até conseguir uma capa gratuita!][3]
 
