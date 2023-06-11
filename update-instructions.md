@@ -111,7 +111,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
    * If you see 0-5 mods in the zip, you downloaded the wrong version.  
 8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
-10. **For 4.8.0+**: Copy downloaded Sodium JAR to _mods_ folder
+10. **For 4.8.0-4.x.x**: Copy downloaded Sodium JAR to _mods_ folder
 11. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 12. Launch the installed Fabric profile
 13. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
