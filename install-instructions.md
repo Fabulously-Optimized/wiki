@@ -195,7 +195,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 _Not to be confused with [ATLauncher](#atlauncher)._
 
 [TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so it obviously will not be supported by Fabulously Optimized.
-It is highly recommended to [reset your entire computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/), then come back to this page for install instructions.
+It is highly recommended to [reset your entire computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/), then come back to this page and follow install instructions for any supported launcher.
 
 ### Cracked launchers
 
