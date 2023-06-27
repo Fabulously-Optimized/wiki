@@ -151,11 +151,13 @@ Pojav Launcher is not yet supported due to drawbacks (long installation process,
 
 ### ATLauncher
 
+_Not to be confused with [TLauncher](#tlauncher)._
+
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
 
 ### PolyMC
 
-**[PolyMC is not safe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+**[PolyMC is compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
 To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
@@ -187,6 +189,13 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
   6. Sign in to your accounts, configure Prism Launcher to your preferences
 
 </details>
+
+### TLauncher
+
+_Not to be confused with [ATLauncher](#atlauncher)._
+
+[TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so it obviously will not be supported by Fabulously Optimized.
+It is highly recommended to [reset your entire computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/), then come back to this page for install instructions.
 
 ### Cracked launchers
 
