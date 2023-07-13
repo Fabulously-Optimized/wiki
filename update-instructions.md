@@ -105,15 +105,15 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
 4. Download some mods manually as needed:
-   * **FO 4.8.0+**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
    * **FO 5.1.0+**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10)
+   * **FO 4.11.0**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
    * If you see less than 10 mods in the zip, you downloaded the wrong version.  
 8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
-10. **FO 4.8.0+**: Copy downloaded mod JAR(s) to _mods_ folder
+10. **FO 4.11.0+**: Copy downloaded mod JAR(s) to _mods_ folder
 11. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 12. Launch the installed Fabric profile
 13. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
