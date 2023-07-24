@@ -8,7 +8,7 @@ Um modpack de Minecraft feito com o Fabric, voltado para otimização gráfica e
 
 O Fabulously Optimized é mais otimizado do que o OptiFine devido a uma série de [mods de desempenho modernos][1] como o Sodium e o Lithium.
 
-### Semelhanças com o OptiFine
+### Igual ao OptiFine
 
 O Fabulously Optimized [oferece quase todas as funcionalidades do OptiFine][2], incluindo shaders, texturas conectadas e zoom. [Você pode até conseguir uma capa gratuita!][3]
 
@@ -18,7 +18,7 @@ O Fabulously Optimized [inclui pequenos ajustes][4] que não interferem com o es
 
 ### Funciona sempre, em todo lugar
 
-O Fabulously Optimized não contém mods de conteúdo, ou seja, funciona em qualquer mundo ou servidor. O modpack [pode ser jogado em quatro launchers, está hospedado em três sites][6] e [está traduzido em muitos idiomas][7].
+O Fabulously Optimized não contém mods de conteúdo, ou seja, funciona em qualquer mundo ou servidor. O modpack [pode ser jogado em quatro launchers, está hospedado em três sites][6] e [traduzido em muitos idiomas][7].
 
 ### Atualizado
 
@@ -36,11 +36,11 @@ O Fabulously Optimized [está em código-aberto][8] e com a maioria dos mods é 
 
 A nossa comunidade em crescimento está repleta de jogadores que debatem e ajudam uns aos outros. [Faça parte também!][10]
 
-## Dúvidas
+## Perguntas frequentes
 
 > **P**: Como instalo, atualizo, adiciono mods ou faço outra coisa?
 > 
-> **R**: [A resposta está em nossa wiki.][11]
+> **R**: [Veja em nossa wiki.][11]
 
 
 > **P**: Algo não deu certo ou preciso adicionar outra coisa!
@@ -50,7 +50,7 @@ A nossa comunidade em crescimento está repleta de jogadores que debatem e ajuda
 
 > **P**: Quais são os mods?
 > 
-> **R**: Clique em qualquer versão e vá para baixo [ou veja a tabela comparativa][12].
+> **R**: Clique em qualquer versão e role para baixo [ou veja a tabela comparativa][12].
 
 
 > **P**: Gostei do modpack. Como posso ajudar?
@@ -65,11 +65,11 @@ A nossa comunidade em crescimento está repleta de jogadores que debatem e ajuda
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Caso queira uma hospedagem, clique aqui — 25% de desconto no primeiro mês!][14]
 
 
-> **P**: Tenho mais perguntas!
+> **P**: Quero saber mais!
 > 
 > **R**: [Fale conosco no Discord!][10]
 
-### Ao usar o modpack, [você concorda com os termos (em inglês)][15].
+### Ao usar o modpack, [você concorda com os termos][15].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
