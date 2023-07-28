@@ -102,20 +102,22 @@ If there is a new Minecraft version:
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.21**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
-4. **For 4.8.0-4.9.x**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+4. Download some mods manually as needed:
+   * **FO 5.1.0+**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10)
+   * **FO 4.11.0**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you see 0-5 mods in the zip, you downloaded the wrong version.  
+   * If you see less than 10 mods in the zip, you downloaded the wrong version.  
 8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
-10. **For 4.8.0-4.9.x**: Copy downloaded Sodium JAR to _mods_ folder
+10. **FO 4.11.0+**: Copy downloaded mod JAR(s) to _mods_ folder
 11. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 12. Launch the installed Fabric profile
 13. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
