@@ -46,6 +46,7 @@ Fabulously Optimized enables relevant mod-provided resource packs and bundles so
 - [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
 - [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
 - [Fast Better Grass](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) - imitates OptiFine's "Better Grass" (fast mode)
+- [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
 
 The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will _not_ change the look of your blocks, items, menus etc.
 
