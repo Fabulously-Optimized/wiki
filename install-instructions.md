@@ -138,8 +138,8 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 2. [Download Files](https://play.google.com/store/apps/details?id=com.marc.files)
    * This is a shortcut to your system's file manager. Other file managers may need root to follow these instructions.
 3. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
-4. [Download CurseForge GUI installer](https://github.com/Madis0/CurseForge-GUI/releases/download/694de8b/CurseForge-GUI-1.0-SNAPSHOT.jar)
-5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4)
+4. [Download CurseForge GUI installer](https://github.com/PojavLauncherTeam/CurseForge-GUI/releases/download/1.0.0/CurseForge-GUI-1.0-SNAPSHOT.jar)
+5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4) | [1.20.1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.20.1)
    * This optimizes the modpack for mobile users.
 6. Run Pojav Launcher
 7. Tap `Add account` → `Microsoft account` and sign in
@@ -152,7 +152,8 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 12. Tap `Install .jar` → select `CurseForge-GUI-1.0-SNAPSHOT.jar`. You'll see a different kind of installer with some logs.
 13. Tap `❌` to close the logs, then `Install modpack` → `KEYBOARD`
 14. Enter the following code, according to the version you prefer. The keyboard may cover your screen, but try to get it right regardless.
-    * **Latest for 1.19.4**: enter `396246`.
+    * **Latest for 1.20.1**: enter `396246`.
+    * **4.11.0 for 1.19.4**: enter `396246_4637271`.
     * **3.14.1 for 1.18.2**: enter `396246_3983420`.
     * **2.7.3 for 1.17.1**: enter `396246_3667614`.
     * **1.12.3 for 1.16.5**: enter `396246_3667608`.
