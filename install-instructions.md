@@ -2,7 +2,7 @@
 
 Here are the instructions to install Fabulously Optimized to various launchers.
 
-Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
+Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
 
 ## Supported
 
@@ -49,8 +49,8 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 12. Click `OK`
 13. The modpack will now install.
 14. Once installed, double-tap the icon and wait.
-15. Tap `Options...` → `Controls...` → `🎮`
-16. Set `Mode: Controller`, then `Done` → `Done` → `Done`
+15. Tap `Options...` → `Controls...` → `Controller Settings...`
+16. Select a controller, then `Done` → `Done` → `Done`
 17. The game is now set up and you can just launch it from your game library from now on. 
 18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
@@ -152,11 +152,13 @@ Pojav Launcher is not yet supported due to drawbacks (long installation process,
 
 ### ATLauncher
 
+_Not to be confused with [TLauncher](#tlauncher)._
+
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
 
 ### PolyMC
 
-**[PolyMC is not safe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+**[PolyMC is compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
 To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
@@ -188,6 +190,13 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
   6. Sign in to your accounts, configure Prism Launcher to your preferences
 
 </details>
+
+### TLauncher
+
+_Not to be confused with [ATLauncher](#atlauncher)._
+
+[TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so it will never be supported by Fabulously Optimized.
+It is highly recommended to [reset your entire computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/), then come back to this page and follow install instructions for any supported launcher.
 
 ### Cracked launchers
 
