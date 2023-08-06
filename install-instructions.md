@@ -138,38 +138,21 @@ Fabulously Optimized can indeed be run on a mobile device! Be aware:
 2. [Download Files](https://play.google.com/store/apps/details?id=com.marc.files)
    * This is a shortcut to your system's file manager. Other file managers may need root to follow these instructions.
 3. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
-4. [Download CurseForge GUI installer](https://github.com/PojavLauncherTeam/CurseForge-GUI/releases/download/1.0.0/CurseForge-GUI-1.0-SNAPSHOT.jar)
-5. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4) | [1.20.1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.20.1)
-   * This optimizes the modpack for mobile users.
-6. Run Pojav Launcher
-7. Tap `Add account` → `Microsoft account` and sign in
-8. Tap `(Default) - Unknown` → `Create new profile` → `SAVE`
-9. Tap `Play`. Wait for it to fully load to the title screen, then exit the game.
+4. [Create a Pojav-patched version of FO zip](https://fabulously-optimized.github.io/pojav-patcher/)
+   * This can be done on a computer or mobile, up to you.
+5. Run Pojav Launcher
+6. Tap `Add account` → `Microsoft account` and sign in
+7. Tap `(Default) - Unknown` → `Create new profile` → `SAVE`
+8. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
+9. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
+10. Close Pojav and open Files.
+11. Tap `☰` → `Downloads` → `Fabulously Optimized-x.x.x-pojav.zip`
+12. Hold down on `config` folder and tap on all items, then tap `⋮` → `Extract to...`
+13. Tap `☰` → `PojavLauncher` → `.minecraft`
+14. Launch Pojav, tap `New - Latest Release` → `fabric-loader-...` → `Play`.
+15. Fabulously Optimized should now be running! 
     * If you get a RAM warning ("The current amount of..."), tap `OK` for now. It usually means you just need to close background apps for better performance.
-    * If you get a black screen: quit the game, go back to Pojav → `🎛️` → `Video and renderer` → `Renderer` → (choose any) → ⬅️ → ⬅️ → try playing again
-10. Launch Pojav again, tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
-11. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
-12. Tap `Install .jar` → select `CurseForge-GUI-1.0-SNAPSHOT.jar`. You'll see a different kind of installer with some logs.
-13. Tap `❌` to close the logs, then `Install modpack` → `KEYBOARD`
-14. Enter the following code, according to the version you prefer. The keyboard may cover your screen, but try to get it right regardless.
-    * **Latest for 1.20.1**: enter `396246`.
-    * **4.11.0 for 1.19.4**: enter `396246_4637271`.
-    * **3.14.1 for 1.18.2**: enter `396246_3983420`.
-    * **2.7.3 for 1.17.1**: enter `396246_3667614`.
-    * **1.12.3 for 1.16.5**: enter `396246_3667608`.
-15. Press Enter on the keyboard and wait for the install to complete. Once installed, press `OK` → `⛝`
-    * If you failed to enter the correct code, just close and try again from step 12.
-16. Close Pojav and open Files.
-17. Tap `☰` → `Downloads` → `(Minecraft version).zip` or `DownGit.zip` → `(Minecraft version)`
-18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
-19. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `EXTRACT`
-20. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config (2)`
-21. Hold on any file and select the other one
-21. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config`
-22. Press `fabulously-optimized_396246` on the "address bar"
-23. Hold down on `config (2)` → tap `🗑️` → `OK`
-24. Launch Pojav, tap `New - Latest Release` → `Fabulously Optimized - ...` → `Play`.
-25. Fabulously Optimized should now be running! 
+    * If you get a black screen for too long: quit the game, go back to Pojav → `🎛️` → `Video and renderer` → `Renderer` → (choose any) → ⬅️ → ⬅️ → try playing again
 
 </details>
 

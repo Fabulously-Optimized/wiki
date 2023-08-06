@@ -122,31 +122,19 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
 1. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
 2. [Download CurseForge GUI installer](https://github.com/PojavLauncherTeam/CurseForge-GUI/releases/download/1.0.0/CurseForge-GUI-1.0-SNAPSHOT.jar)
-3. Download Fabulously Optimized patches for Pojav Launcher: [1.19.4](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.19.4) | [1.20.1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Fabulously-Optimized/fabulously-optimized/tree/pojav/PojavLauncher/1.20.1)
+3. [Create a Pojav-patched version of FO zip](https://fabulously-optimized.github.io/pojav-patcher/)
 4. Run Pojav Launcher
 5. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
-11. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
-12. Tap `Install .jar` → select `CurseForge-GUI-1.0-SNAPSHOT.jar`. You'll see a different kind of installer with some logs.
-13. Tap `❌` to close the logs, then `Install modpack` → `KEYBOARD`
-14. Enter the following code, according to the version you prefer. The keyboard may cover your screen, but try to get it right regardless.
-    * **Latest for 1.20.1**: enter `396246`.
-    * **4.11.0 for 1.19.4**: enter `396246_4637271`.
-    * **3.14.1 for 1.18.2**: enter `396246_3983420`.
-    * **2.7.3 for 1.17.1**: enter `396246_3667614`.
-    * **1.12.3 for 1.16.5**: enter `396246_3667608`.
-15. Press Enter on the keyboard and wait for the install to complete. Once installed, press `OK` → `⛝`
-    * If you failed to enter the correct code, just close and try again from step 12.
-16. Close Pojav and open Files.
-17. Tap `☰` → `Downloads` → `(Minecraft version).zip` or `DownGit.zip` → `(Minecraft version)`
-18. Hold down on `config` folder and tap on both items, then tap `⋮` → `Extract to...`
-19. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `EXTRACT`
-20. Tap `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config (2)`
-21. Hold on any file and select the other one
-21. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `curseforge-cli` → `modpack` → `fabulously-optimized_396246` → `config`
-22. Press `fabulously-optimized_396246` on the "address bar"
-23. Hold down on `config (2)` → tap `🗑️` → `OK`
-24. Launch Pojav, tap `New - Latest Release` → `Fabulously Optimized - ...` → `Play`.
-25. Fabulously Optimized should now be running! 
+6. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
+7. Close Pojav and open Files.
+8. Tap `☰` → `PojavLauncher` → `.minecraft`
+9. Hold down on `mods` folder, then tap `⋮` → `Delete`
+  * You might want to do it selectively for configs and resource packs as well, because copying new ones over will duplicate them instead of replacing them
+10. Tap `☰` → `Downloads` → `Fabulously Optimized-x.x.x-pojav.zip`
+11. Hold down on `mods`, then tap `⋮` → `Extract to...`
+12. Tap `☰` → `PojavLauncher` → `.minecraft`
+13. Launch Pojav, tap `New - Latest Release` → `fabric-loader-...` → `Play`.
+14. Fabulously Optimized should now be running!
 
 ### GDLauncher
 
