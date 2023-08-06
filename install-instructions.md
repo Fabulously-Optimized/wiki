@@ -22,19 +22,15 @@ Or with the launcher already open:
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
-### [Modrinth App](https://github.com/modrinth/theseus)
+### [Modrinth App](https://modrinth.com/app)
 
-1. Install Java [following these instructions](https://prismlauncher.org/wiki/getting-started/installing-java/).
-2. On the Modrinth App, click the `⚙️ Settings` button on the bottom left.
-3. Scroll down to `Java 17 location`.
-4. There, click the `🔍 Auto detect` button.
-5. Then, click `+ Select` on the first option you see.
-6. Now, click the `🏠 Home` button on the top left.
-7. Under the "Popular packs" category, hover on top of "Fabulously Optimized"
-8. Click the green ⬇️ button.
-9. The modpack will now install.
-10. Once installed 100%, hover on top of now installed "Fabulously Optimized" instance under "Jump back in"
-11. Click the green ▶️ button to play.
+You need [Java 17 or higher](https://adoptium.net/) to play the game.
+
+1. Under the "Popular packs" category, hover on top of "Fabulously Optimized"
+2. Click the green ⬇️ button.
+3. The modpack will now install.
+4. Once installed 100%, hover on top of now installed "Fabulously Optimized" instance under "Jump back in"
+5. Click the green ▶️ button to play.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 

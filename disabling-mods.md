@@ -28,8 +28,13 @@ Notes:
 ### Modrinth App
 
 1. Open Modrinth App
-2. Click on Fabulously Optimized
-3. Find the mod you need, switch the toggle.
+2. Right click on Fabulously Optimized -> `📂 Open folder`
+3. Click `mods`
+4. Rename the specific mod from "modname.jar" to "modname.jar.disabled"
+   * Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
+   * Rename ".jar.disabled" back to ".jar" to use the mod again.
+
+**Note: disabled mods are still visible on the launcher's mod list. Updating the modpack will cause both the disabled and the enabled file to exist (and possibly show up in launcher's mod list).**
 
 ### Prism Launcher
 
