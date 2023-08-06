@@ -34,7 +34,7 @@ Notes:
    * Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
    * Rename ".jar.disabled" back to ".jar" to use the mod again.
 
-**Note: disabled mods are still visible on the launcher's mod list.**
+**Note: disabled mods are still visible on the launcher's mod list. Updating the modpack will cause both the disabled and the enabled file to exist (and possibly show up in launcher's mod list).**
 
 ### Prism Launcher
 
