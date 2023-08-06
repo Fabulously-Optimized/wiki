@@ -58,13 +58,14 @@ Method 2:
 
 ### Pojav Launcher (Android)
 
-1. Open [CurseForge mods page, set Game Version to Fabric](https://www.curseforge.com/minecraft/mc-mods?filter-game-version=2020709689:7499)
-2. Choose any mod you want and go to its _Files_ page
-3. Make sure you download the latest version that is compatible with Fabric and your Minecraft version
+1. Open [Modrinth, set Loader to Fabric](https://modrinth.com/mods?g=categories:%27fabric%27)
+2. Choose any mod you want and go to its _Versions_ page
+3. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version
 4. Once downloaded, open Files
 5. Tap `☰` → `Downloads` → hold down on any file → select the mod(s) you downloaded
 6. Tap `⋮` → `Move to...` → `☰` → `PojavLauncher` → `.minecraft` → `mods`
 7. Tap `MOVE` and run the game.
+
 ### GDLauncher
 
 No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
