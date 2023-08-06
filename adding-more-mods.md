@@ -32,7 +32,7 @@ Method 2:
 3. Click `🔍 Add Content`
 4. Search for the mod you want
 5. Click `⤓ Install`
-6. Go back to `🏠 Home` and run the game as usual. You should now have the new mod(s) installed!
+6. Go back to `🏠` and run the game as usual. You should now have the new mod(s) installed!
 
 ### Prism Launcher
 
