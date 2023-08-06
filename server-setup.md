@@ -2,12 +2,15 @@
 
 Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly the same on **every server that allows vanilla clients**. 
 
-The CurseForge listing has a section of "server packs", but [those are actually just the MultiMC versions](install-instructions.md#multimc) that are marked as server packs for better visibility.
+The CurseForge listing has a section of "server packs", but [those are actually just the legacy MultiMC versions](vanilla-launcher-faq.md#what-is-the-multimc-zip) that are marked as server packs for better visibility.
+
+**Disclaimer: all content on this page are just suggestions. If you need any help with server setup, please ask in the respective mod or platform support site.**
 
 ## Tips
 
 * [Use speedy server software](#software)
 * [Protect users from chat reporting](#chat-reporting)
+* [Give users flexibility with client version](#client-version-flexibility)
 * [Restrict mod behaviours, not names](#mods-in-rules)
 
 ### Software
@@ -62,8 +65,32 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
     - You obviously need to let other members of the server also know how to do that and what method/key will you be using. 
   - [There is a workaround datapack](https://www.planetminecraft.com/data-pack/no-more-chat-reports-datapack/) where you can use a book to chat, but you are only protected if you use it instead of normal chat text box.
   - Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) to avoid surveillance altogether (affiliate link - 25% off first month).
+- **LAN worlds**: host from Fabulously Optimized or install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on the client
+  - FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
+- **LAN-like worlds** ([e4mc](https://e4mc.link/) - in FO, [World Host](https://modrinth.com/mod/world-host), [Essential](https://essential.gg/) etc): host from Fabulously Optimized or install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on the client
+  - FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png) and their messages cannot be reported.
 
 _This section is also reposted to [No Chat Reports wiki](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players)._
+
+### Client version flexibility
+
+Ever wondered, how some servers are able to update the same day a new Minecraft version is released? Chances are, they are using a plugin that enables this without having to change the server version (yet).
+
+**ViaVersion** and **ViaBackwards** are plugins that transform the network packets to let users join your server with a different client version. This is especially welcome for users who mod their client, such as Fabulously Optimized users, as not every mod is updated as soon as the new version of Minecraft is released, so users may be inclined to use outdated clients for a bit longer. 
+
+P.S. Before continuing, [make sure you have disabled chat reporting](#chat-reporting), otherwise the plugins cannot work.
+
+* **ViaVersion** lets users join with a _newer_ client version. For example, if your server is still using 1.19.2, this will let users join with 1.19.3 and later.
+   * By default, ViaVersion allows users to join from your server's Minecraft version up to the latest stable Minecraft version. This can be filtered in the ViaVersion configuration file.
+   * Download for: [Paper/Spigot/Purpur/Velocity/Waterfall](https://hangar.papermc.io/ViaVersion/ViaVersion) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viafabric) 
+* **ViaBackwards** lets users join with an _older_ client version. For example, if your server is using 1.19.4, users can join with 1.19.3 and older.
+  * By default, ViaBackwards allows users to join from Minecraft 1.8 up to your server's Minecraft version. This can be filtered in the ViaVersion configuration file.
+  * Any new blocks, items and entities will be shown as older types with equivalent properties (like mobs of similar size or blocks of similar breaking speed). Users with newer clients will see them as normal.
+  * Download for: [Paper/Spigot/Purpur/Velocity/Waterfall](https://hangar.papermc.io/ViaVersion/ViaBackwards) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viabackwards)
+
+Depending on your server, you can choose to use only ViaVersion or both. If your server is hub-based, it is recommended to install the plugin(s) to each backend server and _not_ the proxy itself.
+
+_* Fabric/Quilt versions can also work in the client, though this is not advised due to potential conflicts with anticheats. It is recommended to keep it on the server only. Quilt support is untested for both server and client._
 
 ### Mods in rules
 
