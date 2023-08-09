@@ -33,7 +33,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
-### [Steam Deck](https://www.steamdeck.com/) + Prism Launcher {#steam-deck}
+### [Steam Deck](https://www.steamdeck.com/) + Prism Launcher
 
 1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
 2. From the taskbar, select 👜 "Discover".
