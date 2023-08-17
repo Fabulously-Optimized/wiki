@@ -305,10 +305,10 @@ Indeed, 1.20.2 made those also possible to report from in-game [(while it was po
 
 They do make a lot more sense than chat reporting, as they're public pieces of data that may affect you when you play with someone, and some servers are known to ban for offensive usernames/skins already. But since that reporting is now easier and more commonplace to do, be wary of:
 
-- changing skins/usernames temporarily as a joke
+- changing skins/usernames temporarily as a joke not everyone may understand
 - cultural and language differences that may seem offensive to some
-- ensure the name/skin is actually what it seems, some servers have nicknames or skin changers
-- ensure that you and the player is not using cosmetic mods that may change the appearance (e.g. FO has custom capes)
+- when reporting, ensure the name/skin is actually what it seems, some servers have nicknames or skin changers
+- when reporting, ensure that you and the player is not using cosmetic mods that may change the appearance (e.g. FO has custom capes)
 
 ### I have more questions.
 
