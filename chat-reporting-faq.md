@@ -1,5 +1,7 @@
 # Chat Reporting FAQ
 
+[1.20.2 added username and skin reporting.](#what-about-username-and-skin-reporting)
+
 ## About the system
 
 ### What is chat reporting?
