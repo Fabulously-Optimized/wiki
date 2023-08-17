@@ -45,7 +45,7 @@ Because the current implementation of it is vaguely described, unsustainable and
 
 * **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like world politics, alcohol and drugs freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
-* **Categories are vague** - for example, take the rule "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? Are they just going to assume it is a lie and ban them? At that point players can not even say who they are because they can get punished either way.
+* **Categories are vague** - for example, take the reason "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? As of 1.20.2, that reason was removed but instead an even more generic "I want to report them" reason was added.
 
 * **Ban reasons and appeals are vague** - [while there is a way to appeal](#is-there-a-way-to-appeal-the-ban), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban is an unjust ban. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
 
@@ -97,6 +97,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
 - **1.20.2** snapshot [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages.
+   - [23w33a](https://minecraft.fandom.com/wiki/Java_Edition_23w33a) added skin and username reporting, removed "impersonation" as a report category and added "generic" report category.
 
 ### Can I be banned without anyone reporting me?
 
@@ -295,6 +296,17 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 ### Does Bedrock Edition also have chat reporting?
 
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+
+### What about username and skin reporting?
+
+Indeed, 1.20.2 made those also possible to report from in-game [(while it was possible to do that online already)](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565).
+
+They do make a lot more sense than chat reporting, as they're public pieces of data that may affect you when you play with someone, and some servers are known to ban for offensive usernames/skins already. But since that reporting is now easier and more commonplace to do, be wary of:
+
+- changing skins/usernames temporarily as a joke
+- cultural and language differences that may seem offensive to some
+- ensure the name/skin is actually what it seems, some servers have nicknames or skin changers
+- ensure that you and the player is not using cosmetic mods that may change the appearance (e.g. FO has custom capes)
 
 ### I have more questions.
 
