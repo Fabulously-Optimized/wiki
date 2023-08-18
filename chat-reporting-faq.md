@@ -293,7 +293,7 @@ Almost, by changing one pixel or letter. But if you get caught, multiple strikes
 
 ### Can reports/bans be prevented server-side?
 
-Yes, servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show original name/skin). Do your own research for the plugins.
+Yes. Servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show the original name/skin). Do your own research for the plugins.
 
 ### Can reports/bans be prevented client-side?
 
