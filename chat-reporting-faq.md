@@ -119,6 +119,10 @@ Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www
 
 If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) as well.
 
+### What if I'm permanently banned?
+
+Then you can only play singleplayer, not even LAN-worlds.
+
 ### What should I do instead when someone breaks the rules?
 
 Do what you always did.
@@ -288,6 +292,19 @@ On the other hand,
 On online-mode servers, yes. 
 
 On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+
+### What happens when I'm punished?
+
+For the first few offenses, not much. 
+
+- If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
+- If your name was the offense, you will get unbanned from multiplayer as soon as you change your name.
+
+For repeated offenses, you may get a permanent ban from multiplayer.
+
+### Can I appeal a punishment?
+
+Yes, it is probably unlikely to get an username or skin "unlocked". Even if you manage to unlock it, you may eventually get punished again by a different report inspector, if reported again by someone. 
 
 ### Can I still use a banned skin/username?
 
