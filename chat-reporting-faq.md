@@ -279,7 +279,9 @@ As of 1.20.2, it is possible to report players' usernames and skins, besides cha
 
 ### Is it bad?
 
-Yes and no. Several servers already ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
+Yes and no. 
+
+Several servers already ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
 
 On the other hand,
 
