@@ -289,22 +289,22 @@ On the other hand,
 
 ### Are all users' skins/usernames reportable?
 
-On online-mode servers, yes. 
-
-On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
 
 ### What happens when I'm punished?
 
 For the first few offenses, not much. 
 
 - If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
-- If your name was the offense, you will get unbanned from multiplayer as soon as you change your name.
+- If your username was the offense, you will get unbanned from multiplayer as soon as you change your username.
 
 For repeated offenses, you may get a permanent ban from multiplayer.
 
 ### Can I appeal a punishment?
 
-Yes, it is probably unlikely to get an username or skin "unlocked". Even if you manage to unlock it, you may eventually get punished again by a different report inspector, if reported again by someone. 
+Yes, it is probably unlikely to get an username or skin "unlocked". 
+
+Even if you manage to unlock it, you may eventually get punished again by a different report inspector, if reported again by someone. [If you'd still like to try, here's how to do it.](#is-there-a-way-to-appeal-the-ban)
 
 ### Can I still use a banned skin/username?
 
