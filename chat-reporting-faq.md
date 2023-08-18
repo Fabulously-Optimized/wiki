@@ -300,7 +300,7 @@ For the first few offenses, not much.
 - If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
 - If your username was the offense, you will get unbanned from multiplayer as soon as you change your username.
 
-For repeated offenses, you may get a permanent ban from all multiplayer servers.
+If you have repeated offenses, you will get a permanent ban from all multiplayer servers.
 
 ### Can I appeal a punishment?
 
