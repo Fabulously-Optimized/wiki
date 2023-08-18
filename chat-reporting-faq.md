@@ -1,6 +1,6 @@
 # Unofficial FAQ for Minecraft's Player Reporting
 
-NEW: [1.20.2 added username and skin reporting.](#skin-and-username-reporting)
+⚠️ [1.20.2 will add username and skin reporting.](#skin-and-username-reporting)
 
 ## Chat reporting
 
@@ -275,7 +275,7 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 
 ### What is skin and username reporting?
 
-As of 1.20.2, it is possible to report players' usernames and skins, besides chat.
+As of 1.20.2, it is possible to report players' usernames and skins, besides chat. Therefore, the user can now click the report button on all players' names in Social Interactions, and must choose the category to report for - chat, username or skin.
 
 ### Is it bad?
 
