@@ -359,7 +359,7 @@ Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requ
 But it wasn't really an issue in the same way, because:
 
 - few people knew about it
-- chat was not verifiable to be said by the player, unmodified
+- chat messages were not verifiable to be sent by the username next to them
 - ban system itself did not exist (so it is unknown how the reports were dealt with)
 
 ### I have more questions.
