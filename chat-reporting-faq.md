@@ -285,7 +285,7 @@ On the other hand,
 
 - It limits user creativity and contextual jokes
 - Words that are offensive on one but not offensive on another language
-- Multiple strikes in your account accumulate to a ["ban from online play"](https://www.minecraft.net/en-us/article/minecraft-snapshot-23w33a) (unsure if that means a ban from the game as a whole)
+- Multiple strikes in your account accumulate to a ban from all multiplayer servers.
 
 ### Are all users' skins/usernames reportable?
 
@@ -298,7 +298,7 @@ For the first few offenses, not much.
 - If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
 - If your username was the offense, you will get unbanned from multiplayer as soon as you change your username.
 
-For repeated offenses, you may get a permanent ban from multiplayer.
+For repeated offenses, you may get a permanent ban from all multiplayer servers.
 
 ### Can I appeal a punishment?
 
