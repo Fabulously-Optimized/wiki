@@ -308,7 +308,7 @@ Yes, [you can do it with those instructions.](#is-there-a-way-to-appeal-the-ban)
 
 ### Can I still use a banned skin/username?
 
-Almost, by changing one pixel or letter. But if you get caught, multiple strikes _will_ lead to a ban.
+No. Circumventing the ban will likely get you caught again and with several strikes, you'll be banned from multiplayer permanently.
 
 ### Can reports/bans be prevented server-side?
 
