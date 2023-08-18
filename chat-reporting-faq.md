@@ -16,10 +16,15 @@ In Minecraft 1.19.1 and up, players can report other players' chat messages to M
 > 
 > [...]
 > 
-> 1. A player creates a chat report, selects the offending messages, category and details, and submits it 
+> 1. A player creates a chat report, selects the offending chat, name, or skin, a category and details, and submits it 
 > 2. The report is sent to our team of Minecraft Investigators
 > 3. A moderator reviews the report and the evidence and assigns an appropriate action (if any) 
-> 4. If action is taken, the offending player’s account is suspended from online play for some duration of time or in extreme cases permanently 
+> 4. If action is taken, a moderator can take one of the following actions:
+>    - Suspend the player from online play for some duration of time, or in extreme cases permanently
+>    - Remove the player’s skin and replace it with a default skin.
+>      - This action applies to any player using the same skin, and future players will not be able to select it.
+>    - Suspend the player from online play until they change their username.
+>      - No player will be allowed to use this name once it has been removed.
 
 ### Why was it implemented?
 
