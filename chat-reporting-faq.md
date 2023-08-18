@@ -285,7 +285,9 @@ On the other hand,
 
 ### Are all users' skins/usernames reportable?
 
-On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+On online-mode servers, yes. 
+
+On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
 
 ### Can I still use a banned skin/username?
 
@@ -293,11 +295,15 @@ Almost, by changing one pixel or letter. But if you get caught, multiple strikes
 
 ### Can reports/bans be prevented server-side?
 
-Yes. Servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show the original name/skin). Do your own research for the plugins.
+Yes. Servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show the original name/skin). 
+
+Do your own research for the plugins.
 
 ### Can reports/bans be prevented client-side?
 
-Almost. Clients could use custom cosmetic and title/pronoun mods, but other players _will_ need the same mods to see them. Do your own research for the mods.
+Almost. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. However, other players _will_ need the same mods to see them. 
+
+Do your own research for the mods.
 
 ## Other questions
 
