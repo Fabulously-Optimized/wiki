@@ -286,8 +286,8 @@ Several servers already ban users for offensive usernames and skins, so knowing 
 On the other hand,
 
 - It limits user creativity and contextual jokes
-- Words that are offensive on one but not offensive on another language
-- Multiple strikes in your account accumulate to a ban from all multiplayer servers.
+- Words that are offensive in English but not in a different language may still be punished
+- Multiple strikes on an account may accumulate to a ban from all multiplayer servers
 
 ### Are all users' skins/usernames reportable?
 
