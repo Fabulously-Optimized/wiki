@@ -308,7 +308,7 @@ Yes, [you can do it with those instructions.](#is-there-a-way-to-appeal-the-ban)
 
 ### Can I still use a banned skin/username?
 
-No. Circumventing the ban will likely get you caught again and with several strikes, you'll be banned from multiplayer permanently.
+No. Trying to circumvent the ban will likely get you caught again and with several strikes, you'll be banned from multiplayer permanently.
 
 ### Can reports/bans be prevented server-side?
 
@@ -318,9 +318,9 @@ Do your own research for the plugins.
 
 ### Can reports/bans be prevented client-side?
 
-Almost. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. However, other players _will_ need the same mods to see them. 
+Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
 
-Do your own research for the mods.
+However, other players _will_ need the same mods to see them, and such mods probably have certain rules/reporting features of their own. Do your own research for the mods.
 
 ## Other questions
 
