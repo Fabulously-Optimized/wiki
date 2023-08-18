@@ -1,8 +1,8 @@
-# Chat Reporting FAQ
+# Unofficial FAQ for Minecraft's Player Reporting
 
-[1.20.2 added username and skin reporting.](#what-about-username-and-skin-reporting)
+NEW: [1.20.2 added username and skin reporting.](#what-about-username-and-skin-reporting)
 
-## About the system
+## Chat reporting
 
 ### What is chat reporting?
 
@@ -248,11 +248,9 @@ Alright, please [send them this link](server-setup.md#how-to-protect-your-users)
 
 It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
 
-### Can I use exploits to break the system/avoid getting reported?
+### Can I break the system/avoid getting reported?
 
-No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
-
-Fabulously Optimized will not include or endorse any exploits.
+It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
 
 ### Can I encrypt my chat messages?
 
@@ -268,6 +266,39 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 6. Click your chat key, default `T`
 7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
    * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
+
+## Skin and username reporting
+
+### What is skin and username reporting?
+
+As of 1.20.2, it is possible to report players' usernames and skins, besides chat.
+
+### Is it bad?
+
+Yes and no. Several servers already ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
+
+On the other hand,
+
+- It limits user creativity and contextual jokes
+- Words that are offensive on one but not offensive on another language
+- Multiple strikes in your account accumulate to a ["ban from online play"](https://www.minecraft.net/en-us/article/minecraft-snapshot-23w33a) (unsure if that means a ban from the game as a whole)
+
+### Are all users' skins/usernames reportable?
+
+On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+
+### Can I still use a banned skin/username?
+
+Almost, by changing one pixel or letter. But if you get caught, multiple strikes _will_ lead to a ban.
+
+### Can reports/bans be prevented altogether?
+
+Yes. 
+
+- Servers could use nickname or skin changing plugins, which everyone will see but cannot report. 
+- Clients could use custom cosmetic and title/pronoun mods, but other players will need the same mods to see them. 
+
+Do your own research for the mods/plugins.
 
 ## Other questions
 
@@ -299,16 +330,15 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
 
-### What about username and skin reporting?
+### Was player reporting possible at all before 1.19.1?
 
-Indeed, 1.20.2 made those also possible to report from in-game [(while it was possible to do that online already)](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565).
+Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565), that still exists.
 
-They do make a lot more sense than chat reporting, as they're public pieces of data that may affect you when you play with someone, and some servers are known to ban for offensive usernames/skins already. But since that reporting is now easier and more commonplace to do, be wary of:
+But it wasn't really an issue in the same way, because:
 
-- changing skins/usernames temporarily as a joke not everyone may understand
-- cultural and language differences that may seem offensive to some
-- when reporting, ensure the name/skin is actually what it seems, some servers have nicknames or skin changers
-- when reporting, ensure that you and the player is not using cosmetic mods that may change the appearance (e.g. FO has custom capes)
+- few people knew about it
+- chat was not verifiable to be said by the player, unmodified
+- ban system itself did not exist (so it is unknown how the reports were dealt with)
 
 ### I have more questions.
 
