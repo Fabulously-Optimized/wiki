@@ -302,9 +302,7 @@ For repeated offenses, you may get a permanent ban from all multiplayer servers.
 
 ### Can I appeal a punishment?
 
-Yes, it is probably unlikely to get an username or skin "unlocked". 
-
-Even if you manage to unlock it, you may eventually get punished again by a different report inspector, if reported again by someone. [If you'd still like to try, here's how to do it.](#is-there-a-way-to-appeal-the-ban)
+Yes, [you can do it with those instructions.](#is-there-a-way-to-appeal-the-ban)
 
 ### Can I still use a banned skin/username?
 
