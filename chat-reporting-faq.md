@@ -1,6 +1,6 @@
 # Unofficial FAQ for Minecraft's Player Reporting
 
-NEW: [1.20.2 added username and skin reporting.](#what-about-username-and-skin-reporting)
+NEW: [1.20.2 added username and skin reporting.](#skin-and-username-reporting)
 
 ## Chat reporting
 
@@ -291,14 +291,13 @@ On online-mode servers, yes. On offline-mode servers, it is not certain yet - it
 
 Almost, by changing one pixel or letter. But if you get caught, multiple strikes _will_ lead to a ban.
 
-### Can reports/bans be prevented altogether?
+### Can reports/bans be prevented server-side?
 
-Yes. 
+Yes, servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show original name/skin). Do your own research for the plugins.
 
-- Servers could use nickname or skin changing plugins, which everyone will see but cannot report. 
-- Clients could use custom cosmetic and title/pronoun mods, but other players will need the same mods to see them. 
+### Can reports/bans be prevented client-side?
 
-Do your own research for the mods/plugins.
+Almost. Clients could use custom cosmetic and title/pronoun mods, but other players _will_ need the same mods to see them. Do your own research for the mods.
 
 ## Other questions
 
