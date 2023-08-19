@@ -62,7 +62,7 @@ Fabulously Optimized[是开源的][8]，它使用的大部分模组也是如此�
 > 
 > **答**：不，此模组包在任何允许原版客户端的服务器上工作。[这里有详细的回答和服务器设置提示。][13]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) 如果你需要一个主机，请点击这里 - 第一个月有25%的折扣！][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) 如果你需要一个服务器，请点击这里 - 第一个月有25%的折扣！][14]
 
 
 > **问**：我有更多的问题！
