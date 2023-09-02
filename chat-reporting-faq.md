@@ -188,11 +188,11 @@ Fabulously Optimized includes:
 In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
 - ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
-- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
-- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional and you opt out
-   - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
-- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - chat reporting is enabled for everyone
-- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
+- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - no chat messages can be reported to Mojang
+- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - most chat messages can be reported to Mojang, but the server does not prefer it and the playing user opts out
+   - In some cases, no messages can be reported but that is not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
+- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - all chat messages can be reported to Mojang
+- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](#does-mojang-monitor-my-chats)
 
 _(Expected different icons? Disable Chat Reporting Helper resource pack and [see No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))_
 
