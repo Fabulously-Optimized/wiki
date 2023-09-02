@@ -1,6 +1,8 @@
-# Chat Reporting FAQ
+# Unofficial FAQ for Minecraft's Player Reporting
 
-## About the system
+⚠️ [1.20.2 will add username and skin reporting.](#skin-and-username-reporting)
+
+## Chat reporting
 
 ### What is chat reporting?
 
@@ -14,10 +16,15 @@ In Minecraft 1.19.1 and up, players can report other players' chat messages to M
 > 
 > [...]
 > 
-> 1. A player creates a chat report, selects the offending messages, category and details, and submits it 
+> 1. A player creates a chat report, selects the offending chat, name, or skin, a category and details, and submits it 
 > 2. The report is sent to our team of Minecraft Investigators
 > 3. A moderator reviews the report and the evidence and assigns an appropriate action (if any) 
-> 4. If action is taken, the offending player’s account is suspended from online play for some duration of time or in extreme cases permanently 
+> 4. If action is taken, a moderator can take one of the following actions:
+>    - Suspend the player from online play for some duration of time, or in extreme cases permanently
+>    - Remove the player’s skin and replace it with a default skin.
+>      - This action applies to any player using the same skin, and future players will not be able to select it.
+>    - Suspend the player from online play until they change their username.
+>      - No player will be allowed to use this name once it has been removed.
 
 ### Why was it implemented?
 
@@ -27,7 +34,7 @@ In Minecraft 1.19.1 and up, players can report other players' chat messages to M
 
 ### Why is it controversial?
 
-Because the current implementation of it is vaguely described, unsustainable and unethical.
+Because the current implementation of it is vaguely described, unsustainable and unethical. _Note: remember that all points here are about **chat** reports, not [skin/username reports](#skin-and-username-reporting)._
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
@@ -45,13 +52,13 @@ Because the current implementation of it is vaguely described, unsustainable and
 
 * **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like world politics, alcohol and drugs freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
-* **Categories are vague** - for example, take the rule "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? Are they just going to assume it is a lie and ban them? At that point players can not even say who they are because they can get punished either way.
+* **Categories are vague** - for example, take the reason "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? As of 1.20.2, that reason was removed but instead an even more generic "I want to report them" reason was added.
 
 * **Ban reasons and appeals are vague** - [while there is a way to appeal](#is-there-a-way-to-appeal-the-ban), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban is an unjust ban. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
 
 * **Reports may not be sufficient** - in the case of most serious offenses (e.g. threatening, abuse, harassment), you should really feel that proper action is taken. With these reports, Mojang does not actually elaborate on [what their "appropriate actions" are](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition#h_01GD13PG9R60SYNDV88FKFSHRH). They may send a player suicide prevention info for example, but there is no guarantee Mojang will contact the police for you. [Do it yourself!](#what-should-i-do-instead-when-someone-breaks-the-rules)
 
-* **Servers can and do opt out** - most public servers, including Hypixel, have already opt out of the system. Obviously the system cannot work if servers opt out. This is another reason for the game to [add clear indication](#what-does-this-modpack-do-for-me) about whether a server enabled the system or not, instead of making players assume it is everywhere (or even nowhere).
+* **Servers can and do opt out** - most public servers, including Hypixel, have already opt out of the chat reporting system. Obviously the system cannot work if servers opt out. This is another reason for the game to [add clear indication](#what-does-this-modpack-do-for-me) about whether a server enabled the system or not, instead of making players assume it is everywhere (or even nowhere).
 
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
@@ -96,7 +103,8 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [22w43a](https://minecraft.fandom.com/wiki/Java_Edition_22w43a#General) introduced chat report drafts.
 - **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
-- _as of 1.20, no additional changes have been made_
+- **1.20.2** snapshot [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages.
+   - [23w33a](https://minecraft.fandom.com/wiki/Java_Edition_23w33a) added skin and username reporting, removed "impersonation" as a report category and added "generic" report category.
 
 ### Can I be banned without anyone reporting me?
 
@@ -115,6 +123,10 @@ Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www
 5. Wait patiently for their response
 
 If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) as well.
+
+### What if I'm permanently banned?
+
+Then you can only play singleplayer, not even LAN-worlds.
 
 ### What should I do instead when someone breaks the rules?
 
@@ -245,11 +257,9 @@ Alright, please [send them this link](server-setup.md#how-to-protect-your-users)
 
 It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
 
-### Can I use exploits to break the system/avoid getting reported?
+### Can I break the system/avoid getting reported?
 
-No, that makes you more likely to get banned. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in.
-
-Fabulously Optimized will not include or endorse any exploits.
+It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
 
 ### Can I encrypt my chat messages?
 
@@ -265,6 +275,57 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 6. Click your chat key, default `T`
 7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
    * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
+
+## Skin and username reporting
+
+### What is skin and username reporting?
+
+As of 1.20.2, it is possible to report players' usernames and skins, besides chat. Therefore, the user can now click the report button on all players' names in Social Interactions, and must choose the category to report for - chat, username or skin.
+
+### Is it bad?
+
+Yes and no. 
+
+Several servers already ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
+
+On the other hand,
+
+- It limits user creativity and contextual jokes
+- Words that are offensive in English but not in a different language may still be punished
+- Multiple strikes on an account may accumulate to a ban from all multiplayer servers
+
+### Are all users' skins/usernames reportable?
+
+On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+
+### What happens when I'm punished?
+
+For the first few offenses, not much. 
+
+- If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
+- If your username was the offense, you will get unbanned from multiplayer as soon as you change your username.
+
+If you have repeated offenses, you will get a permanent ban from all multiplayer servers.
+
+### Can I appeal a punishment?
+
+Yes, [you can do it with those instructions.](#is-there-a-way-to-appeal-the-ban)
+
+### Can I still use a banned skin/username?
+
+No. Trying to circumvent the ban will likely get you caught again and with several strikes, you'll be banned from multiplayer permanently.
+
+### Can reports/bans be prevented server-side?
+
+Yes. Servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show the original name/skin). 
+
+Do your own research for the plugins.
+
+### Can reports/bans be prevented client-side?
+
+Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
+
+However, other players _will_ need the same mods to see them, and such mods probably have certain rules/reporting features of their own. Do your own research for the mods.
 
 ## Other questions
 
@@ -295,6 +356,16 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 ### Does Bedrock Edition also have chat reporting?
 
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+
+### Was player reporting possible at all before 1.19.1?
+
+Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565), that still exists.
+
+But it wasn't really an issue in the same way, because:
+
+- few people knew about it
+- chat messages were not verifiable to be sent by the username next to them
+- ban system itself did not exist (so it is unknown how the reports were dealt with)
 
 ### I have more questions.
 

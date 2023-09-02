@@ -57,6 +57,9 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 * The phrases have very specific length requirements, so you must test them after translating [with the instructions below](#testing-tutorial).
    * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
    * [There is an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that helps you assume how long the string might be, but it is not 100% accurate.
+   * If you don't have a Full HD display, you can also emulate it in-game: `Options...` → `Video Settings...` → `Fullscreen Resolution: 1920x1080@60 (24 bit)` → `Fullscreen: 🔲` → `Apply` → `Done`
+     * If you get any issues, press `Shift` + `P` within the video settings, to get the vanilla video settings and revert fullscreen options there.
+     * The numbers after `@` may vary. 
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
 * Keep paragraph sign (§), pencil emoji (🖉), asterisk (`*`) and newlines as they are on the original.
 
