@@ -381,7 +381,7 @@ The intent is to educate [good-minded users](#i-already-follow-the-server-rulesa
 
 [There are a lot of ways to improve the system](#how-could-mojang-improve-the-system) while keeping it in the game, and Mojang [has also taken some steps towards improving it](#history-of-changes).
 
-The article does not encourage breaking any rules, and to my knowledge (not a lawyer), none of the advice here breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is without a warranty of any kind.
+The article does not encourage breaking any rules, and to my knowledge (not a lawyer), none of the advice here breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either.  The article is provided solely for educational purposes, as-is without a warranty of any kind.
 
 ### I have more questions.
 
