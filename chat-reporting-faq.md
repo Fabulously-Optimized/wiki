@@ -93,7 +93,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [Community Standards](https://www.minecraft.net/en-us/community-standards)
 - [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
-#### History of changes
+### History of changes
 
 - **1.19** snapshot [22w17a](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
    - [22w18a](https://minecraft.fandom.com/wiki/Java_Edition_22w18a#General) started signing the messages sent by `/say`, `/msg`, `/teammsg`, and `/me`.
