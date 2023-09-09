@@ -292,15 +292,19 @@ As of 1.20.2, it is possible to report players' usernames and skins, besides cha
 
 ### Is it bad?
 
-Yes and no. 
+Yes and no.
 
-Several servers already ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
+#### Good
 
-On the other hand,
+- Skins and usernames are public data that represent you across all servers, launchers, profiles. They affect your (and to an extent, Mojang's) public reputation, so certain limits make sense.
+- Usernames were already dealt with proactively, meaning you couldn't choose most of the offensive ones anyway. 
+- Several servers ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
 
-- It limits user creativity and contextual jokes
-- Words that are offensive in English but not in a different language may still be punished
-- Multiple strikes on an account may accumulate to a ban from all multiplayer servers
+#### Bad
+
+- It limits user creativity and contextual jokes, if the player wanted to make a joke in one server/context only.
+- Words that are offensive in English but not in a different language may still be punished/prevented.
+- Multiple strikes on an account may accumulate to a ban from all multiplayer servers.
 
 ### Are all users' skins/usernames reportable?
 
@@ -327,13 +331,13 @@ No. Trying to circumvent the ban will likely get you caught again and with sever
 
 Yes. Servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show the original name/skin). 
 
-Do your own research for the plugins.
+Do your own research if interested.
 
 ### Can reports/bans be prevented client-side?
 
 Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
 
-However, other players _will_ need the same mods to see them, and such mods probably have certain rules/reporting features of their own. Do your own research for the mods.
+However, other players _will_ need the same mods to see them, and the mods probably have certain rules/reporting features of their own. Do your own research if interested.
 
 ## Other questions
 
@@ -371,9 +375,11 @@ Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requ
 
 But it wasn't really an issue in the same way, because:
 
-- few people knew about it
+- few people knew about it (higher chances of actual reports instead of jokes/bullying)
 - chat messages were not verifiable to be sent by the username next to them
-- ban system itself did not exist (so it is unknown how the reports were dealt with)
+- ban system itself did not exist
+
+Therefore, it is unknown, how chat reports in the form were or are handled. Usernames and skins were/are probably handled [as in the newly introduced system](#skin-and-username-reporting).
 
 ### What is the intent of this article?
 
@@ -381,7 +387,7 @@ The intent is to educate [good-minded users](#i-already-follow-the-server-rulesa
 
 [There are a lot of ways to improve the system](#how-could-mojang-improve-the-system) while keeping it in the game, and Mojang [has also taken some steps towards improving it](#history-of-changes).
 
-The article does not encourage breaking any rules, and to my knowledge (not a lawyer), none of the advice here breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either.  The article is provided solely for educational purposes, as-is without a warranty of any kind.
+The article does not encourage breaking any rules, and to my knowledge (not a lawyer), none of the advice here breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is, without a warranty of any kind.
 
 ### I have more questions.
 
