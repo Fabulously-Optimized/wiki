@@ -308,7 +308,7 @@ Yes and no.
 
 ### Are all users' skins/usernames reportable?
 
-On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+On online-mode servers, yes. On offline-mode servers, it is not certain yet - it can be possible to report but due to technical differences the reports may not get acted on.
 
 ### What happens when I'm punished?
 
