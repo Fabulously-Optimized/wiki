@@ -62,6 +62,14 @@ Because the current implementation of it is vaguely described, unsustainable and
 
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
+### I already follow the server rules/am a nice person. Why should I care?
+
+That is _exactly_ why you should. Previously, all you had to do was to follow the server's rules, so any actions you took were judged by the server administration.
+
+Now, with this system, you have to follow the server rules but also [Community Standards](https://www.minecraft.net/en-us/community-standards). You have to know that all your actions are now judged by _two_ parties: the server administration and Mojang.
+
+In other words, even if the server admins know your intent is positive and have all the context to prove it, Mojang on the other hand has very limited context of what you _say_ and what you _meant_ by it.
+
 ### Where can I learn more about it?
 
 #### Explanatory videos
@@ -211,7 +219,7 @@ The behaviour can also be configured per-server, hover on the status icon (botto
 
 ### Is No Chat Reports itself a risk?
 
-No. The mod disables chat signing on servers that explicitly tell the clients "chat reporting is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
+No. The mod disables chat signing on servers that explicitly tell the clients "chat reportability is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
 
 ### I think chat reporting is fair.
 
@@ -366,6 +374,10 @@ But it wasn't really an issue in the same way, because:
 - few people knew about it
 - chat messages were not verifiable to be sent by the username next to them
 - ban system itself did not exist (so it is unknown how the reports were dealt with)
+
+### What is the intent of this article?
+
+The intent is to educate good-minded users about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
 
 ### I have more questions.
 
