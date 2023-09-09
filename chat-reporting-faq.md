@@ -66,9 +66,9 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 That is _exactly_ why you should. Previously, all you had to do was to follow the server's rules, so any actions you took were judged by the server administration.
 
-Now, with this system, you have to follow the server rules but also [Community Standards](https://www.minecraft.net/en-us/community-standards). You have to know that all your actions are now judged by _two_ parties: the server administration and Mojang.
+Now, with this system, you have to follow the server rules but also [Community Standards](https://www.minecraft.net/en-us/community-standards). All your actions are now judged by _two_ parties: the server administration and Mojang.
 
-In other words, even if the server admins know your intent is positive and have all the context to prove it, Mojang on the other hand has very limited context of what you _say_ and what you _meant_ by it.
+Even if the server admins know your intent is positive and have all the context to prove it, Mojang on the other hand has very limited context of what you _say_ and what you _meant_ by it.
 
 ### Where can I learn more about it?
 
@@ -378,6 +378,8 @@ But it wasn't really an issue in the same way, because:
 ### What is the intent of this article?
 
 The intent is to educate good-minded users about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
+
+The article does not encourage breaking any rules, and to my knowledge (not a lawyer), none of the advice here breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is without a warranty of any kind.
 
 ### I have more questions.
 
