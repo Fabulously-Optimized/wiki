@@ -62,6 +62,14 @@ Because the current implementation of it is vaguely described, unsustainable and
 
 This is a non-exhaustive list. People have voiced more concerns in various Minecraft communities and the feedback site, search around.
 
+### I already follow the server rules/am a nice person. Why should I care?
+
+That is _exactly_ why you should. Previously, all you had to do was to follow the server's rules, so any actions you took were judged by the server administration.
+
+Now, with this system, you have to follow the server rules but also [Community Standards](https://www.minecraft.net/en-us/community-standards). All your actions are now judged by _two_ parties: the server administration and Mojang.
+
+Even if the server admins know your intent is positive and have all the context to prove it, Mojang on the other hand has very limited context of what you _say_ and what you _meant_ by it.
+
 ### Where can I learn more about it?
 
 #### Explanatory videos
@@ -85,13 +93,15 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [Community Standards](https://www.minecraft.net/en-us/community-standards)
 - [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
-#### History of changes
+### History of changes
 
-- **1.19** snapshot [22w17a](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
+- **1.19**
+   - [22w17a](https://minecraft.fandom.com/wiki/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
    - [22w18a](https://minecraft.fandom.com/wiki/Java_Edition_22w18a#General) started signing the messages sent by `/say`, `/msg`, `/teammsg`, and `/me`.
    - [22w19a](https://minecraft.fandom.com/wiki/Java_Edition_22w19a#General) added an option for players to hide messages by other players who did not sign their messages.
    - Some snapshot also introduced a way to modify chat messages by filtering words, [presumably for Realms](#does-java-edition-have-a-profanity-filter).
-- **1.19.1** snapshot [22w24a](https://minecraft.fandom.com/wiki/Java_Edition_22w24a#General) introduced the chat reporting interface.
+- **1.19.1**
+   - [22w24a](https://minecraft.fandom.com/wiki/Java_Edition_22w24a#General) introduced the chat reporting interface.
    - [1.19.1-pre.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_1#General) introduced account-wide bans.
    - [1.19.1-rc.1](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_1) removed the "Extreme violence or gore", "Nudity or pornography", and "Profanity" categories. It was also Mojang's initial "final" plan of how the reporting system would work. Due to major exploits found by the community though, the release of 1.19.1 was postponed by a month.
    - [1.19.1-pre.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_2#General) introduced red bars and `(!)` indicators on unsigned messages, yellow bars and `(?)` indicators on "modified" messages. It also made the system enabled on new servers by default.
@@ -99,12 +109,16 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [1.19.1-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Pre-release_4#General) fixed an exploit where players could add new messages to a report that weren't there previously. It also introduced the concept of deleted messages, where the server can remove any message from the client.
    - [1.19.1-rc.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.1_Release_Candidate_2#General) introduced a warning toast to players entering a server where the server does not restrict the joining of non-signing users. Practically, this toast mostly affected vanilla and vanilla-like servers, as other servers quickly found a way to remove it.
  - **[1.19.2](https://minecraft.fandom.com/wiki/Java_Edition_1.19.2#Fixes)** fixed an exploit where some players could kick everyone else by abusing chat signing features.
- - **1.19.3** snapshot [22w42a](https://minecraft.fandom.com/wiki/Java_Edition_22w42a#Gameplay) removed red `(!)` indicators on unsigned messages and made the bar gray, modified messages changed the `(?)` indicator to gray and is no longer displayed if only the style was changed. Deleted messages are now displayed for 3 seconds and are replaced by a system message. Players are now able to join all servers and use most commands (except any that are related to messages) even if they don't sign their chat.
+ - **1.19.3**
+    - [22w42a](https://minecraft.fandom.com/wiki/Java_Edition_22w42a#Gameplay) removed red `(!)` indicators on unsigned messages and made the bar gray, modified messages changed the `(?)` indicator to gray and is no longer displayed if only the style was changed. Deleted messages are now displayed for 3 seconds and are replaced by a system message. Players are now able to join all servers and use most commands (except any that are related to messages) even if they don't sign their chat.
    - [22w43a](https://minecraft.fandom.com/wiki/Java_Edition_22w43a#General) introduced chat report drafts.
-- **1.19.4** snapshot [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
+- **1.19.4**
+   - [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
-- **1.20.2** snapshot [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages.
-   - [23w33a](https://minecraft.fandom.com/wiki/Java_Edition_23w33a) added skin and username reporting, removed "impersonation" as a report category and added "generic" report category.
+- **1.20.2**
+   - [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages.
+   - [23w33a](https://minecraft.fandom.com/wiki/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
+   - Some snapshot fixed more exploits that allowed kicking everyone or specific people by abusing chat signing features.
 
 ### Can I be banned without anyone reporting me?
 
@@ -188,11 +202,11 @@ Fabulously Optimized includes:
 In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
 - ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
-- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - chat reporting is disabled for everyone
-- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - chat reporting is optional and you opt out
-   - In some cases, it might be fully disabled but not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
-- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - chat reporting is enabled for everyone
-- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: chat reporting is enabled for everyone and [everyone's chats are automatically monitored](#does-mojang-monitor-my-chats)
+- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - no chat messages can be reported to Mojang
+- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - most chat messages can be reported to Mojang, but the server does not prefer it and the playing user opts out
+   - In some cases, no messages can be reported but that is not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
+- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - all chat messages can be reported to Mojang
+- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](#does-mojang-monitor-my-chats)
 
 _(Expected different icons? Disable Chat Reporting Helper resource pack and [see No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))_
 
@@ -211,7 +225,7 @@ The behaviour can also be configured per-server, hover on the status icon (botto
 
 ### Is No Chat Reports itself a risk?
 
-No. The mod disables chat signing on servers that explicitly tell the clients "chat reporting is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
+No. The mod disables chat signing on servers that explicitly tell the clients "chat reportability is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
 
 ### I think chat reporting is fair.
 
@@ -284,19 +298,23 @@ As of 1.20.2, it is possible to report players' usernames and skins, besides cha
 
 ### Is it bad?
 
-Yes and no. 
+Yes and no.
 
-Several servers already ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
+#### Good
 
-On the other hand,
+- Skins and usernames are public data that represent you across all servers, launchers, profiles. They affect your (and to an extent, Mojang's) public reputation, so certain limits make sense.
+- Usernames were already dealt with proactively, meaning you couldn't choose most of the offensive ones anyway. 
+- Several servers ban users for offensive usernames and skins, so knowing whether a skin/username is bad beforehand can prevent you from getting banned in the servers.
 
-- It limits user creativity and contextual jokes
-- Words that are offensive in English but not in a different language may still be punished
-- Multiple strikes on an account may accumulate to a ban from all multiplayer servers
+#### Bad
+
+- It limits user creativity and contextual jokes, if the player wanted to make a joke in one server/context only.
+- Words that are offensive in English but not in a different language may still be punished/prevented.
+- Multiple strikes on an account may accumulate to a ban from all multiplayer servers.
 
 ### Are all users' skins/usernames reportable?
 
-On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be reportable but reports do not get acted on.
+On online-mode servers, yes. On offline-mode servers, it is not certain yet - it can be possible to report but due to technical differences the reports may not get acted on.
 
 ### What happens when I'm punished?
 
@@ -319,13 +337,13 @@ No. Trying to circumvent the ban will likely get you caught again and with sever
 
 Yes. Servers could use nickname or skin changing plugins, which everyone will see but cannot report (as the report will show the original name/skin). 
 
-Do your own research for the plugins.
+Do your own research if interested.
 
 ### Can reports/bans be prevented client-side?
 
 Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
 
-However, other players _will_ need the same mods to see them, and such mods probably have certain rules/reporting features of their own. Do your own research for the mods.
+However, other players _will_ need the same mods to see them, and the mods probably have certain rules/reporting features of their own. Do your own research if interested.
 
 ## Other questions
 
@@ -363,9 +381,19 @@ Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requ
 
 But it wasn't really an issue in the same way, because:
 
-- few people knew about it
+- few people knew about it (higher chances of actual reports instead of jokes/bullying)
 - chat messages were not verifiable to be sent by the username next to them
-- ban system itself did not exist (so it is unknown how the reports were dealt with)
+- ban system itself did not exist
+
+Therefore, it is unknown, how chat reports in the form were or are handled. Usernames and skins were/are probably handled [as in the newly introduced system](#skin-and-username-reporting).
+
+### What is the intent of this article?
+
+The intent is to educate [good-minded users](#i-already-follow-the-server-rulesam-a-nice-person-why-should-i-care) about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
+
+[There are a lot of ways to improve the system](#how-could-mojang-improve-the-system) while keeping it in the game, and Mojang [has also taken some steps towards improving it](#history-of-changes).
+
+The article does not encourage breaking any rules, and to my knowledge (not a lawyer), none of the advice here breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is, without a warranty of any kind.
 
 ### I have more questions.
 
