@@ -27,7 +27,7 @@ Or with the launcher already open:
 You need [Java 17 or higher](https://adoptium.net/) to play the game. Launcher version 0.5.4 or higher required.
 
 1. Under "Popular packs" section, hover on "Fabulously Optimized"
-2. Click `↓ Install`
+2. Click `⤓ Install`
 3. The modpack will now install.
 4. Once installed, hover on the created instance under "Jump back in"
 5. Click ▶️ button to play.
