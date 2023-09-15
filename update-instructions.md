@@ -33,7 +33,8 @@ If you added or removed some mods:
 ### Modrinth App
 
 1. Select existing FO instance
-2. Click `🔄 Update modpack`
+2. Click `🔄 Update modpack` on top right
+3. Select latest version and click `⇆`
 
 ### Prism Launcher
 
