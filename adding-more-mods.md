@@ -29,10 +29,13 @@ Method 2:
 
 1. Open Modrinth App
 2. Click on Fabulously Optimized
-3. Click `🔍 Add Content`
-4. Search for the mod you want
-5. Click `⤓ Install`
-6. Go back to `🏠` and run the game as usual. You should now have the new mod(s) installed!
+3. Click `⚙️ Options`
+4. Scroll down and click `🔒 Unlock`, then click again
+5. Click `🧊 Content`
+6. Click `🔍 Add Content`
+7. Search for the mod you want
+8. Click `⤓ Install`
+9. Go back to `🏠` and run the game as usual. You should now have the new mod(s) installed!
 
 ### Prism Launcher
 
