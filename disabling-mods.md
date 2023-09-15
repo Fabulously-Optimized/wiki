@@ -34,8 +34,6 @@ Notes:
 5. Click `🧊 Content`
 6. Find the mod you need, toggle the knob.
 
-**Note: modpack updates will remove custom mods.**
-
 ### Prism Launcher
 
 1. Open Prism Launcher
