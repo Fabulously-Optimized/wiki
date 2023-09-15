@@ -26,11 +26,11 @@ Or with the launcher already open:
 
 You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
-1. Under the "Popular packs" category, hover on top of "Fabulously Optimized"
-2. Click the green ⬇️ button.
+1. Under "Popular packs" section, hover on "Fabulously Optimized"
+2. Click `↓ Install`
 3. The modpack will now install.
-4. Once installed 100%, hover on top of now installed "Fabulously Optimized" instance under "Jump back in"
-5. Click the green ▶️ button to play.
+4. Once installed, hover on the created instance under "Jump back in"
+5. Click ▶️ button to play.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
