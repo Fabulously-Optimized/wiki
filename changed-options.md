@@ -25,6 +25,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | onboardAccessibility                 | Indicates whether the user has not seen the accessibility onboarding screen                                                                                         | true     | false   | Minecraft already has an easily accessible accessibility button in the main menu, this screen just creates annoyances for the majority who don't need it                        |
 
 ¹ \["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]
+
 **Changed mod settings can be found on the repo at [.../yosbr/1.20.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.20.1/config).**
 
 ### Keybinds
