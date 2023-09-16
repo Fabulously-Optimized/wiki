@@ -4,6 +4,8 @@ Fabulously Optimized changes some default options of Minecraft to improve your g
 
 Because the pack is using YOSBR, the options will only change if you do not have `options.txt` or mod-specific files in `config` folder already, e.g. by using a clean profile. That also means you can freely update the pack without losing your settings!
 
+**P.S. This table has 5 columns. Scroll right or [click here if you can't see them!](https://github.com/Fabulously-Optimized/wiki/blob/main/changed-options.md)**
+
 ### Options
 
 | Option                      | Description                                                                                                                                                                                           | Vanilla  | Modpack | Reason for Change                                                                                                                                         |
@@ -26,6 +28,8 @@ Because the pack is using YOSBR, the options will only change if you do not have
 **Changed mod settings can be found on the repo at [.../yosbr/1.20.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.20.1/config).**
 
 ### Keybinds
+
+**P.S. This table has 5 columns. Scroll right or [click here if you can't see them!](https://github.com/Fabulously-Optimized/wiki/blob/main/changed-options.md)**
 
 | Option                            | Description                                                         | Default | Modpack | Reason for Change                                                            |
 | --------------------------------- | ------------------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
