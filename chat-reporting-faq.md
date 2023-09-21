@@ -116,9 +116,8 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [23w03a](https://minecraft.fandom.com/wiki/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.fandom.com/wiki/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
 - **1.20.2**
-   - [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages.
+   - [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages, instead a placeholder message will be shown in chat.
    - [23w33a](https://minecraft.fandom.com/wiki/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
-   - Some snapshot fixed more exploits that allowed kicking everyone or specific people by abusing chat signing features.
 
 ### Can I be banned without anyone reporting me?
 
