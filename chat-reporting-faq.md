@@ -1,6 +1,6 @@
 # Unofficial FAQ for Minecraft's Player Reporting
 
-⚠️ [1.20.2 will add username and skin reporting.](#skin-and-username-reporting)
+⚠️ [1.20.2 added username and skin reporting.](#skin-and-username-reporting)
 
 ## Chat reporting
 
@@ -189,7 +189,7 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 
 ### What does this modpack do for me?
 
-Fabulously Optimized includes:
+Fabulously Optimized includes [(why?)](#why-does-fabulously-optimized-take-a-stance-on-the-matter):
 - A mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that:
    - adds new consistent chat indicators
    - disables inconsistent vanilla chat indicators and the annoying toast
