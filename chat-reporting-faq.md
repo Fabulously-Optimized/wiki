@@ -247,6 +247,8 @@ Therefore, Fabulously Optimized cannot fulfill the [principles of being transpar
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
+_See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
+
 ## Alternative approaches
  
 ### Why not stay on 1.19?
