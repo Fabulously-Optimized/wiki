@@ -8,6 +8,8 @@
 
 In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
+_Note: the more accurate way to describe this would be "chat reportability", as no server [except Realms](#does-mojang-monitor-my-chats) reports any chat to Mojang automatically. But nonetheless, in the Minecraft community "chat reporting" is better understood._
+
 ### How are reports created?
 
 [The official help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition) states the following:
@@ -372,9 +374,9 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 
 Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
 
-### Does Bedrock Edition also have chat reporting?
+### Does Bedrock Edition also have player reporting?
 
-[Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent that there.
+[Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent chat reporting there.
 
 ### Was player reporting possible at all before 1.19.1?
 
