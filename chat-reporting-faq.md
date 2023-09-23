@@ -66,7 +66,7 @@ This is a non-exhaustive list. People have voiced more concerns in various Minec
 
 That is _exactly_ why you should. Previously, all you had to do was to follow the server's rules, so any actions you took were judged by the server administration.
 
-Now, with this system, you have to follow the server rules but also [Community Standards](https://www.minecraft.net/en-us/community-standards). All your actions are now judged by _two_ parties: the server administration and Mojang.
+Now, with this system, all your actions are now judged by _two_ parties: the server administration and Mojang's interpretation of [Community Standards](https://www.minecraft.net/en-us/community-standards).
 
 Even if the server admins know your intent is positive/ethical/legal and have all the context to prove it, Mojang on the other hand has very limited context of what you _say_ and what you _meant_ by it.
 
