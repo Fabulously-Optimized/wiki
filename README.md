@@ -1,6 +1,6 @@
 # Fabulously Optimized
 
-Welcome to the Fabulously Optimized wiki!
+Welcome to the Fabulously Optimized wiki!  [🌐 Read in your language](https://translate.google.com/translate?js=n&sl=auto&u=https://fabulously-optimized.gitbook.io/modpack/)
 
 **[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
 
