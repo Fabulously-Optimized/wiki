@@ -121,6 +121,8 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [23w32a](https://minecraft.fandom.com/wiki/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages, instead a placeholder message will be shown in chat.
    - [23w33a](https://minecraft.fandom.com/wiki/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
 
+_See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.fandom.com/wiki/Social_interactions#History) and [Chat](https://minecraft.fandom.com/wiki/Chat#History)._
+
 ### Can I be banned without anyone reporting me?
 
 On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
