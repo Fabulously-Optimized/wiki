@@ -394,7 +394,7 @@ Therefore, it is unknown, how chat reports in the form were or are handled. User
 
 ### What is the intent of this article?
 
-The intent is to educate [good-minded users](#i-already-follow-the-server-rulesam-a-nice-person-why-should-i-care) about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
+The intent is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
 
 [There are a lot of ways to improve the system](#how-could-mojang-improve-the-system) while keeping it in the game, and Mojang [has also taken some steps towards improving it](#history-of-changes).
 
