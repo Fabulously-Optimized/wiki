@@ -123,11 +123,17 @@ This is a non-exhaustive list. People have posted more ideas in various Minecraf
 
 See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 
-### I want to give feedback to Mojang.
+### Was player reporting possible at all before 1.19.1?
 
-Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
-* [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
-* [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
+Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565), that still exists.
+
+But it wasn't really an issue in the same way, because:
+
+- few people knew about it (higher chances of actual reports instead of jokes/bullying)
+- chat messages were not verifiable to be sent by the username next to them
+- ban system itself did not exist
+
+Therefore, it is unknown, how chat reports in the form were or are handled. Usernames and skins were/are probably handled [as in the newly introduced system](#skin-and-username-reporting).
 
 ### Where can I learn more about it?
 
@@ -249,7 +255,7 @@ If Mojang will improve their communication or overhaul the system again, it is p
 
 _See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
 
-## Alternative approaches
+## Against chat reporting
 
 ### What should I do instead when someone breaks the rules?
 
@@ -259,6 +265,20 @@ Do what you always did.
 - If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
 - If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
 - If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
+
+### I am a player. How do I know if chat reporting is enabled?
+
+* If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
+* If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
+* If you're not using No Chat Reports, keep reading.
+
+In vanilla (1.20.2), there are also ways to determine whether chat reportability is enabled in a given server, but it requires paying attention to small clues:
+
+* When you type something in the chat or as a private message, do you see a gray bar on the left? If yes, then chat reporting is disabled.
+   * Remember to only look at _chat messages_. System messages always have the gray bar.
+* When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reportability.
+* When you joined the server, did you see this toast on top right corner? If yes, chat reportability may be disabled on the server, or players could use a mod like No Chat Reports to disable it for themselves.
+   * ![](https://user-images.githubusercontent.com/47505981/183680550-d9bc58f3-f93f-4ee6-bd34-d2879bdfb96a.png)
 
 ### I am a server owner. How can I protect my users?
 
@@ -301,6 +321,12 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 6. Click your chat key, default `T`
 7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
    * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
+
+### I want to give feedback to Mojang.
+
+Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
+* [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
+* [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
 
 ## Skin and username reporting
 
@@ -386,18 +412,6 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 ### Does Bedrock Edition also have player reporting?
 
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent chat reporting there.
-
-### Was player reporting possible at all before 1.19.1?
-
-Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565), that still exists.
-
-But it wasn't really an issue in the same way, because:
-
-- few people knew about it (higher chances of actual reports instead of jokes/bullying)
-- chat messages were not verifiable to be sent by the username next to them
-- ban system itself did not exist
-
-Therefore, it is unknown, how chat reports in the form were or are handled. Usernames and skins were/are probably handled [as in the newly introduced system](#skin-and-username-reporting).
 
 ### What is the intent of this article?
 
