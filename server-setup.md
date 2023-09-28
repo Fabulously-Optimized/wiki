@@ -57,7 +57,7 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
 - **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all 1.19+ backend servers" above.
 - **Paper/Purpur/Pufferfish**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
-   - Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are all set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
+   - Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
 - **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
    - FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
