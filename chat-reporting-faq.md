@@ -2,11 +2,15 @@
 
 ⚠️ [1.20.2 added username and skin reporting.](#skin-and-username-reporting)
 
+This wiki article describes the aspects of "chat reporting", which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reportability, although later added username and skin reporting are described as well. 
+
+While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
+
 ## Chat reporting
 
 ### What is chat reporting?
 
-In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
+In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-1) and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
 _Note: the more accurate way to describe this would be "chat reportability", as no server [except Realms](#does-mojang-monitor-my-chats) reports any chat to Mojang automatically. But nonetheless, in the Minecraft community "chat reporting" is better understood._
 
@@ -256,7 +260,7 @@ Therefore, Fabulously Optimized cannot fulfill the [principles of being transpar
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
-_See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
+_See also: [why does this article exist?](#what-is-the-intent-of-this-article)
 
 ## Alternative approaches
  
@@ -399,7 +403,7 @@ Therefore, it is unknown, how chat reports in the form were or are handled. User
 
 ### What is the intent of this article?
 
-The intent is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
+The intent is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system, including important details and answers to questions that [Mojang's official resources](#official-posts) don't provide. The problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
 
 [There are a lot of ways to improve the system](#how-could-mojang-improve-the-system) while keeping it in the game, and Mojang [has also taken some steps towards improving it](#history-of-changes).
 
