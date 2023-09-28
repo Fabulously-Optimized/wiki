@@ -299,11 +299,15 @@ _This section previously claimed that it may be possible for 1.19.1+ players to 
 
 ### Should I/my server stay on 1.18.2?
 
-It is safe from reports, you are free to play it for as long as you like. However, due to the wide availability of serverside and clientside mods, there is no practical reason to _not_ update.
+Maybe. It is safe from reports, you are free to play it for as long as you like. However, due to the [wide availability of serverside and clientside mods](#i-am-a-server-owner.-how-can-i-protect-my-users), there is no practical reason to _not_ update.
+
+### Should I disable online-mode on my server?
+
+No. While that does disable chat reporting, it makes your server vulnerable in a lot of other ways, and is not allowed by [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
 
 ### Can I break the system/avoid getting reported?
 
-It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
+No. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
 
 ### Can I encrypt my chat messages?
 
@@ -410,6 +414,28 @@ Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for
 ### Does Bedrock Edition also have player reporting?
 
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent chat reporting there.
+
+### How many servers actually have chat reporting?
+
+There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
+
+However, what we do know:
+
+* Any server that allows 1.18.2 or older clients to enter cannot have chat reporting. Yes, that includes Hypixel and many other minigame servers.
+* Any server that allows versions between 1.19-1.19.2 and/or 1.19.2-1.19.3 to join _cannot_ have chat reporting. This is because these versions have different implementations of chat signing/reporting, and as such they cannot coexist.
+* [There are many plugins and ways to disable chat reporting](server-setup.md#chat-reporting), and these are popular among server owners.
+* Any vanilla server from 1.19 and up enables chat reporting by default, but may or may not allow players to disable it for themselves.
+* Cracked servers cannot have chat reporting.
+* Realms always has chat reporting.
+
+Therefore, as of 1.20.2, the concerns are:
+
+* servers that do not allow entering with clients older than 1.19.3
+* servers that do not explicitly disable chat reporting
+* servers that do not allow skipping message signatures by clients
+* Realms
+
+Public server listings usually only list the latest version a player can join with, not all versions, so even the 1.19.3+ server count is hard to determine.
 
 ### What is the intent of this article?
 
