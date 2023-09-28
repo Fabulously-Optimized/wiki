@@ -98,15 +98,6 @@ If you own a Realm, you may want to [pause your subscription](https://help.minec
 
 Then you can only play singleplayer, not even LAN-worlds.
 
-### What should I do instead when someone breaks the rules?
-
-Do what you always did.
-
-- If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
-- If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
-- If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
-- If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
-
 ### How could Mojang improve the system?
 
 In the best scenario, one of the following:
@@ -127,10 +118,6 @@ If core changes to the system will not be made, Mojang could still improve its c
 - Write a technical overview about the system's working so that users inclined would be able to read it from the official source
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
-
-### I am a server owner. How can I protect my users?
-
-See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
 
 ### How does this affect Realms?
 
@@ -260,11 +247,26 @@ Therefore, Fabulously Optimized cannot fulfill the [principles of being transpar
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
-_See also: [why does this article exist?](#what-is-the-intent-of-this-article)
+_See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
 
 ## Alternative approaches
- 
-### Why not stay on 1.19?
+
+### What should I do instead when someone breaks the rules?
+
+Do what you always did.
+
+- If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
+- If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
+- If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
+- If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
+
+### I am a server owner. How can I protect my users?
+
+See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
+
+### Should I/my server stay on 1.19?
+
+No.
 
 - [The modpack tells you clearly where chat reporting exists and where it doesn't](#what-does-this-modpack-do-for-me)
    - [It is easy for server owners to disable chat reporting](#i-am-a-server-owner.-how-can-i-protect-my-users)
@@ -277,13 +279,9 @@ If you want to stay on an older version, please use the latest version for 1.18.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
-### But my favorite server is afraid to update!
+### Should I/my server stay on 1.18.2?
 
-Alright, please [send them this link](server-setup.md#how-to-protect-your-users) to let them know they don't have to stay on 1.19 just to disable chat reporting.
-
-### Why not stay on 1.18.2?
-
-It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
+It is safe from reports, you are free to play it for as long as you like. However, due to the wide availability of serverside and clientside mods, there is no practical reason to _not_ update.
 
 ### Can I break the system/avoid getting reported?
 
