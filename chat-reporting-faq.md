@@ -117,6 +117,11 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **1.19.4**
    - [23w03a](https://minecraft.wiki/w/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.wiki/w/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
+- **2023-08-02** [Minecraft changed its EULA](https://www.minecraft.net/en-us/article/minecraft-eula-and-commercial-usage-guidelines-updates) and created a new page called [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines). Among other things it states: 
+   - > Regardless of how you choose to make money to support your server, you may only do so if: 
+     > [...] You don’t hide or alter any of the dialogs or prompts that are part of Minecraft (this includes the End User License Agreement (EULA), warning messages, and error messages)"
+      - To comply with that, No Chat Reports [no longer allows hiding "messages cannot be verified" toast serverside](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/118eff66e6da2ea5507f568d7ade8741434005b3/docs/CHANGELOG.md#build-1202-v230).
+      - As of 2023-09-28, other servers and plugins are likely not aware of the change, as even Hypixel still hides the toast.
 - **1.20.2**
    - [23w32a](https://minecraft.wiki/w/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages, instead a placeholder message will be shown in chat.
    - [23w33a](https://minecraft.wiki/w/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
