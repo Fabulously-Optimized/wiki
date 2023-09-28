@@ -272,6 +272,7 @@ Do what you always did.
 
 In vanilla (1.20.2), there are also ways to determine whether chat reportability is enabled in a given server, but it requires paying attention to small clues:
 
+* Are you able to join the server with 1.18.2 or older client? If yes, then chat reporting is disabled.
 * When you type something in the chat or as a private message, do you see a gray bar on the left? If yes, then chat reporting is disabled.
    * Remember to only look at _chat messages_. System messages always have the gray bar.
 * When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reporting.
@@ -427,13 +428,6 @@ However, what we do know:
 * Any vanilla server from 1.19 and up enables chat reporting by default, but may or may not allow players to disable it for themselves.
 * Cracked servers cannot have chat reporting.
 * Realms always has chat reporting.
-
-Therefore, as of 1.20.2, the concerns are:
-
-* servers that do not allow entering with clients older than 1.19.3
-* servers that do not explicitly disable chat reporting
-* servers that do not allow skipping message signatures by clients
-* Realms
 
 Public server listings usually only list the latest version a player can join with, not all versions, so even the 1.19.3+ server count is hard to determine.
 
