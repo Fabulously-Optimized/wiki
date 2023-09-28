@@ -276,8 +276,8 @@ In vanilla (1.20.2), there are also ways to determine whether chat reportability
 
 * When you type something in the chat or as a private message, do you see a gray bar on the left? If yes, then chat reporting is disabled.
    * Remember to only look at _chat messages_. System messages always have the gray bar.
-* When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reportability.
-* When you joined the server, did you see this toast on top right corner? If yes, chat reportability may be disabled on the server, or players could use a mod like No Chat Reports to disable it for themselves.
+* When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reporting.
+* When you joined the server, did you see this toast on top right corner? If yes, chat reporting may be disabled on the server, or players could use a mod like No Chat Reports to disable it for themselves.
    * ![](https://user-images.githubusercontent.com/47505981/183680550-d9bc58f3-f93f-4ee6-bd34-d2879bdfb96a.png)
 
 ### I am a server owner. How can I protect my users?
