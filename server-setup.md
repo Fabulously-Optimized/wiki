@@ -30,17 +30,17 @@ Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang
 The following icons show the status of the server. Icons are shown on the bottom right corner of the chat box.
 
 * **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
-    * Chat reporting is disabled for everyone. On vanilla clients, gray bars are displayed on the left of the messages.
+    * No messages can be reported by anyone. On vanilla clients, gray bars are displayed on the left of the messages.
 * **1.19 or up**:
     1. Using [one of the mods/plugins](#how-to-protect-your-users): FO users will see ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
-        * Chat reporting is disabled for everyone. On vanilla clients, gray bars are displayed on the left of the messages.
+        * No messages can be reported by anyone. On vanilla clients, gray bars are displayed on the left of the messages.
     2. In other cases, FO users will see ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) until they send the first chat message.
         1. If `enforce-secure-profile` = `true` (default), FO users will see ![enabled](https://i.ibb.co/2YgMHpR/insecure.png).
-            * Chat reporting is enabled for everyone.
+            * All messages can be reported.
         2. If `enforce-secure-profile` = `false` (recommended), FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
-            * Chat reporting is enabled for vanilla users' messages and disabled for FO users' messages. On vanilla clients, gray bars are displayed on the left of FO users' messages.
+            * Vanilla users' messages can be reported and disabled FO users' messages can not. On vanilla clients, gray bars are displayed on the left of FO users' messages.
 * **Realms**: FO users will see ![realms](https://i.ibb.co/gTxw84X/realms.png).
-    * Chat reporting is enabled for everyone and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
+    * All messages can be reported and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
 #### How to protect your users
 
