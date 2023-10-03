@@ -400,7 +400,7 @@ Bedrock Edition has the filter on chat, signs, item names, books etc. across all
 
 Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-titles/minecraft-realms-overview) (Java and Bedrock) and [Featured Servers](https://web.archive.org/web/20230610202006/https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) (only Bedrock).
 
-[Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE) says
+[Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X6ZSKYQ6SGC8D6AB7XCNB) says
 
 > For Bedrock and Java Realms as well as partnered Bedrock servers, we leverage an automated proactive chat filtering system.
 > 
@@ -411,6 +411,8 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
 
 Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
+
+Though, it is worth pointing out that _monitoring_ and "automated proactive chat filtering" in this case likely refers to automatic reports triggered by specific keywords used, not that there is a person or team specifically looking at your messages.
 
 ### Does Bedrock Edition also have player reporting?
 
