@@ -2,13 +2,15 @@
 
 ⚠️ [1.20.2 added username and skin reporting.](#skin-and-username-reporting)
 
+This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reportability, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
+
+_Note: the more accurate way to describe "chat reporting" would be "chat reportability", as no server [except Realms](#does-mojang-monitor-my-chats) reports any chat to Mojang automatically. But nonetheless, in the Minecraft community "chat reporting" is better understood._
+
 ## Chat reporting
 
 ### What is chat reporting?
 
-In Minecraft 1.19.1 and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
-
-_Note: the more accurate way to describe this would be "chat reportability", as no server [except Realms](#does-mojang-monitor-my-chats) reports any chat to Mojang automatically. But nonetheless, in the Minecraft community "chat reporting" is better understood._
+In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-1) and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
 
 ### How are reports created?
 
@@ -72,6 +74,65 @@ Now, with this system, all your actions are now judged by _two_ parties: the ser
 
 Even if the server admins know your intent is positive/ethical/legal and have all the context to prove it, Mojang on the other hand has very limited context of what you _say_ and what you _meant_ by it.
 
+### Can I be banned without anyone reporting me?
+
+On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
+
+On public servers, no. You can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, [if the system is enabled on the server](#i-am-a-server-owner.-how-can-i-protect-my-users).
+
+### Is there a way to appeal the ban?
+
+Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20AN%20APPEAL). It is unknown how many appeals are accepted.
+
+1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
+2. Select "Minecraft: Java" as the game.
+3. Fill the form throughly with all information you have
+4. Submit the form
+5. Wait patiently for their response
+
+If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) as well.
+
+### What if I'm permanently banned?
+
+Then you can only play singleplayer, not even LAN-worlds.
+
+### How could Mojang improve the system?
+
+In the best scenario, one of the following:
+
+- Sending the reports to server admins instead of Mojang, as they have the most context to take the appropriate action
+- Making the whole system opt-in (or out) as then only the servers that need this help would enable it
+- Implementing the system only on Realms or other Mojang-partnering servers
+- Not implementing the system at all because there are enough moderation tools built already
+
+If core changes to the system will not be made, Mojang could still improve its communication about the feature in-game and on help pages:
+
+- Make it clear that reports are sent to Mojang instead of server admins
+- Add a clear, yet unobtrusive indicator that shows whether the system is in place or not for given server
+  - Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is annoying and technically easy to disable.
+- Be very clear and truthful about the system in help pages 
+   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case](#does-mojang-monitor-my-chats).
+- Use less cryptic terminology in errors related to the system
+- Write a technical overview about the system's working so that users inclined would be able to read it from the official source
+
+This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
+
+### How does this affect Realms?
+
+See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
+
+### Was player reporting possible at all before 1.19.1?
+
+Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565), that still exists.
+
+But it wasn't really an issue in the same way, because:
+
+- few people knew about it (higher chances of actual reports instead of jokes/bullying)
+- chat messages were not verifiable to be sent by the username next to them
+- ban system itself did not exist
+
+Therefore, it is unknown, how chat reports in the form were or are handled. Usernames and skins were/are probably handled [as in the newly introduced system](#skin-and-username-reporting).
+
 ### Where can I learn more about it?
 
 #### Explanatory videos
@@ -96,7 +157,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
 ### History of changes
-
+- **2021 or earlier** Minecraft adds a [player reporting form](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565) to its website.
 - **1.19**
    - [22w17a](https://minecraft.wiki/w/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
    - [22w18a](https://minecraft.wiki/w/Java_Edition_22w18a#General) started signing the messages sent by `/say`, `/msg`, `/teammsg`, and `/me`.
@@ -117,77 +178,16 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **1.19.4**
    - [23w03a](https://minecraft.wiki/w/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
    - [1.19.4-pre.4](https://minecraft.wiki/w/Java_Edition_1.19.4_Pre-release_4#Fixes) fixed a bug where the user could get kicked due to signing requirement after changing their chat settings.
+- **2023-08-02** [Minecraft changed its EULA](https://www.minecraft.net/en-us/article/minecraft-eula-and-commercial-usage-guidelines-updates) and created a new page called [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines). Among other things it states: 
+   - > Regardless of how you choose to make money to support your server, you may only do so if: 
+     > [...] You don’t hide or alter any of the dialogs or prompts that are part of Minecraft (this includes the End User License Agreement (EULA), warning messages, and error messages)"
+      - To comply with that, No Chat Reports [no longer allows hiding "messages cannot be verified" toast serverside](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/118eff66e6da2ea5507f568d7ade8741434005b3/docs/CHANGELOG.md#build-1202-v230).
+      - As of 2023-09-28, other servers and plugins are likely not aware of the change, as even Hypixel still hides the toast.
 - **1.20.2**
    - [23w32a](https://minecraft.wiki/w/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages, instead a placeholder message will be shown in chat.
    - [23w33a](https://minecraft.wiki/w/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
-
-### Can I be banned without anyone reporting me?
-
-On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
-
-On public servers, no. You can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, [if the system is enabled on the server](#i-am-a-server-owner.-how-can-i-protect-my-users).
-
-### Is there a way to appeal the ban?
-
-Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www.minecraft.net/en-us/community-standards#main-content:~:text=HOW%20TO%20SUBMIT%20AN%20APPEAL). It is unknown how many appeals are accepted.
-
-1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
-2. Select "Minecraft: Java" as the game.
-3. Fill the form throughly with all information you have
-4. Submit the form
-5. Wait patiently for their response
-
-If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) as well.
-
-### What if I'm permanently banned?
-
-Then you can only play singleplayer, not even LAN-worlds.
-
-### What should I do instead when someone breaks the rules?
-
-Do what you always did.
-
-- If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
-- If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
-- If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
-- If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
-
-### How could Mojang improve the system?
-
-In the best scenario, one of the following:
-
-- Sending the reports to server admins instead of Mojang, as they have the most context to take the appropriate action
-- Making the whole system opt-in (or out) as then only the servers that need this help would enable it
-- Implementing the system only on Realms or other Mojang-partnering servers
-- Not implementing the system at all because there are enough moderation tools built already
-
-If core changes to the system will not be made, Mojang could still improve its communication about the feature in-game and on help pages:
-
-- Make it clear that reports are sent to Mojang instead of server admins
-- Add a clear, yet unobtrusive indicator that shows whether the system is in place or not for given server
-  - Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is annoying and technically easy to disable.
-- Be very clear and truthful about the system in help pages 
-   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case](#does-mojang-monitor-my-chats).
-- Use less cryptic terminology in errors related to the system
-- Write a technical overview about the system's working so that users inclined would be able to read it from the official source
-
-This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
-
-### I am a server owner. How can I protect my users?
-
-See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
-
-### How does this affect Realms?
-
-See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
-
-### I want to give feedback to Mojang.
-
-Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
-* [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
-* [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
 
 ## Chat reporting and Fabulously Optimized
 
@@ -253,9 +253,39 @@ If Mojang will improve their communication or overhaul the system again, it is p
 
 _See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
 
-## Alternative approaches
- 
-### Why not stay on 1.19?
+## Against chat reporting
+
+### What should I do instead when someone breaks the rules?
+
+Do what you always did.
+
+- If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
+- If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
+- If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
+- If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
+
+### I am a player. How do I know if chat reporting is enabled?
+
+* If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
+* If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
+* If you're not using No Chat Reports, keep reading.
+
+In vanilla (1.20.2), there are also ways to determine whether chat reportability is enabled in a given server, but it requires paying attention to small clues:
+
+* Are you able to join the server with 1.18.2 or older client? If yes, then chat reporting is disabled.
+* When you type something in the chat or as a private message, do you see a gray bar on the left? If yes, then chat reporting is disabled.
+   * Remember to only look at _chat messages_. System messages always have the gray bar.
+* When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reporting.
+* When you joined the server, did you see this toast on top right corner? If yes, chat reporting may be disabled on the server, or players could use a mod like No Chat Reports to disable it for themselves.
+   * ![](https://user-images.githubusercontent.com/47505981/183680550-d9bc58f3-f93f-4ee6-bd34-d2879bdfb96a.png)
+
+### I am a server owner. How can I protect my users?
+
+See [server setup](server-setup.md#how-to-protect-your-users). If you are a player, you can send that page to your server admins.
+
+### Should I/my server stay on 1.19?
+
+No.
 
 - [The modpack tells you clearly where chat reporting exists and where it doesn't](#what-does-this-modpack-do-for-me)
    - [It is easy for server owners to disable chat reporting](#i-am-a-server-owner.-how-can-i-protect-my-users)
@@ -268,17 +298,17 @@ If you want to stay on an older version, please use the latest version for 1.18.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
-### But my favorite server is afraid to update!
+### Should I/my server stay on 1.18.2?
 
-Alright, please [send them this link](server-setup.md#how-to-protect-your-users) to let them know they don't have to stay on 1.19 just to disable chat reporting.
+Maybe. It is safe from reports, you are free to play it for as long as you like. However, due to the [wide availability of serverside and clientside mods](#i-am-a-server-owner.-how-can-i-protect-my-users), there is no practical reason to _not_ update.
 
-### Why not stay on 1.18.2?
+### Should I disable online-mode on my server?
 
-It is safe from reports, you are free to play it for as long as you like. Fabulously Optimized will still focus on optimizing the newest versions (including everything related to the chat reporting) rather than continuously updating the old one.
+No. While that does disable chat reporting, it makes your server vulnerable in a lot of other ways, and is not allowed by [Minecraft Usage Guidelines](https://www.minecraft.net/en-us/usage-guidelines).
 
 ### Can I break the system/avoid getting reported?
 
-It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
+No. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
 
 ### Can I encrypt my chat messages?
 
@@ -294,6 +324,12 @@ In Fabulously Optimized the encryption button is currently hidden to reduce conf
 6. Click your chat key, default `T`
 7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
    * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
+
+### I want to give feedback to Mojang.
+
+Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us):
+* [Give feedback on the chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/7320990094733-Player-Chat-Reporting-Feedback-)
+* [The most popular request for reverting chat reporting](https://feedback.minecraft.net/hc/en-us/community/posts/6977558665997-Mojang-please-for-the-love-of-your-game-don-t-add-a-chat-report-feature-)
 
 ## Skin and username reporting
 
@@ -350,7 +386,7 @@ Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using M
 
 However, other players _will_ need the same mods to see them, and the mods probably have certain rules/reporting features of their own. Do your own research if interested.
 
-## Other questions
+## Related questions
 
 ### Does Java Edition have a profanity filter?
 
@@ -364,7 +400,7 @@ Bedrock Edition has the filter on chat, signs, item names, books etc. across all
 
 Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-titles/minecraft-realms-overview) (Java and Bedrock) and [Featured Servers](https://web.archive.org/web/20230610202006/https://help.minecraft.net/hc/en-us/articles/4408873961869-Minecraft-Dedicated-and-Featured-Servers-FAQ-) (only Bedrock).
 
-[Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE) says
+[Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X6ZSKYQ6SGC8D6AB7XCNB) says
 
 > For Bedrock and Java Realms as well as partnered Bedrock servers, we leverage an automated proactive chat filtering system.
 > 
@@ -376,25 +412,30 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 
 Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
 
+Though, it is worth pointing out that _monitoring_ and "automated proactive chat filtering" in this case likely refers to automatic reports triggered by specific keywords used, not that there is a person or team specifically looking at your messages.
+
 ### Does Bedrock Edition also have player reporting?
 
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent chat reporting there.
 
-### Was player reporting possible at all before 1.19.1?
+### How many servers actually have chat reporting?
 
-Yes, [Mojang has had a web form for it](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565), that still exists.
+There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
 
-But it wasn't really an issue in the same way, because:
+However, what we do know:
 
-- few people knew about it (higher chances of actual reports instead of jokes/bullying)
-- chat messages were not verifiable to be sent by the username next to them
-- ban system itself did not exist
+* Any server that allows 1.18.2 or older clients to enter cannot have chat reporting. Yes, that includes Hypixel and many other minigame servers.
+* Any server that allows versions between 1.19-1.19.2 and/or 1.19.2-1.19.3 to join _cannot_ have chat reporting. This is because these versions have different implementations of chat signing/reporting, and as such they cannot coexist.
+* [There are many plugins and ways to disable chat reporting](server-setup.md#chat-reporting), and these are popular among server owners.
+* Any vanilla server from 1.19 and up enables chat reporting by default, but may or may not allow players to disable it for themselves.
+* Cracked servers cannot have chat reporting.
+* Realms always has chat reporting.
 
-Therefore, it is unknown, how chat reports in the form were or are handled. Usernames and skins were/are probably handled [as in the newly introduced system](#skin-and-username-reporting).
+Public server listings usually only list the latest version a player can join with, not all versions, so even the 1.19.3+ server count is hard to determine.
 
 ### What is the intent of this article?
 
-The intent is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system. Again, the problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
+The intent is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system, including important details and answers to questions that [Mojang's official resources](#official-posts) don't provide. The problem is not that a reporting system exists in the first place, but rather that [the current technical implementation is problematic](#why-is-it-controversial), and can cause punishments to innocent players. Those that _do_ break the rules will get punished sooner or later anyway, and are not the target audience of this.
 
 [There are a lot of ways to improve the system](#how-could-mojang-improve-the-system) while keeping it in the game, and Mojang [has also taken some steps towards improving it](#history-of-changes).
 
