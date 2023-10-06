@@ -12,7 +12,7 @@ I support people using Minecraft in their language and would like to promote tha
 4. If not, go to Code tab and browse the folders in order: `src` → `main` → `resources` → `assets` → `(mod's name)` → `lang` → `en_us.json`
 5. Open the file and copy its full text
 6. Go back to `lang` folder, click Add file → Create new file
-7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.fandom.com/wiki/Language#Languages)
+7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.wiki/w/Language#Languages)
 8. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
    * `"coolmod.config.title": "Coolmod Options",`
 9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
@@ -25,11 +25,11 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 
 1. [Sodium](https://crowdin.com/project/sodium-fabric) (unofficial, but bundled in FO)
 2. [Sodium Extra](https://crowdin.com/project/sodium-extra)
-3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/1.19.4/src/main/resources/assets/iris/lang/en_us.json)
+3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/1.20-new/src/main/resources/assets/iris/lang/en_us.json)
 4. [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
 5. [Mod Menu](https://crowdin.com/project/mod-menu)
 6. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.20.1/src/main/resources/assets/midnightcontrols/lang/en_us.json)
-7. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.20.1/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.20.1/fabric-item-group-api-v1/src/main/resources/assets/fabric/lang/en_us.json)
+7. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.20.2/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.20.2/fabric-item-group-api-v1/src/main/resources/assets/fabric/lang/en_us.json)
 8. [Zoomify](https://github.com/isXander/Zoomify/blob/1.20/src/main/resources/assets/zoomify/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
 10. [Continuity](https://github.com/PepperCode1/Continuity/blob/1.19/dev/src/main/resources/assets/continuity/lang/en_us.json)
@@ -90,7 +90,7 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 * In-game testing is needed only for the resource pack description - [use MMH's instructions](#testing-tutorial).
 * Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
-* For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.19.4-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
+* For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.20-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
 ### Fast Better Grass
 

@@ -16,6 +16,8 @@ If this is the case, the modpack will warn you and allow overriding it, but note
 
 To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9._-`.
 
+[See also](https://minecraft.wiki/w/Resource_location#Legal_characters)
+
 ### Custom entity models
 
 _Or "mobs with a custom shape"._
