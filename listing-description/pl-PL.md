@@ -1,6 +1,6 @@
 # Polski
 
-Oparty na Fabric'u modpack skupiający się na wydajności i ulepszeniach graficznych
+Oparty na Fabric'u modpack skupiający się na wydajności i ulepszeniach graficznych.
 
 [![Obecna recenzja](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
