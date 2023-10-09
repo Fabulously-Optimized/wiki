@@ -16,7 +16,7 @@ No, they are not supported on CurseForge Launcher and are released too fast for 
 
 #### What if I want to play on an older Minecraft version?
 
-See the [CurseForge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) for the existing stable versions down to 1.16.1. Versions with a warning triangle ⚠️ [are not safe for multiplayer](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) and are kept just for archival purposes.
+See the [CurseForge page]() for the existing stable versions down to 1.16.1. Versions with a warning triangle ⚠️ [are not safe for multiplayer](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) and are kept just for archival purposes.
 
 If you need to play in a server that uses a version not supported by the modpack, your best bet is installing the latest version of FO and adding [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) to your modpack profile [(instructions are here)](adding-more-mods.md). I recommend keeping the mod enabled only while playing the server where you need it.
 
