@@ -39,7 +39,7 @@ Don't worry, we can fix that!
 <details>
   <summary>Downloading the ZIP again</summary>
 
-  1. Go to [Files]() on CurseForge
+  1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
   2. Click `Download` on the latest **MultiMC version** of the pack
      * On CurseForge's new UI, `⌵` → `Download file`
      * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
