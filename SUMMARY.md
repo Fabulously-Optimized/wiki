@@ -3,7 +3,7 @@
 * [Fabulously Optimized](README.md)
   * [Adding more mods](adding-more-mods.md)
   * [Changed options](changed-options.md)
-  * [Chat Reporting FAQ](chat-reporting-faq.md)
+  * [Unofficial Player Reporting FAQ](chat-reporting-faq.md)
   * [Disabling mods](disabling-mods.md)
   * [Free cape](free-cape.md)
   * [Getting shaders](getting-shaders.md)

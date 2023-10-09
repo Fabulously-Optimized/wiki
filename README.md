@@ -1,6 +1,6 @@
 # Fabulously Optimized
 
-Welcome to the Fabulously Optimized wiki! [🌐 Read in your language](https://translate.google.com/translate?js=n&sl=auto&u=https://github.com/Fabulously-Optimized/wiki/blob/main/README.md)
+Welcome to the Fabulously Optimized wiki!  [🌐 Read in your language](https://translate.google.com/translate?js=n&sl=auto&u=https://fabulously-optimized.gitbook.io/modpack/)
 
 **[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
 
@@ -12,6 +12,10 @@ Comparison with [🇴​🇫 OptiFine](give-up-optifine.md) | [🔣 Other modpac
 
 You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [✍️ Translating to your language](language-support.md)
 
-More info about [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🚨 Chat Reporting](chat-reporting-faq.md) | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md)
+More info about [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🚨 Player Reporting](chat-reporting-faq.md) | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://fabulously-optimized.github.io/discord)
+
+---
+
+Did you know that the official Minecraft Wiki has moved? Check it out: [https://minecraft.wiki](https://minecraft.wiki)

@@ -40,34 +40,34 @@ Avem o comunitate în creștere de membri prietenoși cărora le place să discu
 
 > **Î**: Cum instalez/actualizez/adaug mod-uri/fac altceva?
 > 
-> **A**: [Răspunsurile se află în wiki-ul nostru.][11]
+> **R**: [Răspunsurile se află în wiki-ul nostru.][11]
 
 
-> **Q**: Ceva s-a stricat/ Ar trebui să adăugați ceva!
+> **Î**: Ceva s-a stricat/ Ar trebui să adăugați ceva!
 > 
-> **A**: [Postați problema pe GitHub.][8]
+> **R**: [Postați problema pe GitHub.][8]
 
 
-> **Q**: Ce moduri are?
+> **Î**: Ce moduri are?
 > 
-> **A**: Faceți clic pe orice versiune și derulați în jos [sau consultați tabelul comparativ][12].
+> **R**: Faceți clic pe orice versiune și derulați în jos [sau consultați tabelul comparativ][12].
 
 
-> **Q**: Îmi place modpack-ul. Cum pot să contribui?
+> **Î**: Îmi place modpack-ul. Cum pot să contribui?
 > 
-> **A**: [Aici sunt descrise modalitățile prin care puteți ajuta.][16] Vă mulțumim!
+> **R**: [Aici sunt descrise modalitățile prin care puteți ajuta.][16] Vă mulțumim!
 
 
 > **Î**: Am nevoie de modpack pe server?
 > 
-> **A**: Nu, pachetul funcționează pe toate serverele care permit clienți vanilla. [Un răspuns detaliat și sfaturi de configurare a serverului sunt aici.][13]
+> **R**: Nu, pachetul funcționează pe toate serverele care permit clienți vanilla. [Un răspuns detaliat și sfaturi de configurare a serverului sunt aici.][13]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Dacă aveți nevoie de găzduire, faceți clic aici - 25% reducere pentru prima lună!][14]
 
 
-> **Q**: Am mai multe întrebări!
+> **Î**: Am mai multe întrebări!
 > 
-> **A**: [Veniți să discutați cu noi pe Discord!][10]
+> **R**: [Veniți să discutați cu noi pe Discord!][10]
 
 ### Prin utilizarea acestui modpack, [sunteți de acord cu următoarele][15].
 
