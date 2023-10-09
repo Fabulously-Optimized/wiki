@@ -226,6 +226,17 @@ If you don't think the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon is
 
 The behaviour can also be configured per-server, hover on the status icon (bottom right corner of the chatbox) for more details.
 
+### I can't chat in my server!
+
+Some poorly configured servers require chat reportability, but fail to communicate it in a standard way. Then you may see vague messages like "Please relog to chat" or "Please disable mods to chat". 
+
+Actually, all you have to do is:
+
+1. Click ![optional](https://i.ibb.co/hstcjW7/neutral.png) 2 times until it says "Signing mode: **Always**"
+2. Say something
+3. Your message went through and you'll see the ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) icon
+4. Optionally: [report the server IP to Fabulously Optimized](https://fabulously-optimized.github.io/discord), so that it can be fixed for everyone
+
 ### Is No Chat Reports itself a risk?
 
 No. The mod disables chat signing on servers that explicitly tell the clients "chat reportability is not required here!". In servers that enforce the system, chat signing will work as it does in vanilla.
