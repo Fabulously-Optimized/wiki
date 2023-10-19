@@ -107,6 +107,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 4. Download some mods manually as needed:
    * **FO 5.2.9**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.4+1.20)
    * **FO 4.11.0**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+   * _If your version is not listed here, you do not need to manually download anything._
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
