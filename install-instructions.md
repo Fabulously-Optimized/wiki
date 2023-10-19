@@ -106,7 +106,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 6. Click `⋮` → `Download file` on the latest **MultiMC version**
    * If you see less than 10 mods in the zip, you downloaded the wrong version.  
 7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-8. Copy **all folders** [(why?)](vanilla-launcher-faq#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
+8. Copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
 9. **FO 4.11.0+**: Copy downloaded mod JAR(s) to _mods_ folder
 10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
