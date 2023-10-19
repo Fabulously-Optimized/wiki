@@ -112,7 +112,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
    * If you see less than 10 mods in the zip, you downloaded the wrong version.  
 8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
+9. Copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
 10. **FO 4.11.0+**: Copy downloaded mod JAR(s) to _mods_ folder
 11. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 12. Launch the installed Fabric profile
