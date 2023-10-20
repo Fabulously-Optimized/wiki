@@ -45,6 +45,7 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
 3. [Join our Discord](https://fabulously-optimized.github.io/discord) to become a proofreader in your language or discuss with an existing one.
+   * Translate any file to 100% to get a yellow rank on Discord, which gives you access to some hidden channels ;)
 4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FO.**   
    * For example, if you fully translate two files but fully approve one, then only the fully approved file will be published at the moment.
 6. Wait for the next release of FO to see your translations live!
