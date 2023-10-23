@@ -72,7 +72,6 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                              | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |
 | [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts  | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | 
 | [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat      | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| [MC-172550](https://bugs.mojang.com/browse/MC-172550) | Ghost blocks sometimes appear when insta-mining                            | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)       |
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-226729](https://bugs.mojang.com/browse/MC-226729) | Memory leakage problem in native operations                                | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |  
@@ -98,7 +97,7 @@ The modpack is already configured for the best performance and simplest experien
 
 If you want to configure something, you'll most likely find it on `Options...` → `Video Settings...`. If you have a powerful computer or monitor, you may want to disable Vsync there.
 
-For other things like dynamic lights, better grass and zoom:
+For other things like dynamic lights, shaders and zoom:
 
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
