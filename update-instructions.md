@@ -135,7 +135,7 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
 * If you did any of the things above and are having issues, simply update Fabulously Optimized again, even if you have the same version.
 
-### Resetting settings
+### Resetting options
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 
