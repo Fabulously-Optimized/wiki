@@ -99,7 +99,7 @@ The modpack is already configured for the best performance and simplest experien
 
 If you want to configure something, you'll most likely find it on `Options...` → `Video Settings...`. If you have a powerful computer or monitor, you may want to disable Vsync there.
 
-For other things like dynamic lights, better grass and zoom:
+For other things like dynamic lights, shaders and zoom:
 
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
