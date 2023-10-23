@@ -101,8 +101,8 @@ For other things like dynamic lights, shaders and zoom:
 
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
-3. If the pencil is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
-   * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
+3. If `🛠️` is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
+   * If you don't see the `🛠️` emoji, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
 If you need to disable a mod, [see this wiki page](disabling-mods.md).
 
