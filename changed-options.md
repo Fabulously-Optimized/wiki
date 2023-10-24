@@ -28,6 +28,19 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 **Changed mod settings can be found on the repo at [.../yosbr/1.20.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.20.1/config).**
 
+### Telemetry
+
+**Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
+
+While telemetry is not always bad, as it may help developers better support their content for users' devices (e.g. to see where performance can be improved) it can be unwanted and unexpected for privacy concerns. 
+
+As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so in this modpack such option is added by [Debugify](https://curseforge.com/minecraft/mc-mods/debugify). The reason for disabling vanilla telemetry is that
+
+1. it collects too much data even in minimal configuration (e.g. user's Xbox ID)
+2. it skews Mojang's data due to being modded - Mojang may see that users already have good performance, but it does not actually reflect the vanilla game
+
+[The modpack's stance](principles.md) is to disable all forms of telemetry by default, letting users to choose to opt-in to it manually when wanted. However, it is important to note that the modpack cannot disable any telemetry collected by user's launcher or operating system.
+
 ### Keybinds
 
 **P.S. This table has 5 columns. Scroll right if you can't see them!**
