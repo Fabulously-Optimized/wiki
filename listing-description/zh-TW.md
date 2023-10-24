@@ -8,7 +8,7 @@
 
 Fabulously Optimized 通常比 OptiFine 更快，感謝[現代效能模組][1]例如 Sodium、Lithium 和更多！
 
-### 支持 OptiFine 功能
+### 支援 OptiFine 功能
 
 Fabulously Optimized [支援幾乎所有 OptiFine 功能][2]，包括光影、連接材質和放大。[你甚至可以獲得您自己的披風！][3]
 
