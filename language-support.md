@@ -62,7 +62,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
      * If you get any issues, press `Shift` + `P` within the video settings, to get the vanilla video settings and revert fullscreen options there.
      * The numbers after `@` may vary. 
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
-* Keep paragraph sign (§), pencil emoji (🖉), asterisk (`*`) and newlines as they are on the original.
+* Keep paragraph sign (§), tools emoji (⚒️), arrows emoji (🔀) and newlines as they are on the original.
 
 #### Testing tutorial
 
