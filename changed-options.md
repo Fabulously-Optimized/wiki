@@ -28,6 +28,19 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 **Changed mod settings can be found on the repo at [.../yosbr/1.20.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.20.1/config).**
 
+### Telemetry
+
+**Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
+
+While telemetry is not always bad, as it may help developers better support their content for users' devices (e.g. to see where performance can be improved) it can be unwanted and unexpected for privacy concerns. 
+
+As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so in this modpack such option is added by [Debugify](https://curseforge.com/minecraft/mc-mods/debugify). The reason for disabling vanilla telemetry is that
+
+1. it collects too much data even in minimal configuration (e.g. user's Xbox ID)
+2. it skews Mojang's data due to being modded - Mojang may see that users already have good performance, but it does not actually reflect the vanilla game
+
+[The modpack's stance](principles.md) is to disable all forms of telemetry by default, letting users to choose to opt-in to it manually when wanted. However, it is important to note that the modpack cannot disable any telemetry collected by user's launcher or operating system.
+
 ### Keybinds
 
 **P.S. This table has 5 columns. Scroll right if you can't see them!**
@@ -74,7 +87,6 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts  | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | 
 | [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat      | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| [MC-172550](https://bugs.mojang.com/browse/MC-172550) | Ghost blocks sometimes appear when insta-mining                            | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)       |
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-226729](https://bugs.mojang.com/browse/MC-226729) | Memory leakage problem in native operations                                | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |  
@@ -100,7 +112,7 @@ The modpack is already configured for the best performance and simplest experien
 
 If you want to configure something, you'll most likely find it on `Options...` → `Video Settings...`. If you have a powerful computer or monitor, you may want to disable Vsync there.
 
-For other things like dynamic lights, better grass and zoom:
+For other things like dynamic lights, shaders and zoom:
 
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
