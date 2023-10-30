@@ -104,6 +104,9 @@ Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' 
 Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
 
 * [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
+* Translations are published every Saturday, so any FO version to come after that will get it.
+* Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
+* You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
 
 ### Listing description
 
