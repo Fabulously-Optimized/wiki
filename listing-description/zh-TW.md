@@ -2,7 +2,7 @@
 
 一個基於 Fabric 的 Minecraft 模組包，專注於提高效能和圖像增強。
 
-[![觀看評論影片](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
+[![目前評論](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
 ### 效能
 
@@ -45,31 +45,31 @@ Fabulously Optimized [是開源的][8]，它的大部分模組也是如此。我
 
 > **問**：出了問題／你應該新增些東西！
 > 
-> **答**：[發佈到我們的 GitHub。][8]
+> **答**：[發布到我們的 GitHub。][8]
 
 
 > **問**：它有哪些模組？
 > 
-> **答**：點擊任何版本然後往下滑[或看對照表][12]。
+> **答**：點擊任何版本向下捲動[或查看此對照表][12]。
 
 
-> **問**：我喜歡此模組包。我要如何做出貢獻？
+> **問**：我喜歡這個模組包。我要怎麼做出貢獻？
 > 
-> **答**：[這裡描述了您可以幫助的方法。][16]謝謝你！
+> **答**：[這裡描述了你可以幫助的方法。][16]謝謝你！
 
 
 > **問**：我需要在伺服器安裝此模組包嗎？
 > 
-> **答**：不，此模組包可以在所有允許使用原版用戶端的伺服器上運作。[詳細答案和伺服器設定提示在此處。][13]
+> **答**：不，此模組包可以在所有允許使用原版用戶端的伺服器上運作。[詳細答案和伺服器設定提示在這裡。][13]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) 如果您需要一個主機，請點擊這裡──第一個月可享有 25％ 折扣！][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) 如果你需要一個主機，請點擊這裡──第一個月可享有 25％ 折扣！][14]
 
 
 > **問**：我有更多的問題！
 > 
-> **答**：[來加入我們的 Discord 聊天吧！][10]
+> **答**：[來 Discord 與我們聊天吧！][10]
 
-### 使用這個模組包，[您同意以下聲明][15]。
+### 使用這個模組包，[你同意以下聲明][15]。
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
