@@ -370,13 +370,13 @@ Yes and no.
 
 ### Are all users' skins/usernames reportable?
 
-On online-mode servers, yes. On offline-mode servers, it is not certain yet - it can be possible to report but due to technical differences the reports may not get acted on.
+On online-mode servers, yes. On offline-mode servers, it is not certain yet - it may be possible to report but due to technical differences the reports will likely not get acted on.
 
 ### What happens when I'm punished?
 
 For the first few offenses, not much. 
 
-- If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
+- If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again (to a different one).
 - If your username was the offense, you will get unbanned from multiplayer as soon as you change your username.
 
 If you have repeated offenses, you will get a permanent ban from all multiplayer servers.
@@ -397,7 +397,7 @@ Do your own research if interested.
 
 ### Can reports/bans be prevented client-side?
 
-Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
+Partially. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
 
 However, other players _will_ need the same mods to see them, and the mods probably have certain rules/reporting features of their own. Do your own research if interested.
 
