@@ -18,7 +18,7 @@ Fabulously Optimized [includes features and configurations][4] that let you play
 
 ### Works everywhere
 
-Fabulously Optimized has no content mods, so you can play on any world or server. While you can play the pack with any game launcher, [we encourage these as they give you the best experience.][6]
+Fabulously Optimized has no content mods, so you can play on any world or server. While you can play the pack with any game launcher, [we encourage and support these as they give you the best experience.][6]
 
 ### Up to date
 
