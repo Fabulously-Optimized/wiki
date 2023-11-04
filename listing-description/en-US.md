@@ -6,27 +6,23 @@ A Fabric-based Minecraft modpack focusing on performance and graphics enhancemen
 
 ### Performance
 
-Fabulously Optimized is usually faster than OptiFine thanks to [modern performance mods][1] such as Sodium, Lithium and more!
+Fabulously Optimized is faster than OptiFine thanks to [modern performance mods][1] such as Sodium, Lithium and others! The bundled mods have been carefully selected to be safe to your worlds and bring noticeable speed benefits on any device.
 
 ### OptiFine parity
 
-Fabulously Optimized [supports almost all OptiFine features][2], including shaders, connected textures and zoom. [You can even get your own free cape!][3]
+Fabulously Optimized [supports most OptiFine features][2], including shaders, connected textures and zoom. [You can even get a free cape!][3]
 
-### Minor tweaks
+### Feels familiar
 
-Fabulously Optimized [includes a few minor tweaks][4] that don't break the vanilla feel, such as extended chat history, windowed fullscreen mode, fixes to most common bugs and utilities to diagnose crashes.
+Fabulously Optimized [includes features and configurations][4] that let you play Minecraft just as you remember it, no matter what version you've used before. That means you can use game controllers, play local worlds with friends, see advancements in full screen and more. 
 
 ### Works everywhere
 
-Fabulously Optimized has no content mods, so it works on any world or server. The modpack [can be run on 4 launchers, is hosted on 3 sites][6] and [is translated to many languages][7].
+Fabulously Optimized has no content mods, so you can play on any world or server. While you can use the modpack with any game launcher, [we encourage these as they give you the best experience.][6]
 
 ### Up to date
 
-Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
-
-### Built on Fabric
-
-Compared to Forge, Fabric is lightweight, updates and loads fast, and still has great mod support.
+Thanks to Fabric mod loader, Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions.
 
 ### Open development
 
@@ -34,7 +30,7 @@ Fabulously Optimized [is open-source][8] and so are most of its mods. We welcome
 
 ### Helpful community
 
-We have a growing community of friendly members who like to discuss the pack and help each other. [Join us today!][10]
+We have a growing community of friendly members who like to discuss the pack, [translate its content][7] and help each other. [Join us today!][10]
 
 ## FAQ
 
