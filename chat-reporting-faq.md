@@ -279,7 +279,9 @@ Do what you always did.
 
 * If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
 * If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
-* If you're not using No Chat Reports, keep reading.
+
+<details>
+<summary>If you're not using No Chat Reports or using vanilla client, click here</summary>
 
 In vanilla (1.20.2), there are also ways to determine whether chat reportability is enabled in a given server, but it requires paying attention to small clues:
 
@@ -289,6 +291,8 @@ In vanilla (1.20.2), there are also ways to determine whether chat reportability
 * When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reporting.
 * When you joined the server, did you see this toast on top right corner? If yes, chat reporting may be disabled on the server, or players could use a mod like No Chat Reports to disable it for themselves.
    * ![](https://user-images.githubusercontent.com/47505981/183680550-d9bc58f3-f93f-4ee6-bd34-d2879bdfb96a.png)
+
+</details>
 
 ### I am a server owner. How can I protect my users?
 
