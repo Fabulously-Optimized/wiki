@@ -22,7 +22,7 @@ Fabulously Optimized has no content mods, so you can play on any world or server
 
 ### Up to date
 
-Thanks to Fabric mod loader, Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions. [Updating the modpack is easy][17] and will preserve your configuration changes (where possible).
+Thanks to Fabric mod loader, Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions. [Updating the modpack is easy][17] and will preserve your configuration changes, where possible.
 
 ### Open development
 
