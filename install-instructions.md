@@ -54,7 +54,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 17. The game is now set up and you can just launch it from your game library from now on. 
 18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
-P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.reddit.com/r/steamdeck) as FO moderators may not have one.
 
 ### [MultiMC](https://multimc.org)
 
