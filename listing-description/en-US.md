@@ -34,7 +34,7 @@ Fabulously Optimized [is open-source][8], and so are most of its mods. We welcom
 
 ### Helpful community
 
-We have a growing community of friendly members who like to discuss the pack, [translate its content][9] and help each other. [Join us today!][10]
+We have a growing community of friendly members who enjoy discussing the pack, [translating its content][9], and helping each other. [Join us today!][10]
 
 ## FAQ
 
