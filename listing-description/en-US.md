@@ -20,13 +20,13 @@ Fabulously Optimized [includes features that allow you to experience Minecraft j
 
 Fabulously Optimized does not include content mods, so you can play on any world or server. While you can use any game launcher to play the pack, [we recommend and provide support for specific ones that offer the best experience][5].
 
-### Built on Fabric
-
-Fabulously Optimized uses the Fabric mod loader, which is lightweight, fast and supports a lot of mods. That means you can use the modpack as a base [and add your favorite mods on top.][6]
-
 ### Up to date
 
 Fabulously Optimized [receives fast updates][5] and stands as one of the first modpacks to upgrade to newer Minecraft versions. [Updating the modpack is easy][7] and will preserve your configuration changes, where possible.
+
+### Built on Fabric
+
+Fabulously Optimized uses the Fabric mod loader, which is lightweight, fast and supports a lot of mods. That means you can use the modpack as a base [to add your favorite mods onto.][6]
 
 ### Open development
 
