@@ -18,11 +18,15 @@ Fabulously Optimized [includes features that allow you to experience Minecraft j
 
 ### Works everywhere
 
-Fabulously Optimized has no content mods, so you can play on any world or server. While you can play the pack with any game launcher, [we encourage and support these as they give you the best experience.][6]
+Fabulously Optimized does not include content mods, so you can play on any world or server. While you can use any game launcher to play the pack, [we recommend and provide support for specific ones that offer the best experience][5].
+
+### Built on Fabric
+
+Fabulously Optimized uses the Fabric mod loader, which is lightweight, fast and supports a lot of mods. That means you can use the modpack as a base [and add your favorite mods on top.][6]
 
 ### Up to date
 
-Thanks to Fabric mod loader, Fabulously Optimized [receives fast updates][5] and is one of the first modpacks to upgrade to newer Minecraft versions. [Updating the modpack is easy][17] and will preserve your configuration changes, where possible.
+Fabulously Optimized [receives fast updates][5] and stands as one of the first modpacks to upgrade to newer Minecraft versions. [Updating the modpack is easy][7] and will preserve your configuration changes, where possible.
 
 ### Open development
 
@@ -30,7 +34,7 @@ Fabulously Optimized [is open-source][8], and so are most of its mods. We welcom
 
 ### Helpful community
 
-We have a growing community of friendly members who like to discuss the pack, [translate its content][7] and help each other. [Join us today!][10]
+We have a growing community of friendly members who like to discuss the pack, [translate its content][9] and help each other. [Join us today!][10]
 
 ## FAQ
 
@@ -51,14 +55,14 @@ We have a growing community of friendly members who like to discuss the pack, [t
 
 > **Q**: I like the modpack. How can I contribute?
 > 
-> **A**: [Ways you can help are described here.][16] Thank you!
+> **A**: [Ways you can help are described here.][13] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
 > 
-> **A**: No, the pack works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][13]
+> **A**: No, the pack works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][14]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][15]
 
 
 > **Q**: I have more questions!
@@ -71,16 +75,15 @@ We have a growing community of friendly members who like to discuss the pack, [t
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
 [3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
 [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
-[5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
-[6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
-[7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
+[5]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
+[6]: https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods
+[7]: https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions
 [8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
+[9]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [10]: https://fabulously-optimized.github.io/discord
-[11]: https://fabulously-optimized.gitbook.io/modpack/
+[11]: https://fabulously-optimized.gitbook.io/modpack
 [12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
-[13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
-[14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
-[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
-[17]: https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions
+[13]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
+[14]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
+[15]: https://www.bisecthosting.com/clients/aff.php?aff=2604
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
