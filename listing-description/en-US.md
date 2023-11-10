@@ -14,7 +14,7 @@ Fabulously Optimized [supports most OptiFine features][2], including shaders, co
 
 ### Feels familiar
 
-Fabulously Optimized [includes features that allow you to experience Minecraft just as you remember it][4], no matter what version you've used before. This means you can use game controllers, play local worlds with friends, view advancements in a large window, and much more. 
+Fabulously Optimized [includes features that allow you to experience Minecraft just as you remember it][4], no matter what version you've used before. This means you can use game controllers, play local worlds with friends, view advancements in a large window, and much more.
 
 ### Works everywhere
 
