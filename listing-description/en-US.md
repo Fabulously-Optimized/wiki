@@ -26,7 +26,7 @@ Thanks to Fabric mod loader, Fabulously Optimized [receives fast updates][5] and
 
 ### Open development
 
-Fabulously Optimized [is open-source][8] and so are most of its mods. We welcome suggestions from the users and collaborate with mod developers to create a better user experience for everyone.
+Fabulously Optimized [is open-source][8], and so are most of its mods. We welcome user suggestions and collaborate with mod developers to create a better user experience for everyone.
 
 ### Helpful community
 
