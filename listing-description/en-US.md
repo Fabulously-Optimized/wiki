@@ -10,7 +10,7 @@ Fabulously Optimized is faster than OptiFine, thanks to [modern performance mods
 
 ### OptiFine parity
 
-Fabulously Optimized [supports most OptiFine features][2], including shaders, connected textures and zoom. If your resource pack says "OptiFine required", it will likely work on here as well. [You can also get a free cape!][3]
+Fabulously Optimized [supports most OptiFine features][2], including shaders, connected textures, and zoom. If your resource pack states "OptiFine required," it will probably function here as well. [You can even get your own free cape!][3]
 
 ### Feels familiar
 
