@@ -26,7 +26,7 @@ Fabulously Optimized [receives fast updates][6] and stands as one of the first m
 
 ### Built on Fabric
 
-Fabulously Optimized uses the Fabric mod loader, which is lightweight, fast and supports a lot of mods. That means you can use the modpack as a base [to add your favorite mods onto.][8]
+Fabulously Optimized uses the Fabric mod loader, which is lightweight, fast, and supports a lot of mods. That means you can use the modpack as a base [to add your favorite mods to.][8]
 
 ### Open development
 
@@ -38,12 +38,12 @@ We have a growing community of friendly members who enjoy discussing the pack, [
 
 ## FAQ
 
-> **Q**: How do I install/update/add mods/do something else?
+> **Q**: How do I install, update, add mods, or do something else?
 > 
 > **A**: [The answers are in our wiki.][12]
 
 
-> **Q**: Something broke/You should add something!
+> **Q**: Something broke or you should add something!
 > 
 > **A**: [Post it to our GitHub.][9]
 
