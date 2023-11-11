@@ -251,7 +251,7 @@ In vanilla itself there is no such clear indication as the toast and chat line i
 
 Fabulously Optimized is not "just a performance pack" or an "OptiFine clone". While these are its core priorities, indeed, the priorities also include [the community itself, privacy and transparency](principles.md).
 
-When the system was first visibly introduced in 22w24a, [the players were clearly upset](https://www.reddit.com/r/Minecraft/comments/vcz7ou/this_is_getting_out_of_hand_now_there_are_two/). Not only was there zero prior communication about the system - [except the introduction of chat signing](#history-of-changes)), which most users didn't think much of at the time - but also within said snapshot and [the next one](#history-of-changes)) (supposedly "the last one before 1.19.1") Mojang did not communicate with the users. Not via QnA, no tweets, no help pages. There were practical exploits and ethical concerns which stayed unanswered. [1.19.1-rc.1 removed 3 of the most concerning report categories](#history-of-changes), but still did not communicate with users.
+When the system was first visibly introduced in 22w24a, [the players were clearly upset](https://www.reddit.com/r/Minecraft/comments/vcz7ou/this_is_getting_out_of_hand_now_there_are_two/). Not only was there zero prior communication about the system - [except the introduction of chat signing](#history-of-changes), which most users didn't think much of at the time - but also within said snapshot and [the next one](#history-of-changes) (supposedly "the last one before 1.19.1") Mojang did not communicate with the users. Not via QnA, no tweets, no help pages. There were practical exploits and ethical concerns which stayed unanswered. [1.19.1-rc.1 removed 3 of the most concerning report categories](#history-of-changes), but still did not communicate with users.
 
 Then they took a step back. Postponed the release by a month to rework the system internally, [made it visually more annoying than before](#history-of-changes) and eventually released 1.19.1. After that, Mojang started working on some help pages to explain the feature in fuller detail. Due to aforementioned concerns and players spreading misinformation, this modpack received a FAQ (which you're reading now) to explain the system as it actually is, while taking a very protective stance in-game. [Step by step](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/376), while discussing with the players and learning more about the feature, Fabulously Optimized changed its stance from "protective" towards "unobtrusive".
 
@@ -279,7 +279,9 @@ Do what you always did.
 
 * If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
 * If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
-* If you're not using No Chat Reports, keep reading.
+
+<details>
+<summary>If you're not using No Chat Reports or using vanilla client, click here</summary>
 
 In vanilla (1.20.2), there are also ways to determine whether chat reportability is enabled in a given server, but it requires paying attention to small clues:
 
@@ -289,6 +291,8 @@ In vanilla (1.20.2), there are also ways to determine whether chat reportability
 * When someone else types something, press `P` ([Social interactions](https://minecraft.wiki/w/Social_interactions)). Can you report that player's chat? If not, that player or server has disabled chat reporting.
 * When you joined the server, did you see this toast on top right corner? If yes, chat reporting may be disabled on the server, or players could use a mod like No Chat Reports to disable it for themselves.
    * ![](https://user-images.githubusercontent.com/47505981/183680550-d9bc58f3-f93f-4ee6-bd34-d2879bdfb96a.png)
+
+</details>
 
 ### I am a server owner. How can I protect my users?
 
@@ -366,13 +370,15 @@ Yes and no.
 
 ### Are all users' skins/usernames reportable?
 
-On online-mode servers, yes. On offline-mode servers, it is not certain yet - it can be possible to report but due to technical differences the reports may not get acted on.
+On online-mode servers, yes. 
+
+On offline-mode servers, it is not certain yet - it may be possible to report but due to technical differences the reports will likely not get acted on. [But that is not a solution.](chat-reporting-faq.md#should-i-disable-online-mode-on-my-server)
 
 ### What happens when I'm punished?
 
 For the first few offenses, not much. 
 
-- If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again.
+- If your skin was the offense, it will be reset to default and can already continue to play on multiplayer. You can also change the skin again (to a different one).
 - If your username was the offense, you will get unbanned from multiplayer as soon as you change your username.
 
 If you have repeated offenses, you will get a permanent ban from all multiplayer servers.
@@ -393,7 +399,7 @@ Do your own research if interested.
 
 ### Can reports/bans be prevented client-side?
 
-Maybe. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
+Partially. Clients could use custom cosmetic and title/pronoun mods to avoid using Mojang's servers in the first place. 
 
 However, other players _will_ need the same mods to see them, and the mods probably have certain rules/reporting features of their own. Do your own research if interested.
 

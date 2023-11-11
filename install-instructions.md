@@ -54,7 +54,7 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 17. The game is now set up and you can just launch it from your game library from now on. 
 18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
-P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.reddit.com/r/steamdeck) as FO moderators may not have one.
 
 ### [MultiMC](https://multimc.org)
 
@@ -94,7 +94,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.22**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.24**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Download some mods manually as needed:
