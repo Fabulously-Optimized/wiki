@@ -24,7 +24,7 @@ Or with the launcher already open:
 
 ### [Modrinth App](https://modrinth.com/app)
 
-You need [Java 17 or higher](https://adoptium.net/) to play the game. Launcher version 0.5.4 or higher required.
+You need [Java 17 or higher](https://adoptium.net/) to play the game. Launcher version 0.6.2 or higher required.
 
 1. Under "Popular packs" section, hover on "Fabulously Optimized"
 2. Click `⤓ Install`
