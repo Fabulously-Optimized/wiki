@@ -50,26 +50,26 @@ We have a growing community of friendly members who enjoy discussing the pack, [
 
 > **Q**: What mods does it have?
 > 
-> **A**: Click any version and scroll down [or see the comparison table][13].
+> **A**: Click any version and scroll down [or see the comparison table][1].
 
 
 > **Q**: I like the modpack. How can I contribute?
 > 
-> **A**: [Ways you can help are described here.][14] Thank you!
+> **A**: [Ways you can help are described here.][13] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
 > 
-> **A**: No, the pack works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][15]
+> **A**: No, the pack works on all servers that allow vanilla clients. [A detailed answer and server setup tips are here.][14]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][16]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) If you need a host, click here - 25% off for the first month!][15]
 
 
 > **Q**: I have more questions!
 > 
 > **A**: [Come and chat with us on Discord!][11]
 
-### By using this modpack, [you agree to the following disclaimers][17].
+### By using this modpack, [you agree to the following disclaimers][16].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 [2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
@@ -83,8 +83,7 @@ We have a growing community of friendly members who enjoy discussing the pack, [
 [10]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
 [11]: https://fabulously-optimized.github.io/discord
 [12]: https://fabulously-optimized.gitbook.io/modpack
-[13]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
-[14]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
-[15]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
-[16]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[17]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[13]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
+[14]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
+[15]: https://www.bisecthosting.com/clients/aff.php?aff=2604
+[16]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
