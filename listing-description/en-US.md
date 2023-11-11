@@ -50,12 +50,12 @@ We have a growing community of friendly members who like to discuss the pack and
 
 > **Q**: What mods does it have?
 > 
-> **A**: Click any version and scroll down [or see the comparison table][12].
+> **A**: Click any version and scroll down [or see the comparison table][1].
 
 
 > **Q**: I like the modpack. How can I contribute?
 > 
-> **A**: [Ways you can help are described here.][16] Thank you!
+> **A**: [Ways you can help are described here.][12] Thank you!
 
 
 > **Q**: Do I need the modpack on the server?
@@ -82,8 +82,8 @@ We have a growing community of friendly members who like to discuss the pack and
 [9]: https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257
 [10]: https://fabulously-optimized.github.io/discord
 [11]: https://fabulously-optimized.gitbook.io/modpack/
-[12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
+[12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
 [13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
 [14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
 [15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
-[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
+
