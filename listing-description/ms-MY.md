@@ -10,7 +10,7 @@ Fabulously Optimized adalah lebih pantas daripada OptiFine dikeranakan [mod pres
 
 ### Sokongan ciri OptiFine
 
-Fabulously Optimized [menyokong kebanyakkan ciri OptiFine][2] termasuk pembayang, tekstur bersambung dan zum. Jika pek sumber anda menyatakan "OptiFine diperlukan," ia mungkin akan berfungsi di sini juga. [Anda juga boleh mendapatkan mantel percuma anda!][3]
+Fabulously Optimized [menyokong kebanyakkan ciri OptiFine][2] termasuk pembayang, tekstur bersambung dan zum. Jika pek sumber anda menyatakan "OptiFine diperlukan," ia mungkin akan berfungsi di sini juga. [Anda juga boleh mendapatkan mantel percuma anda sendiri!][3]
 
 ### Terasa biasa
 
@@ -26,7 +26,7 @@ Fabulously Optimized [menerima pengemaskinian yang pantas][6]dan berdiri sebagai
 
 ### Dibina pada Fabric
 
-Fabulously Optimized menggunakan pemuat mod Fabric, yang ringan, pantas dan menyokong banyak mod. [Anda boleh menggunakan pek mod ini sebagai asas lalu anda boleh menambahkan mod kegemaran anda .][8]
+Fabulously Optimized menggunakan pemuat mod Fabric, yang ringan, pantas dan menyokong banyak mod. [Anda boleh menggunakan pek mod ini sebagai asas lalu anda boleh menambahkan mod kegemaran anda.][8]
 
 ### Pembangunan terbuka
 
@@ -60,7 +60,7 @@ Kami mempunyai komuniti yang kian hari kian membesar penuh dengan ahli yang mesr
 
 > **S**: Perlukah saya memasang pek mod ini dalam pelayan saya?
 > 
-> **A**: Tidak, pek ini berfungsi pada semua pelayan yang membenarkan pelanggan vanila. [ Jawapan terperinci dan petua persediaan pelayan ada di sini.][14]
+> **J**: Tidak, pek ini berfungsi pada semua pelayan yang membenarkan pelanggan vanila. [ Jawapan terperinci dan petua persediaan pelayan ada di sini.][14]
 > 
 > [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Jika anda memerlukan sebuah penganjur pelayan, klik di sini - diskaun 25% untuk bulan pertama!][15]
 
