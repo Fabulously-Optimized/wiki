@@ -81,11 +81,9 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-89146](https://bugs.mojang.com/browse/MC-89146)   | Pistons forget update when being reloaded                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-90683](https://bugs.mojang.com/browse/MC-90683)   | "Received unknown passenger" - Entities with differing render distances as passengers outputs error                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-112730](https://bugs.mojang.com/browse/MC-112730) | Beacon beam and structure block render twice per frame                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-121772](https://bugs.mojang.com/browse/MC-121772) | Can't scroll while holding SHIFT on macOS                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-121884](https://bugs.mojang.com/browse/MC-121884) | Server -> Client custom payload packets can leak resources                 | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix) |
 | [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                              | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |
-| [MC-140646](https://bugs.mojang.com/browse/MC-140646) | Text fields don't scroll while selecting text with Shift                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts  | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | 
 | [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat      | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
@@ -117,8 +115,8 @@ For other things like dynamic lights, shaders and zoom:
 
 1. Click `Mods`
 2. Read the descriptions of the mods to see what they do
-3. If the pencil is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
-   * If you don't see any pencils, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
+3. If `🛠️` is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
+   * If you don't see the `🛠️` emoji, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
 If you need to disable a mod, [see this wiki page](disabling-mods.md).
 
