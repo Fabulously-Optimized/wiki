@@ -4,7 +4,7 @@
 
 - As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
 - Upgrades from stable to unstable (alpha, beta) versions are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
-- Any kind of instance downgrading is **never** supported. Make a separate old instance or [use something like ViaFabric](chat-reporting-faq.md#but-my-favorite-server-requires-1.19) if your server hasn't updated yet.
+- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) if your server hasn't updated yet.
 - If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
 
 ### CurseForge Launcher
@@ -104,7 +104,7 @@ If there is a new Minecraft version:
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.22**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.24**
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations` and then click 📂 on the Fabric installation
@@ -113,13 +113,14 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 4. Download some mods manually as needed:
    * **FO 5.2.9**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.4+1.20)
    * **FO 4.11.0**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
+   * _If your version is not listed here, you do not need to manually download anything._
 5. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
 6. Click the topmost version, scroll down to "Additional files" section
 7. Click `⋮` → `Download file` on the latest **MultiMC version**
    * If you see less than 10 mods in the zip, you downloaded the wrong version.  
 8. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-9. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
-10. **FO 4.11.0+**: Copy downloaded mod JAR(s) to _mods_ folder
+9. Copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
+10. _If mentioned on step 2:_ Copy downloaded mod JAR(s) to _mods_ folder
 11. If you want [FO default settings](changed-options.md) as well, delete `options.txt` (your vanilla options will be reset)
 12. Launch the installed Fabric profile
 13. If you now see "Fabulously Optimized" in the right bottom corner and its version number is newer than before, you're done!
@@ -140,7 +141,7 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
 * If you did any of the things above and are having issues, simply update Fabulously Optimized again, even if you have the same version.
 
-### Resetting settings
+### Resetting options
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 

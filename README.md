@@ -4,7 +4,7 @@ Welcome to the Fabulously Optimized wiki!  [🌐 Read in your language](https://
 
 **[📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md)**
 
-[⬇️ Installing modpack](install-instructions.md) | [🆕 Updating modpack](update-instructions.md) [(resetting settings)](update-instructions.md#resetting-settings) | [➕ Adding mods](adding-more-mods.md) | [➖ Disabling mods](disabling-mods.md) | [🎛️ Changed options](changed-options.md) [(fixed bugs)](changed-options.md#fixed-bugs)
+[⬇️ Installing modpack](install-instructions.md) | [🆕 Updating modpack](update-instructions.md) [(resetting options)](update-instructions.md#resetting-options) | [➕ Adding mods](adding-more-mods.md) | [➖ Disabling mods](disabling-mods.md) | [🎛️ Changed options](changed-options.md) [(fixed bugs)](changed-options.md#fixed-bugs)
 
 Getting [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼️ Resource packs to work](resource-pack-issues.md)
 
@@ -12,7 +12,7 @@ Comparison with [🇴​🇫 OptiFine](give-up-optifine.md) | [🔣 Other modpac
 
 You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [✍️ Translating to your language](language-support.md)
 
-More info about [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🚨 Player Reporting](chat-reporting-faq.md) | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md)
+More info about [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🚨 Player Reporting](chat-reporting-faq.md) | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🗄️ Server setup](server-setup.md) | [⌛ History of the pack](https://ftb.fandom.com/wiki/Fabulously_Optimized)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://fabulously-optimized.github.io/discord)
 
