@@ -72,18 +72,18 @@ We have a growing community of friendly members who enjoy discussing the pack, [
 ### By using this modpack, [you agree to the following disclaimers][16].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
-[2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
-[3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
+[2]: https://wiki.download.fo/readme/give-up-optifine
+[3]: https://wiki.download.fo/readme/free-cape
 [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
 [5]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
-[6]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
-[7]: https://fabulously-optimized.gitbook.io/modpack/readme/update-instructions
-[8]: https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods
-[9]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[10]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
-[11]: https://fabulously-optimized.github.io/discord
-[12]: https://fabulously-optimized.gitbook.io/modpack
-[13]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
-[14]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
-[15]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[16]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[6]: https://download.fo/changelog
+[7]: https://wiki.download.fo/readme/update-instructions
+[8]: https://wiki.download.fo/readme/adding-more-mods
+[9]: https://download.fo/github
+[10]: https://download.fo/translate
+[11]: https://download.fo/discord
+[12]: https://wiki.download.fo
+[13]: https://download.fo/thanks
+[14]: https://wiki.download.fo/readme/server-setup
+[15]: https://download.fo/host
+[16]: https://download.fo/terms
