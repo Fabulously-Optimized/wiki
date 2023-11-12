@@ -1,6 +1,6 @@
 # Bahasa Melayu
 
-Pek mod Minecraft ringkas yang memfokuskan peningkatan prestasi dan grafik.
+Sebuah pek mod Minecraft ringkas yang memfokuskan peningkatan prestasi dan grafik.
 
 [![Video penilaian](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
