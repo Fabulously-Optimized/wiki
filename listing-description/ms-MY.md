@@ -22,7 +22,7 @@ Fabulously Optimized tidak menyertakan sebarang mod berkandungan, jadi anda bole
 
 ### Sentiasa dikemas kini
 
-Fabulously Optimized [menerima pengemaskinian yang pantas][6]dan berdiri sebagai salah satu pek mod pertama untuk menaik taraf kepada versi Minecraft yang lebih baharu. [Pengemaskinian pek mod ini adalah mudah][7] dan akan mengekalkan tetapan mod anda, jika boleh.
+Fabulously Optimized [menerima pengemaskinian yang pantas][6] dan berdiri sebagai salah satu pek mod pertama untuk menaik taraf kepada versi Minecraft yang lebih baharu. [Pengemaskinian pek mod ini adalah mudah][7] dan akan mengekalkan tetapan mod anda, jika boleh.
 
 ### Dibina pada Fabric
 
