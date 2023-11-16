@@ -186,6 +186,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **1.20.2**
    - [23w32a](https://minecraft.wiki/w/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages, instead a placeholder message will be shown in chat.
    - [23w33a](https://minecraft.wiki/w/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
+- **2023-11-07** - [Mojang announced the Official Minecraft Server List](https://www.minecraft.net/en-us/article/the-official-minecraft-server-list-live), which features [the "Beacon of Safety badge"](https://findmcserver.com/parents#features) that requires the server to have chat reporting, profanity filter and a manual review by the site's admins. No Java Edition servers have the badge yet.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
@@ -436,6 +437,8 @@ Though, it is worth pointing out that _monitoring_ and "automated proactive chat
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent chat reporting there.
 
 ### How many servers actually have chat reporting?
+
+**Update: [Mojang released an official server list](https://findmcserver.com/parents#features), which indicates chat reporting with a "Beacon of Safety badge". As of 2023-11-16, no Java Edition servers have the badge yet.**
 
 There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
 
