@@ -263,7 +263,7 @@ Therefore, Fabulously Optimized cannot fulfill the [principles of being transpar
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
-_See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
+_See also: [why does this article exist?](#what-is-the-intent-of-this-article) and [history of chat reporting](#history-of-changes)_
 
 ## Against chat reporting
 
@@ -310,7 +310,7 @@ No.
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.wiki/w/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
-If you want to stay on an older version, please use the latest version for 1.18.2.
+If you want to stay on an older version, please use the latest version of Fabulously Optimized for 1.18.2.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
