@@ -4,7 +4,7 @@ While I only intend to add mods that fit vanilla style, you are free to add any 
 
 This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
 
-### CurseForge Launcher
+### CurseForge App
 
 Method 1:
 
