@@ -17,7 +17,7 @@ Notes:
    * If you **don't see any pencils**, you don't have the Mod Menu Helper resource pack enabled for some reason.
      1. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
-### CurseForge Launcher
+### CurseForge App
 
 1. Open CurseForge Launcher
 2. Go to `My Modpacks`, click on Fabulously Optimized
