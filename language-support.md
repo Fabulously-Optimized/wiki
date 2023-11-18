@@ -110,7 +110,7 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 
 ### Listing description
 
-**⚠️ Due to technical limits, the listing description is currently not accepting _new_ languages. However, you should still translate them, as the translations will be reused in the upcoming website.**
+**⚠️ Due to technical limits, the listing description will not get any _new_ languages. However, you should still translate them, as the translations will be reused in the upcoming website.**
 
 Listing description translations are posted as a spoiler tag below the English text.
 
