@@ -12,7 +12,7 @@ Fabulously Optimized 比 OptiFine 更快，這要歸功於[現代效能模組][1
 
 Fabulously Optimized [支援大部分 OptiFine 功能][2]，包括光影、連接材質和縮放。如果你的資源包標示「需要 OptiFine」，它很可能在這裡也能運作。[你甚至還能獲得免費的披風！][3]
 
-### 感覺熟悉
+### 熟悉的感覺
 
 Fabulously Optimized 的功能讓你在 Minecraft 中回味當初的遊戲體驗，無論你之前使用的是哪個版本。這表示你可以[使用遊戲控制器、與朋友一同遊玩本機世界、在大視窗中查看進度等等][4]。
 
