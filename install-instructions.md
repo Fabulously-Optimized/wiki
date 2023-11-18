@@ -6,7 +6,7 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 
 ## Supported
 
-### [CurseForge Launcher](https://download.curseforge.com/#download-options)
+### [CurseForge App](https://www.curseforge.com/download/app#download-options)
 
 1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
 2. Click `Install`
