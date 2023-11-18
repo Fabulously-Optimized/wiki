@@ -7,7 +7,7 @@
 - Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) if your server hasn't updated yet.
 - If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
 
-### CurseForge Launcher
+### CurseForge App
 
 If you haven't changed the mods:
 
