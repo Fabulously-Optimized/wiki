@@ -1,90 +1,93 @@
 # Русский
 
-Модпак для Minecraft, основанный на Fabric, который сфокусирован на производительности и графических улучшениях.
+Лёгкая сборка модов для Minecraft, с фокусом на производительность и графические улучшения.
 
-[![Русский обзор](https://img.youtube.com/vi/3Oylcgt1nyw/hqdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
+[![Видео обзор](https://img.youtube.com/vi/3Oylcgt1nyw/hqdefault.jpg)](https://www.youtube.com/watch?v=3Oylcgt1nyw)
 
-### Высокая производительность
+### Производительность
 
-Fabulously Optimized обычно лучше оптимизирован, чем OptiFine, благодаря наличию [современных модификаций][1] для повышения производительности, таких как Sodium, Lithium и других!
+[Современные оптимизирующие модификации][1] по типу Sodium и Lithium обеспечивают Fabulously Optimized лучшую производительность чем OptiFine теоретически может предложить. Включённые в сборку моды были скрупулёзно подобраны чтобы не сломать ваши игровые миры и обеспечить заметное увеличение производительности на любом устройстве.
 
 ### По части OptiFine
 
-Fabulously Optimized [поддерживает почти все функции OptiFine][2], включая шейдеры, соединённые текстуры блоков и zoom. [Плащ в подарок!][3]
+Fabulously Optimized [даёт вам всё, что может дать OptiFine][2], включая шейдеры, соединённые текстуры, и zoom. Если на нужном вам ресурспаке написано "требуется OptiFine", то скорее всего он всё равно будет работать. [Вы даже можете получить ваш личный плащ бесплатно!][3]
 
-### Чуточку лучше
+### Как в старые добрые
 
-Fabulously Optimized включает в себя [небольшие доработки][4], не ломают ощущения ванильного Minecraft'a, такие, как расширенная история чата, безрамочный полноэкранный режим, исправления наиболее распространенных багов и инструменты для выявления причины крашей.
+В Fabulously Optimized включён функционал который позволяет прочувствовать Minecraft прям как вы его помните, не важно на какой версии вы до этого играли. Это означает что вы можете [использовать контроллеры, исследовать одиночные миры с друзьями, любоваться достижениями в большом окне, и многое другое][4].
 
 ### Работает везде
 
-В Fabulously Optimized отсутствуют какие-либо добавляющие контент моды, что позволяет ему работать в любом мире и на любом сервере. Также он [работает в 4 лаунчерах, доступен на 3 площадках][6] и [переведён на множество языков][7], включая Русский.
+В Fabulously Optimized нет модов которые добавляют контент, так что вы можете играть на любом сервере, а также не бояться за ваши одиночные миры. Хоть мы и не запрещаем вам использовать любой удобный вам лаунчер, [но рекомендуем и предоставляем поддержку лишь для тех, что обещают вам лучший опыт использования][5].
 
 ### Всегда впереди
 
-Fabulously Optimized [быстро обновляется][5] и всегда один из первых добирается до новой версии Minecraft.
+Fabulously Optimized [крайне быстро обновляется][6], и одной из первых добирается до новых версий Minecraft'a. Также просим обратить внимание, что [обновляется сборка очень просто][7], и по возможности старается не трогать ваши настройки в процессе.
 
-### Основан на Fabric
+### Основано на Fabric
 
-В сравнении с Forge, Fabric легковесный, обновляется и загружается быстрее, и к тому же имеет отличную поддержку модов.
+Fabulously Optimized в своей основе использует Fabric, легковесный и быстрый загрузчик модов, с широкой поддержкой этих самых модификаций. [Вы легко можете использовать эту сборку как базу, на которую можно поставить ваши любимые моды и не только.][8]
 
 ### Открытая разработка
 
-Fabulously Optimized имеет [открытые исходники][8], как и большинство модов в нём. Он разрабатывается с учётом идей из сообщества, и в сотрудничестве с разработчиками модов, чтобы создать лучший опыт использования для всех.
+Fabulously Optimized [полностью открыта][9], как и большинство модов в этой сборке. Мы крайне приветствуем идеи из сообщества, и стараемся сотрудничать с разработчиками модов, чтобы создать лучший опыт для всех.
 
-### Сообщество
+### Дружелюбное сообщество
 
-Мы имеем растущее сообщество, с дружелюбными участниками любящими обсуждать сборку и помогать друг другу. [Присоединяйся!][10]
+Мы - растущее сообщество, любим обсуждать сборку, открываем её миру [переводя на различные языки][10], и помогаем друг другу. [Присоединяйся!][11]
 
 ## Часто задаваемые вопросы
 
-> **В**: Как это установить/обновить/добавить моды/сделать что-то ещё?
+> **В**: Как мне это установить, обновить, добавить моды, или...?
 > 
-> **О**: [Все ответы на нашей вики.][11]
+> **О**: [Все ответы на нашей вики.][12]
 
 
-> **В**: Что-то сломалось/Вы должны что-то добавить!
+> **В**: "Что-то сломалось" или "Вы должны это добавить!"
 > 
-> **О**: [Опишите это на нашем GitHub.][8]
+> **О**: [Опишите вашу проблему или просьбу на нашем GitHub.][9]
 
 
 > **В**: Какие моды тут есть?
 > 
-> **О**: Нажмите на любую версию и промотайте вниз [или взгляните на нашу табличку сравнения][12].
+> **О**: Нажмите на любую версию и промотайте вниз [или взгляните на нашу табличку сравнения][1].
 
 
 > **В**: Мне нравится эта сборка. Как я могу помочь с разработкой?
 > 
-> **О**: [Тут описано как вы можете это сделать.][16] Заранее спасибо!
+> **О**: [Тут описано как вы можете это сделать.][13] Заранее спасибо!
 
 
 > **В**: Мне нужно устанавливать эту сборку на сервер?
 > 
-> **О**: Нет, она работает на всех серверах, поддерживающих ванильные клиенты. [Детальный ответ и советы по настройке сервера можно найти тут.][13]
+> **О**: Нет, она работает на всех серверах, поддерживающих ванильные клиенты. [Детальный ответ и советы по настройке сервера можно найти тут.][14]
 > 
-> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Если вам нужен хостинг, жмите сюда - 25% скидка на первый месяц!][14]
+> [![Bisect Hosting](https://i.ibb.co/gr9mSxW/image.png) Если вам нужен хостинг, жмите сюда - 25% скидка на первый месяц!][15]
 
 
 > **В**: У меня ещё остались вопросы!
 > 
-> **О**: [Так заходите на наш дискорд, и задайте их!][10]
+> **О**: [Так заходите в наш дискорд, и задайте их!][11]
 
-### Используя эту сборку, [вы соглашаетесь с условиями эксплуатации][15].
+### Используя эту сборку, [вы соглашаетесь с условиями эксплуатации][16].
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
-[2]: https://fabulously-optimized.gitbook.io/modpack/readme/give-up-optifine
-[3]: https://fabulously-optimized.gitbook.io/modpack/readme/free-cape
+
+[1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
+[2]: https://wiki.download.fo/readme/give-up-optifine
+[3]: https://wiki.download.fo/readme/free-cape
 [4]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional
-[5]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md
-[6]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
-[7]: https://fabulously-optimized.gitbook.io/modpack/readme/language-support
-[8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[8]: https://github.com/Fabulously-Optimized/fabulously-optimized
-[10]: https://fabulously-optimized.github.io/discord
-[10]: https://fabulously-optimized.github.io/discord
-[11]: https://fabulously-optimized.gitbook.io/modpack/
-[12]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md
-[13]: https://fabulously-optimized.gitbook.io/modpack/readme/server-setup
-[14]: https://www.bisecthosting.com/clients/aff.php?aff=2604
-[16]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md
-[15]: https://github.com/Fabulously-Optimized/fabulously-optimized#disclaimers
+[5]: https://github.com/Fabulously-Optimized/fabulously-optimized#downloads
+[6]: https://download.fo/changelog
+[7]: https://wiki.download.fo/readme/update-instructions
+[8]: https://wiki.download.fo/readme/adding-more-mods
+[9]: https://download.fo/github
+[9]: https://download.fo/github
+[10]: https://download.fo/translate
+[11]: https://download.fo/discord
+[11]: https://download.fo/discord
+[12]: https://wiki.download.fo
+[13]: https://download.fo/thanks
+[14]: https://wiki.download.fo/readme/server-setup
+[15]: https://download.fo/host
+[16]: https://download.fo/terms
