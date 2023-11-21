@@ -69,18 +69,6 @@ In most cases:
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
-       <details>
-          <summary>Need to download some mods manually?</summary>
-          If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-
-        1. Copy and paste the given address to your browser
-        2. Click `Cancel Launch`
-        3. Click `Download` on the mod
-        4. On MultiMC, click on the instance, then click `View Mods`
-        5. Drag the downloaded mod into the mod list
-        6. Click `Launch`
-  
-      </details>
 2. Check the version difference in the bottom right corner.
 
 If there is a new Minecraft version:
@@ -99,6 +87,20 @@ If there is a new Minecraft version:
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
 7. Close the folders and run the new version
 8. If everything looks right, delete the old version
+
+<details>
+  <summary>Got asked to download a mod manually?</summary>
+
+  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+
+  1. Copy and paste the given address to your browser
+  2. Click `Cancel Launch`
+  3. Click `Download` on the mod
+  4. On MultiMC, click on the instance, then click `View Mods`
+  5. Drag the downloaded mod into the mod list
+  6. Click `Launch`
+
+</details>
 
 ### Minecraft Launcher (vanilla)
 
