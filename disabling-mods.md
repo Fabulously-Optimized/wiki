@@ -30,7 +30,7 @@ Notes:
 1. Open Modrinth App
 2. Click on Fabulously Optimized
 3. Click `⚙️ Options`
-4. Scroll down and click `🔒 Unlock`, then click again
+4. If not already done: Scroll down and click `🔒 Unlock`, then click again
 5. Click `🧊 Content`
 6. Find the mod you need, toggle the knob.
 
