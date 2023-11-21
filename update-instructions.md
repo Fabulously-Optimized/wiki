@@ -111,6 +111,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 3. Delete all files in `mods` folder
    * This is to ensure all mods will reflect the latest FO version. You can [add your custom mods back later](adding-more-mods.md).
 4. Download some mods manually as needed:
+   * **FO 5.5.1**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20.2-0.5.3) and [Iris](https://modrinth.com/mod/iris/version/1.6.10+1.20.2)
    * **FO 5.2.9**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.4+1.20)
    * **FO 4.11.0**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
    * _If your version is not listed here, you do not need to manually download anything._

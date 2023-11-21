@@ -108,6 +108,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
    * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Download some mods manually as needed:
+   * **FO 5.5.1**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20.2-0.5.3) and [Iris](https://modrinth.com/mod/iris/version/1.6.10+1.20.2)
    * **FO 5.2.9**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.20-0.4.10) and [Iris](https://modrinth.com/mod/iris/version/1.6.4+1.20)
    * **FO 4.11.0**: Download [Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
    * _If your version is not listed here, you do not need to manually download anything._

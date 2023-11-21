@@ -186,6 +186,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **1.20.2**
    - [23w32a](https://minecraft.wiki/w/Java_Edition_23w32a) made clients no longer disconnect when receiving invalid chat messages, instead a placeholder message will be shown in chat.
    - [23w33a](https://minecraft.wiki/w/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
+- **2023-11-07** - [Mojang announced the Official Minecraft Server List](https://www.minecraft.net/en-us/article/the-official-minecraft-server-list-live), which features [the "Beacon of Safety badge"](https://findmcserver.com/parents#features) that requires the server to have chat reporting, profanity filter and a manual review by the site's admins. No Java Edition servers have the badge yet.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
@@ -262,7 +263,7 @@ Therefore, Fabulously Optimized cannot fulfill the [principles of being transpar
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
 
-_See also: [why does this article exist?](#what-is-the-intent-of-this-article)_
+_See also: [why does this article exist](#what-is-the-intent-of-this-article) and [history of chat reporting](#history-of-changes)_
 
 ## Against chat reporting
 
@@ -279,6 +280,7 @@ Do what you always did.
 
 * If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
 * If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
+* If you the server is very popular, you may find it on the [Official Minecraft Server List](https://findmcserver.com/). In there, look for the existence of the light blue [Beacon of Safety badge](https://findmcserver.com/badges-explained).
 
 <details>
 <summary>If you're not using No Chat Reports or using vanilla client, click here</summary>
@@ -309,7 +311,7 @@ No.
 - It is buggy, [1.19.1 fixed several bugs and crashes](https://minecraft.wiki/w/Java_Edition_1.19.1#Fixes)
 - If you want to keep using it just for the sake of protest, remember that [1.19 already has the basis for chat reporting - the chat signatures](#history-of-changes).
 
-If you want to stay on an older version, please use the latest version for 1.18.2.
+If you want to stay on an older version, please use the latest version of Fabulously Optimized for 1.18.2.
 
 _This section previously claimed that it may be possible for 1.19.1+ players to report 1.19 ones. This turned out to not be the case because [the signing system changed in 1.19.1](https://youtu.be/DobmW1ZUcbQ?t=681)._
 
@@ -436,6 +438,8 @@ Though, it is worth pointing out that _monitoring_ and "automated proactive chat
 [Yes, it does.](https://help.minecraft.net/hc/en-us/articles/13019118732429) It is unknown if there is any way to prevent chat reporting there.
 
 ### How many servers actually have chat reporting?
+
+**Update: [Mojang released an official server list](https://findmcserver.com/parents#features), which indicates chat reporting with a "Beacon of Safety badge". As of 2023-11-16, no Java Edition servers have the badge yet.**
 
 There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
 
