@@ -30,7 +30,8 @@ Notes:
 1. Open Modrinth App
 2. Click on Fabulously Optimized
 3. Click `⚙️ Options`
-4. If not already done: Scroll down and click `🔒 Unlock`, then click again
+4. Scroll down and click `🔒 Unlock`, then click again
+   * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
 5. Click `🧊 Content`
 6. Find the mod you need, toggle the knob.
 
