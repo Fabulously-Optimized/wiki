@@ -205,7 +205,7 @@ It is highly recommended to [reset your entire computer](https://www.howtogeek.c
 
 Any launchers that let you run the game without having purchased it first are not supported.
 
-There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-java-bedrock) Sign up with [this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://download.fo/minecraft).
 After that, pick any supported launcher from this page and enjoy the game! 
 
 ### Other launchers
