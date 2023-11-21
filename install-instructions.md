@@ -109,7 +109,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla) and click on the version you want
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
-   * Looking for older versions? Scroll down and click on "legacy instructions".
+   * Looking for older versions? Read the "legacy instructions" below.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
    * If asked - replace the files.
 5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
