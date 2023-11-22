@@ -4,7 +4,7 @@ While I only intend to add mods that fit vanilla style, you are free to add any 
 
 This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
 
-### CurseForge Launcher
+### CurseForge App
 
 Method 1:
 
@@ -24,6 +24,19 @@ Method 2:
 4. Select "Fabulously Optimized", click `Install`
 5. The mod will be added to the FO profile
 6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
+
+### Modrinth App
+
+1. Open Modrinth App
+2. Click on Fabulously Optimized
+3. Click `⚙️ Options`
+4. Scroll down and click `🔒 Unlock`, then click again
+    * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+5. Click `🧊 Content`
+6. Click `🔍 Add Content`
+7. Search for the mod you want
+8. Click `⤓ Install`
+9. Go back to `🏠` and run the game as usual. You should now have the new mod(s) installed!
 
 ### Prism Launcher
 

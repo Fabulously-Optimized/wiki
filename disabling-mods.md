@@ -17,13 +17,23 @@ Notes:
    * If you **don't see any pencils**, you don't have the Mod Menu Helper resource pack enabled for some reason.
      1. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
-### CurseForge Launcher
+### CurseForge App
 
 1. Open CurseForge Launcher
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
 5. Find the mod you need, toggle the knob.
+
+### Modrinth App
+
+1. Open Modrinth App
+2. Click on Fabulously Optimized
+3. Click `⚙️ Options`
+4. Scroll down and click `🔒 Unlock`, then click again
+   * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+5. Click `🧊 Content`
+6. Find the mod you need, toggle the knob.
 
 ### Prism Launcher
 
