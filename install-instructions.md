@@ -225,12 +225,12 @@ It is highly recommended to [reset your entire computer](https://www.howtogeek.c
 
 Any launchers that let you run the game without having purchased it first are not supported.
 
-There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://download.fo/minecraft).
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller](https://download.fo/minecraft).
 After that, pick any supported launcher from this page and enjoy the game! 
 
 ### Other launchers
 
-Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
+Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support here if you use an unsupported launcher.
 
 ### Other modpacks
 
@@ -249,7 +249,7 @@ Fabulously Optimized is not compatible with any "game clients", including "hacke
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition.
+Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav Launcher](pojav-launcher.md)
 
 ## Servers
 
