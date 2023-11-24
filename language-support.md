@@ -1,10 +1,10 @@
 # Language support
 
-You can translate the mods themselves and the modpack-specific content. All modpack translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
+You can translate the mods themselves and the modpack-specific content. All modpack-specific translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
 
 ## Mods
 
-I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the pack, you must translate the mods too.
+I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the entire pack, you should translate its mods as well.
 
 1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) and click the name of the mod you want to translate
 2. On every page, find the Issues or Source link at the top
@@ -28,7 +28,7 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/1.20-new/src/main/resources/assets/iris/lang/en_us.json)
 4. [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
 5. [Mod Menu](https://crowdin.com/project/mod-menu)
-6. [MidnightControls](https://github.com/TeamMidnightDust/MidnightControls/blob/1.20.1/src/main/resources/assets/midnightcontrols/lang/en_us.json)
+6. [Controlify](https://github.com/isXander/Controlify/blob/1.20.x/dev/src/main/resources/assets/controlify/lang/en_us.json)
 7. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.20.2/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.20.2/fabric-item-group-api-v1/src/main/resources/assets/fabric/lang/en_us.json)
 8. [Zoomify](https://github.com/isXander/Zoomify/blob/1.20/src/main/resources/assets/zoomify/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
@@ -44,7 +44,8 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
    * You can vote for existing suggestions with ➕ and ➖ buttons
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
    * File-specific tips and requirements [are listed below](#mod-menu-helper)
-3. [Join our Discord](https://fabulously-optimized.github.io/discord) to become a proofreader in your language or discuss with an existing one.
+3. [Join our Discord](https://fabulously-optimized.github.io/discord) for a yellow rank and a possibility to become a proofreader in your language.
+   * Yellow rank requirement is translating any file to 100%; it also gives you access to some hidden channels ;)
 4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FO.**   
    * For example, if you fully translate two files but fully approve one, then only the fully approved file will be published at the moment.
 6. Wait for the next release of FO to see your translations live!
@@ -61,7 +62,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
      * If you get any issues, press `Shift` + `P` within the video settings, to get the vanilla video settings and revert fullscreen options there.
      * The numbers after `@` may vary. 
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
-* Keep paragraph sign (§), pencil emoji (🖉), asterisk (`*`) and newlines as they are on the original.
+* Keep paragraph sign (§), tools emoji (⚒️), arrows emoji (🔀) and newlines as they are on the original.
 
 #### Testing tutorial
 
@@ -103,8 +104,13 @@ Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' 
 Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
 
 * [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
+* Translations are published every Saturday, so any FO version to come after that will get it.
+* Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
+* You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
 
 ### Listing description
+
+**⚠️ Due to technical limits, the listing description will not get any _new_ languages. However, you should still translate them, as the translations will be reused in the upcoming website.**
 
 Listing description translations are posted as a spoiler tag below the English text.
 

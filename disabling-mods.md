@@ -10,20 +10,30 @@ Notes:
 ### Mod Menu
 
 1. With the game open, click `Mods`
-2. Scroll down to the specific mod you want to disable, note the third row with the pencil icon ✏️
-   * If the pencil is **blue** and the text says **"Toggle mod"**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and find the setting that disables the mod
-   * If the pencil is **blue and the text says something else**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if you can disable the specific feature you need
-   * If the pencil is **gray** and there is no config button, follow your launcher-specific instructions below
-   * If you **don't see any pencils**, you don't have the Mod Menu Helper resource pack enabled for some reason.
+2. Scroll down to the specific mod you want to disable, note the third row with the ⚒️ (tools) or ✏️ (pencil) icon 
+   * If the icon is **blue** and the text mentions **"Toggle mod"**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and find the setting that disables the mod
+   * If the icon is **blue and the text says something else**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if you can disable the specific feature you need
+   * If the icons is **gray** and there is no config button, follow your launcher-specific instructions below
+   * If you **don't see any icons**, it is a mod you added yourself or you don't have the Mod Menu Helper resource pack enabled for some reason.
      1. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
-### CurseForge Launcher
+### CurseForge App
 
 1. Open CurseForge Launcher
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
 5. Find the mod you need, toggle the knob.
+
+### Modrinth App
+
+1. Open Modrinth App
+2. Click on Fabulously Optimized
+3. Click `⚙️ Options`
+4. Scroll down and click `🔒 Unlock`, then click again
+   * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+5. Click `🧊 Content`
+6. Find the mod you need, toggle the knob.
 
 ### Prism Launcher
 

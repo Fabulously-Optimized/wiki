@@ -23,7 +23,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 ### Chat Reporting
 
-Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). This is unwanted for most servers, as it can result users being banned for things that are allowed by server rules.
+Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). Most servers disable it, as it can result users being banned for things that are allowed by server rules.
 
 #### How your server works in Fabulously Optimized
 
