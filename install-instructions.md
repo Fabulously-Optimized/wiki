@@ -119,7 +119,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 <details>
-  <summary>Legacy instructions - Minecraft 1.19.3 and older</summary>
+  <summary>Legacy instructions - FO 4.6.1/Minecraft 1.19.3 and older</summary>
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
