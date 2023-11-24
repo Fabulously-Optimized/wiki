@@ -1,6 +1,6 @@
 # Adding more mods
 
-While I only intend to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft! **However, please remove any custom mods before asking for support.**
+While I only intend to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft!
 
 This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
 
