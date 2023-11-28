@@ -1,6 +1,6 @@
 # Included OptiFine Alternatives
 
-One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. So, all you need to do is to install [Fabulously Optimized](install-instructions.md) to get all those mods at once!
+One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. So, all you need to do is to [install Fabulously Optimized](install-instructions.md) to get all those mods at once!
 
 Here is the list of OptiFine features that are supported in this modpack:
 
