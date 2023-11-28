@@ -4,7 +4,7 @@ Welcome to the Fabulously Optimized wiki!  [🌐 Read in your language](https://
 
 [📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md) ([🇴​🇫 OptiFine alternatives](give-up-optifine.md)), [🎛️ changed options](changed-options.md) and [🐞 fixed bugs](changed-options.md#fixed-bugs)
 
-[⬇️ How to install](install-instructions.md) | [🆕 How to update](update-instructions.md) [(how to reset options)](update-instructions.md#resetting-options) | [➕ How to add mods](adding-more-mods.md) | [➖ How to remove mods](disabling-mods.md)
+How to [⬇️ Install](install-instructions.md) | [🆕 Update](update-instructions.md) [(reset options)](update-instructions.md#resetting-options) | [➕ Add mods](adding-more-mods.md) | [➖ Remove mods](disabling-mods.md)
 
 Get a [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼️ Resource packs to work](resource-pack-issues.md)
 
