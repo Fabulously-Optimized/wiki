@@ -1,6 +1,6 @@
-# Give up OptiFine
+# Included OptiFine Alternatives
 
-One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it.
+One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. So, all you need to do is to install [Fabulously Optimized](install-instructions.md) to get all those mods at once!
 
 Here is the list of OptiFine features that are supported in this modpack:
 
@@ -26,7 +26,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Shaders               | ✔️            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md))                      |
 | Smart Leaves¹         | ✔️            | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)                                                                                                                                                                                                                         |
 | Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
-| Better Grass          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) (fancy mode is currently unsupported)  |                                                                                                         |
+| Better Grass          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) (fancy mode is currently unsupported, [but planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/717))  |                                                                                                         |
 | 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to issues.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)                                                                                                     |
 
 ### Custom resource pack features
@@ -47,7 +47,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | Resource pack splash screen | ✔️            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                                                                                                                 |
 | Custom Entity Models        | ✔️            | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) |
-| Custom Colors               | 🔜            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) is not yet up to date |                                             
+| Custom Colors               | 🔜            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) is not yet up to date, [though an alternative is planned.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/693) |                                             
 | Anisotropic Filtering       | ❌             | Not yet possible, check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    |
 
 
@@ -68,11 +68,11 @@ Here is the list of OptiFine features that are supported in this modpack:
 Additionally, you can enjoy:
 
 * Better mod compatibility
-* [Easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
+* [Easy installation](install-instructions) for various launchers
 * [Some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional) OptiFine does not provide
 
 Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
 If you're having issues with OptiFine's resource pack features, [see this wiki](resource-pack-issues.md).
 
-_See also:_ [_Recommended OptiFine alternatives on Fabric_](https://lambdaurora.dev/optifine\_alternatives)_, a list that inspired me to create this modpack in the first place._
+_See also:_ [_Recommended OptiFine alternatives on Fabric_](https://optifine.alternatives.lambdaurora.dev/)_, a list that inspired me to create this modpack in the first place._
