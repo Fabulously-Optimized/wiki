@@ -10,7 +10,7 @@ Getting [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼�
 
 You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [✍️ Translating to your language](language-support.md)
 
-More info about [🔣 The modpack's principles](principles.md) [(why use Fabric?)](principles.md#why-use-fabric) | [🍦 Vanilla launcher](vanilla-launcher-faq.md) |  | [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [⌛ History and facts about FO](https://ftb.fandom.com/wiki/Fabulously_Optimized)
+More info about [🔣 The modpack's principles](principles.md) [(why use Fabric?)](principles.md#why-use-fabric) | [🍦 Vanilla launcher](vanilla-launcher-faq.md) |  [🔢 Version support](version-support.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [⌛ History and facts about FO](https://ftb.fandom.com/wiki/Fabulously_Optimized)
 
 Additional tips: [🗄️ Server setup](server-setup.md) | [🚨 Player Reporting](chat-reporting-faq.md)
 
