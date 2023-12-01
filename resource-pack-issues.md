@@ -4,6 +4,13 @@ Fabulously Optimized supports [various OptiFine features](give-up-optifine.md), 
 
 Before trying any of those things here, though, [make sure you are using the latest version](update-instructions.md).
 
+### General issues
+
+Some general notes for troubleshooting other resource pack problems.
+
+* Is the resource pack actually built for the version you're running? Check for the latest version or use a converter tool like [this one](https://www.planetminecraft.com/mod/minecraft-1-12-1-13-1-14-1-15-resource-pack-converter/) or [the official one](https://github.com/Mojang/slicer)
+* Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? That means it may depend on [core shaders](getting_shaders.md#core-shaders), which are not fully supported on FO.
+
 ### Broken paths
 
 If you see this message while activating a resource pack:
