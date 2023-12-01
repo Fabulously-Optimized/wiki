@@ -20,7 +20,7 @@ To fix that, please tell the resource pack maker to only use the following chara
 
 ### Fullbright
 
-_Or "game brightness beyond 100%"_
+_Or "game brightness beyond 100%"_.
 
 Currently the vanilla resource pack and OptiFine resource pack methods **do not work**, and neither will work a direct options.txt edit. Instead, just [add a specialized mod](adding-more-mods.md), such as [Methane](https://modrinth.com/mod/methane) or [other simpler ones](https://modrinth.com/mods?q=gamma&g=categories:%27fabric%27&e=client).
 
