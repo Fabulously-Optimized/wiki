@@ -2,14 +2,9 @@
 
 Fabulously Optimized supports [various OptiFine features](give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in OptiFine even if they are broken, so this page should help you fix some of those issues.
 
-Before trying any of those things here, though, [make sure you are using the latest version](update-instructions.md).
+### Older versions
 
-### General issues
-
-Some general notes for troubleshooting other resource pack problems.
-
-* Is the resource pack actually built for the version you're running? Check for the latest version or use a converter tool like [this one](https://www.planetminecraft.com/mod/minecraft-1-12-1-13-1-14-1-15-resource-pack-converter/) or [the official one](https://github.com/Mojang/slicer)
-* Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on FO.
+Is the resource pack actually built for the version you're running? If not, check for the latest version or use a converter tool like [this one](https://www.planetminecraft.com/mod/minecraft-1-12-1-13-1-14-1-15-resource-pack-converter/) or [the official one](https://github.com/Mojang/slicer).
 
 ### Broken paths
 
@@ -60,6 +55,12 @@ Some versions of FO include Better Beds instead.
 1. Click `Mods`
 2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
 3. Disable the mod, click `Done`.
+
+### Core shaders
+
+Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? 
+
+That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on FO.
 
 ### Custom colors
 
