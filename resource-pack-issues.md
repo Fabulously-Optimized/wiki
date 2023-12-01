@@ -61,6 +61,10 @@ Some versions of FO include Better Beds instead.
 2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
 3. Disable the mod, click `Done`.
 
+### Custom colors
+
+Coloring blocks differently by biome is currently not supported since FO 4.5.7, but planned to be reintroduced soon.
+
 ### Custom entity models
 
 _Or "mobs with a custom shape"._
@@ -97,7 +101,3 @@ Issues and workarounds are tracked [on the mod's Discord](https://discord.com/in
   See also: [a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
 
 </details>
-
-### Custom colors
-
-Currently not supported since FO 4.5.7, but planned to reintroduce soon.
