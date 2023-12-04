@@ -78,7 +78,7 @@ Ever wondered, how some servers are able to update the same day a new Minecraft 
 
 **ViaVersion** and **ViaBackwards** are plugins that transform the network packets to let users join your server with a different client version. This is especially welcome for users who mod their client, such as Fabulously Optimized users, as not every mod is updated as soon as the new version of Minecraft is released, so users may be inclined to use outdated clients for a bit longer. 
 
-P.S. Before continuing, [make sure you have disabled chat reporting](#chat-reporting), otherwise the plugins cannot work.
+P.S. Before continuing, [make sure you have disabled chat reporting](#chat-reporting), otherwise the plugins cannot work below version 1.19.3.
 
 * **ViaVersion** lets users join with a _newer_ client version. For example, if your server is still using 1.19.2, this will let users join with 1.19.3 and later.
    * By default, ViaVersion allows users to join from your server's Minecraft version up to the latest stable Minecraft version. This can be filtered in the ViaVersion configuration file.
