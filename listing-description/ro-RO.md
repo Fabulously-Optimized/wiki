@@ -18,7 +18,7 @@ Fabulously Optimized include caracteristici care vă permit să experimentați M
 
 ### Funcționează peste tot
 
-Fabulously Optimized nu include moduri de conținut, astfel încât puteți juca pe orice lume sau server. Deși puteți folosi orice lansator de jocuri pentru a juca pachetul, [ va recomandăm și oferim suport pentru cele care oferă cea mai bună experiență][5].
+Fabulously Optimized nu include moduri de conținut, astfel încât puteți juca pe orice lume sau server. Deși puteți folosi orice lansator de jocuri pentru a juca pachetul, [va recomandăm și oferim suport pentru cele care oferă cea mai bună experiență][5].
 
 ### La zi
 
