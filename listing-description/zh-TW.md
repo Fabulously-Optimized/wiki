@@ -1,6 +1,6 @@
 # 繁體中文（台灣）
 
-一個簡單的 Minecraft 模組包，專注於提高效能和圖像增強。
+一個簡單的 Minecraft 模組包，專注於提高效能和圖形強。
 
 [![影片評論](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
@@ -30,7 +30,7 @@ Fabulously Optimized 使用輕量、快速且支援眾多模組的 Fabric 模組
 
 ### 開放發展
 
-Fabulously Optimized [是開源的][9]，大部分的模組也是如此。我們歡迎使用者提出建議，並與模組開發者合作，共同打造更好的使用者經驗。
+Fabulously Optimized [是開源的][9]，大部分的模組也是如此。我們歡迎使用者提出建議，並與模組開發人員合作，共同打造更好的使用者經驗。
 
 ### 熱於幫助的社群
 
