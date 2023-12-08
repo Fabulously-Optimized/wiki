@@ -1,10 +1,10 @@
 # Vanilla launcher FAQ
 
-This FAQ gives answers to questions you might have about using Fabulously Optimized in [the official Minecraft Launcher](https://www.minecraft.net/en-us/download), also known as simply "vanilla launcher". If you have any additional questions, please join our [Discord](https://fabulously-optimized.github.io/discord) and ask in #support. 
+This FAQ gives answers to questions you might have about using Fabulously Optimized in [the official Minecraft Launcher](https://www.minecraft.net/en-us/download), also known as simply "vanilla launcher". If you have any additional questions, please join our [Discord](https://download.fo/discord) and ask in #support. 
 
 ### How to install?
 
-To install Fabulously Optimized on the vanilla launcher, [please follow this guide](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla).
+To install Fabulously Optimized on the vanilla launcher, [please follow this guide](install-instructions#minecraft-launcher-vanilla).
 
 ### So I just copy the mods, right?
 
