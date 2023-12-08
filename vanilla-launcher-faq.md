@@ -30,8 +30,10 @@ Don't worry, we can fix that!
    * "Backup" means copying the existing folder and file to a different location, in case you need to reference or copy it back later. If you don't care about your existing settings, you don't have to do this.
    * If your FO is not up to date, also delete the `mods` folder.
 3. Open the ZIP file of Fabulously Optimized that you have or [download it again](https://download.fo/vanilla)
-4. Go to _Fabulously Optimized x.x.x_ > _.minecraft_
-5. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
+4. Do one of the following:
+   * **FO 4.11.0 and newer**: Copy **all folders** from the zip to your .minecraft folder
+   * **FO 4.6.1 and older**: Copy **all folders** from zip's _Fabulously Optimized x.x.x_ > _.minecraft_ folder to your .minecraft folder 
+      * If asked - replace the files.
 6. Launch the Fabric profile
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 8. Optional: copy back any mod settings you need from the folder you backed up
