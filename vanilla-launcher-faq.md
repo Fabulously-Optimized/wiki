@@ -29,24 +29,12 @@ Don't worry, we can fix that!
    * `options.txt` contains vanilla settings and keybinds
    * "Backup" means copying the existing folder and file to a different location, in case you need to reference or copy it back later. If you don't care about your existing settings, you don't have to do this.
    * If your FO is not up to date, also delete the `mods` folder.
-3. Open the ZIP file of Fabulously Optimized that you have or download it again (see below)
+3. Open the ZIP file of Fabulously Optimized that you have or [download it again](https://download.fo/vanilla)
 4. Go to _Fabulously Optimized x.x.x_ > _.minecraft_
 5. Copy **all folders** from zip's .minecraft folder to your .minecraft folder; if asked - replace the files
 6. Launch the Fabric profile
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 8. Optional: copy back any mod settings you need from the folder you backed up
-
-<details>
-  <summary>Downloading the ZIP again</summary>
-
-  1. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
-  2. Click `Download` on the latest **MultiMC version** of the pack
-     * On CurseForge's new UI, `⌵` → `Download file`
-     * Click the title of the CurseForge version you need and scroll down, you'll find the MultiMC variant there.
-        * Alternatively, look for it in the sidebar, under "server packs". Don't worry, these are not server packs, just marked as such for findability.
-     * If you don't see any mods inside the zip or only see one, you downloaded the wrong version.
-
-</details>
 
 ### What is the MultiMC ZIP?
 
