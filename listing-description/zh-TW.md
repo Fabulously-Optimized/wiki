@@ -1,6 +1,6 @@
 # 繁體中文（台灣）
 
-一個簡單的 Minecraft 模組包，專注於提高效能和圖形強。
+一個簡單的 Minecraft 模組包，專注於提高效能和圖形增強。
 
 [![影片評論](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
