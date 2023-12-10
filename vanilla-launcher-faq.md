@@ -12,6 +12,7 @@ No. Fabulously Optimized consists of mods, configs and resourcepacks.
 
 If you try to install FO to the vanilla launcher by copying just the `mods` folder, you may notice these issues:
 
+* In some versions, your game will not launch at all
 * Some of your resource packs are broken
 * Zoom is broken and new unexpected keybinds exist 
 * Confusing mod buttons and texts appear in the interface
