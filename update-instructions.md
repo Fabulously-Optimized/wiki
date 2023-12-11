@@ -4,7 +4,7 @@
 
 - As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
 - Upgrades from stable to unstable (alpha, beta) versions are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
-- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) if your server hasn't updated yet.
+- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) if your server hasn't updated yet.
 - If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
 
 ### CurseForge App
