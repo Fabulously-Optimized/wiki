@@ -64,6 +64,14 @@ Consider [switching to Prism Launcher instead,](install-instructions.md#prism-la
    * Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
    * Rename ".jar.disabled" back to ".jar" to use the mod again.
 
+### Pojav Launcher (Android)
+
+1. Open Files
+2. Tap `☰` → `PojavLauncher` → `.minecraft` → `mods`
+    * Can't see .minecraft? Tap `⋮` → `Show hidden files` 
+3. Tap `⋮` → `Move to...` → `Move`
+    * Move it back to `mods` to use the mod again.
+
 ### GDLauncher
 
 No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)

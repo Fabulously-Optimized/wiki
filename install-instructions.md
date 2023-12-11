@@ -143,6 +143,47 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 
 A simple installer for vanilla launcher [is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
+### [Pojav Launcher](https://github.com/PojavLauncherTeam/PojavLauncher) (Android)
+
+Fabulously Optimized can indeed be run on a mobile device! Be aware:
+
+* This process has a lot of steps which you must follow carefully.
+* The tutorial is made for Android devices - phones and tablets. iOS devices _could_ work, but that requires jailbreak or sideloading an alternative store, the steps are probably more complicated.
+* Your device must be "mid-range" or "high-end" if you want decent FPS. 6+ GB RAM recommended.
+* Pojav Launcher supports Android 5 and up, but these instructions were tested on Android 13.
+* Your device will likely heat and consume a lot of battery as you play. It is _not_ as device-optimized as Bedrock Edition.
+* Attempts have been made to improve performance, but depending on your device you may need to adjust video settings.
+* In the worst case, you may not get it running at all. Try again after Pojav Launcher updates.
+
+<details><summary><a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe">I don't agree and just want to play Minecraft</a></summary></details>
+
+<details>
+  <summary>I agree and would like to see the instructions</summary>
+
+1. [Download Pojav Launcher](https://play.google.com/store/apps/details?id=net.kdt.pojavlaunch)
+   * Do not fall into scam websites and apps. The only official site for it is https://github.com/PojavLauncherTeam/PojavLauncher
+2. [Download Files](https://play.google.com/store/apps/details?id=com.marc.files)
+   * This is a shortcut to your system's file manager. Other file managers may need root to follow these instructions.
+3. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
+4. [Create a Pojav-patched version of FO zip](https://fabulously-optimized.github.io/pojav-patcher/)
+   * This can be done on a computer or mobile, up to you.
+5. Run Pojav Launcher
+6. Tap `Add account` → `Microsoft account` and sign in
+7. Tap `(Default) - Unknown` → `Create new profile` → `SAVE`
+8. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
+9. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
+10. Close Pojav and open Files.
+11. Tap `☰` → `Downloads` → `Fabulously Optimized-x.x.x-pojav.zip`
+12. Hold down on `config` folder and tap on all items, then tap `⋮` → `Extract to...`
+13. Tap `☰` → `PojavLauncher` → `.minecraft`
+14. Launch Pojav, tap `New - Latest Release` → `fabric-loader-...` → `Play`.
+15. Fabulously Optimized should now be running! 
+    * If you get a RAM warning ("The current amount of..."), tap `OK` for now. It usually means you just need to close background apps for better performance.
+    * If you get a black screen for too long: quit the game, go back to Pojav → `🎛️` → `Video and renderer` → `Renderer` → (choose any) → ⬅️ → ⬅️ → try playing again
+
+</details>
+
+
 ## Not supported
 
 ### GDLauncher
@@ -168,10 +209,6 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 12. Uninstall GDLauncher
 
 [GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
-
-### Pojav Launcher
-
-Pojav Launcher is not yet supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
 
 ### ATLauncher
 
@@ -249,7 +286,7 @@ Fabulously Optimized is not compatible with any "game clients", including "hacke
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav Launcher](pojav-launcher.md)
+Fabulously Optimized is not compatible with Bedrock Edition. See [Pojav Launcher](#pojav-launcher-android) for an alternative.
 
 ## Servers
 

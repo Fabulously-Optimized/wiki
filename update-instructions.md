@@ -142,6 +142,24 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
 </details>
 
+### Pojav Launcher (Android)
+
+1. [Download Fabric installer](https://fabricmc.net/use/installer/) (Universal/.JAR)
+2. [Download CurseForge GUI installer](https://github.com/PojavLauncherTeam/CurseForge-GUI/releases/download/1.0.0/CurseForge-GUI-1.0-SNAPSHOT.jar)
+3. [Create a Pojav-patched version of FO zip](https://fabulously-optimized.github.io/pojav-patcher/)
+4. Run Pojav Launcher
+5. Tap `Install .jar` → select `fabric-installer-x.x.x.jar`. You'll see the Fabric installer with some logs.
+6. Tap `❌` to close the logs, then `Install` → `OK` → `⛝`
+7. Close Pojav and open Files.
+8. Tap `☰` → `PojavLauncher` → `.minecraft`
+9. Hold down on `mods` folder, then tap `⋮` → `Delete`
+  * You might want to do it selectively for configs and resource packs as well, because copying new ones over will duplicate them instead of replacing them
+10. Tap `☰` → `Downloads` → `Fabulously Optimized-x.x.x-pojav.zip`
+11. Hold down on `mods`, then tap `⋮` → `Extract to...`
+12. Tap `☰` → `PojavLauncher` → `.minecraft`
+13. Launch Pojav, tap `New - Latest Release` → `fabric-loader-...` → `Play`.
+14. Fabulously Optimized should now be running!
+
 ### GDLauncher
 
 No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
