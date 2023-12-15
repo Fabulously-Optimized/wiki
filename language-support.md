@@ -12,7 +12,7 @@ I support people using Minecraft in their language and would like to promote tha
 4. If not, go to Code tab and browse the folders in order: `src` → `main` → `resources` → `assets` → `(mod's name)` → `lang` → `en_us.json`
 5. Open the file and copy its full text
 6. Go back to `lang` folder, click Add file → Create new file
-7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [Locale codes can be found here](https://minecraft.wiki/w/Language#Languages)
+7. You'll fork the project and have a new file window open. Name the file in the format `locale_code.json`, such as `et_ee.json`. [In-game locale codes can be found here](https://minecraft.wiki/w/Language#Languages)
 8. Paste the text you copied and start translating the values **on the right**, e.g. in the example below you only replace the _Coolmod Options_ text:
    * `"coolmod.config.title": "Coolmod Options",`
 9. Commit the file and create a pull request. If you're lucky, the mod author accepts it
