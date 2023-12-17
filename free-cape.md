@@ -12,6 +12,15 @@ Fabulously Optimized supports capes from Mojang, OptiFine, MinecraftCapes mod, L
 
 ![image](https://user-images.githubusercontent.com/8611110/230607851-3ddd87c5-fe74-4bc4-8484-9cca5ceffc64.png)
 
+### "Update your mod"
+
+Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheColher/Capes/issues/118), which causes this message to appear on older versions of FO. Here are your options:
+
+1. Update FO to latest - the easiest and best solution.
+2. Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general.
+3. Remove Capes and install MinecraftCapes instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
+4. Remove Capes and install Cosmetica - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
+
 #### Disclaimer
 
 Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to prefer free cosmetics, while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
