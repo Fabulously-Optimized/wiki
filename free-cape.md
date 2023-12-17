@@ -18,8 +18,8 @@ Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheC
 
 1. [Update FO to latest](update-instructions.md) - the easiest and best solution.
 2. Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general.
-3. [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) MinecraftCapes instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
-4. [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) Cosmetica - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
+3. [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
+4. [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
 
 #### Disclaimer
 
