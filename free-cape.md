@@ -14,7 +14,7 @@ Fabulously Optimized supports capes from Mojang, OptiFine, MinecraftCapes mod, L
 
 ### "Update your mod"
 
-Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheColher/Capes/issues/118), which causes this message to appear on older versions of FO. Here are your options:
+Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheColher/Capes/issues/118), which causes this message to appear on users' capes in older versions of FO. Here are your options:
 
 1. Update FO to latest - the easiest and best solution.
 2. Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general.
