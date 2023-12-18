@@ -21,6 +21,7 @@ Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheC
 3. Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general (you can no longer use the free cape instructions above).
    * Go to `Options...` → `Skin Customization...` → ![Capes icon](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/textures/gui/sprites/icon/cape_options.png?raw=true) → `Toggle` → `MinecraftCapes: OFF` → `Done` → `Done` → `Done`.
 4. [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
+   * Go to `Mods` → search "Cosmetica" → press ![config](https://i.ibb.co/j35cBtn/image.png) → configure by your preferences.
 
 ### Disclaimer
 
