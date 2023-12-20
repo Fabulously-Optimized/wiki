@@ -56,7 +56,10 @@ Some versions of FO include Better Beds instead.
 2. Search for "FastChest", click the config button ![](https://i.ibb.co/j35cBtn/image.png)
 3. Disable the mod, click `Done`.
 
-### Core shaders
+### Core shaders/incompatible with Sodium
+
+![Resource packs may be incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/0049c401-2922-4d03-976b-44bbf4fcc6a9)
+![Resource packs are incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/3116448a-53fe-4af0-9520-99c061694ba0)
 
 Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? 
 
