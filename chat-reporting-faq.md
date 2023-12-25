@@ -199,6 +199,7 @@ Fabulously Optimized includes [(why?)](#why-does-fabulously-optimized-take-a-sta
 - A mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that:
    - adds new consistent chat indicators
    - disables inconsistent vanilla chat indicators and the annoying toast
+   - disables chat signing on servers that state they do not want it
    - provides optional features for users who want to configure their experience
 - A resource pack called [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) that:
    - makes No Chat Reports icons more neutral
