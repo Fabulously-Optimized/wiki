@@ -109,9 +109,11 @@ If core changes to the system will not be made, Mojang could still improve its c
 - Add a clear, yet unobtrusive indicator that shows whether the system is in place or not for given server
   - Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is annoying and technically easy to disable.
 - Be very clear and truthful about the system in help pages 
-   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case](#does-mojang-monitor-my-chats).
+   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case in Realms](#does-mojang-monitor-my-chats).
 - Use less cryptic terminology in errors related to the system
 - Write a technical overview about the system's working so that users inclined would be able to read it from the official source
+
+That said, credit where credit due: [several technical issues have been fixed since 1.19.3 already](#history-of-changes), which made the experience smoother for users who do not prefer the system.
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
 
@@ -155,6 +157,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
 ### History of changes
+
 - **2021 or earlier** Minecraft adds a [player reporting form](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565) to its website.
 - **1.19**
    - [22w17a](https://minecraft.wiki/w/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
