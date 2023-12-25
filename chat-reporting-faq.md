@@ -376,7 +376,7 @@ Yes and no.
 
 On online-mode servers, yes. 
 
-On offline-mode servers, it is not certain yet - it may be possible to report but due to technical differences the reports will likely not get acted on. [But that is not a solution.](chat-reporting-faq.md#should-i-disable-online-mode-on-my-server)
+On offline-mode servers, it is not certain yet - it may be possible to report but due to technical differences the reports will likely not get acted on.
 
 ### What happens when I'm punished?
 
