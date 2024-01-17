@@ -104,7 +104,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.3**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.5**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla) and click on the version you want
@@ -127,7 +127,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
   2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
   3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
-  4. Click the topmost version, scroll down to "Additional files" section
+  4. Click the topmost version, then click "Additional files"
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
   6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
