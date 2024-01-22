@@ -14,6 +14,8 @@
   * [MultiMC auto-update](multimc-auto-update.md)
   * [Version support](version-support.md)
   * [Goals and principles](principles.md)
+  * [Accessibility](readme/accessibility.md)
+  * [Disclaimers](readme/disclaimers.md)
   * [Language support](language-support.md)
   * [Server setup](server-setup.md)
   * [Unofficial Player Reporting FAQ](chat-reporting-faq.md)
