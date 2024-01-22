@@ -29,7 +29,7 @@
   * [हिंदी](listing-description/hi-IN.md)
   * [Italiano](listing-description/it-IT.md)
   * [한국어](listing-description/ko-KR.md)
-  * [Bahasa Malaysia](listing-description/ms-MY.md)
+  * [Bahasa Melayu](listing-description/ms-MY.md)
   * [Polski](listing-description/pl-PL.md)
   * [Português (Brasil)](listing-description/pt-BR.md)
   * [Română](listing-description/ro-RO.md)
