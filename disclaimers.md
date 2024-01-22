@@ -18,7 +18,6 @@ By using this modpack, you agree to the following:
 * Yes, you can fork/remix this pack [according to the license](LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
 * NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-<br>
 <details>
   
   <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
