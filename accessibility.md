@@ -3,16 +3,16 @@
 Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
 
 * The first-run accessibility screen is not used, to make setup smoother and faster. Instead, users can continue to take advantage of the menu keyboard support.
-  * Languages screen can be accessed by pressing → Enter.
-  * Accessibility screen can be accessed by pressing ← ← Enter.
-  * Narrator can be directly enabled by pressing Ctrl + B.
+  * Languages screen can be accessed by pressing <kbd>→</kbd> <kbd>Enter</kbd>.
+  * Accessibility screen can be accessed by pressing <kbd>←</kbd> <kbd>←</kbd> <kbd>Enter</kbd>.
+  * Narrator can be directly enabled by pressing <kbd>Ctrl</kbd> + <kbd>B</kbd>.
 * Users can search for and select multiple languages
   * User's native language is automatically applied (where supported)
   * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
   * Items have the original names on their tooltips for command usage purposes
 * Game controllers are supported
 * Local worlds can optionally be played with friends through the Internet (see disclaimers below)
-* [Several launchers are supported](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads)
+* [Several launchers are supported](#downloads)
 * [The purpose and settings for each included mod are displayed in the mod menu](https://wiki.download.fo/readme/changed-options#resource-packs)
 * Splash screen is black, similar to Bedrock Edition
 * Other [changed options](https://wiki.download.fo/readme/changed-options) to match users' expectations
