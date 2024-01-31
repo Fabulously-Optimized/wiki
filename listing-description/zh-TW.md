@@ -69,7 +69,7 @@ Fabulously Optimized [是開源的][9]，大部分的模組也是如此。我們
 > 
 > **答**：[加入我們的 Discord 聊天吧！][11]
 
-### 使用這個模組包，[你同意以下聲明][16]。
+### 要使用本模組包，[你需要同意此免責聲明][16]。
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 
