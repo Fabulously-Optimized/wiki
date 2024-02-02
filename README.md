@@ -14,7 +14,7 @@ How does the modpack work in [🍦 Vanilla launcher](vanilla-launcher-faq.md) | 
 
 How is the pack built: [🔣 Goals and principles](principles.md) [(why use Fabric?)](principles.md#why-use-fabric) | [♿ Accessibility](accessibility.md) | [💡 Facts and trivia on FTB Wiki](https://ftb.fandom.com/wiki/Fabulously_Optimized)
 
-You can help by [❤️ Supporting the pack](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md) | [✍️ Translating to your language](language-support.md)
+You can help by [❤️ Supporting the pack](https://download.fo/thanks) | [✍️ Translating to your language](language-support.md)
 
 Additional tips about [🗄️ Server setup](server-setup.md) | [🚨 Player Reporting](chat-reporting-faq.md)
 
