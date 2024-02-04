@@ -59,6 +59,19 @@ Method 2:
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
 
+### GDLauncher Carbon
+
+1. Open GDLauncher Carbon
+2. Click on Fabulously Optimized
+3. Click `Settings`
+4. Click `🔒 Unlock`
+    * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+5. Click `Mods`
+6. Click `Add Mod`
+7. Search for the mod you want
+8. Click `DOWNLOAD LATEST`
+9. Go back to `Library` and run the game as usual. You should now have the new mod(s)installed.
+
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
@@ -68,10 +81,6 @@ Method 2:
 5. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
-
-### GDLauncher
-
-No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
 ### Other hints
 

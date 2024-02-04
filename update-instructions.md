@@ -102,6 +102,10 @@ If there is a new Minecraft version:
 
 </details>
 
+### GDLauncher Carbon
+
+To be continued...
+
 ### Minecraft Launcher (vanilla)
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.

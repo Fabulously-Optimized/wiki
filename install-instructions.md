@@ -100,6 +100,13 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 </details>
 
+### [GDLauncher](https://gdlauncher.com/)
+
+1. Click `Modpacks`
+2. Select `Modrinth` tab from the left
+3. Click `Download Latest` from the Fabulously Optimized Listing
+4. Once installed, hover over the modpack icon and click the play icon to launch.
+
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
@@ -148,27 +155,9 @@ A simple installer for vanilla launcher [is planned](https://github.com/Fabulous
 
 ### GDLauncher
 
-Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
+Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to the new GDLauncher Carbon.
 
-1. [Install and run Prism Launcher](https://prismlauncher.org/)
-2. Click `Add Instance`
-3. Select `Modrinth` tab from the left
-4. Select "Fabulously Optimized"
-5. Click `OK`
-6. The modpack will now install.
-7. Once installed, click the `Folder` button on the left.
-8. Open GDLauncher
-9. Right click on your previously used instance → `Open Folder`
-10. Copy the important files and folders over:
-    * `saves` for your local worlds
-    * `resourcepacks`, if you use any (do not copy old versions of FO-bundled packs though)
-    * `screenshots`
-    * `servers.dat` for your multiplayer servers
-    * `options.txt`, if you want to keep your vanilla option changes
-11. Launch the instance on Prism and confirm everything is correct
-12. Uninstall GDLauncher
-
-[GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
+To be continued...
 
 ### Pojav Launcher
 
