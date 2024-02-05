@@ -4,9 +4,16 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
 
 ## Video settings
 
-* Render distance affects how far you see and has a high impact on performance. Lowering that is the first thing to try.
-* Simulation distance affects entity (mob) spawning and movement. If you're using big mob farms, you may want to lower this.
-* VSync - 
+* Render distance - affects how far you see and has a high impact on performance. Lowering that is the first thing to try.
+* Simulation distance - affects entity (mob) spawning and movement. If you're using big mob farms, you may want to lower this.
+* VSync - limits your framerate to your screen's Hz, which may give you a smooth game that uses less system resources. May have a negative effect with shaders or certain configurations.
+   * If possible, try using Adaptive rather than ON first.
+* Max framerate - similar to Vsync, but instead of being automatic, you control the maximum frame rate.
+* Weather/leaves - using the "fast" mode may give you a better experience. It is advised to change these separately and keep Graphics on "fancy".
+* Particles - FO allows you to either reduce the rate of particles (all/decreased/minimal) or toggle the ones individually.
+* Entity distance - unlike simulation distance, this affects just the distance where you _see_ the mobs, which means it also works in multiplayer.
+
+Hint: the tooltips of the options usually give you good info on the impact and the effects of each option.
 
 ## Adding RAM
 
