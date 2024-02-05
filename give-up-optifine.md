@@ -1,6 +1,6 @@
-# Give up OptiFine
+# Included OptiFine Alternatives
 
-One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it.
+One of the goals of Fabulously Optimized is to provide feature parity with [OptiFine](https://optifine.net/home), in order to make it easier for users to transition away from it. So, all you need to do is to [install Fabulously Optimized](install-instructions.md) to get all those mods at once!
 
 Here is the list of OptiFine features that are supported in this modpack:
 
@@ -17,18 +17,17 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Option                | Is supported? | Mod providing the feature                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Animation toggles     | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
-| Capes                 | ✔️            | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](free-cape.md))                                                                                                                                                                                                              |
+| Custom capes                 | ✔️            | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](free-cape.md))                                                                                                                                                                                                              |
 | Detail toggles        | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
 | Dynamic Lights        | ✔️            | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)                                                                                                                                                                                                                    |
 | Miscellaneous toggles | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
 | Particle toggles      | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
-| Performance           | ✔️            | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium), [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium), [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) [etc.](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
+| Performance           | ✔️            | [Various mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) |
+| Shaders               | ✔️            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md))                      |
 | Smart Leaves¹         | ✔️            | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)                                                                                                                                                                                                                         |
 | Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |
-| Better Grass          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) (fancy mode is currently unsupported)  |                                                                                                         |
-| Shaders               | 🚧            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md)). Some shaders don't work.                      |
-| 32+ Render Distance   | 🚧             | Currently available only in CurseForge and MultiMC versions of Fabulously Optimized. Prism Launcher (Modrinth) users must download [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) manually and replace Hold That Chunk with it.                                                                                                                |
-| Smooth Lighting Level | ❌             | There's [an issue](https://github.com/FlashyReese/sodium-extra-fabric/issues/125) in the [Sodium Extra mod](https://www.curseforge.com/minecraft/mc-mods/sodium-extra).                                                                                                                                    |
+| Better Grass          | 🚧            | [Fast Better Grass](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Fast%20Better%20Grass) (fancy mode is currently unsupported, [but planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/717))  |                                                                                                         |
+| 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)                                                                                                     |
 
 ### Custom resource pack features
 
@@ -41,15 +40,15 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Custom Sky                  | ✔️             | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes) + [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop)   |
 | Emissive Blocks             | ✔️            | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                              |
 | Emissive Entities           | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
-| HD Fonts                    | ✔️            | [Vanilla feature since 1.13.](https://minecraft.fandom.com/wiki/Java\_Edition\_1.13-pre6#Changes) [Download some from my profile](https://www.curseforge.com/members/robotkoer/projects)                                                                                             |
+| HD Fonts                    | ✔️            | [Vanilla feature since 1.13.](https://minecraft.wiki/w/Java\_Edition\_1.13-pre6#Changes) [Download some from author's profile](https://www.curseforge.com/members/robotkoer/projects)                                                                                             |
 | HD Screenshots              | ✔️            | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)                                                                                                                           |
 | Removal of gaps (see-through lines) in items | ✔️            | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) |
-| Natural Textures            | ✔️            | [Vanilla feature since 1.8](https://minecraft.fandom.com/wiki/Java\_Edition\_14w17a#Model%20format%20improvements)                                                                            |
+| Natural Textures            | ✔️            | [Vanilla feature since 1.8](https://minecraft.wiki/w/Java_Edition_14w17a#General_2)                                                                            |
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | Resource pack splash screen | ✔️            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                                                                                                                 |
-| Custom Entity Models        | 🚧            | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) |
-| Custom Colors               | 🔜            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) is not yet up to date |                                             
-| Anisotropic Filtering       | ❌             | Please check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    |
+| Custom Entity Models        | ✔️            | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) |
+| Custom Colors               | 🔜            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) is not yet up to date, [though an alternative is planned.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/693) |                                             
+| Anisotropic Filtering       | ❌             | Not yet possible, check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    |
 
 
 ¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
@@ -69,11 +68,11 @@ Here is the list of OptiFine features that are supported in this modpack:
 Additionally, you can enjoy:
 
 * Better mod compatibility
-* [Easy installation](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads) for various launchers
+* [Easy installation](install-instructions) for various launchers
 * [Some extra features](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#functional) OptiFine does not provide
 
 Parity with OptiFine is an ongoing process. If you're interested in what's coming, [see this list](https://github.com/Fabulously-Optimized/fabulously-optimized/issues?q=is:issue%20is:open%20label:parity).
 
 If you're having issues with OptiFine's resource pack features, [see this wiki](resource-pack-issues.md).
 
-_See also:_ [_Recommended OptiFine alternatives on Fabric_](https://lambdaurora.dev/optifine\_alternatives)_, a list that inspired me to create this modpack in the first place._
+_See also:_ [_Recommended OptiFine alternatives on Fabric_](https://optifine.alternatives.lambdaurora.dev/)_, a list that inspired me to create this modpack in the first place._

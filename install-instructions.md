@@ -2,11 +2,11 @@
 
 Here are the instructions to install Fabulously Optimized to various launchers.
 
-Can't use Minecraft 1.17 and higher? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
+Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
 
 ## Supported
 
-### [CurseForge Launcher](https://download.curseforge.com/#download-options)
+### [CurseForge App](https://www.curseforge.com/download/app#download-options)
 
 1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
 2. Click `Install`
@@ -21,6 +21,16 @@ Or with the launcher already open:
 3. Click `Install`
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
+
+### [Modrinth App](https://modrinth.com/app)
+
+App version 0.6.2 or higher required.
+
+1. Under "Popular packs" section, hover on "Fabulously Optimized"
+2. Click `⤓ Install`
+3. The modpack will now install.
+4. Once installed, hover on the created instance under "Jump back in"
+5. Click ▶️ button to play.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
@@ -49,12 +59,12 @@ You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/inst
 12. Click `OK`
 13. The modpack will now install.
 14. Once installed, double-tap the icon and wait.
-15. Tap `Options...` → `Controls...` → `🎮`
-16. Set `Mode: Controller`, then `Done` → `Done` → `Done`
+15. Tap `Options...` → `Controls...` → `Controller Settings...`
+16. Select a controller, then `Done` → `Done` → `Done`
 17. The game is now set up and you can just launch it from your game library from now on. 
 18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
-P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://www.reddit.com/r/steamdeck) as FO moderators may not have one.
+P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.reddit.com/r/steamdeck) as FO moderators may not have one.
 
 ### [MultiMC](https://multimc.org)
 
@@ -77,7 +87,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 4. Double-click that version you just created to download and launch the modpack
 
 <details>
-  <summary>Need to download some mods manually?</summary>
+  <summary>Got asked to download a mod manually?</summary>
 
   If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
 
@@ -94,25 +104,45 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.14.19**
-   * Older versions of the modpack - 1.12.3, 2.7.3 and 3.14.1 require the use of Fabric Loader 0.14.12 instead.
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-2. **For 4.8.0-4.9.x**: Download [this version of Sodium](https://modrinth.com/mod/sodium/version/mc1.19.4-0.4.10)
-3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) on CurseForge
-5. Click the topmost version, scroll down to "Additional files" section
-6. Click `⋮` → `Download file` on the latest **MultiMC version**
-   * If you see 0-5 mods in the zip, you downloaded the wrong version.  
-7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-8. Copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder; if asked - replace the files
-9. **For 4.8.0-4.9.x**: Copy downloaded Sodium JAR to _mods_ folder
-10. It is highly recommended to delete `options.txt` as well to get [FO default settings](changed-options.md)
+2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+3. [Open this site](https://download.fo/vanilla) and click on the version you want
+   * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
+   * Looking for older versions? Read the "legacy instructions" below.
+4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
+   * If asked - replace the files.
+5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-    * If you choose not to do this, it is recommended to at least enable bundled resource packs manually.
-11. Launch the installed Fabric profile
-12. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+    * If you choose not to do this, please at least enable bundled resource packs manually.
+6. Launch the installed Fabric profile
+7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
-A simple installer for vanilla launcher [is coming soon](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
+<details>
+  <summary>Legacy instructions - FO 4.6.1/Minecraft 1.19.3 and older</summary>
+
+  1. Download and install [Fabric Loader](https://fabricmc.net/use/)
+     * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
+     * Minecraft 1.17-1.18.2: Fabric Loader **0.14.12**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3**
+     * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
+  2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+  3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
+  4. Click the version you need, then click "Additional files"
+  5. Click `⋮` → `Download file` on the latest **MultiMC version**
+     * If you see less than 10 mods in the zip, you downloaded the wrong version.  
+  6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+  7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
+     * If asked - replace the files.
+  8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
+     * If you choose not to do this, please at least enable bundled resource packs manually.
+  9. Launch the installed Fabric profile
+  10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+
+</details>
+
+A simple installer for vanilla launcher [is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
 ## Not supported
 
@@ -140,22 +170,19 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 
 [GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
 
-### Modrinth app
-
-Fabulously Optimized is [available on Modrinth](https://modrinth.com/modpack/fabulously-optimized), but Modrinth's own official launcher is currently in early alpha. When it gets released, it will be supported.
-For now see [Prism Launcher](#prism-launcher) for a different launcher that also downloads from Modrinth.
-
 ### Pojav Launcher
 
 Pojav Launcher is not yet supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
 
 ### ATLauncher
 
+_Not to be confused with [TLauncher](#tlauncher)._
+
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
 
 ### PolyMC
 
-**[PolyMC is not safe](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
+**[PolyMC is compromised](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496) and you should uninstall it immediately!**
 
 To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
@@ -188,16 +215,23 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
 
 </details>
 
+### TLauncher
+
+_Not to be confused with [ATLauncher](#atlauncher)._
+
+[TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so it will never be supported by Fabulously Optimized.
+It is highly recommended to [reset your entire computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/), then come back to this page and follow install instructions for any supported launcher.
+
 ### Cracked launchers
 
 Any launchers that let you run the game without having purchased it first are not supported.
 
-There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller!](https://punktid.com/minecraft-java-bedrock) Sign up with [this referral link for additional 10% off](https://punktid.com/?ref=robotkoer).
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller](https://download.fo/minecraft).
 After that, pick any supported launcher from this page and enjoy the game! 
 
 ### Other launchers
 
-Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
+Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support here if you use an unsupported launcher.
 
 ### Other modpacks
 
@@ -216,7 +250,7 @@ Fabulously Optimized is not compatible with any "game clients", including "hacke
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition.
+Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav Launcher](#pojav-launcher)
 
 ## Servers
 
