@@ -8,6 +8,8 @@ TODO
 
 ## Adding RAM
 
+Usually, you'd not need to add RAM just to play Minecraft. However, if you want to run intensive shaders or high-resolution resource packs, it may be a good idea. 
+
 Click the link for a tutorial that is made for your launcher.
 
 * [CurseForge App](https://serverminer.com/article/how-to-add-more-ram-to-your-curseforge-launcher-overwolf/)
