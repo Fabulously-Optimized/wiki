@@ -4,7 +4,9 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
 
 ## Video settings
 
-* Render distance 
+* Render distance affects how far you see and has a high impact on performance. Lowering that is the first thing to try.
+* Simulation distance affects entity (mob) spawning and movement. If you're using big mob farms, you may want to lower this.
+* VSync - 
 
 ## Adding RAM
 
