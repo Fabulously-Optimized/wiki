@@ -1,6 +1,6 @@
 # 繁體中文（台灣）
 
-一個簡單的 Minecraft 模組包，專注於提高效能和圖形強。
+一個簡單的 Minecraft 模組包，專注於提高效能和圖形增強。
 
 [![影片評論](https://img.youtube.com/vi/bb8G9X5Q_4I/hqdefault.jpg)](https://www.youtube.com/watch?v=bb8G9X5Q_4I)
 
@@ -40,7 +40,7 @@ Fabulously Optimized [是開源的][9]，大部分的模組也是如此。我們
 
 > **問**：我要怎麼安裝、更新、新增模組或進行其他操作？
 > 
-> **問**：[答案都在我們的維基裡。][12]
+> **問**：[答案都在我們的 wiki 裡。][12]
 
 
 > **問**：發生問題，或你應該加點東西！
@@ -69,7 +69,7 @@ Fabulously Optimized [是開源的][9]，大部分的模組也是如此。我們
 > 
 > **答**：[加入我們的 Discord 聊天吧！][11]
 
-### 使用這個模組包，[你同意以下聲明][16]。
+### 要使用本模組包，[你需要同意此免責聲明][16]。
 
 [1]: https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth
 
