@@ -109,9 +109,11 @@ If core changes to the system will not be made, Mojang could still improve its c
 - Add a clear, yet unobtrusive indicator that shows whether the system is in place or not for given server
   - Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is annoying and technically easy to disable.
 - Be very clear and truthful about the system in help pages 
-   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case](#does-mojang-monitor-my-chats).
+   - For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case in Realms](#does-mojang-monitor-my-chats).
 - Use less cryptic terminology in errors related to the system
 - Write a technical overview about the system's working so that users inclined would be able to read it from the official source
+
+That said, credit where credit due: [several technical issues have been fixed since 1.19.3 already](#history-of-changes), which made the experience smoother for users who do not prefer the system.
 
 This is a non-exhaustive list. People have posted more ideas in various Minecraft communities and the feedback site, search around.
 
@@ -155,6 +157,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429#:~:text=MINECRAFT:%20JAVA)
 
 ### History of changes
+
 - **2021 or earlier** Minecraft adds a [player reporting form](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=4416074743565) to its website.
 - **1.19**
    - [22w17a](https://minecraft.wiki/w/Java_Edition_22w17a#Gameplay) introduced the concept of signed messages, which is a verification method that ensures each message was sent by that user and not the server. It also added a toggle for servers to prevent entering players who did not sign theirs, though the option was disabled by default.
@@ -196,6 +199,7 @@ Fabulously Optimized includes [(why?)](#why-does-fabulously-optimized-take-a-sta
 - A mod called [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) that:
    - adds new consistent chat indicators
    - disables inconsistent vanilla chat indicators and the annoying toast
+   - disables chat signing on servers that state they do not want it
    - provides optional features for users who want to configure their experience
 - A resource pack called [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) that:
    - makes No Chat Reports icons more neutral
@@ -256,7 +260,7 @@ Then they took a step back. Postponed the release by a month to rework the syste
 
 After the release of FO 4.2.0 (MC 1.19.2), there were more discussions about the feature, with [users requesting even more neutrality](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/497) from the modpack. By discussing and evaluating the pain points of chat reporting and [Mojang's positive improvements made in 1.19.3](#history-of-changes), a solution was found - [neutral texts and icons](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/499). The resource pack [was released in FO 4.6.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#460-2023-03-24) and separately distributed as of [FO 4.9.0](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#490-2023-05-02).
 
-As of Minecraft 1.20.2, Mojang has still not fully [fixed the issues](#why-is-it-controversial) or [the communication](#how-could-mojang-improve-the-system). 
+As of Minecraft 1.20.4, Mojang has still not fully [fixed the issues](#why-is-it-controversial) or [the communication](#how-could-mojang-improve-the-system). 
 Therefore, Fabulously Optimized cannot fulfill the [principles of being transparent and prioritizing its users](principles.md) without also giving them [clear indicators](#what-does-this-modpack-do-for-me), honest phrasing and customizable options so that users could make their own decisions about the new feature. It is very important that every user is aware of the system's existence, where and how it works, because it doesn't work everywhere, nor does it align with users' previous expectations of chat in general. At the same time, it is important to reiterate that neither the mod or the resourcepack will actually break any rules or prevent users from reporting if the server prefers it. 
 
 If Mojang will improve their communication or overhaul the system again, it is possible that both the mod and resource pack will be removed from the modpack.
@@ -372,7 +376,7 @@ Yes and no.
 
 On online-mode servers, yes. 
 
-On offline-mode servers, it is not certain yet - it may be possible to report but due to technical differences the reports will likely not get acted on. [But that is not a solution.](chat-reporting-faq.md#should-i-disable-online-mode-on-my-server)
+On offline-mode servers, it is not certain yet - it may be possible to report but due to technical differences the reports will likely not get acted on.
 
 ### What happens when I'm punished?
 

@@ -4,7 +4,7 @@
 
 - As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
 - Upgrades from stable to unstable (alpha, beta) versions are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
-- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) if your server hasn't updated yet.
+- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) if your server hasn't updated yet.
 - If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
 
 ### CurseForge App
@@ -106,7 +106,7 @@ If there is a new Minecraft version:
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.0**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla) and click on the version you want
@@ -124,11 +124,12 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
-     * Minecraft 1.16.5-1.18.2: Fabric Loader **0.14.12**
+     * Minecraft 1.17.1-1.18.2: Fabric Loader **0.14.12**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3**
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
   2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
   3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
-  4. Click the topmost version, scroll down to "Additional files" section
+  4. Click the version you need, then click "Additional files"
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
   6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_

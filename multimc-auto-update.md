@@ -75,10 +75,10 @@ Tutorial and scripts by [Ultrasonic1209](https://github.com/Ultrasonic1209).
 Tutorial and scripts by [RaptaG](https://github.com/RaptaG). Not fully tested on macOS.
 
 1. Open a terminal and run the command below:
-   * Arch Linux: `sudo pacman -S jq --needed`
    * Debian-Ubuntu Linux: `sudo apt-get install jq`
    * Fedora Linux: `sudo dnf install jq`
    * openSUSE Linux: `sudo zypper install jq`
+   * Arch Linux: `sudo pacman -S jq --needed`
    * Other distros/macOS: [follow this tutorial](https://stedolan.github.io/jq/download/)
 
 This will install a program called [jq](https://stedolan.github.io/jq/), needed for automatically adapting this script to any Minecraft version you use.
