@@ -19,6 +19,12 @@ Hint: the tooltips of the options usually give you good info on the impact and t
 
 Usually, you'd not need to add RAM just to play Minecraft. However, if you want to run intensive shaders or high-resolution resource packs, it may be a good idea. 
 
+Try: 
+
+* 2GB for light use (if you also lower your video settings)
+* 4GB for most users
+* 6GB only if you want to play with shaders, high render distance, high-resolution resource pack/shaders, etc.
+
 Click the link for a tutorial that is made for your launcher.
 
 * [CurseForge App](https://serverminer.com/article/how-to-add-more-ram-to-your-curseforge-launcher-overwolf/)
@@ -30,6 +36,14 @@ Click the link for a tutorial that is made for your launcher.
 ## Dedicated GPU
 
 Own a gaming computer? Follow these instructions to ensure your computer will take full advantage of FO's optimizations.
+
+Before changing any settings, ensure your drivers are up to date:
+
+* [Intel](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
+* [NVIDIA](https://www.nvidia.com/en-us/geforce/geforce-experience/)
+* [AMD](https://www.amd.com/en/support)
+
+And these instructions tell you how to enable specific optimizations or make the software recognize Minecraft as a game:
 
 * [NVIDIA (GeForce Experience)](https://www.addictivetips.com/windows-tips/add-games-geforce-experience/)
 * [NVIDIA (Control Panel)](https://www.nvidia.com/content/Control-Panel-Help/vLatest/en-us/mergedProjects/nv3d/to_configure_uniques_3D_settings_for_my_applications_and_gamess.htm)
