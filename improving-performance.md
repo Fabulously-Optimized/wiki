@@ -4,7 +4,7 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
 
 ## Video settings
 
-TODO
+* Render distance 
 
 ## Adding RAM
 
@@ -31,3 +31,11 @@ Own a gaming computer? Follow these instructions to ensure your computer will ta
 * On Linux, Intel and AMD GPUs on Linux usually do not need additional configuration, but ensure your system is up to date.
 
 Please note that Fabulously Optimized moderators may not have these graphics cards and as such may not be help you with this. You can search online or ask in a community such as [Fabric Discord](https://discord.gg/v6v4pMv).
+
+## Additional mods
+
+Mods that may improve performance in specific scenarios, but are not necessarily stable or relevant to be included in FO itself. No guarantees and no support is provided by FO for these mods.
+
+* [Nvidium](https://modrinth.com/mod/nvidium) - improves performance with NVIDIA GPUs, as long as you don't use shaders
+* [Methane](https://modrinth.com/mod/methane) - optimizes the game by removing light calculations, aka using the "fullbright" effect
+* [C2ME](https://modrinth.com/mod/c2me-fabric) - improve chunk loading by using very experimental optimizations
