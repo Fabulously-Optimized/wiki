@@ -28,5 +28,6 @@ Own a gaming computer? Follow these instructions to ensure your computer will ta
 * [AMD (Radeon Software)](https://minecrafthopper.net/help/amd-dedicated-gpu/)
   * [Alternative method](https://www.amd.com/en/support/kb/faq/dh2-012#faq-Creating-Application-Profiles)
 * [MSI AfterBurner](https://www.msi.com/support/technical_details/VGA_MSI_Utility_AfterBurner)
+* On Linux, Intel and AMD GPUs on Linux usually do not need additional configuration, but ensure your system is up to date.
 
 Please note that Fabulously Optimized moderators may not have these graphics cards and as such may not be help you with this. You can search online or ask in a community such as [Fabric Discord](https://discord.gg/v6v4pMv).
