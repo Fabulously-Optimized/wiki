@@ -104,10 +104,10 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 1. Download [vanilla installer](https://download.fo/vanilla) and run it
 2. Select preferred FO/Minecraft version and install
-3. Run Minecraft Launcher. You'll see the installed profile, click PLAY.
+3. Run Minecraft Launcher. You'll see the new installation active, click PLAY.
 
 <details>
-   <summary>Manual installation - new versions</summary>
+   <summary>Manual installation - Minecraft 1.19.4+</summary>
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
@@ -126,7 +126,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 </details>
 
 <details>
-  <summary>Manual installation - FO 4.6.1/Minecraft 1.19.3 and older</summary>
+  <summary>Manual installation - Minecraft 1.16.1-1.19.3</summary>
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
