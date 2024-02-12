@@ -150,8 +150,6 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 </details>
 
-A simple installer for vanilla launcher [is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
-
 ## Not supported
 
 ### GDLauncher
