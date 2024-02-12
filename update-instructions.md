@@ -109,7 +109,7 @@ If there is a new Minecraft version:
 3. Run Minecraft Launcher. You'll see the installed profile, click PLAY.
 
 <details>
-   <summary>Manual installation - FO 4.11.0/Minecraft 1.19.4 and newer</summary>
+   <summary>Manual installation - new versions</summary>
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
