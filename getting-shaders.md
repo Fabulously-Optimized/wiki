@@ -8,7 +8,7 @@ OptiFine shaders are supported by default using [Iris](https://www.curseforge.co
 
 1. Open Minecraft with Fabulously Optimized installed
 2. Open `Options...` → `Video Settings...` → `Shader Packs...`
-3. Download any OptiFine shader pack [from recommended list](https://github.com/IrisShaders/Iris/blob/1.18.2/docs/supportedshaders.md) or [Modrinth](https://modrinth.com/shaders?g=categories%3A%27iris%27)
+3. Download any shader pack from [Modrinth](https://modrinth.com/shaders?g=categories%3A%27iris%27) or [CurseForge](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortType=1&class=shaders)
 4. Drag the ZIP file into the shader pack screen
 5. Select the shader, make sure _Shaders_ is set to enabled and click `Apply`
 6. The shader has been applied! If you run into any problems with shaders, [please report them here](https://github.com/IrisShaders/Iris/issues).
@@ -59,6 +59,8 @@ Examples of **not** working core shaders of [Vanilla Tweaks](https://vanillatwea
 * ~~Wavy Water~~
 
 Luckily those features can be replicated with [OptiFine shaders](#optifine-shaders) or [other mods](adding-more-mods.md), so you're not missing out.
+
+**Resource pack developers**: you may try to make your pack work in Sodium [with this mod](https://modrinth.com/mod/sodium-shader-support) or [this manifest (upcoming)](https://github.com/CaffeineMC/sodium-fabric/pull/2206).
 
 #### Installation
 

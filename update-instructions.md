@@ -4,10 +4,10 @@
 
 - As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
 - Upgrades from stable to unstable (alpha, beta) versions are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
-- Any kind of instance downgrading is **never** supported. Make a separate old instance or [use something like ViaFabric](chat-reporting-faq.md#but-my-favorite-server-requires-1.19) if your server hasn't updated yet.
+- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) if your server hasn't updated yet.
 - If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
 
-### CurseForge Launcher
+### CurseForge App
 
 If you haven't changed the mods:
 
@@ -29,6 +29,12 @@ If you added or removed some mods:
 7. Select the topmost version, then `Continue`.
 8. Modpack will now update.
 9. Run it and check the version difference in the bottom right corner.
+
+### Modrinth App
+
+1. Select existing FO instance
+2. Click `🔄 Update modpack` on top right
+3. Select latest version and click `⇆`
 
 ### Prism Launcher
 
@@ -63,18 +69,6 @@ In most cases:
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
-       <details>
-          <summary>Need to download some mods manually?</summary>
-          If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
-
-        1. Copy and paste the given address to your browser
-        2. Click `Cancel Launch`
-        3. Click `Download` on the mod
-        4. On MultiMC, click on the instance, then click `View Mods`
-        5. Drag the downloaded mod into the mod list
-        6. Click `Launch`
-  
-      </details>
 2. Check the version difference in the bottom right corner.
 
 If there is a new Minecraft version:
@@ -94,30 +88,68 @@ If there is a new Minecraft version:
 7. Close the folders and run the new version
 8. If everything looks right, delete the old version
 
+<details>
+  <summary>Got asked to download a mod manually?</summary>
+
+  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+
+  1. Copy and paste the given address to your browser
+  2. Click `Cancel Launch`
+  3. Click `Download` on the mod
+  4. On MultiMC, click on the instance, then click `View Mods`
+  5. Drag the downloaded mod into the mod list
+  6. Click `Launch`
+
+</details>
+
 ### Minecraft Launcher (vanilla)
 
-#### Windows
+1. Download [vanilla installer](https://download.fo/vanilla) for your OS
+2. Run it, select preferred FO/Minecraft version
+3. Install
+4. Run Minecraft Launcher. You'll see the installed profile be active there.
 
-1. Open the [releases page](https://github.com/Fabulously-Optimized/vanilla-installer/releases/latest) and download the file with the `.exe` extension. (Example: `Vanilla Installer-GUI v0.1.0.exe`)
-2. If it asks you where to save your file, select your Downloads folder (`%USERPROFILE%\Downloads`)
-3. Navigate to the Downloads folder and double-click the file you just downloaded.
-   * If you see a Microsoft Defender SmartScreen prompt, click `More info`, then `Run Anyway`.
-4. Select the Minecraft version and directory, and click `Install`.
-5. You're all done!
+<details>
+   <summary>Manual installation - FO 4.11.0/Minecraft 1.19.4 and newer</summary>
 
-#### macOS
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
+   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
+2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+3. [Open this site](https://download.fo/vanilla) and click on the version you want
+   * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
+4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
+   * If asked - replace the files.
+5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
+    * If you choose not to do this, please at least enable bundled resource packs manually.
+6. Launch the installed Fabric profile
+7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
-TODO
+</details>
 
-#### Linux
+<details>
+  <summary>Manual installation - Minecraft 1.19.3 and older</summary>
 
-1. Install Python 3.8 or higher (3.11 recommended) from your package manager using one of the following examples: 
-   - Ubuntu: `sudo apt install python3`
-   - Arch Linux: `sudo pacman -S python3`
-   - Fedora: `sudo dnf install python3` 
+  1. Download and install [Fabric Loader](https://fabricmc.net/use/)
+     * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
+     * Minecraft 1.17.1-1.18.2: Fabric Loader **0.14.12**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3**
+     * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
+  2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+  3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
+  4. Click the version you need, then click "Additional files"
+  5. Click `⋮` → `Download file` on the latest **MultiMC version**
+     * If you see less than 10 mods in the zip, you downloaded the wrong version.  
+  6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+  7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
+     * If asked - replace the files.
+  8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
+     * If you choose not to do this, please at least enable bundled resource packs manually.
+  9. Launch the installed Fabric profile
+  10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
-2. Run `pip3 install vanilla-installer[gui]`.
-3. Then you can run `vanilla-installer-gui` to launch the program. If you have issues, try `python3 -m vanilla_installer gui`.
+</details>
 
 ### GDLauncher
 
@@ -135,7 +167,7 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
 * If you did any of the things above and are having issues, simply update Fabulously Optimized again, even if you have the same version.
 
-### Resetting settings
+### Resetting options
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 
