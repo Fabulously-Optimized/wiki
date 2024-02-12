@@ -102,10 +102,9 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-1. Download [vanilla installer](https://download.fo/vanilla) for your OS
-2. Run it, select preferred FO/Minecraft version
-3. Install
-4. Run Minecraft Launcher. You'll see the installed profile be active there.
+1. Download [vanilla installer](https://download.fo/vanilla) and run it
+2. Select preferred FO/Minecraft version and install
+3. Run Minecraft Launcher. You'll see the installed profile, click PLAY.
 
 <details>
    <summary>Manual installation - FO 4.11.0/Minecraft 1.19.4 and newer</summary>
