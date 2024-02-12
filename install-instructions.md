@@ -103,6 +103,9 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 1. Download [vanilla installer](https://download.fo/vanilla) and run it
+    * Windows:
+    * macOS:
+    * Linux:
 2. Select preferred FO/Minecraft version and install
 3. Run Minecraft Launcher. You'll see the new installation active, click PLAY.
 
