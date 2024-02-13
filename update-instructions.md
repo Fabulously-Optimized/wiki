@@ -104,12 +104,14 @@ If there is a new Minecraft version:
 
 ### Minecraft Launcher (vanilla)
 
-1. Download [vanilla installer](https://download.fo/vanilla) and run it
-    * Windows:
+(https://download.fo/vanilla) and run it
+    * Windows: Open the .exe file, click "More info" and then "Run anyway".
     * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click "Open", click "Open" again when asked in a prompt.
-    * Linux:
+    * Linux: Open the .appimage file and click "Run once" when prompted.
 2. Select preferred FO/Minecraft version and install
 3. Run Minecraft Launcher. You'll see the new installation active, click PLAY.
+
+Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. This is a configuration file that ensures smoother upgrades and remembers some of your install settings.
 
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
