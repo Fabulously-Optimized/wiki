@@ -104,7 +104,7 @@ If there is a new Minecraft version:
 
 ### Minecraft Launcher (vanilla)
 
-(https://download.fo/vanilla) and run it
+1. Download [vanilla installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click "More info" and then "Run anyway".
     * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click "Open", click "Open" again when asked in a prompt.
     * Linux: Open the .appimage file and click "Run once" when prompted.
