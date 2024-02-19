@@ -113,6 +113,7 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 It is possible to translate most messages on the vanilla installer, except for some very detailed errors.
 
 * Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+* Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
 * The language of the installer is determined by the operating system.
 
 ### Website
