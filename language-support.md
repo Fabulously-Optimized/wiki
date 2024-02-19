@@ -108,6 +108,20 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 * Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
 * You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
 
+### Vanilla installer
+
+It is possible to translate most messages on the vanilla installer, except for some very detailed errors.
+
+* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+* The language of the installer is determined by the operating system.
+
+### Website
+
+The new website is almost entirely localizable.
+
+* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+* The language of the website is determined by the browser, but can be overridden on the menu in top right corner.
+
 ### Listing description
 
 **⚠️ Due to technical limits, the listing description will not get any _new_ languages. However, you can still translate them, as the translations will be reused in the upcoming website.**
