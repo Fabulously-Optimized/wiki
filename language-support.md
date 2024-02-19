@@ -125,7 +125,7 @@ The new website is almost entirely localizable.
 
 ### Listing description
 
-**⚠️ Due to technical limits, the listing description will not get any _new_ languages. However, you can still translate them, as the translations will be reused in the upcoming website.**
+**⚠️ New translations are not accepted - please translate the website instead. Existing translations will be migrated there.**
 
 Listing description translations are posted as a spoiler tag below the English text.
 
