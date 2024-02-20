@@ -102,6 +102,8 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
+The Vanilla Installer is currently in open beta. If you run into any issues, please report them on Discord and use the manual method.
+
 1. Download [vanilla installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click "More info" and then "Run anyway".
     * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click "Open", click "Open" again when asked in a prompt.
