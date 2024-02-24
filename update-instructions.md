@@ -157,7 +157,8 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 * Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
     * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
-* If you did any of the things above and are having issues, simply update Fabulously Optimized again, even if you have the same version.
+* If you did any of the things above and are having issues, simply update Fabulously Optimized again.
+  * This will reset your mod list to the specified FO version ones, even if you used the same version of FO beforehand.
 
 ### Resetting options
 
