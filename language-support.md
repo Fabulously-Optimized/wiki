@@ -122,6 +122,7 @@ The new website is almost entirely localizable.
 * Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
 * Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
 * The language of the website is determined by the browser, but can be overridden on the menu in top right corner.
+* Right-to-left languages (Arabic, Hebrew, Malay (Jawi), Persian, Urdu (Pakistan)) are currently not supported [due to a bug](https://github.com/Fabulously-Optimized/fabulously-web/issues/45). You can still translate it to have it included later, as soon as a fix has been found.
 
 ### Listing description
 
