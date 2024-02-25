@@ -102,7 +102,19 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
+The Vanilla Installer is currently in open beta. If you run into any issues, please report them on Discord and use the manual method.
+
+1. Download [vanilla installer](https://download.fo/vanilla) and run it
+    * Windows: Open the .exe file, click "More info" and then "Run anyway".
+    * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click "Open", click "Open" again when asked in a prompt.
+    * Linux: Open the .appimage file and click "Run once" when prompted.
+2. Select preferred FO/Minecraft version and install
+3. Run Minecraft Launcher. You'll see the new installation active, click PLAY.
+
+Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. This is a configuration file that ensures smoother upgrades and remembers some of your install settings.
+
+<details>
+   <summary>Manual installation - Minecraft 1.19.4+</summary>
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.7**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
@@ -118,8 +130,10 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
 6. Launch the installed Fabric profile
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
+</details>
+
 <details>
-  <summary>Legacy instructions - FO 4.6.1/Minecraft 1.19.3 and older</summary>
+  <summary>Manual installation - Minecraft 1.16.1-1.19.3</summary>
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
@@ -141,8 +155,6 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
   10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 </details>
-
-A simple installer for vanilla launcher [is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
 ## Not supported
 
