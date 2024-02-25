@@ -254,10 +254,10 @@ Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav La
 
 ## Servers
 
-Any server is supported, no installation is necessary. See [server setup](server-setup.md) for tips.
+Any server that works with vanilla Minecraft is supported, no changes are necessay to the server. See [server setup](server-setup.md) for tips.
 
 ## Quilt
 
-Fabulously Optimized is currently based on Fabric, not Quilt. It _may_ run on [Quilt](https://quiltmc.org), but it has not been tested and is not currently supported to ensure all mods work reliably. If you use it, do not ask for support in FO's Discord, but rather [Quilt's Discord](https://discord.quiltmc.org/).
+Fabulously Optimized is currently based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). It _may_ run on Quilt, but it has not been tested and is not currently supported to ensure all mods work reliably.
 
 If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
