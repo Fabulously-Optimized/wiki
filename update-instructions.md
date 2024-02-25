@@ -125,7 +125,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
      * Minecraft 1.17.1-1.18.2: Fabric Loader **0.14.12**
-     * Minecraft 1.16.5: Fabric Loader **0.13.3**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3** and [Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre&arch=x64)
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
   2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
   3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
