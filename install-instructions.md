@@ -34,7 +34,7 @@ App version 0.6.2 or higher required.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
-You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+You need [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -68,7 +68,7 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.re
 
 ### [MultiMC](https://multimc.org)
 
-You need [Java 17 or higher](https://adoptium.net/) to play the game.
+You need [Java 17](https://download.fo/java) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -79,7 +79,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
-You need [Java 17 or higher](https://adoptium.net/) to play the game.
+You need [Java 17](https://download.fo/java) to play the game.
 
 1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
 2. Click the version number you need in the MultiMC (auto-update) section
@@ -102,7 +102,7 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Installer.
+For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.7**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
@@ -124,7 +124,7 @@ For macOS or Linux [you need Java](https://adoptium.net/) to run the Fabric Inst
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
      * Minecraft 1.17-1.18.2: Fabric Loader **0.14.12**
-     * Minecraft 1.16.5: Fabric Loader **0.13.3**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3** and [Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre&arch=x64)
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
   2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
   3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
