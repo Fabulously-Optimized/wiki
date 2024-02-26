@@ -70,7 +70,7 @@ Method 2:
 6. Click `Add Mod`
 7. Search for the mod you want
 8. Click `DOWNLOAD LATEST`
-9. Go back to `Library` and run the game as usual. You should now have the new mod(s)installed.
+9. Go back to `Library` and run the game as usual. You should now have the new mod(s) installed.
 
 ### Minecraft Launcher (vanilla)
 
