@@ -100,12 +100,13 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 </details>
 
-### [GDLauncher](https://gdlauncher.com/)
+### [GDLauncher Carbon](https://gdlauncher.com/)
 
 1. Click `Modpacks`
-2. Select `Modrinth` tab from the left
-3. Click `Download Latest` from the Fabulously Optimized Listing
-4. Once installed, hover over the modpack icon and click the play icon to launch.
+2. Select `CurseForge` tab from the left
+3. Search "Fabulously Optimized"
+4. Click `Download Latest` from the Fabulously Optimized Listing
+5. Once installed, hover over the modpack icon and click the play icon to launch.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
@@ -155,7 +156,15 @@ A simple installer for vanilla launcher [is planned](https://github.com/Fabulous
 
 ### GDLauncher
 
-Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to the new GDLauncher Carbon.
+Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to the new GDLauncher Carbon. To do this:
+
+1. Click `+ Add Instance`
+2. Click `Import`
+3. Select `GDLauncher legacy`
+4. Select your Fabulously Optimised instance
+5. Click `Begin import`
+6. Once finished, click `Go back` and click the `x` at the top right of the dialog
+7. You should now have your Fabulously Optimised instance migrated to the new GDLauncher Carbon.
 
 To be continued...
 
