@@ -8,7 +8,7 @@ This tutorial is with an assumption that you have the pack already installed and
 
 Method 1:
 
-1. Open CurseForge Launcher
+1. Open CurseForge App
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
