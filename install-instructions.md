@@ -8,17 +8,17 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 
 ### [CurseForge App](https://www.curseforge.com/download/app#download-options)
 
-1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
-2. Click `Install`
-3. Accept the prompt (if asked), download should start in the launcher
-4. To run the modpack, hover on the modpack icon and click `Play`
-5. Once the Minecraft Launcher has opened, click `Play` again
-
-Or with the launcher already open:
-
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
+4. To run the modpack, hover on the modpack icon and click `Play`
+5. Once the Minecraft Launcher has opened, click `Play` again
+
+Or directly from the website:
+
+1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
+2. Click `Install` and accept the prompt in your browser
+3. The app should open and download should start
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
