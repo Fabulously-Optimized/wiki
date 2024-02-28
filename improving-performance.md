@@ -42,7 +42,7 @@ Before changing any settings, ensure your drivers are up to date:
 
 * [Intel](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 * [NVIDIA](https://www.nvidia.com/en-us/geforce/geforce-experience/)
-* [AMD](https://www.amd.com/en/support)
+* [AMD](https://www.amd.com/support)
 
 And these instructions tell you how to enable specific optimizations or make the software recognize Minecraft as a game:
 

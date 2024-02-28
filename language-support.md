@@ -29,7 +29,7 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 4. [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
 5. [Mod Menu](https://crowdin.com/project/mod-menu)
 6. [Controlify](https://github.com/isXander/Controlify/blob/1.20.x/dev/src/main/resources/assets/controlify/lang/en_us.json)
-7. Fabric API: [resource packs](https://github.com/FabricMC/fabric/blob/1.20.2/fabric-resource-loader-v0/src/main/resources/assets/fabric-resource-loader-v0/lang/en_us.json), [creative tabs](https://github.com/FabricMC/fabric/blob/1.20.2/fabric-item-group-api-v1/src/main/resources/assets/fabric/lang/en_us.json)
+7. [Fabric API/Installer](https://crowdin.com/project/fabricmc)
 8. [Zoomify](https://github.com/isXander/Zoomify/blob/1.20/src/main/resources/assets/zoomify/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
 10. [Continuity](https://github.com/PepperCode1/Continuity/blob/1.19/dev/src/main/resources/assets/continuity/lang/en_us.json)
@@ -108,9 +108,25 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 * Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
 * You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
 
+### Vanilla installer
+
+It is possible to translate most messages on the vanilla installer, except for some very detailed errors.
+
+* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+* The language of the installer is determined by the operating system.
+
+### Website
+
+The new website is almost entirely localizable.
+
+* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+* Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
+* The language of the website is determined by the browser, but can be overridden on the menu in top right corner.
+* Right-to-left languages (Arabic, Hebrew, Malay (Jawi), Persian, Urdu (Pakistan)) are currently not supported [due to a bug](https://github.com/Fabulously-Optimized/fabulously-web/issues/45). You can still translate it to have it included later, as soon as a fix has been found.
+
 ### Listing description
 
-**⚠️ Due to technical limits, the listing description will not get any _new_ languages. However, you can still translate them, as the translations will be reused in the upcoming website.**
+**⚠️ New translations are not accepted - please translate the website instead. Existing translations will be migrated there.**
 
 Listing description translations are posted as a spoiler tag below the English text.
 
