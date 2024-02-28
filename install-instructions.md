@@ -108,6 +108,21 @@ You need [Java 17](https://download.fo/java) to play the game.
 4. Click `Download Latest` from the Fabulously Optimized Listing
 5. Once installed, hover over the modpack icon and click the play icon to launch.
 
+<details>
+  <summary>Migrate instances from GDLauncher Legacy</summary>
+
+Due to technical limits and issues, GDLauncher Legacy is no longer supported. It is recommended to migrate to the new GDLauncher Carbon. To do this:
+
+1. Click `+ Add Instance`
+2. Click `Import`
+3. Select `GDLauncher legacy`
+4. Select your Fabulously Optimised instance
+5. Click `Begin import`
+6. Once finished, click `Go back` and click the `x` at the top right of the dialog
+7. You should now have your Fabulously Optimised instance migrated to the new GDLauncher Carbon.
+
+</details>
+
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
@@ -153,20 +168,6 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 A simple installer for vanilla launcher [is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110)!
 
 ## Not supported
-
-### GDLauncher
-
-Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to the new GDLauncher Carbon. To do this:
-
-1. Click `+ Add Instance`
-2. Click `Import`
-3. Select `GDLauncher legacy`
-4. Select your Fabulously Optimised instance
-5. Click `Begin import`
-6. Once finished, click `Go back` and click the `x` at the top right of the dialog
-7. You should now have your Fabulously Optimised instance migrated to the new GDLauncher Carbon.
-
-To be continued...
 
 ### Pojav Launcher
 
