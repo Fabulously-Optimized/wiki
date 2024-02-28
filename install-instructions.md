@@ -111,15 +111,17 @@ You need [Java 17](https://download.fo/java) to play the game.
 <details>
   <summary>Migrate instances from GDLauncher Legacy</summary>
 
-Due to technical limits and issues, GDLauncher Legacy is no longer supported. It is recommended to migrate to the new GDLauncher Carbon. To do this:
+Due to technical limits and issues, GDLauncher Legacy is no longer supported. It is recommended to migrate to the new GDLauncher Carbon:
 
-1. Click `+ Add Instance`
-2. Click `Import`
-3. Select `GDLauncher legacy`
-4. Select your Fabulously Optimised instance
-5. Click `Begin import`
-6. Once finished, click `Go back` and click the `x` at the top right of the dialog
-7. You should now have your Fabulously Optimised instance migrated to the new GDLauncher Carbon.
+1. Open GDLauncher Carbon
+2. Click `+ Add Instance`
+3. Click `Import`
+4. Select `GDLauncher legacy`
+5. Select your Fabulously Optimised instance
+6. Click `Begin import`
+7. Once finished, click `Go back` and click the `x` at the top right of the dialog.
+8. You should now have your Fabulously Optimised instance migrated to the new GDLauncher Carbon. Repeat for any other instances you may have.
+9. Uninstall GDLauncher Legacy
 
 </details>
 
