@@ -442,7 +442,7 @@ Though, it is worth pointing out that _monitoring_ and "automated proactive chat
 
 ### How many servers actually have chat reporting?
 
-**Update: [Mojang released an official server list](https://findmcserver.com/parents#features), which indicates chat reporting with a "Beacon of Safety badge". As of 2023-11-16, no Java Edition servers have the badge yet.**
+**Update: [Mojang released an official server list](https://findmcserver.com/parents#features), which indicates chat reporting with a "Beacon of Safety badge". As of Feb 2024, no Java Edition servers have the badge yet.**
 
 There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
 
