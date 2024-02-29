@@ -37,11 +37,11 @@ In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edi
 
 ### Why is chat reporting controversial?
 
-Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. [Skin/username reports have different concerns - see here](#skin-and-username-reporting)._
+Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. [Skin/username reports have different concerns - see here](#skin-and-username-reporting).
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
-* **Some swearing is interpreted too strictly** - some swear words are interpreted as bannable offenses even if the players know each other and know that the other party will not get offended by it. [Read more from this Reddit post](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/)
+* **Some swearing is interpreted too strictly** - some swear words are interpreted as bannable offenses even if the players know each other and know that the other party will not get offended by it. [Read more about one user's experience from this post](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/).
 
 * **Realms chat is constantly monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
 
@@ -49,13 +49,13 @@ Because the current implementation of it is vaguely described, sustainability no
 
 * **Not sent to server admins** - sending reports to Mojang will result in different judgement and outcomes of the cases - while server admins could punish faster, with a shorter penalty, with different kinds of punishments like mutes and jails, Mojang can only ban people from the entirety of multiplayer or not punish at all.
 
-* **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 9 messages before the selected ones - at most 40 messages in total. That is a very partial context for serious offenses as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc.
+* **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 9 messages before the selected ones - at most 40 messages in total. That is a very partial context for serious offenses as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc. In other words, it assumes the player only offends another within one hour, not for a longer period.
 
 * **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be done on _thousands_ of reports every day? The investigators may accidentally overlook a part of the conversation or misintepret the intent due to words used. Compare that to a single server that has less players, therefore less reports and less admins needed, appeals that are dealt with faster.
 
 * **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like world politics, alcohol and drugs freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
-* **Categories are vague** - as of 1.20.2, the reason "I want to report them" was added.
+* **Categories are vague** - as of 1.20.2, the reason "I want to report them" was added, which implies that "being annoying" is also a possible cause of punishment.
 
 * **Ban reasons and appeals are vague** - [while there is a way to appeal](#is-there-a-way-to-appeal-the-ban), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban gives a bad impression of the game overall. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
 
@@ -268,7 +268,7 @@ If Mojang will improve their communication or overhaul the system again, it is p
 
 _See also: [why does this article exist](#what-is-the-intent-of-this-article) and [history of chat reporting](#history-of-changes)_
 
-## Against chat reporting
+## Protection, awareness, alternatives to chat reporting
 
 ### What should I do instead when someone breaks the rules?
 
@@ -467,4 +467,4 @@ The article does not encourage breaking any rules, and to my knowledge (not a la
 
 ### I have more questions.
 
-Write to `#support` [in our Discord](https://fabulously-optimized.github.io/discord).
+Write to `#support` [in our Discord](https://download.fo/discord).
