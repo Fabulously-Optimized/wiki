@@ -18,15 +18,16 @@ In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edi
 > 
 > [...]
 > 
-> 1. A player creates a chat report, selects the offending chat, name, or skin, a category and details, and submits it 
-> 2. The report is sent to our team of Minecraft Investigators
-> 3. A moderator reviews the report and the evidence and assigns an appropriate action (if any) 
-> 4. If action is taken, a moderator can take one of the following actions:
->    - Suspend the player from online play for some duration of time, or in extreme cases permanently
->    - Remove the player’s skin and replace it with a default skin.
+> - A player creates a report, selects the offending chat, name, or skin, a category and details, and submits it.
+> - The report is sent to our team of Minecraft Investigators.
+> - A moderator reviews the report and the evidence and assigns an appropriate action (if any). 
+> - If action is taken, a moderator can take one of the following actions:
+>   - Suspend the player from online play for some duration of time, or in extreme cases permanently
+>   - Remove the player’s skin and replace it with a default skin.
 >      - This action applies to any player using the same skin, and future players will not be able to select it.
->    - Suspend the player from online play until they change their username.
+>   - Suspend the player from online play until they change their username.
 >      - No player will be allowed to use this name once it has been removed.
+
 
 ### Why was it implemented?
 
@@ -36,7 +37,7 @@ In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edi
 
 ### Why is it controversial?
 
-Because the current implementation of it is vaguely described, unsustainable and unethical. _Note: remember that all points here are about **chat** reports, not [skin/username reports](#skin-and-username-reporting)._
+Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. _Note: remember that all points here are about **chat** reports, not [skin/username reports - these are separately described here](#skin-and-username-reporting)._
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
