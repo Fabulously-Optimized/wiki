@@ -1,6 +1,6 @@
 # Unofficial FAQ for Minecraft's Player Reporting
 
-This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reportability¹, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
+This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reporting¹, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
 
 The intent of this article is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system, including important details and answers to questions that [Mojang's official resources](#official-posts) don't provide. 
 
