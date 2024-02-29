@@ -35,9 +35,9 @@ In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edi
 
 > [...] We need to provide safeguards that will help keep all our players safe and welcome in the online environments where they play Minecraft. Player Reporting will help to keep Minecraft communities free from hate speech, bullying, harassment, sexual solicitation, and personal threats. We believe that human moderation and community guidelines are critical to reducing harmful behavior and promoting healthy Minecraft online communities. 
 
-### Why is it controversial?
+### Why is chat reporting controversial?
 
-Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. _Note: remember that all points here are about **chat** reports, not [skin/username reports - these are separately described here](#skin-and-username-reporting)._
+Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. [Skin/username reports have different concerns - see here](#skin-and-username-reporting)._
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
 
@@ -77,7 +77,7 @@ Even if the server admins know your intent is positive/ethical/legal and have al
 
 On Realms, yes. See [does Mojang monitor my chats](#does-mojang-monitor-my-chats).
 
-On public servers, no. You can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, [if the system is enabled on the server](#i-am-a-server-owner.-how-can-i-protect-my-users).
+On public servers, no. You can be banned by server admins throughout the same server or server network, but multiplayer-wide bans as described here must still be initiated by a player reporting another player's individual messages, [if the system is enabled on the server](#i-am-a-player-how-do-i-know-if-chat-reporting-is-enabled).
 
 ### Is there a way to appeal the ban?
 
