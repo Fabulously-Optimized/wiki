@@ -55,9 +55,9 @@ Because the current implementation of it is vaguely described, sustainability no
 
 * **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like world politics, alcohol and drugs freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
-* **Categories are vague** - for example, take the reason "impersonation". How can one be sure a person is who they claim to be with just a few lines of chat? As of 1.20.2, that reason was removed but instead an even more generic "I want to report them" reason was added.
+* **Categories are vague** - as of 1.20.2, the reason "I want to report them" was added.
 
-* **Ban reasons and appeals are vague** - [while there is a way to appeal](#is-there-a-way-to-appeal-the-ban), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban is an unjust ban. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
+* **Ban reasons and appeals are vague** - [while there is a way to appeal](#is-there-a-way-to-appeal-the-ban), it is not described when and how many times it will be accepted. The fact that _some_ bans are temporary is not really the solution - an unjust ban gives a bad impression of the game overall. [This issue has already been prevalent in Bedrock Edition.](https://youtu.be/kEfyaAq90kg?t=108)
 
 * **Reports may not be sufficient** - in the case of most serious offenses (e.g. threatening, abuse, harassment), you should really feel that proper action is taken. With these reports, Mojang does not actually elaborate on [what their "appropriate actions" are](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition#h_01GD13PG9R60SYNDV88FKFSHRH). They may send a player suicide prevention info for example, but there is no guarantee Mojang will contact the police for you. [Do it yourself!](#what-should-i-do-instead-when-someone-breaks-the-rules)
 
