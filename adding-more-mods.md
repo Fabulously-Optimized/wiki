@@ -31,7 +31,7 @@ Method 2:
 2. Click on Fabulously Optimized
 3. Click `⚙️ Options`
 4. Scroll down and click `🔒 Unlock`, then click again
-    * **Do NOT click `߂ Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+    * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
 5. Click `🧊 Content`
 6. Click `🔍 Add Content`
 7. Search for the mod you want
@@ -65,7 +65,7 @@ Method 2:
 2. Click on Fabulously Optimized
 3. Click `Settings`
 4. Click `🔒 Unlock`
-    * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+    * **Do NOT click `߂ Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
 5. Click `Mods`
 6. Click `Add Mod`
 7. Search for the mod you want
