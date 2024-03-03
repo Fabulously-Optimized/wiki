@@ -73,20 +73,20 @@ In most cases:
 
 If there is a new Minecraft version:
 
-1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
-2. Click the version number you need in the MultiMC (auto-update) section
-3. Drag the ZIP-archive to MultiMC window
-4. Click that version, then `Minecraft Folder`
-5. Click the previous version, then `Minecraft Folder`
-6. Copy the important files and folders over:
+1. Download the pack for your preferred Minecraft version:
+   * [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.5/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-beta.11/Fabulously.Optimized.MC.1.20.4.auto-update.zip)
+2. Drag the ZIP-archive to MultiMC window
+3. Click that version, then `Minecraft Folder`
+4. Click the previous version, then `Minecraft Folder`
+5. Copy the important files and folders over:
    * `saves` for your local worlds
    * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
    * `screenshots`
    * `servers.dat` for your multiplayer servers
    * `options.txt`, if you want to keep your vanilla option changes
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
-7. Close the folders and run the new version
-8. If everything looks right, delete the old version
+6. Close the folders and run the new version
+7. If everything looks right, delete the old version
 
 <details>
   <summary>Got asked to download a mod manually?</summary>
