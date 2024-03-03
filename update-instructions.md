@@ -110,6 +110,8 @@ If there is a new Minecraft version:
 4. Select the latest version from the dropdown
 5. Click `Update`
 
+**Note**: the instance name will not update, so it may seem outdated. You'll always find the correct version in the details page or bottom right corner of the game's title screen.
+
 ### Minecraft Launcher (vanilla)
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
