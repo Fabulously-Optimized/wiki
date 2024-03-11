@@ -128,6 +128,7 @@ The new website is almost entirely localizable.
 
 1. Translate and approve to 100% on FO Crowdin's folder "Website"
 2. Go to [the website's GitHub and click on "New Crowdin updates" pull request](https://github.com/Fabulously-Optimized/fabulously-web/pulls?q=is%3Apr+is%3Aopen+New+Crowdin+updates)
+   * Can't see it? Ensure your translation is 100% approved and try again later.
 3. Scroll down to find a comment by the user `vercel`. Click `Visit Preview` on that comment.
 4. Ensure the site is in translated language and click around to see your translation as it would appear live.
 5. If needed, adjust your translation and repeat from step 2.
