@@ -114,6 +114,7 @@ It is possible to translate most messages on the vanilla installer, except for s
 
 * Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
 * The language of the installer is determined by the operating system.
+* There is no public download link for the installer yet.
 
 ### Website
 
