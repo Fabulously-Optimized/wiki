@@ -9,7 +9,7 @@ Since Fabulously Optimized was created, several similar packs have started appea
 * **Neutrality** - the modpack should only give you the essential tools and fixes to customize your game, not include any opinionated extras itself (e.g. a mod that adds a minimap, armor HUD or more sounds). 
 * **Privacy** - you shall not be punished for "having too many mods" or "using the wrong zoom mod". In simpler terms, the client tells as little about itself to the servers, mods and Mojang as possible, even though the mods are already allowed by most servers' rules.
 * **Transparency** - Fabulously Optimized is [open source](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md) (including the majority of its mods), documented in this wiki, [changes are outlined](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md), [mods are clearly listed](https://github.com/Fabulously-Optimized/fabulously-optimized#included-mods) with their creator and purpose. Sometimes users need to be educated [about important new game features as well](chat-reporting-faq.md#what-does-this-modpack-do-for-me).
-* **Updates** - Fabulously Optimized [receives fast updates](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md) and is one of the first modpacks to upgrade to newer Minecraft versions.
+* **Updates** - Fabulously Optimized [receives fast updates](https://download.fo/changelog) and is one of the first modpacks to upgrade to newer Minecraft versions. That's why its mods should also be consistently supported to not slow down the modpack's development.
 
 See also: [Version support FAQ](version-support.md)
 

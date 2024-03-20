@@ -6,8 +6,8 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
 
 * Render distance - affects how far you see and has a high impact on performance. Lowering that is the first thing to try.
 * Simulation distance - affects entity (mob) spawning and movement. If you're using big mob farms, you may want to lower this.
-* VSync - limits your framerate to your screen's Hz, which may give you a smooth game that uses less system resources, but may also add input lag or reduce framerate with shaders.
-   * If available, try using Adaptive VSync rather than ON first.
+* VSync - limits your framerate to your screen's Hz, which may give you a smooth game that uses less system resources, but may also add input lag or increase system strain due to unlimited FPS
+   * If available, try using Adaptive VSync before disabling it entirely.
    * [See this article for more info](https://www.howtogeek.com/853225/what-is-vsync-and-should-you-enable-it/)
 * Max framerate - similar to Vsync, but instead of being automatic, you control the maximum frame rate.
 * Weather/leaves - using the "fast" mode may give you a better experience. It is advised to change these separately and keep Graphics on "fancy".
@@ -42,7 +42,7 @@ Before changing any settings, ensure your drivers are up to date:
 
 * [Intel](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 * [NVIDIA](https://www.nvidia.com/en-us/geforce/geforce-experience/)
-* [AMD](https://www.amd.com/en/support)
+* [AMD](https://www.amd.com/support)
 
 And these instructions tell you how to enable specific optimizations or make the software recognize Minecraft as a game:
 

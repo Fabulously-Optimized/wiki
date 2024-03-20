@@ -6,6 +6,12 @@
 
 That depends on my time, Mojang releases, CurseForge support (when versions appear in launcher), mod updates, mod additions... there are a lot of factors. I do try to push out a release as soon as possible when Minecraft or some of the more important mods update though.
 
+#### How do the modpack versions work?
+
+- **X**.Y.Z stands for major versions which directly map to Minecraft's 1.**Y**.Z (1.16 was 1, 1.17 was 2 etc)
+- X.**Y**.Z stands for minor versions which may map to Minecraft's 1.Y.**Z** or just refer to bigger changes like added mods
+- X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
+
 #### What versions do you support?
 
 I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on CurseForge.
