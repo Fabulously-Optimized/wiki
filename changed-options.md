@@ -92,6 +92,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-22882](https://bugs.mojang.com/browse/MC-22882) | Ctrl + Q won't work on Mac                                                   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.19/PATCHED.md#unpatched-in-vanilla).
 
