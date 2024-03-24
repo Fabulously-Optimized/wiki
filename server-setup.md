@@ -1,3 +1,4 @@
+
 # Server setup
 
 Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly the same on **every server that allows vanilla clients**. 
@@ -99,7 +100,9 @@ _* Fabric/Quilt versions can also work in the client, though this is not advised
 
 Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means your users can continue to use unmodified Fabulously Optimized and you can add new stuff to the server!
 
-This is done by a mod called PolyMc (not to be confused with a [launcher of the same name](install-instructions.md#polymc)). [Read more about its limits and installation.](https://theepicblock.github.io/PolyMc/)
+This is done by a mod called PolyMc (not to be confused with a [launcher of the same name](install-instructions.md#polymc)). 
+
+[Read more about its installation and limits.](https://theepicblock.github.io/PolyMc/)
 
 ### Mods in rules
 
