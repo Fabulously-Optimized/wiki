@@ -259,6 +259,8 @@ Any server that works with vanilla Minecraft is supported, no changes are necess
 
 ## Quilt
 
-Fabulously Optimized is currently based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). It _may_ run on Quilt, but it has not been tested and is not currently supported to ensure all mods work reliably.
+Fabulously Optimized is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
 
-If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+It can be attempted to run it through Quilt, but not all mods and configurations work without changes. If you do attempt it, you're on your own - do not ask for support from the modpack.
+
+The sustainability and popularity of Quilt is being tracked in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
