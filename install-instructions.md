@@ -245,6 +245,8 @@ While it is theoretically possible, this is **not advised**:
 
 Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
 
+If you'd still like to do it on your responsibility, just install the other modpack first and then copy FO's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
+
 ### Game clients
 
 Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
