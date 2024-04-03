@@ -8,17 +8,17 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 
 ### [CurseForge App](https://www.curseforge.com/download/app#download-options)
 
-1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
-2. Click `Install`
-3. Accept the prompt (if asked), download should start in the launcher
-4. To run the modpack, hover on the modpack icon and click `Play`
-5. Once the Minecraft Launcher has opened, click `Play` again
-
-Or with the launcher already open:
-
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
+4. To run the modpack, hover on the modpack icon and click `Play`
+5. Once the Minecraft Launcher has opened, click `Play` again
+
+Or directly from the website:
+
+1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
+2. Click `Install` and accept the prompt in your browser
+3. The app should open and download should start
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
@@ -34,7 +34,7 @@ App version 0.6.2 or higher required.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
-You need [Java 17 or higher](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+You need [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -68,7 +68,7 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.re
 
 ### [MultiMC](https://multimc.org)
 
-You need [Java 17 or higher](https://adoptium.net/) to play the game.
+You need [Java 17](https://download.fo/java) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -79,10 +79,11 @@ You need [Java 17 or higher](https://adoptium.net/) to play the game.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
-You need [Java 17 or higher](https://adoptium.net/) to play the game.
+You need [Java 17](https://download.fo/java) to play the game.
 
-1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
-2. Click the version number you need in the MultiMC (auto-update) section
+1. Download the pack for your preferred Minecraft version: 
+   * [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.9.0/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
 
@@ -110,13 +111,13 @@ The Vanilla Installer is currently in open beta. If you run into any issues, ple
     * Linux: Open the .appimage file and click "Run once" when prompted.
 2. Select preferred FO/Minecraft version and install
 3. Run Minecraft Launcher. You'll see the new installation active, click PLAY.
-
-Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. This is a configuration file that ensures smoother upgrades and remembers some of your install settings.
-
+4. 
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
+  
+For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.7**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla) and click on the version you want
@@ -138,7 +139,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
      * Minecraft 1.17-1.18.2: Fabric Loader **0.14.12**
-     * Minecraft 1.16.5: Fabric Loader **0.13.3**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3** and [Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre&arch=x64)
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
   2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
   3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
@@ -256,6 +257,8 @@ While it is theoretically possible, this is **not advised**:
 
 Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
 
+If you'd still like to do it on your responsibility, just install the other modpack first and then copy FO's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
+
 ### Game clients
 
 Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
@@ -266,10 +269,12 @@ Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav La
 
 ## Servers
 
-Any server is supported, no installation is necessary. See [server setup](server-setup.md) for tips.
+Any server that works with vanilla Minecraft is supported, no changes are necessay to the server. See [server setup](server-setup.md) for tips.
 
 ## Quilt
 
-Fabulously Optimized is currently based on Fabric, not Quilt. It _may_ run on [Quilt](https://quiltmc.org), but it has not been tested and is not currently supported to ensure all mods work reliably. If you use it, do not ask for support in FO's Discord, but rather [Quilt's Discord](https://discord.quiltmc.org/).
+Fabulously Optimized is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
 
-If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+It can be attempted to run it through Quilt, but not all mods and configurations work without changes. If you do attempt it, you're on your own - do not ask for support from the modpack.
+
+The sustainability and popularity of Quilt is being tracked in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).

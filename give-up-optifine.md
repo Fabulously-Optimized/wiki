@@ -47,7 +47,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | Resource pack splash screen | ✔️            | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                                                                                                                 |
 | Custom Entity Models        | ✔️            | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) |
-| Custom Colors               | 🔜            | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) is not yet up to date, [though an alternative is planned.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/693) |                                             
+| Custom Colors               | ✔️            | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) |                                             
 | Anisotropic Filtering       | ❌             | Not yet possible, check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    |
 
 

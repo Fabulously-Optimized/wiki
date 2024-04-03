@@ -73,20 +73,21 @@ In most cases:
 
 If there is a new Minecraft version:
 
-1. Go to [readme](https://github.com/Fabulously-Optimized/fabulously-optimized#downloads), click "Alternative downloads"
-2. Click the version number you need in the MultiMC (auto-update) section
-3. Drag the ZIP-archive to MultiMC window
-4. Click that version, then `Minecraft Folder`
-5. Click the previous version, then `Minecraft Folder`
-6. Copy the important files and folders over:
+1. Download the pack for your preferred Minecraft version:
+   * [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.9.0/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+2. Drag the ZIP-archive to MultiMC window
+3. Click that version, then `Minecraft Folder`
+4. Click the previous version, then `Minecraft Folder`
+5. Copy the important files and folders over:
    * `saves` for your local worlds
    * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
    * `screenshots`
    * `servers.dat` for your multiplayer servers
    * `options.txt`, if you want to keep your vanilla option changes
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
-7. Close the folders and run the new version
-8. If everything looks right, delete the old version
+6. Close the folders and run the new version
+7. If everything looks right, delete the old version
 
 <details>
   <summary>Got asked to download a mod manually?</summary>
@@ -116,7 +117,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.6**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.7**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla) and click on the version you want
@@ -137,7 +138,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24**
      * Minecraft 1.17.1-1.18.2: Fabric Loader **0.14.12**
-     * Minecraft 1.16.5: Fabric Loader **0.13.3**
+     * Minecraft 1.16.5: Fabric Loader **0.13.3** and [Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre&arch=x64)
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
   2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
   3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
@@ -169,7 +170,8 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 * Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
     * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
-* If you did any of the things above and are having issues, simply update Fabulously Optimized again, even if you have the same version.
+* If you did any of the things above and are having issues, simply update Fabulously Optimized again.
+  * This will reset your mod list to the specified FO version ones, even if you used the same version of FO beforehand.
 
 ### Resetting options
 

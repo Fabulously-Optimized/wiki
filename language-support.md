@@ -114,14 +114,25 @@ It is possible to translate most messages on the vanilla installer, except for s
 
 * Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
 * The language of the installer is determined by the operating system.
+* There is no public download link for the installer yet.
 
 ### Website
 
 The new website is almost entirely localizable.
 
-* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+* Translation testing is not required, but recommended. Currently possible only for proofreaders, read below.
 * Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
 * The language of the website is determined by the browser, but can be overridden on the menu in top right corner.
+* Right-to-left languages (Arabic, Hebrew, Malay (Jawi), Persian, Urdu (Pakistan)) are currently not supported [due to a bug](https://github.com/Fabulously-Optimized/fabulously-web/issues/45). You can still translate it to have it included later, as soon as a fix has been found.
+
+#### Testing tutorial
+
+1. Translate and approve to 100% on FO Crowdin's folder "Website"
+2. Go to [the website's GitHub and click on "New Crowdin updates" pull request](https://github.com/Fabulously-Optimized/fabulously-web/pulls?q=is%3Apr+is%3Aopen+New+Crowdin+updates)
+   * Can't see it? Ensure your translation is 100% approved and try again later.
+3. Scroll down to find a comment by the user `vercel`. Click `Visit Preview` on that comment.
+4. Ensure the site is in translated language and click around to see your translation as it would appear live.
+5. If needed, adjust your translation and repeat from step 2.
 
 ### Listing description
 

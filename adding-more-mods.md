@@ -1,6 +1,6 @@
 # Adding more mods
 
-While I only intend to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft!
+While the modpack only intends to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft!
 
 This tutorial is with an assumption that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
 
@@ -8,7 +8,7 @@ This tutorial is with an assumption that you have the pack already installed and
 
 Method 1:
 
-1. Open CurseForge Launcher
+1. Open CurseForge App
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click on the three dots, select `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
