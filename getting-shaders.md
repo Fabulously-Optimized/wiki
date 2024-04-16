@@ -60,7 +60,7 @@ Examples of **not** working core shaders of [Vanilla Tweaks](https://vanillatwea
 
 Luckily those features can be replicated with [OptiFine shaders](#optifine-shaders) or [other mods](adding-more-mods.md), so you're not missing out.
 
-**Resource pack developers**: you may try to make your pack work in Sodium [with this mod](https://modrinth.com/mod/sodium-shader-support) or [this manifest (upcoming)](https://github.com/CaffeineMC/sodium-fabric/pull/2206).
+**Resource pack developers**: you may try to make your pack work in Sodium [with this mod](https://modrinth.com/mod/sodium-shader-support) or [this manifest](https://github.com/CaffeineMC/sodium-fabric/pull/2206).
 
 #### Installation
 
