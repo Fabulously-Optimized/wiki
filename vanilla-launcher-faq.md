@@ -4,7 +4,7 @@ This FAQ gives answers to questions you might have about using Fabulously Optimi
 
 ### How to install?
 
-To install Fabulously Optimized on the vanilla launcher, [please follow this guide](install-instructions#minecraft-launcher-vanilla).
+To install Fabulously Optimized on the vanilla launcher, [please follow this guide](install-instructions.md#minecraft-launcher-vanilla).
 
 ### So I just copy the mods, right?
 
