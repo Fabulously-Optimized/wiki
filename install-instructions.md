@@ -34,7 +34,7 @@ App version 0.6.2 or higher required.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
-You need [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+You need [Java 21](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -68,7 +68,7 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.re
 
 ### [MultiMC](https://multimc.org)
 
-You need [Java 17](https://download.fo/java17) to play the game.
+You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -79,10 +79,10 @@ You need [Java 17](https://download.fo/java17) to play the game.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
-You need [Java 17](https://download.fo/java17) to play the game.
+You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Download the pack for your preferred Minecraft version: 
-   * [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.9.2/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * [1.20.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.10.0-alpha.1/Fabulously.Optimized.MC.1.20.5.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.9.2/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
@@ -103,7 +103,7 @@ You need [Java 17](https://download.fo/java17) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://download.fo/java17) to run the Fabric Installer.
+For macOS or Linux [you need Java](https://download.fo/java21) to run the Fabric Installer.
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.10**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
