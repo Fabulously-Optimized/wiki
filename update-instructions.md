@@ -110,7 +110,7 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.10**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-3. [Open this site](https://download.fo/vanilla) and click on the version you want
+3. [Open this site](https://download.fo/vanilla) and select the version you want, then click the ⬇️ button
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
    * If asked - replace the files.
