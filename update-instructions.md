@@ -107,7 +107,7 @@ If there is a new Minecraft version:
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.10**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.11**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla) and select the version you want, then click the ⬇️ button
