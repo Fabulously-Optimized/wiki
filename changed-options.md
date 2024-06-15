@@ -8,17 +8,17 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ### Options
 
-| Option | Description | Vanilla | Modpack | Reason for Change |
+| Option | Description | Vanilla default | Modpack | Reason for Change |
 | - | - | - | - | - |
-| advancedItemTooltips | Enables ["debugging" tooltip rows](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items - item ID and durability | false | true | These are useful for much more than just "debugging" - using any commands, getting exact durability value, learning English, etc. Plus, this toggle is not visible in vanilla options so many people may not even know about it. |
-| darkMojangStudiosBackground | Makes the splash screen black and white | false | true | Black background is less intrusive than red, partial Bedrock Edition parity |
+| advancedItemTooltips | Enables ["advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items - item ID and durability, and exact color hex code for dyed armor | false | true | These are useful for much more than just debugging - if you're using commands, want to know the exact durability value, learning English, etc. Plus, this setting is hidden in the debug menu, so many people might not know about it.. |
+| darkMojangStudiosBackground | Makes the Mojang Studios splash screen white-on-black instead of white-on-red | false | true | Black background is less intrusive than red, partial Bedrock Edition parity |
 | enableVsync | Toggle [VSync](https://en.wikipedia.org/wiki/Screen_tearing#Vertical_synchronization), a FPS-limiting system | true | false | Disabling VSync by default helps users instantly see the benefits of FO, reduces input lag and increases framerate when using shaders. The benefits of enabling or disabling it vary by system; also note that FO has an option to use Adaptive VSync on some systems. |
-| guiScale | Size of the menu and interface elements | 0 | 3 | 3 is more usable on most screens, 0 (Auto) can get too large on Full HD and larger screens |
+| guiScale | Size of the menu and interface elements | 0 | 3 | 3 is more usable on most screens, 0 (Auto) can get too large on Full HD and larger screens, including most Macs' "Retina" displays |
 | incompatibleResourcePacks | A list of resource packs that have been forcefully enabled, despite being marked as incompatible | \[] | (varies) | Mod-provided resource packs that have old manifest version but are known to be compatible. Usually contains just [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)'s resource packs, but values may vary by FO version. |
 | joinedFirstServer | Whether to display the hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | false | true | I expect my users to already know that Social Interactions can be opened with `P`; the screen is easily discoverable by the "Player Reporting" button |
-| maxFps | The maximum framerate | 120 | 260 | 260 means "unlimited", which allows you to see the full FPS capable by the system |
+| maxFps | The maximum framerate | 120 | 260 | 260 means "unlimited", which allows you to see the full FPS that your system is capable of |
 | onboardAccessibility | Indicates whether the user has not seen the accessibility onboarding screen | true | false | Minecraft already has an easily accessible accessibility button in the main menu, this screen just creates annoyances for the majority who don't need it. [Read more about accessibility in FO](accessibility.md) |
-| operatorItemsTab | Shows operator-only items in a Creative inventory tab, when you have operator access (`/op`) | false | true | It is useful and it only appears when you have the permission for it, so it's weird Mojang even made it an option |
+| operatorItemsTab | Shows operator-only items (command blocks, lights, barriers, etc.) in a Creative inventory tab, when you have operator access (`/op`) | false | true | It is useful and it only appears when you have the permission for it, so it's weird Mojang even made it an option |
 | resourcePacks | Adjusts which resource packs are enabled by default | \[] | ¹ | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default |
 | lang | Adjusts the game's language | en_us | (your OS language) | Enables user's system language by default, for usability, accessibility and discoverability purposes - courtesy of [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). Not available for all launchers and operating systems. |
 | simulationDistance | Redstone and mob spawning distance | 12 | 6 | Better performance regardless of the rendering distance you use |

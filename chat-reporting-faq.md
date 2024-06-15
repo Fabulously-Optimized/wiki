@@ -43,11 +43,11 @@ In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edi
 
 Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. [Skin/username reports have different concerns - see here](#skin-and-username-reporting).
 
-* **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and sweared at someone on one server and want to go to another to relax again? Nope, cannot do that.
+* **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and swore at someone on one server and want to go to another to relax again? Nope, you can't do that.
 
 * **Some swearing is interpreted too strictly** - some swear words are interpreted as bannable offenses even if the players know each other and know that the other party will not get offended by it. [Read more about one user's experience from this post](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/).
 
-* **Realms chat is constantly monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), they monitor all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
+* **Realms chat is constantly monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), Mojang/Microsoft monitors all Realms chat and will take action regardless of whether you get reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
 
 * **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically [pause the subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) of any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control. This makes sense for short-term bans like up to a week, but any longer than that should give an explicit option at least.
 
@@ -55,7 +55,7 @@ Because the current implementation of it is vaguely described, sustainability no
 
 * **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 9 messages before the selected ones - at most 40 messages in total. That is a very partial context for serious offenses as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc. In other words, it assumes the player only offends another within one hour, not for a longer period.
 
-* **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be done on _thousands_ of reports every day? The investigators may accidentally overlook a part of the conversation or misintepret the intent due to words used. Compare that to a single server that has less players, therefore less reports and less admins needed, appeals that are dealt with faster.
+* **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be taken on _thousands_ of reports every day? The investigators may accidentally overlook a part of the conversation or misintepret the intent due to words used. Compare that to a single server that has less players, therefore less reports and less admins needed, appeals that are dealt with faster.
 
 * **Categories don't match server rules** - for example, there can be an adult-only server that may discuss things like world politics, alcohol and drugs freely, but when an underage player stumbles upon it, they can report others for things that are clearly allowed and intended by the server.
    
@@ -212,12 +212,12 @@ Fabulously Optimized includes [(why?)](#why-does-fabulously-optimized-take-a-sta
   
 In order to get the status of the server, open the chat box (press `T`) and look at the right bottom corner:
 
-- ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
-- ![disabled](https://i.ibb.co/QDFzXCT/secure.png) - no chat messages can be reported to Mojang
-- ![optional](https://i.ibb.co/hstcjW7/neutral.png) - most chat messages can be reported to Mojang, but the server does not prefer it and the playing user opts out
+- ![police badge with a question mark icon](https://i.ibb.co/Yb1n6fW/unknown.png) - status not yet known, you must send one chat message to get it
+- ![grayed out police badge with a line through it icon](https://i.ibb.co/QDFzXCT/secure.png) - no chat messages can be reported to Mojang
+- ![outlined police badge icon](https://i.ibb.co/hstcjW7/neutral.png) - most chat messages can be reported to Mojang, but the server does not prefer it and the playing user opts out
    - In some cases, no messages can be reported but that is not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.  
-- ![enabled](https://i.ibb.co/2YgMHpR/insecure.png) - all chat messages can be reported to Mojang
-- ![realms](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](#does-mojang-monitor-my-chats)
+- ![blue police badge with gold star icon](https://i.ibb.co/2YgMHpR/insecure.png) - all chat messages can be reported to Mojang
+- ![blue police badge with red recording dot icon](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](#does-mojang-monitor-my-chats)
 
 _(Expected different icons? Disable Chat Reporting Helper resource pack and [see No Chat Reports wiki.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety))_
 
