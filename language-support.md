@@ -1,6 +1,6 @@
 # Language support
 
-You can translate the mods themselves and the modpack-specific content. All modpack-specific translations are licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), meaning they can be freely copied, modified, republished and so on.
+You can translate the mods themselves and the modpack-specific content. All modpack-specific translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
 
 ## Mods
 
