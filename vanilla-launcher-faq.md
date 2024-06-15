@@ -10,14 +10,14 @@ To install Fabulously Optimized on the vanilla launcher, [please follow this gui
 
 No. Fabulously Optimized consists of mods, configs and resourcepacks. 
 
-If you try to install FO to the vanilla launcher by copying just the `mods` folder, you may notice these issues:
+If you try to install FO to the vanilla launcher by copying just the `mods` folder, you may notice any or all of these issues:
 
 * In some versions, your game will not launch at all
 * Some of your resource packs are broken
 * Zoom is broken and new unexpected keybinds exist 
 * Confusing mod buttons and texts appear in the interface
 * Mod list does not contain the simplified descriptions and has some confusing ones
-* No version number in the title screen (main menu)
+* No FO version number in the title screen (main menu)
 * Other features do not work as advertised
 
 ### I only copied the mods, what should I do now?
