@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Welcome to wiki!](README.md)
 * [Disclaimers](disclaimers.md)
 * [How to install FO](install-instructions.md)
 * [How to update FO](update-instructions.md)
