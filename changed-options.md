@@ -8,7 +8,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ### Options
 
-| Option | Description | Vanilla default | Modpack | Reason for Change |
+| Option | Description | Vanilla | Modpack | Reason for Change |
 | - | - | - | - | - |
 | advancedItemTooltips | Enables ["advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items - item ID and durability, and exact color hex code for dyed armor | false | true | These are useful for much more than just debugging - if you're using commands, want to know the exact durability value, learning English, etc. Plus, this setting is hidden in the debug menu, so many people might not know about it.. |
 | darkMojangStudiosBackground | Makes the Mojang Studios splash screen white-on-black instead of white-on-red | false | true | Black background is less intrusive than red, partial Bedrock Edition parity |
