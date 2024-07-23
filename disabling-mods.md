@@ -55,6 +55,16 @@ There is currently no _easy_ way because the tool downloads missing mods back on
 
 Consider [switching to Prism Launcher instead,](install-instructions.md#prism-launcher) which also has a seamless modpack updater.
 
+### GDLauncher Carbon
+
+1. Open GDLauncher Carbon
+2. Click on Fabulously Optimized
+3. Click `Settings`
+4. Click `🔒 Unlock`
+    * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
+5. Click `Mods`
+6. Find the mod you need, toggle the knob.
+
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
