@@ -6,6 +6,7 @@
 * [How to update FO](update-instructions.md)
 * [How to add mods to FO](adding-more-mods.md)
 * [How to remove mods from FO](disabling-mods.md)
+* [How to backup and uninstall FO](backup-and-uninstall.md)
 * [Included OptiFine alternatives](give-up-optifine.md)
 * [Changed options](changed-options.md)
 * [Get a free Minecraft cape](free-cape.md)
