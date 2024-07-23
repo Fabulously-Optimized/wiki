@@ -68,7 +68,7 @@ Consider [switching to Prism Launcher instead,](install-instructions.md#prism-la
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
-2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
+2. Hover on the Fabric installation, click 📂
 3. Click `mods`
 4. Rename the specific mod from "modname.jar" to "modname.jar.disabled"
    * Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)

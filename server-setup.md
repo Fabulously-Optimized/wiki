@@ -1,3 +1,4 @@
+
 # Server setup
 
 Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly the same on **every server that allows vanilla clients**. 
@@ -11,6 +12,7 @@ The CurseForge listing has a section of "server packs", but [those are actually 
 * [Use speedy server software](#software)
 * [Protect users from chat reporting](#chat-reporting)
 * [Give users flexibility with client version](#client-version-flexibility)
+* [Server-side content mods](#server-side-content-mods)
 * [Restrict mod behaviours, not names](#mods-in-rules)
 
 ### Software
@@ -54,7 +56,7 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
       - Vanilla users will see a warning toast in the top right corner and their messages can be reported. To avoid those problems, use one of the plugins/mods below.
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all 1.19+ backend servers" above.
-- **BungeeCord/Waterfall**: set `enforce_secure_profile` to `false` in _config.yml_
+- **BungeeCord**: set `enforce_secure_profile` to `false` in _config.yml_
   - Same comments apply as for "all 1.19+ backend servers" above.
 - **Paper/Purpur/Pufferfish**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
    - Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
@@ -74,23 +76,33 @@ _This section is also reposted to [No Chat Reports wiki](https://github.com/Aizi
 
 ### Client version flexibility
 
+**Before adding this, it is [recommended to disable chat reporting](#chat-reporting) to ensure it works properly on 1.19.2 and below.**
+
 Ever wondered, how some servers are able to update the same day a new Minecraft version is released? Chances are, they are using a plugin that enables this without having to change the server version (yet).
 
 **ViaVersion** and **ViaBackwards** are plugins that transform the network packets to let users join your server with a different client version. This is especially welcome for users who mod their client, such as Fabulously Optimized users, as not every mod is updated as soon as the new version of Minecraft is released, so users may be inclined to use outdated clients for a bit longer. 
 
-P.S. Before continuing, [make sure you have disabled chat reporting](#chat-reporting), otherwise the plugins cannot work below version 1.19.3.
-
 * **ViaVersion** lets users join with a _newer_ client version. For example, if your server is still using 1.19.2, this will let users join with 1.19.3 and later.
    * By default, ViaVersion allows users to join from your server's Minecraft version up to the latest stable Minecraft version. This can be filtered in the ViaVersion configuration file.
-   * Download for: [Paper/Spigot/Purpur/Velocity/Waterfall](https://hangar.papermc.io/ViaVersion/ViaVersion) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viafabric) 
+   * Download for: [Paper/Spigot/Purpur/Velocity](https://hangar.papermc.io/ViaVersion/ViaVersion) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viafabric) 
 * **ViaBackwards** lets users join with an _older_ client version. For example, if your server is using 1.19.4, users can join with 1.19.3 and older.
   * By default, ViaBackwards allows users to join from Minecraft 1.8 up to your server's Minecraft version. This can be filtered in the ViaVersion configuration file.
   * Any new blocks, items and entities will be shown as older types with equivalent properties (like mobs of similar size or blocks of similar breaking speed). Users with newer clients will see them as normal.
-  * Download for: [Paper/Spigot/Purpur/Velocity/Waterfall](https://hangar.papermc.io/ViaVersion/ViaBackwards) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viabackwards)
+  * Download for: [Paper/Spigot/Purpur/Velocity](https://hangar.papermc.io/ViaVersion/ViaBackwards) | [Fabric/Quilt*](https://www.curseforge.com/minecraft/mc-mods/viabackwards)
 
 Depending on your server, you can choose to use only ViaVersion or both. If your server is hub-based, it is recommended to install the plugin(s) to each backend server and _not_ the proxy itself.
 
 _* Fabric/Quilt versions can also work in the client, though this is not advised due to potential conflicts with anticheats. It is recommended to keep it on the server only. Quilt support is untested for both server and client._
+
+### Server-side content mods
+
+**These mods are usually not compatible with [ViaVersion and ViaBackwards](#server-side-content-mods).**
+
+Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means your users can continue to use unmodified Fabulously Optimized and you can add new stuff to the server!
+
+This is done by a mod called PolyMc (not to be confused with a [launcher of the same name](install-instructions.md#polymc)). 
+
+[Read more about its installation and limits.](https://theepicblock.github.io/PolyMc/)
 
 ### Mods in rules
 

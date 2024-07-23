@@ -1,0 +1,61 @@
+# Backup and uninstall instructions
+
+Sometimes you might want to reinstall the modpack or remove old instances of it. Here's how to do it.
+
+## Backup
+
+Before uninstalling the modpack, it is highly recommended to back up the contents you've made in it.
+
+1. Find the .minecraft folder.
+   * CurseForge App: right click on the modpack tile → `Open Folder`
+   * Modrinth App: right click on the modpack tile → `📂 Open folder`
+   * Prism Launcher: right click on the instance → `Folder` → `.minecraft`
+   * MultiMC: right click on the instance → `Minecraft Folder`
+   * Minecraft Launcher: click `Installations` → hover on the instance → click `📁`
+2. Find the folders you want to back up.
+   * `saves` - your local worlds
+   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
+   * `shaders` - if you use any
+   * `screenshots` - screenshots you've taken with F2 or F9
+   * `servers.dat` - your multiplayer servers
+   * `options.txt` - if you want to keep your vanilla option and all hotkey changes
+3. Copy the chosen folders or their contents to your preferred location, such as Desktop or Documents.
+4. When you reinstall the modpack, copy the folders/contents back to the aforementioned location.
+
+## Uninstall
+
+### CurseForge App
+
+1. Open CurseForge App
+2. Go to `My Modpacks`, right click on Fabulously Optimized
+3. Click `🗑️ Delete Profile`
+4. Click `Delete`
+
+### Modrinth App
+
+1. Open Modrinth App
+2. Right click on Fabulously Optimized
+3. Click `🗑️ Delete`
+
+### Prism Launcher
+
+1. Open Prism Launcher
+2. Click on Fabulously Optimized
+3. Click `🗑️ Delete`
+4. Click `Yes`
+
+### MultiMC/MultiMC (auto-update)
+
+1. Open MultiMC
+2. Click on Fabulously Optimized
+3. Click `Delete`
+4. Click `Yes`
+
+### Minecraft Launcher (vanilla)
+
+1. Open Minecraft Launcher, click on `Installations`
+2. Hover on the Fabric installation, click 📂
+3. Delete `mods`, `config` and optionally `resourcepacks` folders
+4. Go to `versions` folder and delete anything prefixed with `fabric-loader-`
+5. Back in the launcher, hover on the installation and press `...`, then `Delete`
+6. Press `Delete`

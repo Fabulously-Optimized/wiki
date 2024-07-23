@@ -3,9 +3,22 @@
 ### Disclaimers
 
 - As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
-- Upgrades from stable to unstable (alpha, beta) versions are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
+- Upgrades from stable to unstable (alpha, beta) versions of the modpack are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
 - Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) if your server hasn't updated yet.
 - If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
+
+#### Updating mods
+
+* If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
+   * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
+   * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
+* If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
+   * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
+* Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
+    * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
+    * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
+* If you did any of the things above and are having issues, simply update Fabulously Optimized again.
+  * This will reset your mod list to the specified FO version ones, even if you used the same version of FO beforehand.
 
 ### CurseForge App
 
@@ -14,7 +27,8 @@ If you haven't changed the mods:
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
    * Don't see that option? Follow the other instructions below.
-3. Select the topmost version, then `Continue`.
+3. Click `Continue`.
+   * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
 4. Modpack will now update.
 5. Run it and check the version difference in the bottom right corner.
 
@@ -23,10 +37,11 @@ If you added or removed some mods:
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, click _Fabulously Optimized_
 3. Click `⫶`→ `Profile Options`
-4. Uncheck "Allow content management for this profile". You can re-enable content management after the update.
+4. Uncheck "Allow content management for this profile". This will not affect added content and you can re-enable content management after the update.
 5. Click `Continue`
 6. Click `⫶` → `⇄ Change Version`.
-7. Select the topmost version, then `Continue`.
+7. Click `Continue`.
+   * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
 8. Modpack will now update.
 9. Run it and check the version difference in the bottom right corner.
 
@@ -34,7 +49,8 @@ If you added or removed some mods:
 
 1. Select existing FO instance
 2. Click `🔄 Update modpack` on top right
-3. Select latest version and click `⇆`
+3. Click `⇆`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `⇆`.
 
 ### Prism Launcher
 
@@ -42,6 +58,7 @@ If you added or removed some mods:
 2. Click `Edit` on the sidebar
 3. Select `Modrinth` on the tab list
 4. Click `Update pack`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `Update pack`.
 5. Once the name prompt comes up, click `Yes`
 
 ### MultiMC
@@ -50,15 +67,17 @@ If you added or removed some mods:
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
 6. Click that version you just created, then `Minecraft Folder`
 7. Click the previous version, then `Minecraft Folder`
 8. Copy the important files and folders over:
-   * `saves` for your local worlds
-   * `resourcepacks`, if you use any (do not copy old versions of FO-bundled packs though)
-   * `screenshots`
-   * `servers.dat` for your multiplayer servers
-   * `options.txt`, if you want to keep your vanilla option changes
+   * `saves` - your local worlds
+   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
+   * `shaders` - if you use any
+   * `screenshots` - screenshots you've taken with F2 or F9
+   * `servers.dat` - your multiplayer servers
+   * `options.txt` - if you want to keep your vanilla option and all hotkey changes
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
 9. Close the folders and run the new version
 10. If everything looks right, delete the old version
@@ -74,17 +93,18 @@ In most cases:
 If there is a new Minecraft version:
 
 1. Download the pack for your preferred Minecraft version:
-   * [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-beta.11/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.6/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * [1.21](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.0.0-alpha.1/Fabulously.Optimized.MC.1.21.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-alpha.3/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.10.1/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 2. Drag the ZIP-archive to MultiMC window
 3. Click that version, then `Minecraft Folder`
 4. Click the previous version, then `Minecraft Folder`
 5. Copy the important files and folders over:
-   * `saves` for your local worlds
-   * `resourcepacks`, if you use any (do not copy the _Mod Menu Helper_ though)
-   * `screenshots`
-   * `servers.dat` for your multiplayer servers
-   * `options.txt`, if you want to keep your vanilla option changes
+   * `saves` - your local worlds
+   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
+   * `shaders` - if you use any
+   * `screenshots` - screenshots you've taken with F2 or F9
+   * `servers.dat` - your multiplayer servers
+   * `options.txt` - if you want to keep your vanilla option and all hotkey changes
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
 6. Close the folders and run the new version
 7. If everything looks right, delete the old version
@@ -117,11 +137,13 @@ If there is a new Minecraft version:
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.7**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.11**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-3. [Open this site](https://download.fo/vanilla) and click on the version you want
+3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
+   * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
+   * Looking for older versions? Read the "legacy instructions" below.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
    * If asked - replace the files.
 5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
@@ -158,30 +180,18 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 
 No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
-### Updating mods
-
-* If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
-   * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
-   * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
-* If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
-   * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
-* Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
-    * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
-    * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
-* If you did any of the things above and are having issues, simply update Fabulously Optimized again.
-  * This will reset your mod list to the specified FO version ones, even if you used the same version of FO beforehand.
-
-### Resetting options
+## Resetting options
 
 Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 
-However, at some point you may still want to do that in order to get the latest changes. So:
+However, at some point you may still want to do that in order to get the latest changes.
 
 1. Open the modpack folder
-   * CurseForge Launcher: right click on the modpack tile → `Open Folder`
+   * CurseForge App: right click on the modpack tile → `Open Folder`
+   * Modrinth App: right click on the modpack tile → `📂 Open folder`
    * Prism Launcher: right click on the instance → `Folder` → `.minecraft`
    * MultiMC: right click on the instance → `Minecraft Folder`
-   * Vanilla launcher: go to `Installations` tab → hover on the instance → click `📁`
+   * Minecraft Launcher: click `Installations` → hover on the instance → click `📁`
 2. Delete the `config` folder
    * If you prefer, also delete `options.txt` which stores vanilla options
 3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)

@@ -4,20 +4,20 @@ This FAQ gives answers to questions you might have about using Fabulously Optimi
 
 ### How to install?
 
-To install Fabulously Optimized on the vanilla launcher, [please follow this guide](install-instructions#minecraft-launcher-vanilla).
+To install Fabulously Optimized on the vanilla launcher, [please follow this guide](install-instructions.md#minecraft-launcher-vanilla).
 
 ### So I just copy the mods, right?
 
 No. Fabulously Optimized consists of mods, configs and resourcepacks. 
 
-If you try to install FO to the vanilla launcher by copying just the `mods` folder, you may notice these issues:
+If you try to install FO to the vanilla launcher by copying just the `mods` folder, you may notice any or all of these issues:
 
 * In some versions, your game will not launch at all
 * Some of your resource packs are broken
 * Zoom is broken and new unexpected keybinds exist 
 * Confusing mod buttons and texts appear in the interface
 * Mod list does not contain the simplified descriptions and has some confusing ones
-* No version number in the title screen (main menu)
+* No FO version number in the title screen (main menu)
 * Other features do not work as advertised
 
 ### I only copied the mods, what should I do now?
@@ -28,7 +28,7 @@ Don't worry, we can fix that!
 2. Backup and delete `config` folder and `options.txt` file
    * `config` contains all of your mod configs.
    * `options.txt` contains vanilla settings and keybinds
-   * "Backup" means copying the existing folder and file to a different location, in case you need to reference or copy it back later. If you don't care about your existing settings, you don't have to do this.
+   * "Backup" means copying the existing folder and file to a different location, in case you need to reference or copy it back later.
    * If your FO is not up to date, also delete the `mods` folder.
 3. Open the ZIP file of Fabulously Optimized that you have or [download it again](https://download.fo/vanilla)
 4. Do one of the following:
@@ -42,6 +42,8 @@ Don't worry, we can fix that!
 ### What is the MultiMC ZIP?
 
 The MultiMC ZIP is a packaged instance for the launcher called [MultiMC](https://multimc.org). It is distributed in CurseForge because MultiMC itself no longer supports downloading CurseForge modpacks and downloads from CurseForge support the creator of FO. This also allows for an easy installation of FO for vanilla launcher users.
+
+Since FO 6.0.0, this ZIP is no longer distributed in CurseForge and users are advised to use the [official site per instructions](install-instructions.md#minecraft-launcher-vanilla).
 
 ### What is in the ZIP file?
 

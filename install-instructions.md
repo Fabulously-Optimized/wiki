@@ -11,6 +11,7 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
+   * Optional: Select the version you want by instead clicking the row → `Versions` → `⤓`.
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
@@ -18,6 +19,7 @@ Or directly from the website:
 
 1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
 2. Click `Install` and accept the prompt in your browser
+   * Optional: Select the version you want by instead clicking `Files` → the version you want → `Install`.
 3. The app should open and download should start
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
@@ -28,18 +30,20 @@ App version 0.6.2 or higher required.
 
 1. Under "Popular packs" section, hover on "Fabulously Optimized"
 2. Click `⤓ Install`
+   * Optional: Select the version you want by instead clicking the tile → `Versions` → `⤓` on the version you want.
 3. The modpack will now install.
 4. Once installed, hover on the created instance under "Jump back in"
 5. Click ▶️ button to play.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
-You need [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
+You need [Java 21](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
@@ -57,6 +61,7 @@ You need [Java 17](https://prismlauncher.org/wiki/getting-started/installing-jav
 10. Select `Modrinth` tab from the left
 11. Select "Fabulously Optimized"
 12. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 13. The modpack will now install.
 14. Once installed, double-tap the icon and wait.
 15. Tap `Options...` → `Controls...` → `Controller Settings...`
@@ -68,21 +73,22 @@ P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.re
 
 ### [MultiMC](https://multimc.org)
 
-You need [Java 17](https://download.fo/java) to play the game.
+You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
 ### [MultiMC](https://multimc.org) (auto-update)
 
-You need [Java 17](https://download.fo/java) to play the game.
+You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Download the pack for your preferred Minecraft version: 
-   * [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.8.0-beta.11/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.20.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.6.6/Fabulously.Optimized.MC.1.20.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * [1.21](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.0.0-alpha.1/Fabulously.Optimized.MC.1.21.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-alpha.3/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.10.1/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
@@ -129,12 +135,13 @@ Upon installing GDLauncher Carbon, it will automatically replace GDLauncher Lega
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
+For macOS or Linux [you need Java](https://download.fo/java21) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.7**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.11**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-3. [Open this site](https://download.fo/vanilla) and click on the version you want
+3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
+   * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
    * Looking for older versions? Read the "legacy instructions" below.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
@@ -247,6 +254,8 @@ While it is theoretically possible, this is **not advised**:
 
 Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
 
+If you'd still like to do it on your responsibility, just install the other modpack first and then copy FO's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
+
 ### Game clients
 
 Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
@@ -261,6 +270,8 @@ Any server that works with vanilla Minecraft is supported, no changes are necess
 
 ## Quilt
 
-Fabulously Optimized is currently based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). It _may_ run on Quilt, but it has not been tested and is not currently supported to ensure all mods work reliably.
+Fabulously Optimized is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
 
-If there becomes a need, Fabulously Optimized will move to Quilt overall and then it will be fully supported. Read more on [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+It can be attempted to run it through Quilt, but not all mods and configurations work without changes. If you do attempt it, you're on your own - do not ask for support from the modpack.
+
+The sustainability and popularity of Quilt is being tracked in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
