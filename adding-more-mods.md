@@ -62,7 +62,7 @@ Method 2:
 ### Minecraft Launcher (vanilla)
 
 1. Open Minecraft Launcher, click on `Installations`
-2. Click the folder icon on the profile you've created for the pack (could be named Fabric)
+2. Hover on the Fabric installation, click 📂
 3. Open [Modrinth, set Loader to Fabric](https://modrinth.com/mods?g=categories:%27fabric%27)
 4. Choose any mod you want and go to its _Versions_ page
 5. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version

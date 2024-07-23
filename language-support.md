@@ -123,7 +123,6 @@ The new website is almost entirely localizable.
 * Translation testing is not required, but recommended. Currently possible only for proofreaders, read below.
 * Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
 * The language of the website is determined by the browser, but can be overridden on the menu in top right corner.
-* Right-to-left languages (Arabic, Hebrew, Malay (Jawi), Persian, Urdu (Pakistan)) are currently not supported [due to a bug](https://github.com/Fabulously-Optimized/fabulously-web/issues/45). You can still translate it to have it included later, as soon as a fix has been found.
 
 #### Testing tutorial
 
@@ -136,16 +135,7 @@ The new website is almost entirely localizable.
 
 ### Listing description
 
-**⚠️ New translations are not accepted - please translate the website instead. Existing translations will be migrated there.**
-
-Listing description translations are posted as a spoiler tag below the English text.
-
-* Sometimes the tags get messed up on import. Please ensure they are `<0>`text`</0>`, `<1>`text`</1>` or similar to the original, _not_ `<a href=...>`text`</0>`.
-* "English" must be translated as the name of your language, in your language. If relevant, add the region in parentheses.
-* If your language has a localized review video, use that in video URL and thumbnail URL. Otherwise just keep the English one.
-   * The video must not show launchers and installation methods that don't match the wiki at the time of publishing.
-* Crowdin supports "translation preview", which shows the description as it will appear on the listing. Look for the eye icon 👁️.
-* Listing translations are currently less prioritized and will be published to listings less often. Thank you for your patience.
+New translations are not accepted - please translate the website instead.
 
 ### Wiki
 

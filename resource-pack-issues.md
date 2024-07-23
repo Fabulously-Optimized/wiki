@@ -67,7 +67,7 @@ That means it may depend on [core shaders](getting-shaders.md#core-shaders), whi
 
 ### Custom colors
 
-Coloring blocks differently by biome is currently not supported since FO 4.5.7, but planned to be reintroduced soon.
+Please ensure you're using FO 5.9.0 or newer; or FO 4.5.7 or older.
 
 ### Custom entity models
 

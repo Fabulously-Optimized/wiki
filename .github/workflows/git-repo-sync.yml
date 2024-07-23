@@ -8,10 +8,11 @@ on:
 jobs:
   sync-bitbucket:
     if: github.repository_owner == 'Fabulously-Optimized'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     name: Git Repo Sync - BitBucket
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout Repository
+      uses: actions/checkout@v4
       with:
         fetch-depth: 0
     - uses: wangchucheng/git-repo-sync@v0.1.0
