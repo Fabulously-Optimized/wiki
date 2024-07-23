@@ -11,6 +11,7 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 1. Select _Minecraft_ from the grid or sidebar
 2. Search "Fabulously Optimized"
 3. Click `Install`
+   * Optional: Select the version you want by instead clicking the row → `Versions` → `⤓`.
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
 
@@ -18,6 +19,7 @@ Or directly from the website:
 
 1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
 2. Click `Install` and accept the prompt in your browser
+   * Optional: Select the version you want by instead clicking `Files` → the version you want → `Install`.
 3. The app should open and download should start
 4. To run the modpack, hover on the modpack icon and click `Play`
 5. Once the Minecraft Launcher has opened, click `Play` again
@@ -28,6 +30,7 @@ App version 0.6.2 or higher required.
 
 1. Under "Popular packs" section, hover on "Fabulously Optimized"
 2. Click `⤓ Install`
+   * Optional: Select the version you want by instead clicking the tile → `Versions` → `⤓` on the version you want.
 3. The modpack will now install.
 4. Once installed, hover on the created instance under "Jump back in"
 5. Click ▶️ button to play.
@@ -40,6 +43,7 @@ You need [Java 21](https://prismlauncher.org/wiki/getting-started/installing-jav
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
@@ -57,6 +61,7 @@ You need [Java 21](https://prismlauncher.org/wiki/getting-started/installing-jav
 10. Select `Modrinth` tab from the left
 11. Select "Fabulously Optimized"
 12. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 13. The modpack will now install.
 14. Once installed, double-tap the icon and wait.
 15. Tap `Options...` → `Controls...` → `Controller Settings...`
@@ -74,6 +79,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
 4. Click `OK`
+   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
 5. The modpack will now install.
 6. Once installed, double-click the icon to play.
 
@@ -108,7 +114,8 @@ For macOS or Linux [you need Java](https://download.fo/java21) to run the Fabric
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.15.11**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-3. [Open this site](https://download.fo/vanilla) and select the version you want, then click the ⬇️ button
+3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
+   * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
    * Looking for older versions? Read the "legacy instructions" below.
 4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
@@ -161,11 +168,12 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 8. Open GDLauncher
 9. Right click on your previously used instance → `Open Folder`
 10. Copy the important files and folders over:
-    * `saves` for your local worlds
-    * `resourcepacks`, if you use any (do not copy old versions of FO-bundled packs though)
-    * `screenshots`
-    * `servers.dat` for your multiplayer servers
-    * `options.txt`, if you want to keep your vanilla option changes
+   * `saves` - your local worlds
+   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
+   * `shaders` - if you use any
+   * `screenshots` - screenshots you've taken with F2 or F9
+   * `servers.dat` - your multiplayer servers
+   * `options.txt` - if you want to keep your vanilla option and all hotkey changes
 11. Launch the instance on Prism and confirm everything is correct
 12. Uninstall GDLauncher
 
