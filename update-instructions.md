@@ -93,7 +93,7 @@ In most cases:
 If there is a new Minecraft version:
 
 1. Download the pack for your preferred Minecraft version:
-   * [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.1.0-beta.4/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-alpha.3/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.10.1/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.1.0-beta.5/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-alpha.3/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.20.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.10.1/Fabulously.Optimized.MC.1.20.4.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 2. Drag the ZIP-archive to MultiMC window
 3. Click that version, then `Minecraft Folder`
@@ -127,7 +127,7 @@ If there is a new Minecraft version:
 
 Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.16.3**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.16.5**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
