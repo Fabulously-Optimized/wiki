@@ -116,7 +116,7 @@ The Fabulously Optimized Installer is currently in open beta. If you run into an
     * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click "Open", click "Open" again when asked in a prompt.
     * Linux: Open the .appimage file and click "Run once" when prompted.
 2. Select preferred FO/Minecraft version and install
-3. Run Minecraft Launcher. You'll see the new installation active, click PLAY.
+3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
  
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
