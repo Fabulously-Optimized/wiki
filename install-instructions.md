@@ -109,7 +109,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
-The Fabulously Optimized Installer is currently in open beta. If you run into any issues, please report them on Discord and use the manual method.
+The Fabulously Optimized Installer is quite new and may have issues. If you find any, please report them to [GitHub](https://github.com/Fabulously-Optimized/installer/issues) or [Discord](https://download.fo/discord/) and use the manual method below.
 
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click "More info" and then "Run anyway".
