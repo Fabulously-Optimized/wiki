@@ -16,6 +16,10 @@ That depends on my time, Mojang releases, CurseForge support (when versions appe
 
 I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on CurseForge.
 
+#### Why won't the installer show versions older than 5.10.3?
+
+These versions are old and therefore no longer recommended for most users. Please [use manual install](install-instructions.md#minecraft-launcher-vanilla) if you'd like to use them.
+
 #### Will you support Minecraft snapshots?
 
 No, they are not supported on CurseForge Launcher and are released too fast for me and the modders to keep up with.
