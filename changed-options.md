@@ -56,7 +56,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 | Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
 | Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
 | FabricSkyboxes: Toggle mod              | Disables or enables custom skyboxes                                         | Numpad 0       | none    | Not needed for most players                                             |
-| FabricSkyboxes: Toggle mod              | Disables or enables custom skyboxes                                         | Numpad 0       | none    | Not needed for most players                                             |
+| OptiGUI: Copy inspection to clipboard              | Copies OptiGUI's debug info                                         | F12       | none    | Not needed for most players                                             |
 
 ### Resource packs
 
