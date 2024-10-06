@@ -21,14 +21,14 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | operatorItemsTab | Shows operator-only items (command blocks, lights, barriers, etc.) in a Creative inventory tab, when you have operator access (`/op`) | false | true | It is useful and it only appears when you have the permission for it, so it's weird Mojang even made it an option |
 | resourcePacks | Adjusts which resource packs are enabled by default | \[] | ¹ | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default |
 | lang | Adjusts the game's language | en_us | (your OS language) | Enables user's system language by default, for usability, accessibility and discoverability purposes - courtesy of [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). Not available for all launchers and operating systems. |
-| simulationDistance | Redstone and mob spawning distance | 12 | 6 | Better performance regardless of the rendering distance you use |
+| simulationDistance | Redstone and mob spawning distance | 12 | 8 | Better performance regardless of the rendering distance you use |
 | skipMultiplayerWarning | Whether to skip [the legal disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen | false | true | I expect my users to already know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
 | telemetryOptInExtra | Sets the telemetry (analytics data collection) toggle to "minimal". | false | false | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FO. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback. |
 | tutorialStep | The next step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | movement | none | If you know how to install a modpack, you probably don't need those tutorials anymore |
 
 ¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]`
 
-**Changed mod settings can be found on the repo at [.../yosbr/1.20.4/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.20.4/config).**
+**Changed mod settings can be found on the repo at [.../yosbr/1.21.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.1/config).**
 
 ### Telemetry
 
@@ -55,6 +55,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 | Iris: Reload Shaders              | Reloads the applied shaders                                         | r       | none    | Not needed for most players                                             |
 | Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
 | Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
+| FabricSkyboxes: Toggle mod              | Disables or enables custom skyboxes                                         | Numpad 0       | none    | Not needed for most players                                             |
 | FabricSkyboxes: Toggle mod              | Disables or enables custom skyboxes                                         | Numpad 0       | none    | Not needed for most players                                             |
 
 ### Resource packs
