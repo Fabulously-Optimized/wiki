@@ -134,19 +134,19 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
      * Minecraft 1.17-1.18.2: Fabric Loader **0.14.12** and [Java 17](https://download.fo/java17)
      * Minecraft 1.16.5: Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
      * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
-  3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
-  4. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
-  5. Click the version you need, then click "Additional files"
-  6. Click `⋮` → `Download file` on the latest **MultiMC version**
+  2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
+  3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
+  4. Click the version you need, then click "Additional files"
+  5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
-  7. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-  8. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
+  6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
+  7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
      * If asked - replace the files.
-  9. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+  8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
      * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
      * If you choose not to do this, please at least enable bundled resource packs manually.
-  10. Launch the installed Fabric profile
-  11. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+  9. Launch the installed Fabric profile
+  10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 </details>
 
