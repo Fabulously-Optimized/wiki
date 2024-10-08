@@ -28,7 +28,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]`
 
-**Changed mod settings can be found on the repo at [.../yosbr/1.20.4/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.20.4/config).**
+**Changed mod settings can be found on the repo at [.../yosbr/1.21.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.1/config).**
 
 ### Telemetry
 
@@ -56,6 +56,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 | Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
 | Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
 | FabricSkyboxes: Toggle mod              | Disables or enables custom skyboxes                                         | Numpad 0       | none    | Not needed for most players                                             |
+| OptiGUI: Copy inspection to clipboard              | Copies OptiGUI's debug info                                         | F12       | none    | Not needed for most players                                             |
 
 ### Resource packs
 
