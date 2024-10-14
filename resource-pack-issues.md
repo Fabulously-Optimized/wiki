@@ -24,7 +24,7 @@ To fix that, please tell the resource pack maker to only use the following chara
 
 _Or "game brightness beyond 100%"_.
 
-Currently the vanilla resource pack and OptiFine resource pack methods **do not work**, and neither will work a direct options.txt edit. Instead, just [add a specialized mod](adding-more-mods.md), such as [Methane](https://modrinth.com/mod/methane) or [other simpler ones](https://modrinth.com/mods?q=gamma&g=categories:%27fabric%27&e=client).
+Currently the vanilla resource pack and a direct options.txt edit **do not work**, OptiFine-based resource packs _might work_. Either way, it is recommended to just [add a mod](adding-more-mods.md), such as [Methane](https://modrinth.com/mod/methane), [Gamma Utils](https://modrinth.com/mod/gamma-utils) or [other simpler ones](https://modrinth.com/mods?q=gamma&g=categories:%27fabric%27&e=client).
 
 Fabulously Optimized does not plan to add "fullbright" methods beyond its current [dynamic lighting](give-up-optifine.md), because it would take away from vanilla gameplay's night vision and may be disallowed on certain servers' rules.
 
