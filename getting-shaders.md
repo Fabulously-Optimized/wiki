@@ -2,7 +2,7 @@
 
 ### OptiFine shaders
 
-OptiFine-compatible shaders are supported by default using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
+OptiFine-compatible shaders are supported by default using [Iris](https://modrinth.com/mod/iris)!
 
 #### Installation
 
