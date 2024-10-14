@@ -2,7 +2,7 @@
 
 ### OptiFine shaders
 
-OptiFine shaders are supported by default using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
+OptiFine-compatible shaders are supported by default using [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders)!
 
 #### Installation
 
@@ -20,6 +20,8 @@ OptiFine shaders are supported by default using [Iris](https://www.curseforge.co
 3. Adjust settings as needed
 4. Click `Shader Pack List...`
 5. Click `Done`
+
+Looking for OptiFine's internal shaders? Try [internal-shaders](https://modrinth.com/shader/internal-shaders) (shader), [Flat Lighting](https://modrinth.com/mod/flat-lighting) (mod) or [New Lighting 1.18+](https://www.planetminecraft.com/texture-pack/new-lighting-1-16/) (resource pack).
 
 ### Fabulous shaders
 
