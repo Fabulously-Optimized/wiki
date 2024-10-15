@@ -108,21 +108,45 @@ This is done by a mod called PolyMc (not to be confused with a [launcher of the 
 
 Some servers tend to put a list of allowed mods into their rules. While it may sound like a good idea in theory, it actually creates more problems due to its vagueness. 
 
-> **DON'T:** "Only OptiFine allowed." - this would disallow Fabulously Optimized, despite it having mods that do exactly the same thing.
->
-> **DO**: "Performance and visual-enchancing mods are allowed." - this would allow Fabulously Optimized in your server without requiring further clarification.
+> **DON'T:** "Only OptiFine allowed."
 
-> **DON'T:** "Only minimap mod X is allowed." - the players would only depend on that single mod's updates, even if there are alternatives available.
->
-> **DO:** "Any minimap mod with player radar disabled." - this allows users to use any minimap mods by configuring them by theirselves. Many minimap mods also have server-side enforcement options.
+This would disallow Fabulously Optimized, despite it having mods that do exactly the same thing.
 
-> **DON'T:** "Maximum 25 mods can be used." - this would already disqualify Fabulously Optimized, as it has more.
->
-> **DO:** (don't mention it) - arbitary mod count limits do not benefit anything at all.
+> **DO**: "Performance and visual-enchancing mods are allowed."
 
-> **DON'T:** "Only Forge mods are allowed." - Fabulously Optimized does not use Forge.
->
-> **DO:** (don't mention it) - restricting certain mod loaders or clients is bad for the user and harmful for the Minecraft ecosystem as a whole. Just restrict behaviours.
+This would allow Fabulously Optimized in your server without requiring further clarification.
+
+---
+
+> **DON'T:** "Only minimap mod X is allowed."
+
+The players would only depend on that single mod's updates, even if there are alternatives available.
+
+> **DO:** "Any minimap mod with player radar disabled."
+
+This allows users to use any minimap mods by configuring them by theirselves. Many minimap mods also have server-side enforcement options.
+
+---
+
+> **DON'T:** "Maximum 25 mods can be used."
+
+This would already disqualify Fabulously Optimized, as it has more.
+
+> **DO:** (don't mention it)
+
+Arbitary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
+
+---
+
+> **DON'T:** "Only Forge mods are allowed."
+
+Fabulously Optimized does not use Forge.
+
+> **DO:** (don't mention it)
+
+Restricting certain mod loaders or clients is bad for the user and harmful for the Minecraft ecosystem as a whole. Just restrict behaviours.
+
+---
 
 Other recommendations:
 
