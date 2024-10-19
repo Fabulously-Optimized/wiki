@@ -108,7 +108,7 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 * Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
 * You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
 
-### Vanilla installer
+### Installer
 
 It is possible to translate most messages on the vanilla installer, except for some very detailed errors.
 
