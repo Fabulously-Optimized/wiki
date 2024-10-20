@@ -137,7 +137,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.16.5**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.16.7**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
