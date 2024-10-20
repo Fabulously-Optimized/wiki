@@ -110,11 +110,10 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 
 ### Installer
 
-It is possible to translate most messages on the vanilla installer, except for some very detailed errors.
+It is possible to translate most messages on the installer, except for some very detailed errors.
 
 * Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
-* The language of the installer is determined by the operating system.
-* There is no public download link for the installer yet.
+* The language of the installer is determined by the operating system, but changeable in the top left corner.
 
 ### Website
 
