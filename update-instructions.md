@@ -125,7 +125,17 @@ If there is a new Minecraft version:
 
 ### Minecraft Launcher (vanilla)
 
-Currently the only way to update is to "reinstall" the pack. Consider installing a different launcher for a smoother upgrade experience.
+1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
+    * Windows: Open the .exe file, click `More info` and then `Run anyway`.
+    * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click `Open`, click `Open` again when asked in a prompt.
+    * Linux: Open the .appimage file and click `Run once` when prompted.
+2. Select preferred FO/Minecraft version and install
+3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. This is a configuration file that ensures smoother upgrades and remembers some of your install settings.
+
+<details>
+   <summary>Manual installation - Minecraft 1.19.4+</summary>
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.16.5**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
@@ -142,8 +152,10 @@ Currently the only way to update is to "reinstall" the pack. Consider installing
 6. Launch the installed Fabric profile
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
+</details>
+
 <details>
-  <summary>Legacy instructions - Minecraft 1.19.3 and older</summary>
+  <summary>Manual installation - Minecraft 1.16.1-1.19.3</summary>
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
