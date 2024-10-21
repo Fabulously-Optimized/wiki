@@ -105,6 +105,32 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
 </details>
 
+### [GDLauncher Carbon](https://gdlauncher.com/)
+
+1. Click `Modpacks`
+2. Select `CurseForge` tab from the left
+3. Search "Fabulously Optimized"
+4. Click `Download Latest` from the Fabulously Optimized Listing
+5. Once installed, hover over the modpack icon and click the play icon to launch.
+
+<details>
+  <summary>Migrate instances from GDLauncher Legacy</summary>
+
+Due to technical limits and issues, Fabulously Optimized no longer supports GDLauncher Legacy. 
+
+Upon installing GDLauncher Carbon, it will automatically replace GDLauncher Legacy on your computer. The tutorial has a step that allows you to directly import your old instances. If you missed that step, follow these instructions:
+
+1. Open GDLauncher Carbon
+2. Click `+ Add Instance`
+3. Click `Import`
+4. Select `GDLauncher legacy`
+5. Select your Fabulously Optimised instance
+6. Click `Begin import`
+7. Once finished, click `Go back` and click the `x` at the top right of the dialog.
+8. You should now have your Fabulously Optimised instance migrated to the new GDLauncher Carbon. Repeat for any other instances you may have.
+
+</details>
+
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 The Fabulously Optimized Installer is quite new and may have issues. If you find any, please report them to [GitHub](https://github.com/Fabulously-Optimized/installer/issues) or [Discord](https://download.fo/discord/) and use the manual method below.
@@ -162,31 +188,6 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 </details>
 
 ## Not supported
-
-### GDLauncher
-
-Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
-
-1. [Install and run Prism Launcher](https://prismlauncher.org/)
-2. Click `Add Instance`
-3. Select `Modrinth` tab from the left
-4. Select "Fabulously Optimized"
-5. Click `OK`
-6. The modpack will now install.
-7. Once installed, click the `Folder` button on the left.
-8. Open GDLauncher
-9. Right click on your previously used instance → `Open Folder`
-10. Copy the important files and folders over:
-   * `saves` - your local worlds
-   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
-   * `shaders` - if you use any
-   * `screenshots` - screenshots you've taken with F2 or F9
-   * `servers.dat` - your multiplayer servers
-   * `options.txt` - if you want to keep your vanilla option and all hotkey changes
-11. Launch the instance on Prism and confirm everything is correct
-12. Uninstall GDLauncher
-
-[GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
 
 ### Pojav Launcher
 
