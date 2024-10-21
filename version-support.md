@@ -57,13 +57,3 @@ Too early to tell, that likely depends on how many Fabric modders will start usi
 #### Can I use Quilt mods in this modpack?
 
 "Probably not. Quilt mods will eventually have their own metadata format which will likely not be compatible with Fabric." [Source](https://quiltmc.org/faq/)
-
-## Distribution
-
-#### Will you ever support Minecraft Launcher (vanilla) properly?
-
-[Yes, this is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110) as soon as Packwiz adds support for it!
-
-#### How does the auto-updating MultiMC pack work?
-
-[See this page.](multimc-auto-update.md)
