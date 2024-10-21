@@ -37,8 +37,6 @@ App version 0.6.2 or higher required.
 
 ### [Prism Launcher](https://prismlauncher.org/)
 
-You need [Java 21](https://prismlauncher.org/wiki/getting-started/installing-java/) to play the game.
-
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
