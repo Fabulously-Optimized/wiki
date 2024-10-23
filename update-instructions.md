@@ -123,6 +123,16 @@ If there is a new Minecraft version:
 
 </details>
 
+### GDLauncher Carbon
+
+1. Select existing FO instance
+2. Go to the `Settings` tab
+3. Click `⇄ Change Modpack Version`
+4. Select the latest version from the dropdown
+5. Click `Update`
+
+**Note**: the instance name will not update, so it may seem outdated. You'll always find the correct version in the details page or bottom right corner of the game's title screen.
+
 ### Minecraft Launcher (vanilla)
 
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
