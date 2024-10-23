@@ -6,7 +6,7 @@ Welcome to the Fabulously Optimized wiki!  [🌐 Read in your language](https://
 
 [❗ Important disclaimers](disclaimers.md)
 
-How to [⬇️ Install](install-instructions.md) | [🆕 Update](update-instructions.md) [(reset options)](update-instructions.md#resetting-options) | [➕ Add mods](adding-more-mods.md) | [➖ Remove mods](disabling-mods.md)
+How to [⬇️ Install](install-instructions.md) | [🆕 Update](update-instructions.md) [(reset options)](update-instructions.md#resetting-options) | [➕ Add mods](adding-more-mods.md) | [➖ Remove mods](disabling-mods.md) | [🗑️ Backup and uninstall](backup-and-uninstall.md)
 
 Get a [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼️ Resource packs to work](resource-pack-issues.md)
 

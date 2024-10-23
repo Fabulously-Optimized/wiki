@@ -16,6 +16,10 @@ That depends on my time, Mojang releases, CurseForge support (when versions appe
 
 I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on CurseForge.
 
+#### Why won't the installer show versions older than 5.10.3?
+
+These versions are old and therefore no longer recommended for most users. Please [use manual install](install-instructions.md#minecraft-launcher-vanilla) if you'd like to use them.
+
 #### Will you support Minecraft snapshots?
 
 No, they are not supported on CurseForge Launcher and are released too fast for me and the modders to keep up with.
@@ -53,13 +57,3 @@ Too early to tell, that likely depends on how many Fabric modders will start usi
 #### Can I use Quilt mods in this modpack?
 
 "Probably not. Quilt mods will eventually have their own metadata format which will likely not be compatible with Fabric." [Source](https://quiltmc.org/faq/)
-
-## Distribution
-
-#### Will you ever support Minecraft Launcher (vanilla) properly?
-
-[Yes, this is planned](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110) as soon as Packwiz adds support for it!
-
-#### How does the auto-updating MultiMC pack work?
-
-[See this page.](multimc-auto-update.md)
