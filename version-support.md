@@ -12,6 +12,16 @@ That depends on my time, Mojang releases, CurseForge support (when versions appe
 - X.**Y**.Z stands for minor versions which may map to Minecraft's 1.Y.**Z** or just refer to bigger changes like added mods
 - X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
 
+Here is how you should think about the version types in relation to Minecraft's:
+
+| Minecraft term            | Modpack equivalent term |
+| ----------------- | ------------------------- |
+| snapshot                           | alpha                                              |
+| pre-release                        | beta                                               |
+| release candidate                  | -                                                  |
+| release                            | stable                                             |
+
+
 #### What versions do you support?
 
 I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on CurseForge.
