@@ -86,7 +86,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Download the pack for your preferred Minecraft version: 
-   * [1.21.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.4.0-alpha.1/Fabulously.Optimized.MC.1.21.3.auto-update.zip) | [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.0/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * [1.21.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.4.0-alpha.5/Fabulously.Optimized.MC.1.21.3.auto-update.zip) | [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.2/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
@@ -165,7 +165,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 
 ### GDLauncher
 
-Due to technical limits and issues, GDLauncher is no longer supported. It is recommended to migrate to Prism Launcher:
+Due to technical limits and issues, GDLauncher Legacy is no longer supported and GDLauncher Carbon not yet supported. It is recommended to use Prism Launcher instead:
 
 1. [Install and run Prism Launcher](https://prismlauncher.org/)
 2. Click `Add Instance`
@@ -186,11 +186,9 @@ Due to technical limits and issues, GDLauncher is no longer supported. It is rec
 11. Launch the instance on Prism and confirm everything is correct
 12. Uninstall GDLauncher
 
-[GDLauncher Carbon](https://gdlauncher.com/en/blog/curseforge-partnership-announcement/) may be supported in the future.
-
 ### Pojav Launcher
 
-Pojav Launcher is not yet supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
+Pojav Launcher is currently not supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
 
 ### ATLauncher
 
