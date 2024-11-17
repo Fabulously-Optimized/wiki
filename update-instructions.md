@@ -124,14 +124,37 @@ If there is a new Minecraft version:
 ### Minecraft Launcher (vanilla)
 
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
+    * In most cases, you may also use the old version of an installer if you have it already.
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
-    * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click `Open`, click `Open` again when asked in a prompt.
+    * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
-2. Select preferred FO/Minecraft version and install
-3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+3. Select preferred FO/Minecraft version and install
+4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. This is a configuration file that ensures smoother upgrades and remembers some of your install settings.
 
+<details>
+  <summary>MacOS installer opening instructions</summary>
+
+  #### macOS Sequoia 15 and later
+  1. Open the downloaded .dmg file
+  2. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+  3. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
+  4. Scroll down on the right view, you should see the button `Open anyway`
+  5. Enter your password or fingerprint. The installer should open.
+  6. Future launches of the same installer version open the installer directly on double-click.
+
+  #### macOS Sonoma 14 and older
+  1. Open the downloaded .dmg file
+  2. **Right click** the "Fabulously Optimized Installer" and click `Open`
+  3. Click `Open` again when asked in a prompt. The installer should open.
+  4. Future launches of the same installer version open the installer directly on double-click.
+
+  #### Why is this necessary?
+  Apple requires 99$ a year to get a program "verified". This is not feasible for this modpack.
+  If you are concerned, feel free to use manual instructions or a different launcher.
+  
+</details>
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
 
