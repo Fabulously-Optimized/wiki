@@ -109,11 +109,31 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
-    * macOS: Open the .dmg file, **right click** the "Fabulously Optimized Installer" and click `Open`, click `Open` again when asked in a prompt.
+    * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
 2. Select preferred FO/Minecraft version and install
 3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
- 
+
+<details>
+  <summary>MacOS installer opening instructions</summary>
+
+  #### macOS Sequoia 15 and later
+  1. Open the downloaded .dmg file
+  2. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+  3. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
+  4. Scroll down on the right view, you should see the button `Open anyway`
+  5. Enter your password or fingerprint. The installer should open.
+
+  #### macOS Sonoma 14 and older
+  1. Open the downloaded .dmg file
+  2. **Right click** the "Fabulously Optimized Installer" and click `Open`
+  3. Click `Open` again when asked in a prompt. The installer should open.
+
+  #### Why is this necessary?
+  Apple requires 99$ a year to get a program "verified". This is not feasible for this modpack.
+  If you are concerned, feel free to use manual instructions or a different launcher.
+  
+</details>
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
   
