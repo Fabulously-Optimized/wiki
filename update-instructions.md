@@ -124,7 +124,7 @@ If there is a new Minecraft version:
 ### Minecraft Launcher (vanilla)
 
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
-    * In most cases, you may also use the old version of an installer if you have it already.
+    * In most cases, you may also use the older version of the installer if you have it already.
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
     * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
