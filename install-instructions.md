@@ -86,7 +86,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 You need [Java 21](https://download.fo/java21) to play the game.
 
 1. Download the pack for your preferred Minecraft version: 
-   * [1.21.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.5.0-alpha.1/Fabulously.Optimized.MC.1.21.4.auto-update.zip) [1.21.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.4.0-alpha.5/Fabulously.Optimized.MC.1.21.3.auto-update.zip) | [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.2/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * [1.21.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.5.0-alpha.1/Fabulously.Optimized.MC.1.21.4.auto-update.zip) | [1.21.3](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.4.0-alpha.5/Fabulously.Optimized.MC.1.21.3.auto-update.zip) | [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.2/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
 4. Double-click that version you just created to download and launch the modpack
@@ -94,7 +94,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
 <details>
   <summary>Got asked to download a mod manually?</summary>
 
-  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+  If you get asked to download a specific jar, it means we are not allowed to bundle it and you must add it manually:
 
   1. Copy and paste the given address to your browser
   2. Click `Cancel Launch`
