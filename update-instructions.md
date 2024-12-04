@@ -110,7 +110,7 @@ If there is a new Minecraft version:
 <details>
   <summary>Got asked to download a mod manually?</summary>
 
-  If you get asked to download a specific jar, it means I am not allowed to bundle it and you must add it manually:
+  If you get asked to download a specific jar, it means we are not allowed to bundle it and you must add it manually:
 
   1. Copy and paste the given address to your browser
   2. Click `Cancel Launch`
