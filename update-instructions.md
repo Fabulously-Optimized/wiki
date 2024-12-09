@@ -51,6 +51,20 @@ If you added or removed some mods:
 2. Click `🔄 Update modpack` on top right
 3. Click `⇆`
    * Optional: Select the version you want by selecting it on the dropdown before you click `⇆`.
+  
+<details>
+  <summary>Error: "Invalid game version"</summary>
+  If you are getting an error, such as "Error launching Minecraft: Invalid game version: 1.21.4", then you need to delete the cache on the app. 
+  
+  To do that:
+  
+  1. Go to settings in the bottom left corner
+  2. Under "App cache", click `🗑️ Purge cache` and again `🗑️ Purge cache`
+  3. Restart the app just in case
+  4. Update the modpack with the instructions above
+
+  **Note:** "Cache" refers to internal things like the list of Minecraft and Fabric versions. Purging the cache will never affect your instances or worlds!
+</details>
 
 ### Prism Launcher
 
