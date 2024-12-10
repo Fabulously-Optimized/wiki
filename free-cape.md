@@ -23,6 +23,11 @@ Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheC
 - [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
    * Go to `Mods` → search "Cosmetica" → press ![config](https://i.ibb.co/j35cBtn/image.png) → configure by your preferences.
 
+### Official capes
+
+Mojang has begun to release more [official, cross-platform capes](https://minecraft.wiki/w/Cape#Cross-platform_capes) for completing various actions during game events.
+These events are announced on [the modpack's Discord server](https://download.fo/discord/) as they happen. Ensure you have the **Other news** role to get notified!
+
 ### Disclaimer
 
 Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to prefer free cosmetics, while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
