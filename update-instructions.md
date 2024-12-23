@@ -53,8 +53,8 @@ If you added or removed some mods:
    * Optional: Select the version you want by selecting it on the dropdown before you click `⇆`.
   
 <details>
-  <summary>Error: "Invalid game version"</summary>
-  If you are getting an error, such as "Error launching Minecraft: Invalid game version: 1.21.4", then you need to delete the cache on the app. 
+  <summary>Not seeing a version or getting an error?</summary>
+  If you are getting an error, such as "Error launching Minecraft: Invalid game version: 1.21.4" or if you are simply not seeing a certain modpack version, then you need to delete the cache on the app. 
   
   To do that:
   
