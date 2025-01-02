@@ -32,7 +32,7 @@ App version 0.6.2 or higher required, these instructions are for 0.9.2+.
 2. Click `⤓ Install`
    * Optional: Select the version you want by instead clicking the tile → `Versions` → `⤓` on the version you want.
 3. The modpack will now install.
-4. Once installed, hover on the created instance under "Recently played"
+4. Once installed, go to `|||\` "Library" and hover on the created instance
 5. Click ▶️ button to play.
 
 ### [Prism Launcher](https://prismlauncher.org/)
