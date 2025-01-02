@@ -27,15 +27,18 @@ Before uninstalling the modpack, it is highly recommended to back up the content
 ### CurseForge App
 
 1. Open CurseForge App
-2. Go to `My Modpacks`, right click on Fabulously Optimized
-3. Click `🗑️ Delete Profile`
-4. Click `Delete`
+2. Go to `My Modpacks`
+3. Right click on Fabulously Optimized
+4. Click `🗑️ Delete Profile`
+5. Click `Delete`
 
 ### Modrinth App
 
 1. Open Modrinth App
-2. Right click on Fabulously Optimized
-3. Click `🗑️ Delete`
+2. Open `|||\` "Library"
+3. Right click on Fabulously Optimized
+4. Click `🗑️ Delete`
+5. Click `🗑️ Delete`
 
 ### Prism Launcher
 

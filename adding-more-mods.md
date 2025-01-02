@@ -28,15 +28,12 @@ Method 2:
 ### Modrinth App
 
 1. Open Modrinth App
-2. Click on Fabulously Optimized
-3. Click `⚙️ Options`
-4. Scroll down and click `🔒 Unlock`, then click again
-    * **Do NOT click `× Unpair`!** If you do that, you'll have to download a new instance of FO and manually move worlds/resource packs/etc over.
-5. Click `🧊 Content`
-6. Click `🔍 Add Content`
-7. Search for the mod you want
-8. Click `⤓ Install`
-9. Go back to `🏠` and run the game as usual. You should now have the new mod(s) installed!
+2. Open `|||\` "Library"
+3. Click on Fabulously Optimized
+4. Click `+ Install content`
+5. Search for the mod you want
+6. Click `⤓ Install`
+7. Go back to `|||\` and run the game as usual. You should now have the new mod(s) installed!
 
 ### Prism Launcher
 
