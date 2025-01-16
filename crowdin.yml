@@ -1,3 +1,0 @@
-files:
-  - source: /listing-description/en-US.md
-    translation: /listing-description/%locale%.md
