@@ -58,7 +58,7 @@ hidden: true
 
 Apple has implemented a verification system for programs, which costs 99 USD a year. Such an expense is not worth it for FO.
 
-If you are concerned by this, you can also install FO manually, or use another [launcher compatible with FO](README.md). By the way, [FO's installer's source code](https://github.com/Fabulously-Optimized/installer) is available if you want to check it.
+If you are concerned by this, you can also install FO manually, or use another [launcher compatible with FO](./). By the way, [FO's installer's source code](https://github.com/Fabulously-Optimized/installer) is available if you want to check it.
 {% endtab %}
 
 {% tab title="macOS 14 Sonoma or older" %}
@@ -78,7 +78,7 @@ If you are concerned by this, you can also install FO manually, or use another [
 
 Apple has implemented a verification system for programs, which costs 99 USD a year. Such an expense is not worth it for FO.
 
-If you are concerned by this, you can also install FO manually, or use another [launcher compatible with FO](README.md). By the way, [FO's installer's source code](https://github.com/Fabulously-Optimized/installer) is available if you want to check it.
+If you are concerned by this, you can also install FO manually, or use another [launcher compatible with FO](./). By the way, [FO's installer's source code](https://github.com/Fabulously-Optimized/installer) is available if you want to check it.
 {% endtab %}
 {% endtabs %}
 
