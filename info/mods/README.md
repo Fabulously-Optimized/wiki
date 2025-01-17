@@ -16,7 +16,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 {% endhint %}
 
 {% hint style="info" %}
-Some mods have replacements and alternatives which FO uses in early versions, until the main preferred mod is updated. These mods are [indicated in the Mod Menu](../options/mod-menu.md) with a yellow arrows 🔀 emoji. In some cases you may want to use one of these alternatives in FO; to do that, [disable the main mod](../../how-to/disable-mods/) and [add the alternative mod](../../how-to/add-mods/).
+Some mods have replacements and alternatives which FO uses in early versions, until the main preferred mod is updated. These mods are [indicated in the Mod Menu](../resource-packs/#mod-menu-helper) with a yellow arrows 🔀 emoji. In some cases you may want to use one of these alternatives in FO; to do that, [disable the main mod](../../how-to/disable-mods/) and [add the alternative mod](../../how-to/add-mods/).
 
 Click on the yellow arrows 🔀 emoji below to know about the alternatives
 {% endhint %}
@@ -74,7 +74,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [FabricSkyBoxes Interop](https://curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://curseforge.com/members/flashyreese)       | Adds OptiFine resource packs support to FabricSkyboxes                                                                     |
 | [Main Menu Credits](https://curseforge.com/minecraft/mc-mods/main-menu-credits)           | [isXander](https://curseforge.com/members/xanderisdev)          | Adds FO's clickable version number in title screen's bottom corner                                                         |
 | [MixinTrace](https://curseforge.com/minecraft/mc-mods/mixintrace)                         | [comp500](https://curseforge.com/members/comp500)               | Helps developers find the cause of crashes                                                                                 |
-| [Mod Menu](https://curseforge.com/minecraft/mc-mods/modmenu)                              | [TerraformersMC](https://curseforge.com/members/TerraformersMC) | Adds a mod list with descriptions. See [Mod Menu](../options/mod-menu.md)                                                  |
+| [Mod Menu](https://curseforge.com/minecraft/mc-mods/modmenu)                              | [TerraformersMC](https://curseforge.com/members/TerraformersMC) | Adds a mod list with descriptions. See [Mod Menu](../resource-packs/#mod-menu-helper)                                      |
 | [More Chat History](https://curseforge.com/minecraft/mc-mods/more-chat-history)           | [JackFred2](https://curseforge.com/members/JackFred2)           | Increases chat history limit                                                                                               |
 | [No Chat Reports](https://curseforge.com/minecraft/mc-mods/no-chat-reports)               | [Aizistral](https://curseforge.com/members/aizistral)           | Provides consistent chat status indicators and visual options. See [Player Reporting](player-reporting.md)                 |
 | [Your Options Shall Be Respected](https://curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://curseforge.com/members/shedaniel)           | Keeps your settings when updating FO. See [Reset Options](../../how-to/reset/)                                             |
