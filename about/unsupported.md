@@ -134,7 +134,7 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 FO does not support any launcher that lets you run the game without having purchased it. Choose and use one of the [five launchers supported by FO](../how-to/install/).
 
 {% hint style="success" %}
-There is a way to obtain Minecraft for cheaper: You can get a [gift code from a trusted reseller](https://download.fo/minecraft)!
+There is a way to obtain Minecraft for cheaper: You can get a [gift code from a trusted reseller (affiliate link)](https://download.fo/minecraft)! Thank you!
 {% endhint %}
 
 #### TLauncher
