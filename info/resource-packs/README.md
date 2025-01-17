@@ -25,9 +25,22 @@ Imitates OptiFine's "Better Grass" fast mode.
 
 ## Mod Menu Helper
 
-Improves the Mod Menu by explaining what each mod does and labeling configurable mods.
+Improves the Mod Menu by explaining what each mod does and labeling configurable mods with **`🛠️`** or **`✏️`**:
 
-<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Mod Menu Helper on <strong>GitHub</strong></td><td><a href="https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper">https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper</a></td></tr><tr><td align="center">About what Mod Menu Helper does</td><td><a href="../options/mod-menu.md">mod-menu.md</a></td></tr></tbody></table>
+* If they are blue, the mod is configurable through the **![config](https://i.ibb.co/j35cBtn/image.png) Settings** button
+   * If the description says "Toggle mod", the entire mod can be disabled in-game
+* If they are gray, there will be no configuration button in-game. You can:
+   * Sometimes find the mod's configuration in Minecraft's Options menu
+   * Sometimes modify advanced configuration files manually (not recommended)
+   * [Disable that mod](../../how-to/disable-mods/)
+* If you cannot see them, either that mod is not from FO, or the resource pack may be off:
+   1. Click on **Done**
+   2. Click on **Options...**
+   3. Click on **Resource Packs...**
+   4. Click on the right arrow next to **Mod Menu Helper.zip**
+   5. Click on **Done**. You should now see the icons in the Mod Menu
+
+<table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Mod Menu Helper on <strong>GitHub</strong></td><td><a href="https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper">https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper</a></td></tr></tbody></table>
 
 ## Translations for Sodium
 
