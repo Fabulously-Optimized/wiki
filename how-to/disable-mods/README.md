@@ -12,5 +12,5 @@ Do NOT disable "API" or "library" mods, because the other mods rely on them.
 {% endhint %}
 
 {% hint style="info" %}
-You may be able to simply [toggle the mod through the Mod Menu](../../info/options/mod-menu.md).
+You may be able to simply [toggle the mod through the Mod Menu](../../info/resource-packs/#mod-menu-helper).
 {% endhint %}
