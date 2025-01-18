@@ -11,7 +11,7 @@ What separates FO from other similar modpacks?
 
 ## Accessibility
 
-We take accessibility very seriously. We believe everyone should be able to use FO, no matter which [launcher they use](../how-to/install/), which language they speak or which server they like to play on.
+We take accessibility very seriously. We believe everyone should be able to use FO, no matter which [launcher they use](../how-to/install/), which [language they speak](contribute/translate.md) or which [server they like to play on](servers.md).
 
 {% hint style="info" %}
 Read more about [accessibility](accessibility.md).
@@ -19,7 +19,7 @@ Read more about [accessibility](accessibility.md).
 
 ## Community
 
-FO is built with the community and for the community: we want to fix the [issues **you** have](contribute/report.md), include the [mods **you** like](contribute/suggest.md). We [host public votes for choosing mods](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829), we [revert changes the community dislikes](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#131-2020-09-29), and we collaborate with mod authors by reporting issues and suggesting fixes.
+FO is built with the community and for the community: we want to fix the [issues **you** have](https://download.fo/issues), include the [mods **you** like](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?template=mod-request.yml). We [host public votes for choosing mods](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829), we [revert changes the community dislikes](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md#131-2020-09-29), and we collaborate with mod authors by reporting issues and suggesting fixes.
 
 {% hint style="info" %}
 Read more about [contributing to FO](contribute/).
