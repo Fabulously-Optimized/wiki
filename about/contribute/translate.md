@@ -5,19 +5,12 @@ icon: language
 
 # Translate
 
-In accordance to the [Accessibility principle](../README.md#accessibility), one of FO's objectives is making it accessible to everyone, regardless of their language. This is why we support and welcome translations of FO and of its mods.
-
-The following parts of FO are translatable:
-
-* [Mods](../../info/mods/) (not managed by FO)
-* [Resource Packs](../../info/resource-packs/)
-* [Installer](../../how-to/install/vanilla.md)
-* [Website](https://download.fo/)
+In accordance to the [Accessibility principle](../#accessibility), one of FO's objectives is making it accessible to everyone, regardless of their language. This is why we support and welcome translations of FO and of its mods.
 
 ## Mods
 
 1. Check out the [list of mods in FO](../../info/mods/). The most important mods are:
-   * [Sodium](#sodium)
+   * [Sodium](translate.md#sodium)
    * [Sodium Extra](https://crowdin.com/project/sodium-extra)
    * [Mod Menu](https://crowdin.com/project/mod-menu)
    * [Fabric API and Installer](https://crowdin.com/project/fabricmc)
@@ -39,17 +32,17 @@ The following parts of FO are translatable:
 10. Paste the content you copied in _step 6_
 11. Start translating the values inside of the quotes, on the right side of the colon. For example:
 
-   ```json
-   "cool-mod.config.title": "Cool Mod Options",
-   ```
+    ```json
+    "cool-mod.config.title": "Cool Mod Options",
+    ```
 
-   Translate `Cool Mod Options` only!
+    Translate `Cool Mod Options` only!
 12. Commit the file
-13. Create a pull request.
+13. Create a pull request
 14. You're now done, you just have to wait:
-   * The author must accept your translations
-   * The mod must be updated to include your contribution
-   * FO must be updated to include the new version of the mod
+    * The author must accept your translations
+    * The mod must be updated to include your contribution
+    * FO must be updated to include the new version of the mod
 
 ### Sodium
 
@@ -67,7 +60,7 @@ FO's translations are licensed under [CC0](https://choosealicense.com/licenses/c
 
 {% tabs %}
 {% tab title="Translator" %}
-1. Join the [FO project on Crowdin](https://crowdin.com/project/fabulously-optimized) <!-- TODO: https://download.fo/crowdin ? -->
+1. Join the [FO project on Crowdin](https://download.fo/crowdin)
 2. Translate the files you prefer. Files are sorted according to the priority
 3. Vote for existing suggestions with the **Plus** and **Minus** buttons
 4. Discuss or ask for information in the comments
@@ -83,14 +76,14 @@ FO's translations are licensed under [CC0](https://choosealicense.com/licenses/c
 The resource pack must be tested because there are specific length requirements:
 
 * Translations must be fully visible in a maximized Full HD 1920×1080 window, with the default font, or with the Unicode font if required. You can emulate such a window in-game:
-   1. Open **Options...**
-   2. Open **Video Settings...***
-   3. Set **Fullscreen Resolution** to **1920x1080@60 (24 bit)** (The number after `@` may vary)
-   4. Check the **Fullscreen** checkbox
-   5. Click on **Apply**
-   6. If you're experiencing issues, press **`Shift`** + **`P`** to reset to default settings
-   7. Click on **Done**
-* The [online translations tester](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker) <!-- TODO: https://download.fo/size-checker ? --> may help, but does not replace in-game testing
+  1. Open **Options...**
+  2. Open **Video Settings...**
+  3. Set **Fullscreen Resolution** to **1920x1080@60 (24 bit)** (The number after `@` may vary)
+  4. Check the **Fullscreen** checkbox
+  5. Click on **Apply**
+  6. If you're experiencing issues, press **`Shift`** + **`P`** to reset to default settings
+  7. Click on **Done**
+* The [online translations tester](https://download.fo/size-checker) may help, but does not replace in-game testing
 * Feel free to rephrase sentences if you see fit
 * In the options row, list as many of them as you can fit
 * Do NOT change the strings' format! Keep paragraph signs `§`, the tools `⚒️` and arrows `🔀` emoji, and newlines `\n` intact
@@ -132,7 +125,7 @@ Do NOT change the strings' format! If the original says `[Hello World!][1]`, you
 Translation testing is recommended for proofreaders:
 
 1. Approve all translations on Crowdin. You may have to wait for some time
-2. Find the latest ["New Crowdin updates" pull request on GitHub](https://github.com/Fabulously-Optimized/fabulously-web/pulls?q=is:pr+is:open+New+Crowdin+updates)
+2. Find the latest ["New Crowdin updates" pull request on GitHub](https://github.com/Fabulously-Optimized/website/pulls?q=is:pr+is:open+New+Crowdin+updates)
 3. Find a comment by the user `vercel`
 4. Click on **Visit Preview** in that comment
 5. Navigate the website and make sure translations are correct
