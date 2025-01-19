@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Backup: MultiMC
+# MultiMC
 
 1. Open **MultiMC**
 2. Right-click on the FO instance
