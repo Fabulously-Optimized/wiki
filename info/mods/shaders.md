@@ -38,7 +38,7 @@ Examples of Fabulous Shaders include:
 
 * [Fabulousity](https://github.com/ScottoMotto/Fabulousity#fabulousity) ([preview on YouTube](https://youtu.be/luzgOwKt6_c?t=126))
 * [Basic Shaders](https://github.com/bradleyq/mc_vanilla_shaders) ([preview on YouTube](https://youtu.be/dRnlaRx3zBY?t=24))
-* [Sildur's Fabulous Shaders](https://sildurs-shaders.github.io/downloads) ([Configuration instructions](https://sildurs-shaders.github.io/install/#fabulous))
+* [Sildur's Fabulous Shaders](https://sildurs-shaders.github.io/downloads) ([configuration instructions](https://sildurs-shaders.github.io/install/#fabulous))
 * [Depth Shaders](https://github.com/onnowhere/depth_shaders/releases)
 * [More from Modrinth](https://modrinth.com/shaders?g=categories:vanilla)
 
