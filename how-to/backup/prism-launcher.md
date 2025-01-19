@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Backup: Prism Launcher
+# Prism Launcher
 
 1. Open the **Prism Launcher**
 2. Right-click on the FO instance

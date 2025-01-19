@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Backup: Modrinth App
+# Modrinth App
 
 1. Open the **Modrinth App**
 2. Click on the **Library**
