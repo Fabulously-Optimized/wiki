@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Add Mods: CurseForge App
+# CurseForge App
 
 {% tabs %}
 {% tab title="Through the CurseForge App" %}
