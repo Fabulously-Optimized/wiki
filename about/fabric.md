@@ -20,6 +20,6 @@ FO uses Fabric, instead of NeoForge, for the following reasons:
 * **Fast loading**: roughly the same as vanilla Minecraft
 * **Small size**: no huge libraries, just the [Fabric Loader](https://fabricmc.net/use) and the [Fabric API](https://curseforge.com/minecraft/mc-mods/fabric-api)
 
-{% hint style="info" %}
+{% hint style="success" %}
 If you're coming from NeoForge, you can find a community-maintained [list of Fabric mods corresponding to NeoForge mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83).
 {% endhint %}
