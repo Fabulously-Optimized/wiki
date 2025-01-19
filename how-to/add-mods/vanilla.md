@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Add Mods: Minecraft Launcher
+# Minecraft Launcher
 
 1. Find the mod or mods you want to add from the [list of Fabric mods on Modrinth](https://modrinth.com/mods?g=categories:fabric)
 2. Click on **Versions**

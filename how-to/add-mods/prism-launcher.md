@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Add Mods: Prism Launcher
+# Prism Launcher
 
 1. Open the **Prism Launcher**
 2. Select the FO instance
