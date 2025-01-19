@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Update: Minecraft Launcher
+# Minecraft Launcher
 
 {% hint style="danger" %}
 **You should ALWAYS [make backups](../backup/vanilla.md) before updating**.

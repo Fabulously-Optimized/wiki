@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Update: CurseForge App
+# CurseForge App
 
 {% hint style="danger" %}
 **You should ALWAYS [make backups](../backup/curseforge-app.md) before updating**.
