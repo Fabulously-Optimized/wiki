@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Update: MultiMC
+# MultiMC
 
 {% hint style="danger" %}
 **You should ALWAYS [make backups](../backup/multimc.md) before updating**.
