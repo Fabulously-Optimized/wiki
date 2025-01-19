@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Install: Minecraft Launcher
+# Minecraft Launcher
 
 <!-- TODO: do NOT change list points for the manual installation. "Why do I need to copy everything over?" relies on them -->
 

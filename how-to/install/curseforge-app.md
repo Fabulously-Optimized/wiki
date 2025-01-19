@@ -2,10 +2,10 @@
 hidden: true
 ---
 
-# How to Install: CurseForge App
+# CurseForge App
 
-## Through the CurseForge App
-
+{% tabs %}
+{% tab title="Through the CurseForge App" %}
 1. Open the [**CurseForge App**](https://curseforge.com/download/app#download-options)
 2. Select **Minecraft** from the grid or from the sidebar
 3. Search for `Fabulously Optimized`
@@ -15,9 +15,9 @@ hidden: true
 7. Click the Play button. The Minecraft Launcher should open up
 8. In the Minecraft Launcher, click on the Play button. Minecraft should open up
 9. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
+{% endtab %}
 
-## Through the CurseForge website
-
+{% tab title="Through the CurseForge website" %}
 1. Open [FO's listing on CurseForge](https://download.fo/curseforge)
 2. Click on the Install button
 3. If you do not want the latest version, click on `Files`, then on the version you want, then on the Install button
@@ -26,3 +26,9 @@ hidden: true
 6. Click the Play button. The Minecraft Launcher should open up
 7. In the Minecraft Launcher, click on the Play button. Minecraft should open up
 8. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
+{% endtab %}
+{% endtabs %}
+
+{% hint style="success" %}
+The CurseForge App supports FO with monetary benefits. Thank you!
+{% endhint %}
