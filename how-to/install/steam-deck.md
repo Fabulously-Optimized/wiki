@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Install: Steam Deck
+# Steam Deck
 
 You'll install FO on your Steam Deck via [Prism Launcher](prism-launcher.md).
 

@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Install: MultiMC
+# MultiMC
 
 [MultiMC](https://multimc.org/) does not support automatic updates by default. However, FO has developed a custom MultiMC pack to perform updates automatically. Read more about the [MultiMC auto-updating pack](multimc.md#how-does-it-work)
 

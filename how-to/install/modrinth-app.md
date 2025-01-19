@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Install: Modrinth App
+# Modrinth App
 
 {% hint style="warning" %}
 These instructions are for Modrinth App version 0.9.2 or higher.
@@ -16,3 +16,7 @@ These instructions are for Modrinth App version 0.9.2 or higher.
 6. Hover over the newly created FO instance
 7. Click on the Play button. Minecraft should open up
 8. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
+
+{% hint style="success" %}
+The Modrinth App supports FO with monetary benefits. Thank you!
+{% endhint %}
