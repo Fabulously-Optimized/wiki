@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Disable Mods: CurseForge App
+# CurseForge App
 
 {% hint style="danger" %}
 Do NOT disable "API" or "library" mods, because the other mods need them.

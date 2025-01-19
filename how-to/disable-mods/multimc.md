@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Disable Mods: MultiMC
+# MultiMC
 
 {% hint style="danger" %}
 Do NOT disable "API" or "library" mods, because the other mods need them.
@@ -101,6 +101,6 @@ Not fully tested on macOS!
 4. Click on **Loader mods**
 5. Find the mod you want to disable
 6. Uncheck the checkbox
-7. If you want to re-enable the mod, then check the checkbox again
+7. If you want to re-enable the mod, check the checkbox again
 {% endtab %}
 {% endtabs %}

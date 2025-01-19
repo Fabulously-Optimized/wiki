@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Disable Mods: Prism Launcher
+# Prism Launcher
 
 {% hint style="danger" %}
 Do NOT disable "API" or "library" mods, because the other mods need them.
