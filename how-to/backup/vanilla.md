@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Backup: Minecraft Launcher
+# Minecraft Launcher
 
 1. Open the **Minecraft Launcher**
 2. Hover over the FO installation

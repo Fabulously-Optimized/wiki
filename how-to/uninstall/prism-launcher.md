@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Uninstall: Prism Launcher
+# Prism Launcher
 
 {% hint style="danger" %}
 **You should ALWAYS [make backups](../backup/prism-launcher.md) before uninstalling**.

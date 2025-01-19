@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Backup: CurseForge App
+# CurseForge App
 
 1. Open the **CurseForge App**
 2. Right-click on the FO instance

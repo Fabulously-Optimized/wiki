@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# How to Uninstall: Modrinth App
+# Modrinth App
 
 {% hint style="danger" %}
 **You should ALWAYS [make backups](../backup/modrinth-app.md) before uninstalling**.
