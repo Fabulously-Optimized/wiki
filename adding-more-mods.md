@@ -18,7 +18,7 @@ Method 1:
 
 Method 2:
 
-1. [Open CurseForge site](https://www.curseforge.com/minecraft/search?page=1&gameFlavorsIds=4), search for a compatible mod
+1. [Open CurseForge site](https://www.curseforge.com/minecraft/search?gameVersionTypeId=4), search for a mod compatible with your Minecraft version
 2. On the compatible version, click Install
 3. CurseForge Launcher opens. Click `Select a profile`
 4. Select "Fabulously Optimized", click `Install`
