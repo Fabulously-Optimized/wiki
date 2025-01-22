@@ -20,7 +20,7 @@ hidden: true
 {% endtab %}
 
 {% tab title="Through the CurseForge website" %}
-1. Find the mod or mods you want to add from the [list of Fabric mods on CurseForge](https://curseforge.com/minecraft/search?gameVersionTypeId=4)
+1. Find the mod or mods you want to add from the [list of Fabric mods on CurseForge](https://www.curseforge.com/minecraft/search?gameVersionTypeId=4)
 2. Click on **Install** next to the latest version compatible with Fabric and Minecraft. The CurseForge App should open
 3. Click on **Select a profile**
 4. Select **Fabulously Optimized**
