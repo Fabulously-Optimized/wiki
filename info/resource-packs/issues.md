@@ -103,6 +103,6 @@ In particular, this [version of Fresh Animations](https://www.curseforge.com/min
 7. Verify if the models are displayed correctly
 8. If not, custom models will not work. You should either:
    * Re-enable the option you changed in _step 3_, and disable the resource pack
-   * Disable the **OptiFine** option, and keep the resource pack without the models.
+   * Disable the **OptiFine** option, and keep the resource pack without the models
 {% endtab %}
 {% endtabs %}

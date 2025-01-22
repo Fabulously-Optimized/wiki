@@ -71,6 +71,6 @@ Here are some [mods you can add](../../how-to/add-mods/) that may improve perfor
 These mods may introduce instability or be unsuitable for every setup. Because of this they are not officially supported by FO.
 {% endhint %}
 
-* [Nvidium](https://modrinth.com/mod/nvidium): Optimizes performance with NVIDIA GPUs (not compatible with shaders).
-* [Methane](https://modrinth.com/mod/methane): Removes light calculations, resulting in a "fullbright" effect.
-* [C2ME](https://modrinth.com/mod/c2me-fabric): Optimizes chunk loading (very experimental).
+* [Nvidium](https://modrinth.com/mod/nvidium): Optimizes performance with NVIDIA GPUs (not compatible with shaders)
+* [Methane](https://modrinth.com/mod/methane): Removes light calculations, resulting in a "fullbright" effect
+* [C2ME](https://modrinth.com/mod/c2me-fabric): Optimizes chunk loading (very experimental)
