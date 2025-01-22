@@ -42,7 +42,7 @@ FO and its mods may not keep up with all snapshots, as they are released very qu
 
 Support is provided for the latest stable version of FO, and for the latest development version of FO if any.
 
-Older versions of FO, and for older Minecraft versions, are available but no longer supported. If you want to play them at your own risk, you may find a [list of older versions on CurseForge](https://curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show). <!-- TODO: https://download.fo/old ? -->
+Older versions of FO, and for older Minecraft versions, are available but no longer supported. If you want to play them at your own risk, you may find a [list of older versions on CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show). <!-- TODO: https://download.fo/old ? -->
 
 {% hint style="danger" %}
 While FO does not support outdated versions, it especially warns its users against some which are known to have vulnerabilities. Those are indicated in the websites with a triangle warning sign: ⚠️.
