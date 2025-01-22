@@ -92,7 +92,7 @@ Find more details on [Entity Model Features' issue tracker](https://github.com/T
 {% tab title="FO version 4.6.0 or older" %}
 Find a [list of resource packs supported by CEM](https://github.com/dorianpb/cem/issues/9), and a [list of features supported by CEM](https://github.com/dorianpb/cem#differences).
 
-In particular, this [version of Fresh Animations](https://curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) works. Discuss issues in the [Fresh Animations' issue](https://github.com/dorianpb/cem/issues/11).
+In particular, this [version of Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) works. Discuss issues in the [Fresh Animations' issue](https://github.com/dorianpb/cem/issues/11).
 
 1. In the Mod Menu, find "Custom Entity Models"
 2. Click on the **Config** button ![config](https://i.ibb.co/j35cBtn/image.png)
