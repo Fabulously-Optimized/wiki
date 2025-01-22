@@ -4,7 +4,7 @@ hidden: true
 
 # Shaders
 
-FO supports shaders through [Iris](https://modrinth.com/mod/iris). You can find [shaders from Modrinth](https://modrinth.com/shaders?g=categories:iris) or [shaders from CurseForge](https://curseforge.com/minecraft/search?class=shaders).
+FO supports shaders through [Iris](https://modrinth.com/mod/iris). You can find [shaders from Modrinth](https://modrinth.com/shaders?g=categories:iris) or [shaders from CurseForge](https://www.curseforge.com/minecraft/search?class=shaders).
 
 To install an Iris shader:
 
@@ -61,7 +61,7 @@ For developers: You may make your resource pack work with the [Sodium manifest](
 
 ## Canvas Shaders
 
-Canvas shaders are a kind of shader optimized for powerful computers, to be used with the [Canvas Renderer mod](https://curseforge.com/minecraft/mc-mods/canvas-renderer).
+Canvas shaders are a kind of shader optimized for powerful computers, to be used with the [Canvas Renderer mod](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer).
 
 Examples include:
 
@@ -75,6 +75,6 @@ Canvas shaders are not supported by FO, but you can replace some mods to support
    * Sodium Extra
    * Reese's Sodium Settings
    * Iris
-2. [Add](../../how-to/add-mods/) the [Canvas Renderer mod](https://curseforge.com/minecraft/mc-mods/canvas-renderer)
+2. [Add](../../how-to/add-mods/) the [Canvas Renderer mod](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer)
 3. [Install the shader](shaders.md#shaders) you want
 4. Enable it from **Options...** → **Video Settings...** → **Canvas** → **Pipeline Options** → **Pipelines**
