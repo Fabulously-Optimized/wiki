@@ -12,9 +12,9 @@ hidden: true
 {% tab title="Windows" %}
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the `exe` installer. If you get a security prompt from Windows, allow the installer to run:
-   * [Why did I get this prompt?](#why-does-windows-show-the-security-prompt)
    * Click on **More info**
    * Click on **Run anyway**
+   * [Why did I get this prompt?](#why-does-windows-show-the-security-prompt)
 3. Select your desired FO and Minecraft versions
 4. Click on **Install**
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
@@ -39,7 +39,6 @@ hidden: true
 {% tab title="macOS 15 Sequoia or later" %}
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the `dmg` installer. If you get a security prompt from macOS, allow the installer to run:
-   * [Why did I get this prompt?](#why-does-macos-show-the-security-prompt)
    * Double-click on the **FO Installer**. You will get a warning
    * Click on **Done**
    * On the menu bar, click on the Apple logo
@@ -48,6 +47,7 @@ hidden: true
    * In the right view, scroll down to find a **Open anyway** button
    * Click the **Open anyway** button
    * If prompted, authenticate with your password or your fingerprint
+   * [Why did I get this prompt?](#why-does-macos-show-the-security-prompt)
 3. Select your desired FO and Minecraft versions
 4. Click on **Install**
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
@@ -64,10 +64,10 @@ If you are concerned by this, you can also install FO manually, or use another [
 {% tab title="macOS 14 Sonoma or older" %}
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the `dmg` installer. If you get a security prompt from macOS, allow the installer to run:
-   * [Why did I get this prompt?](#why-does-macos-show-the-security-prompt)
    * Right-click on the **FO Installer**
    * Click on **Open**
    * If a popup prompts again, click on **Open**
+   * [Why did I get this prompt?](#why-does-macos-show-the-security-prompt)
 3. Select your desired FO and Minecraft versions
 4. Click on **Install**
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
@@ -95,7 +95,7 @@ Please report any issues you encounter on [GitHub](https://github.com/Fabulously
 1. On macOS and Linux, download and install [Java](https://download.fo/java)
 2. Download the [Fabric Installer](https://fabricmc.net/use)
 3. Open the Fabric Installer
-4. Select `version 0.16.9` of the Fabric Loader
+4. Select `version 0.16.10` of the Fabric Loader
 5. Click on **Install**. You have now installed the Fabric Loader
 6. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download)
 7. Click on **Installations**. You should find a new Fabric installation
@@ -139,7 +139,7 @@ The `zip` file contains the following:
 6. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download)
 7. Click on **Installations**. You should find a new Fabric installation
 8. Click on the folder icon 📂 next to the Fabric installation
-9. In your **browser**, open the [**Files** section on CurseForge](https://curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) <!-- TODO: https://download.fo/old ? -->
+9. In your **browser**, open the [**Files** section on CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) <!-- TODO: https://download.fo/old ? -->
 10. Click on the appropriate version of FO
 11. Click on **Additional files**. You should find a **MultiMC version**
 12. Click on `⋮`, then on `Download file`. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-multimc-pack-contain)

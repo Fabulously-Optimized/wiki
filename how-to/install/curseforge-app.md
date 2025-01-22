@@ -6,7 +6,7 @@ hidden: true
 
 {% tabs %}
 {% tab title="Through the CurseForge App" %}
-1. Open the [**CurseForge App**](https://curseforge.com/download/app#download-options)
+1. Open the [**CurseForge App**](https://www.curseforge.com/download/app#download-options)
 2. Select **Minecraft** from the grid or from the sidebar
 3. Search for `Fabulously Optimized`
 4. Click on the Install button. Once installed, you should see a new icon for FO
