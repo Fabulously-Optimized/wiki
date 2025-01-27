@@ -14,9 +14,9 @@ You may also want to use one of the other [launchers supported by FO](./), which
 {% tab title="Automatic Updates (recommended)" %}
 1. Download and install [Java 21](https://download.fo/java21)
 2. Download FO's MultiMC pack for your preferred Minecraft version from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases):
-   * [`1.21.4`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.5.0-alpha.1/Fabulously.Optimized.MC.1.21.4.auto-update.zip)
+   * [`1.21.4`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.5.0-beta.3/Fabulously.Optimized.MC.1.21.4.auto-update.zip)
    * [`1.21.3`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.4.0-alpha.5/Fabulously.Optimized.MC.1.21.3.auto-update.zip)
-   * [`1.21.1`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.2/Fabulously.Optimized.MC.1.21.1.auto-update.zip)
+   * [`1.21.1`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.3.0/Fabulously.Optimized.MC.1.21.1.auto-update.zip)
    * [`1.20.6`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip)
    * [`1.19.4`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
    * [`1.18.2`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
