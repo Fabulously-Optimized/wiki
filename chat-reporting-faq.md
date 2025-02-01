@@ -359,7 +359,7 @@ Great! Use the [official feedback site](https://feedback.minecraft.net/hc/en-us)
 
 ### What is skin and username reporting?
 
-As of 1.20.2, it is possible to report players' usernames and skins, besides chat. Therefore, the user can now click the report button on all players' names in Social Interactions, and must choose the category to report for - chat, username or skin.
+From 1.20.2, it is possible to report players' usernames and skins, besides chat. Therefore, the user can now click the report button on all players' names in Social Interactions, and must choose the category to report for - chat, username or skin.
 
 ### Is it bad?
 
@@ -376,6 +376,7 @@ Yes and no.
 - It limits user creativity and contextual jokes, if the player wanted to make a joke in one server/context only.
 - Words that are offensive in English but not in a different language may still be punished/prevented.
 - Multiple strikes on an account may accumulate to a ban from all multiplayer servers.
+- In 2025 [there was already a widespread mistreatment of a popular player skin.](https://old.reddit.com/r/Technoblade/comments/1iamhgb/comment/m9h3bsj/)
 
 ### Are all users' skins/usernames reportable?
 
@@ -446,7 +447,7 @@ Though, it is worth pointing out that _monitoring_ and "automated proactive chat
 
 ### How many servers actually have chat reporting?
 
-**Update: [Mojang released an official server list](https://findmcserver.com/parents#features), which indicates chat reporting with a "Beacon of Safety badge". As of Feb 2024, no Java Edition servers have the badge yet.**
+**Update: [Mojang released an official server list](https://findmcserver.com/parents#features), which indicates chat reporting with a "Beacon of Safety badge". As of Feb 2025, no Java Edition servers have the badge yet.**
 
 There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
 
