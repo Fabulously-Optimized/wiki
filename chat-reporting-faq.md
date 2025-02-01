@@ -179,7 +179,11 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [1.19.1-rc.2](https://minecraft.wiki/w/Java_Edition_1.19.1_Release_Candidate_2#General) introduced a warning toast to players entering a server where the server does not restrict the joining of non-signing users. Practically, this toast mostly affected vanilla and vanilla-like servers, as other servers quickly found a way to remove it.
  - **[1.19.2](https://minecraft.wiki/w/Java_Edition_1.19.2#Fixes)** fixed an exploit where some players could kick everyone else by abusing chat signing features.
  - **1.19.3**
-    - [22w42a](https://minecraft.wiki/w/Java_Edition_22w42a#Gameplay) removed red `(!)` indicators on unsigned messages and made the bar gray, modified messages changed the `(?)` indicator to gray and is no longer displayed if only the style was changed. Deleted messages are now displayed for 3 seconds and are replaced by a system message. Players are now able to join all servers and use most commands (except any that are related to messages) even if they don't sign their chat.
+    - [22w42a](https://minecraft.wiki/w/Java_Edition_22w42a#Gameplay) did the following:
+        - removed red `(!)` indicators on unsigned messages and made the bar gray
+        - on modified messages the `(?)` indicator is now gray and the icon is no longer displayed if only the style was changed
+        - deleted messages are now displayed for 3 seconds and are replaced by a system message
+        - players are now able to join all servers and use most commands (except any message-related commands) even if they don't sign their chat.
    - [22w43a](https://minecraft.wiki/w/Java_Edition_22w43a#General) introduced chat report drafts.
 - **1.19.4**
    - [23w03a](https://minecraft.wiki/w/Java_Edition_23w03a#General_2) made clients attempt to start signing their messages on server join, if it didn't happen on client start.
