@@ -284,7 +284,14 @@ If you'd still like to do it on your responsibility, just install the other modp
 
 ### Game clients
 
-Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [Use normal mods instead!](adding-more-mods.md)
+Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients".
+
+Instead, it is suggested to use this modpack and [add individual features as mods](adding-more-mods.md) that you might be missing from said clients. Here is a list for:
+- [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
+- [Feather Client](https://alternatives.microcontrollers.dev/latest/feather/#visuals)
+- [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals)
+
+_Note: these lists are managed by contributors outside this wiki. There can be mods that are already in this modpack or are incompatible with it._
 
 ### Bedrock Edition
 
