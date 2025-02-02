@@ -299,7 +299,7 @@ Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav La
 
 ## Servers
 
-Any server that works with vanilla Minecraft is supported, no changes are necessay to the server. See [server setup](server-setup.md) for tips.
+Any server that works with vanilla Minecraft is supported, no changes are necessary to the server. See [server setup](server-setup.md) for tips.
 
 ## Quilt
 
