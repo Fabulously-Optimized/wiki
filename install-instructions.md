@@ -290,6 +290,9 @@ Instead, it is suggested to use this modpack and [add individual features as mod
 - [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
 - [Feather Client](https://alternatives.microcontrollers.dev/latest/feather/#visuals)
 - [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals)
+- [Essential Mod](https://alternatives.microcontrollers.dev/latest/essential/#pictures)
+   - Considered a "client" due to the amount of different things it does, which can also have incompatibilities.
+   - World hosting [already exists in this modpack](disclaimers.md)
 
 _Note: these lists are managed by contributors outside this wiki. There can be mods that are already in this modpack or are incompatible with it._
 
