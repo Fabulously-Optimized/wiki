@@ -1,18 +1,18 @@
 # Unofficial FAQ for Minecraft's Player Reporting
 
-This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reporting¹, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
+This wiki article describes the aspects of player reporting, which is a feature added into Minecraft: Java Edition in 2022. Most of the aspects detail on _chat_ reporting, although later added username and skin reporting are described as well. While the article is in the perspective of [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized), a lot of answered questions are universal and applicable for every user of the game.
 
 The intent of this article is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system, including important details and answers to questions that [Mojang's official resources](#official-posts) don't provide. 
 
 The article, nor the modpack does not encourage breaking any rules, and to the author's knowledge (not a lawyer), none of the advice, including described mods, break Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is, without a warranty of any kind.
-
-¹ "Chat reportability" is technically a more accurate term than "chat reporting", as no server [except Realms](#does-mojang-monitor-my-chats) reports any chat to Mojang automatically. However, in the Minecraft community "chat reporting" is better understood.
 
 ## Chat reporting
 
 ### What is chat reporting?
 
 In [Minecraft 1.19.1](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-19-1) and up, players can report other players' chat messages to Mojang, which may result in a temporary or permanent ban from all multiplayer servers, on all versions of Minecraft: Java Edition.
+
+Technically, "chat reportability" would be a more accurate phrase than "chat reporting", as no server [except Realms](#does-mojang-monitor-my-chats) reports any chat to Mojang automatically. However, in the Minecraft community the term "chat reporting" was coined and is now better understood.
 
 ### How are reports created?
 
