@@ -10,10 +10,10 @@
 #### Updating mods
 
 * If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
-   * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
-   * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
+    * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
+    * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
 * If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
-   * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
+    * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
 * Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
     * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
     * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
@@ -26,9 +26,9 @@ If you haven't changed the mods:
 
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
-   * Don't see that option? Follow the other instructions below.
+    * Don't see that option? Follow the other instructions below.
 3. Click `Continue`.
-   * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
+    * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
 4. Modpack will now update.
 5. Run it and check the version difference in the bottom right corner.
 
@@ -38,11 +38,11 @@ If you added or removed some mods:
 2. On My Modpacks, click _Fabulously Optimized_
 3. Click `⫶`→ `Profile Options`
 4. Uncheck "Allow content management for this profile". 
-  * This will not affect added content and you can re-enable content management after the update.
+    * This will not affect added content and you can re-enable content management after the update.
 5. Click `Continue`
 6. Click `⫶` → `⇄ Change Version`.
 7. Click `Continue`.
-   * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
+    * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
 8. Modpack will now update.
 9. Run it and check the version difference in the bottom right corner.
 
