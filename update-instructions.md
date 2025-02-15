@@ -37,7 +37,8 @@ If you added or removed some mods:
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, click _Fabulously Optimized_
 3. Click `⫶`→ `Profile Options`
-4. Uncheck "Allow content management for this profile". This will not affect added content and you can re-enable content management after the update.
+4. Uncheck "Allow content management for this profile". 
+  * This will not affect added content and you can re-enable content management after the update.
 5. Click `Continue`
 6. Click `⫶` → `⇄ Change Version`.
 7. Click `Continue`.
