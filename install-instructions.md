@@ -206,15 +206,15 @@ Due to technical limits and issues, GDLauncher Legacy is no longer supported and
 11. Launch the instance on Prism and confirm everything is correct
 12. Uninstall GDLauncher
 
-### Pojav Launcher
-
-Pojav Launcher is currently not supported due to drawbacks (long installation process, high energy usage, performance may not be better etc), but is being considered.
-
 ### ATLauncher
 
 _Not to be confused with [TLauncher](#tlauncher)._
 
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
+
+### Pojav Launcher
+
+Pojav Launcher is not supported because it allows piracy (again), has poor performance and battery drain (doesn't support Sodium), among other issues.
 
 ### PolyMC
 
@@ -298,7 +298,7 @@ _Note: these lists are managed by contributors outside this wiki. There can be m
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition. See also: [Pojav Launcher](#pojav-launcher)
+Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui), however.
 
 ## Servers
 
