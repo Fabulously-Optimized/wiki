@@ -9,9 +9,11 @@ FO is a Fabric pack for Minecraft: Java Edition. Because of this, it does not su
 
 ## Bedrock Edition
 
-FO is a pack for Minecraft: Java Edition, so it does not support Bedrock at all.
+FO is a pack for Minecraft: Java Edition, so it does not support Bedrock at all, nor [mobile devices in general](./#pojav-launcher).
 
 However, one of [FO's principles](./#familiarity) is focusing on parity with Bedrock Edition if possible.
+
+You may be interested in the [VDX addon](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) for a Java-like UI on mobile.
 
 ## Other Modpacks
 
@@ -47,7 +49,12 @@ FO is tracking the sustainability and popularity of Quilt in [issue #257](https:
 
 FO is not compatible with "game clients", including "PvP clients".
 
-You may want to [add custom mods](../how-to/add-mods/) instead.
+You may want to [add custom mods](../how-to/add-mods/) instead. Check out these lists of alternatives:
+
+* [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
+* [Feather Client](https://alternatives.microcontrollers.dev/latest/feather/#visuals)
+* [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals)
+* [Essential Mod](https://alternatives.microcontrollers.dev/latest/essential/#pictures)
 
 FO itself is not a client for the following reasons:
 
@@ -94,11 +101,12 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 
 Pojav Launcher is not supported because of the following drawbacks:
 
-* Long installation process
-* High energy usage
-* Poor performance
+* It allows piracy, and as such is a [cracked launcher](./#cracked-launchers)
+* Long and complicated installation process
+* High energy usage and battery drain
+* Poor performance, as it doesn't support Sodium
 
-However, FO may support Pojav Launcher in the future.
+FO isn't considering supporting Pojav Launcher in the future.
 
 ### PolyMC
 
