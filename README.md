@@ -1,5 +1,9 @@
 # Fabulously Optimized
 
+{% hint style="warning" %}
+This wiki is currently being redesigned, there may be broken links or formatting. Sorry for the inconvenience!
+{% endhint %}
+
 Welcome to the Fabulously Optimized wiki!  [🌐 Read in your language](https://translate.google.com/translate?js=n&sl=auto&u=https://fabulously-optimized.gitbook.io/modpack/)
 
 [📜 List of included mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md) ([🇴​🇫 OptiFine alternatives](give-up-optifine.md)), [🎛️ changed options](changed-options.md) and [🐞 fixed bugs](changed-options.md#fixed-bugs) 
