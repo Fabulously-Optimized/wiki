@@ -36,7 +36,7 @@ No, they are not supported on CurseForge App and are released too fast for the a
 
 #### What does ⚠️ mean in a version's title?
 
-Versions with a warning triangle ⚠️ contain vulnerabilities or bugs that are known on that vanilla Minecraft version. These are available for archival purposes only and may cause problems in multiplayer or your worlds. Please versions that do not have warnings or see the version's notes before installing.
+Versions with a warning triangle ⚠️ contain vulnerabilities or bugs that are known on that vanilla Minecraft version. These are available for archival purposes only and may cause problems in multiplayer or your worlds. Please prefer versions that do not have warnings or see the version's notes before installing.
 
 #### What if I want to play on an older Minecraft version?
 
