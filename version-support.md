@@ -4,9 +4,9 @@
 
 #### How often does Fabulously Optimized receive updates?
 
-The goal is to push out a release once per week or two weeks.
+The goal is to push out a new version once per week or two weeks. This is not a guarantee and can change depending on the amount of mod updates, Mojang's schedules, real-life duties and others.
 
-#### How do the modpack versions work?
+#### How do the modpack version numbers work?
 
 - **X**.Y.Z stands for major versions which directly map to Minecraft's 1.**Y**.Z (1.16 was 1, 1.17 was 2 etc)
 - X.**Y**.Z stands for minor versions which may map to Minecraft's 1.Y.**Z** or just refer to bigger changes like added mods
@@ -20,7 +20,6 @@ Here is how you should think about the version types in relation to Minecraft's:
 | pre-release                        | beta                                               |
 | release candidate                  | -                                                  |
 | release                            | stable                                             |
-
 
 #### What versions do you support?
 
