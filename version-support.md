@@ -4,7 +4,7 @@
 
 #### How often does Fabulously Optimized receive updates?
 
-That depends on my time, Mojang releases, CurseForge support (when versions appear in launcher), mod updates, mod additions... there are a lot of factors. I do try to push out a release as soon as possible when Minecraft or some of the more important mods update though.
+The goal is to push out a release once per week or two weeks.
 
 #### How do the modpack versions work?
 
@@ -24,7 +24,7 @@ Here is how you should think about the version types in relation to Minecraft's:
 
 #### What versions do you support?
 
-I support the latest stable modpack version and latest development modpack version (if any), other versions are listed just for your convenience. To make it even simpler, I usually keep only one modpack version per Minecraft version visible on CurseForge.
+The latest stable version and if available, also latest beta and/or alpha versions. Older versions are listed for your convenience, but may not receive any more updates.
 
 #### Why won't the installer show versions older than 5.10.3?
 
@@ -32,13 +32,17 @@ These versions are old and therefore no longer recommended for most users. Pleas
 
 #### Will you support Minecraft snapshots?
 
-No, they are not supported on CurseForge Launcher and are released too fast for me and the modders to keep up with.
+No, they are not supported on CurseForge App and are released too fast for the author and the modders to keep up with.
+
+#### What does ⚠️ mean in a version's title?
+
+Versions with a warning triangle ⚠️ contain vulnerabilities or bugs that are known on that vanilla Minecraft version. These are available for archival purposes only and may cause problems in multiplayer or your worlds. Please versions that do not have warnings or see the version's notes before installing.
 
 #### What if I want to play on an older Minecraft version?
 
-See the [CurseForge page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) for the existing stable versions down to 1.16.1. Versions with a warning triangle ⚠️ [are not safe for multiplayer](https://www.minecraft.net/en-us/article/important-message--security-vulnerability-java-edition) and are kept just for archival purposes.
+[CurseForge listing](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) contains all latest versions down to Minecraft 1.16.1.
 
-If you need to play in a server that uses a version not supported by the modpack, your best bet is installing the latest version of FO and adding [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) to your modpack profile [(instructions are here)](adding-more-mods.md). I recommend keeping the mod enabled only while playing the server where you need it.
+If you need to play in a server that uses a version not supported by the modpack, your best bet is installing the latest version of the modpack and adding [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) to your modpack profile [(instructions are here)](adding-more-mods.md). It is recommended to keep the mod enabled only while playing the server where you need it.
 
 #### Will you backport newer modpack changes to older versions?
 
@@ -52,17 +56,17 @@ This is done to help you while you _transition_ to the new version, old Minecraf
 
 ## Other platforms
 
-#### Will you make a [Forge](https://files.minecraftforge.net) modpack?
+#### Will you make a [Forge](https://files.minecraftforge.net) or [NeoForge](https://neoforged.net/) modpack?
 
-No. Forge is slower to update and run and it doesn't have the same capabilities for optimization as Fabric.
+No. Forge and NeoForge receive mod updates slower and do not have all the same performance and graphics-enhancing mods as Fabric.
 
-#### Can I use Forge mods in this modpack?
+#### Can I use (Neo)Forge mods in this modpack?
 
-No, but [there are many equivalents anyway](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). There is also work going on to make Forge mods work on Fabric though, if you're a developer [you can check it out](https://patchworkmc.net).
+No, but [there are many equivalents anyway](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). [Ask us on Discord](https://download.fo/discord) if you need an alternative for a specific mod!
 
 #### Will you make a [Quilt](https://quiltmc.org) modpack?
 
-Too early to tell, that likely depends on how many Fabric modders will start using that exclusively. See [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+Probably not, that depends on modders' general stances on that mod loader compared to Fabric. See [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
 
 #### Can I use Quilt mods in this modpack?
 
