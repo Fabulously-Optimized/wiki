@@ -105,7 +105,7 @@ Note that there can be incompatibilities and weird glitches (e.g. with anticheat
 
 **These mods are usually not compatible with [ViaVersion and ViaBackwards](#server-side-content-mods).**
 
-Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means your users can continue to use unmodified Fabulously Optimized and you can add new stuff to the server!
+Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means that you can add new stuff to the server while your users use unmodified Fabulously Optimized!
 
 This is done by a mod called PolyMc (not to be confused with a [launcher of the same name](install-instructions.md#polymc)). 
 
