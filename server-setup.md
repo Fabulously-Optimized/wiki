@@ -12,6 +12,7 @@ The CurseForge listing used to have "server packs", but [those were actually jus
 * [Use speedy server software](#software)
 * [Protect users from chat reporting](#chat-reporting)
 * [Give users flexibility with client version](#client-version-flexibility)
+* [Allow Bedrock users to join](#bedrock-compatibility)
 * [Server-side content mods](#server-side-content-mods)
 * [Restrict mod behaviours, not names](#mods-in-rules)
 
