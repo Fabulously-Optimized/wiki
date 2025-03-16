@@ -107,9 +107,8 @@ Note that there can be incompatibilities and weird glitches (e.g. with anticheat
 
 Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means that you can add new stuff to the server while your users use unmodified Fabulously Optimized!
 
-This is done by a mod called PolyMc (not to be confused with a [launcher of the same name](install-instructions.md#polymc)). 
-
-[Read more about its installation and limits.](https://theepicblock.github.io/PolyMc/)
+- [Check out these mods](https://github.com/Patbox/polymer/blob/dev/1.21/MODS.md) built for [Polymer](https://modrinth.com/mod/polymer) to provide this seamlessly
+- [Check out PolyMc](https://theepicblock.github.io/PolyMc/) [(_not_ the launcher!)](install-instructions.md#polymc), which can work with even more mods but requires your testing first
 
 ### Mods in rules
 
