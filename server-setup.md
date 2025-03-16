@@ -94,6 +94,12 @@ Depending on your server, you can choose to use only ViaVersion or both. If your
 
 _* Fabric/Quilt versions can also work in the client, though this is not advised due to potential conflicts with anticheats. It is recommended to keep it on the server only. Quilt support is untested for both server and client._
 
+### Bedrock compatibility
+
+Interested in allowing Bedrock users to join? Check out [GeyserMC](https://geysermc.org/).
+
+Note that there can be incompatibilities and weird glitches (e.g. with anticheat plugins) because of big differences between Bedrock Edition and Java Edition.
+
 ### Server-side content mods
 
 **These mods are usually not compatible with [ViaVersion and ViaBackwards](#server-side-content-mods).**
