@@ -132,10 +132,8 @@ The new website is almost entirely localizable.
 4. Ensure the site is in translated language and click around to see your translation as it would appear live.
 5. If needed, adjust your translation and repeat from step 2.
 
-### Listing description
+### Untranslated
 
-New translations are not accepted - please translate the website instead.
-
-### Wiki
+The listing does not accept translations due to technical limits, users are expected to visit the website for localized content.
 
 The wiki is not accepting translations because there are too many pages to translate and the translations get outdated very fast.
