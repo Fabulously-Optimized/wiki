@@ -338,20 +338,9 @@ No. While that does disable chat reporting, it makes your server vulnerable in a
 
 No. It is up to the server to decide whether they want the reporting system or not, use that information to choose the servers you play in. Using exploits to break the system clientside may lead to a ban and is not endorsed here.
 
-### Can I encrypt my chat messages?
+### Are there alternative ways to chat?
 
-Yes. This is [mostly useful in Realms](#does-mojang-monitor-my-chats) and in public servers' private messages with friends, as long as you know how and where to use it.
-
-In Fabulously Optimized the encryption button is currently hidden to reduce confusion, so you need to do the following to enable it:
-
-1. Click Mods
-2. Search for "No Chat Reports" and click ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Select `Technical` tab, set "Show encryption button" to `Yes`
-4. `Save changes`
-5. Join any world or server
-6. Click your chat key, default `T`
-7. Click the `🔒`. You'll see warnings and configuration for the encryption feature.
-   * Note that servers may mute or otherwise punish you for spam when this is used, to prevent that you might want to disable the usage in public chat.
+Yes, usually the simplest option is using any kind of voice chat, for example on Discord. [More alternatives are described here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/To-Encrypt-or-Not-to-Encrypt#alternatives)
 
 ### I want to give feedback to Mojang.
 
