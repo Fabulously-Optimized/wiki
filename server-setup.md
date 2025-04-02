@@ -61,12 +61,13 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
   - Same comments apply as for "all 1.19+ backend servers" above.
 - **Paper/Purpur/Pufferfish**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
    - Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
-- **Fabric/Quilt/Forge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
+- **Fabric/Forge/NeoForge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
    - FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
+- **Quilt**: unknown.
+   - You can disable forced signing for clients using "All 1.19+ backend servers" instructions above.
+   - For preventing reporting entirely, consider using another mod loader, such as Fabric.
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
-  - Consider [encrypting your chat messages](chat-reporting-faq.md#can-i-encrypt-my-chat-messages) to protect yourself, 
-    - You obviously need to let other members of the server also know how to do that and what method/key will you be using. 
-  - [There is a workaround datapack](https://www.planetminecraft.com/data-pack/no-more-chat-reports-datapack/) where you can use a book to chat, but you are only protected if you use it instead of normal chat text box.
+  - [Use alternative methods to chat](chat-reporting-faq.md#are-there-alternative-ways-to-chat). 
   - Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) to avoid surveillance altogether (affiliate link - 25% off first month).
 - **LAN worlds**: host from Fabulously Optimized or install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on the client
   - FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
