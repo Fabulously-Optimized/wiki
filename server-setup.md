@@ -55,6 +55,9 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
   - If no other measures are taken alongside this:
       - FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png) and their messages cannot be reported.
       - Vanilla users will see a warning toast in the top right corner and their messages can be reported. To avoid those problems, use one of the plugins/mods below.
+- **Vanilla server**: no known methods exist.
+   - You can disable forced signing for clients using "All 1.19+ backend servers" instructions above.
+   - For preventing reporting entirely, consider using another server platform, such as Paper, or [alternative chat methods](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
 - **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
   - Same comments apply as for "all 1.19+ backend servers" above.
 - **BungeeCord**: set `enforce_secure_profile` to `false` in _config.yml_
@@ -63,9 +66,9 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
    - Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
 - **Fabric/Forge/NeoForge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
    - FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
-- **Quilt**: unknown.
+- **Quilt**: no known methods exist.
    - You can disable forced signing for clients using "All 1.19+ backend servers" instructions above.
-   - For preventing reporting entirely, consider using another mod loader, such as Fabric.
+   - For preventing reporting entirely, consider using another mod loader, such as Fabric, or [alternative chat methods](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
 - **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
   - [Use alternative methods to chat](chat-reporting-faq.md#are-there-alternative-ways-to-chat). 
   - Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) to avoid surveillance altogether (affiliate link - 25% off first month).
