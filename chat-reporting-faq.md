@@ -431,7 +431,7 @@ Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/
 
 > Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms [...]
 
-Read [can I encrypt my chat messages](#can-i-encrypt-my-chat-messages) above for what can you do about it.
+Consider using [alternative chat methods instead.](#are-there-alternative-ways-to-chat).
 
 Though, it is worth pointing out that _monitoring_ and "automated proactive chat filtering" in this case likely refers to automatic reports triggered by specific keywords used, not that there is a person or team specifically looking at your messages.
 
