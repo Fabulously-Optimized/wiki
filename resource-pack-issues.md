@@ -18,7 +18,7 @@ If this is the case, the modpack will warn you and allow overriding it, but note
 
 To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9._-`.
 
-[See also](https://minecraft.wiki/w/Resource_location#Legal_characters)
+See also: [Minecraft Wiki article about this](https://minecraft.wiki/w/Resource_location#Legal_characters)
 
 ### Fullbright
 
