@@ -72,6 +72,6 @@ Being a modpack makes it easier for the users to add their own mods in and use F
 
 ### Is there an easier way to install FO?
 
-Soon there will be an installer that will make it easier to install the modpack on the vanilla launcher. You can follow the [relevant issue](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/110) to know when it is released. 
+Yes, there is an [installer for the Minecraft Launcher](install-instructions.md#minecraft-launcher-vanilla).
 
 However, we still advise you to prefer other launchers like CurseForge Launcher, as they make installing, updating and adding mods much easier than vanilla launcher ever can.
