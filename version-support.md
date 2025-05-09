@@ -10,7 +10,7 @@ The goal is to push out a new version once per week or two weeks. This is not a 
 
 - **X**.Y.Z stands for "major versions"
    - 1.x.x-6.x.x directly map to Minecraft's 1.**Y**.Z [full releases](https://minecraft.wiki/w/Java_Edition_version_history#Full_release) (1.16 was 1, 1.17 was 2 etc)
-   - 7.x.x and onwards the versions are mapped to [game drops](https://minecraft.wiki/w/Game_drop)
+   - 7.x.x and onwards the versions are mapped to [game drops](https://minecraft.wiki/w/Game_drop) (beginning with Bundles of Bravery)
 - X.**Y**.Z stands for minor versions which may map to Minecraft's 1.Y.**Z** or just refer to bigger changes like added mods
 - X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
 
