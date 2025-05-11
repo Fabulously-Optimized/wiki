@@ -26,9 +26,9 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | telemetryOptInExtra | Sets the telemetry (analytics data collection) toggle to "minimal". | false | false | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FO. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback. |
 | tutorialStep | The next step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | movement | none | If you know how to install a modpack, you probably don't need those tutorials anymore |
 
-¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip","file/Fast Better Grass.zip"]`
+¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]`
 
-**Changed mod settings can be found on the repo at [.../yosbr/1.21.1/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.1/config).**
+**Changed mod settings can be found on the repo at [.../yosbr/1.21.4/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.4/config).**
 
 ### Telemetry
 
@@ -64,7 +64,6 @@ Fabulously Optimized enables relevant mod-provided resource packs and bundles so
 
 - [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
 - [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
-- [Fast Better Grass](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) - imitates OptiFine's "Better Grass" (fast mode)
 - [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
 
 The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will work with other resource packs.
@@ -96,14 +95,14 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
-If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/W-OVERFLOW/Debugify/blob/1.20/PATCHED.md#unpatched-in-vanilla).
+If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.3/PATCHED.md#unpatched-in-vanilla).
 
 #### Requesting a bugfix
 
 Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
 
-1. Find the actual bug [in Mojang's bug tracker](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
-2. Request it or look at its status on [Debugify's bug tracker](https://github.com/W-OVERFLOW/Debugify/issues)
+1. Find the actual bug [in Mojang's bug tracker](https://bugs.mojang.com/browse/MC)
+2. Request it or look at its status on [Debugify's bug tracker](https://github.com/isXander/Debugify/issues)
 3. Once implemented (or confirmed to be) in Debugify, [request an option change in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
 4. Describe the bug, mention the mod that fixes it and why it is important to 70-80% of users
 5. If accepted, expect the fix to be enabled in the next version of FO :)
