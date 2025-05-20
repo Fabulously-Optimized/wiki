@@ -27,7 +27,7 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 4. Check the chat for an address (host domain), copy it
 5. Send your friend the address. Your friend needs to use the same version of Minecraft, but not necessarily the modpack.
 
-[More info about how it works](disclaimers.md#added-features)
+[More info about how it works](disclaimers.md#privacy-and-security)
 
 ### Software
 
