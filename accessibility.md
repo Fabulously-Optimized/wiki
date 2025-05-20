@@ -2,7 +2,7 @@
 
 Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
 
-* The first-run accessibility screen is not used, to make setup smoother and faster. Instead, users can continue to take advantage of the menu keyboard support.
+* The first-run accessibility screen is not used, to make the first-run setup smoother and faster. Instead, users can continue to take advantage of the menu's hotkeys.
   * Languages screen can be accessed by pressing `→` (right arrow) `Enter`. 
   * Accessibility screen can be accessed by pressing `←` `←` (left arrow twice) `Enter`.
   * Narrator can be directly enabled by pressing `Ctrl` + `B`.
