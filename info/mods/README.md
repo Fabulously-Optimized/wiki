@@ -22,13 +22,83 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 {% endhint %}
 
 {% tabs %}
+{% tab title="1.21.4" %}
+**Smooth**
+
+| Name                                                                                                   | Author                                                                | Description                                                             |
+| ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)                                | [juliand665](https://www.curseforge.com/members/juliand665)           | Renders Minecraft slower if it is in the background to reduce CPU usage |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) 🔀[^1] | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | Makes chests, signs, beds, etc. render faster                           |
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)                           | [tr9zw](https://www.curseforge.com/members/tr9zw)                     | Stops rendering entities behind walls                                   |
+| [FastQuit](https://www.curseforge.com/minecraft/mc-mods/fastquit)                                      | [KingContaria](https://www.curseforge.com/members/kingcontaria)       | Quit from singleplayer worlds instantly                                 |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)                         | [malte0811](https://www.curseforge.com/members/malte0811)             | Reduces RAM usage                                                       |
+| [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast)                        | [RaphiMC](https://www.curseforge.com/members/raphimc)                 | Optimizes mobs, container blocks, GUI, HUD                              |
+| [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload)                        | [Jerozgen](https://www.curseforge.com/members/Jerozgen)               | Makes language switching instant, adds a searchbar                      |
+| [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                                        | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)         | Optimizes game physics and chunk loading                                |
+| [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix)                                    | [embeddedt](https://www.curseforge.com/members/embeddedt)             | Improves performance, reduces RAM use, fixes bugs                       |
+| [Remove Reloading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)                           | [dimadencep](https://www.curseforge.com/members/dimadencep)           | Makes resource packs load in the background                             |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                                          | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)         | Optimizes general rendering to improve FPS, adds some graphics options  |
+
+**Pretty**
+
+| Name                                                                                                   | Author                                                                  | Description                                                                                                              |
+| ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [BetterGrassify](https://www.curseforge.com/minecraft/mc-mods/bettergrassify)                          | [UltimatChamp](https://www.curseforge.com/members/ultimatchamp)         | Add Optifine's "better grass" and "better snow"                                                                          |
+| [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)                      | [Lortseam\_](https://www.curseforge.com/members/Lortseam_)              | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
+| [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)                                            | [VictorKohler](https://www.curseforge.com/members/VictorKohler)         | Adds OptiFine's and other mods' capes. See [Capes](capes.md)                                                             |
+| [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                                  | [Pepper\_Bell](https://www.curseforge.com/members/Pepper_Bell)          | Adds OptiFine's connected textures support                                                                               |
+| [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) 🔀[^2]     | [traben\_0](https://www.curseforge.com/members/traben_0)                | Adds OptiFine's custom entity models                                                                                     |
+| [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben\_0](https://www.curseforge.com/members/traben_0)                | Adds OptiFine's random and emissive mobs support                                                                         |
+| [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)                                    | [ramidzkh](https://www.curseforge.com/members/ramidzkh)                 | Lets you take a high-res screenshot with F9                                                                              |
+| [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)                               | [coderbot](https://www.curseforge.com/members/coderbot)                 | Adds OptiFine's shaders support. See [Shaders](shaders.md)                                                               |
+| [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)                    | [LambdAurora](https://www.curseforge.com/members/LambdAurora)           | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
+| [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) 🔀[^3]                     | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar)       | Fixes transparent gaps in items and blocks                                                                               |
+| [MoreMcmeta](https://www.curseforge.com/minecraft/mc-mods/moremcmeta-fabric) 🔀[^4]                    | [soir20](https://www.curseforge.com/members/soir20)                     | Adds OptiFine's animated textures support                                                                                |
+| [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) 🔀[^5]                         | [FX\_PR0CESS](https://www.curseforge.com/members/fx_pr0cess)            | Stops rendering hidden sides of certain blocks                                                                           |
+| [Paginated Advancements](https://www.curseforge.com/minecraft/mc-mods/paginated-advancements)          | [DaFuqsy](https://legacy.curseforge.com/members/dafuqsy)                | Makes the advancement pages bigger, adds a requirement list                                                              |
+| [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone)                                      | [TeamMidnightDust](https://www.curseforge.com/members/mehvahdjukaar)    | Adds OptiFine's custom colors support, additional resource pack features                                                 |
+| [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                          | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | Adds some minor OptiFine features like resource pack-provided splash screen                                              |
+| [OptiGUI](https://www.curseforge.com/minecraft/mc-mods/optigui)                                        | [opekope2](https://www.curseforge.com/members/opekope2)                 | Adds OptiFine's custom GUI support                                                                                       |
+| [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)           | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Makes Sodium's settings vertical, centered and scrollable                                                                |
+| [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                              | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                         |
+
+**Functional**
+
+| Name                                                                                        | Author                                                              | Description                                                                                                                |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify) 🔀[^6]                | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds controller support better than Bedrock's                                                                              |
+| [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders) | [Kir\_Antipov](https://www.curseforge.com/members/kir_antipov)      | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                     |
+| [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)                           | [isXander](https://www.curseforge.com/members/xanderisdev)          | Fixes some bugs, disables sending diagnostics data to Mojang. See [Bug Fixes](../bugs.md) and [Telemetry](../telemetry.md) |
+| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                   | [skyegreen](https://www.curseforge.com/members/skyegreen)           | Allows opening worlds to public access the same way you can open to LAN                                                    |
+| [Main Menu Credits](https://www.curseforge.com/minecraft/mc-mods/main-menu-credits)         | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds FO's clickable version number in title screen's bottom corner                                                         |
+| [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace)                       | [comp500](https://www.curseforge.com/members/comp500)               | Helps developers find the cause of crashes                                                                                 |
+| [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)                            | [TerraformersMC](https://www.curseforge.com/members/TerraformersMC) | Adds a mod list with descriptions. See [Mod Menu](../resource-packs/#mod-menu-helper)                                      |
+| [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history)         | [JackFred2](https://www.curseforge.com/members/JackFred2)           | Increases chat history limit                                                                                               |
+| [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)             | [Aizistral](https://www.curseforge.com/members/aizistral)           | Provides consistent chat status indicators and visual options. See [Player Reporting](player-reporting.md)                 |
+| [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)       | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating FO. See [Reset Options](../../how-to/reset/)                                             |
+| [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                             | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds a scrollable and customizable zoom feature                                                                            |
+
+[**Libraries**](#user-content-fn-7)[^7]
+
+| Name                                                                                               | Author                                                                  | Description                  |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------- |
+| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp)                                          | [one\_point\_o](https://www.curseforge.com/members/one_point_o)         | Makes some mods work         |
+| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                      | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Makes many mods' config work |
+| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)                      | [lortseam\_](https://www.curseforge.com/members/lortseam_)              | Makes some mods' config work |
+| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)                              | [modmuss50](https://www.curseforge.com/members/modmuss50)               | Makes most mods work         |
+| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)      | [modmuss50](https://www.curseforge.com/members/modmuss50)               | Makes some mods work         |
+| [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric) | [Fuzs](https://www.curseforge.com/members/fuzs)                         | Makes RRLS' config work      |
+| [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)                            | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) | Makes some mods work         |
+| [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)                           | [XanderIsDev](https://www.curseforge.com/members/xanderisdev)           | Makes some mods' config work |
+{% endtab %}
+
 {% tab title="1.21.1" %}
 **Smooth**
 
 | Name                                                                                                   | Author                                                                | Description                                                             |
 | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps)                                | [juliand665](https://www.curseforge.com/members/juliand665)           | Renders Minecraft slower if it is in the background to reduce CPU usage |
-| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) 🔀[^1]  | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | Makes chests, signs, beds, etc. render faster                           |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) 🔀[^1] | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | Makes chests, signs, beds, etc. render faster                           |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)                           | [tr9zw](https://www.curseforge.com/members/tr9zw)                     | Stops rendering entities behind walls                                   |
 | [FastQuit](https://www.curseforge.com/minecraft/mc-mods/fastquit)                                      | [KingContaria](https://www.curseforge.com/members/kingcontaria)       | Quit from singleplayer worlds instantly                                 |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)                         | [malte0811](https://www.curseforge.com/members/malte0811)             | Reduces RAM usage                                                       |
@@ -44,18 +114,19 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | Name                                                                                                   | Author                                                                  | Description                                                                                                              |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica)                                    | [FoundationGames](https://www.curseforge.com/members/FoundationGames)   | Adds OptiFine's animated textures support                                                                                |
+| [BetterGrassify](https://www.curseforge.com/minecraft/mc-mods/bettergrassify)                          | [UltimatChamp](https://www.curseforge.com/members/ultimatchamp)         | Add Optifine's "better grass" and "better snow"                                                                          |
 | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud)                      | [Lortseam\_](https://www.curseforge.com/members/Lortseam_)              | Shows horse health and player's food via HUD at the same time, Automatically changes to jump bar when jumping with horse |
 | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes)                                            | [VictorKohler](https://www.curseforge.com/members/VictorKohler)         | Adds OptiFine's and other mods' capes. See [Capes](capes.md)                                                             |
 | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)                                  | [SHsuperCM](https://www.curseforge.com/members/SHsuperCM)               | Adds OptiFine's custom item textures support                                                                             |
 | [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity)                                  | [Pepper\_Bell](https://www.curseforge.com/members/Pepper_Bell)          | Adds OptiFine's connected textures support                                                                               |
-| [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) 🔀[^2]      | [traben\_0](https://www.curseforge.com/members/traben_0)                | Adds OptiFine's custom entity models                                                                                     |
+| [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) 🔀[^2]     | [traben\_0](https://www.curseforge.com/members/traben_0)                | Adds OptiFine's custom entity models                                                                                     |
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben\_0](https://www.curseforge.com/members/traben_0)                | Adds OptiFine's random and emissive mobs support                                                                         |
 | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes)                          | [AMereBagatelle](https://www.curseforge.com/members/amerebagatelle)     | Adds custom skybox support                                                                                               |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)                                    | [ramidzkh](https://www.curseforge.com/members/ramidzkh)                 | Lets you take a high-res screenshot with F9                                                                              |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)                               | [coderbot](https://www.curseforge.com/members/coderbot)                 | Adds OptiFine's shaders support. See [Shaders](shaders.md)                                                               |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)                    | [LambdAurora](https://www.curseforge.com/members/LambdAurora)           | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
-| [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) 🔀[^3]                      | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar)       | Fixes transparent gaps in items and blocks                                                                               |
-| [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) 🔀[^4]                          | [FX\_PR0CESS](https://www.curseforge.com/members/fx_pr0cess)            | Stops rendering hidden sides of certain blocks                                                                           |
+| [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) 🔀[^3]                     | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar)       | Fixes transparent gaps in items and blocks                                                                               |
+| [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) 🔀[^5]                         | [FX\_PR0CESS](https://www.curseforge.com/members/fx_pr0cess)            | Stops rendering hidden sides of certain blocks                                                                           |
 | [Paginated Advancements](https://www.curseforge.com/minecraft/mc-mods/paginated-advancements)          | [DaFuqsy](https://legacy.curseforge.com/members/dafuqsy)                | Makes the advancement pages bigger, adds a requirement list                                                              |
 | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone)                                      | [TeamMidnightDust](https://www.curseforge.com/members/mehvahdjukaar)    | Adds OptiFine's custom colors support, additional resource pack features                                                 |
 | [Puzzle](https://www.curseforge.com/minecraft/mc-mods/puzzle)                                          | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | Adds some minor OptiFine features like resource pack-provided splash screen                                              |
@@ -67,10 +138,10 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 
 | Name                                                                                          | Author                                                              | Description                                                                                                                |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify) 🔀[^5]                   | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds controller support better than Bedrock's                                                                              |
+| [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify) 🔀[^6]                  | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds controller support better than Bedrock's                                                                              |
 | [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders)   | [Kir\_Antipov](https://www.curseforge.com/members/kir_antipov)      | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                     |
 | [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)                             | [isXander](https://www.curseforge.com/members/xanderisdev)          | Fixes some bugs, disables sending diagnostics data to Mojang. See [Bug Fixes](../bugs.md) and [Telemetry](../telemetry.md) |
-| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                     | [skyegreen](https://www.curseforge.com/members/skyegreen/projects)  | Allows opening worlds to public access the same way you can open to LAN                                                    |
+| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                     | [skyegreen](https://www.curseforge.com/members/skyegreen)           | Allows opening worlds to public access the same way you can open to LAN                                                    |
 | [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://www.curseforge.com/members/flashyreese)       | Adds OptiFine resource packs support to FabricSkyboxes                                                                     |
 | [Main Menu Credits](https://www.curseforge.com/minecraft/mc-mods/main-menu-credits)           | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds FO's clickable version number in title screen's bottom corner                                                         |
 | [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace)                         | [comp500](https://www.curseforge.com/members/comp500)               | Helps developers find the cause of crashes                                                                                 |
@@ -80,18 +151,17 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating FO. See [Reset Options](../../how-to/reset/)                                             |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds a scrollable and customizable zoom feature                                                                            |
 
-[**Libraries**](#user-content-fn-6)[^6]
+[**Libraries**](#user-content-fn-7)[^7]
 
-| Name                                                                                          | Author                                                                  | Description                                           |
-| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
-| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp)                                     | [one\_point\_o](https://www.curseforge.com/members/one_point_o)         | Makes some mods work                                  |
-| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                 | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Makes many mods' config work                          |
-| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)                 | [lortseam\_](https://www.curseforge.com/members/lortseam_)              | Makes some mods' config work                          |
-| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)                         | [modmuss50](https://www.curseforge.com/members/modmuss50)               | Makes most mods work                                  |
-| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50)               | Makes some mods work                                  |
-| [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)                                 | [comp500](https://www.curseforge.com/members/comp500)                   | Adds support for the Rendering API (more parity mods) |
-| [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)                       | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) | Makes some mods work                                  |
-| [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)                      | [XanderIsDev](https://www.curseforge.com/members/xanderisdev)           | Makes some mods' config work                          |
+| Name                                                                                          | Author                                                                  | Description                  |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------- |
+| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp)                                     | [one\_point\_o](https://www.curseforge.com/members/one_point_o)         | Makes some mods work         |
+| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                 | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Makes many mods' config work |
+| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)                 | [lortseam\_](https://www.curseforge.com/members/lortseam_)              | Makes some mods' config work |
+| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)                         | [modmuss50](https://www.curseforge.com/members/modmuss50)               | Makes most mods work         |
+| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50)               | Makes some mods work         |
+| [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib)                       | [TeamMidnightDust](https://www.curseforge.com/members/TeamMidnightDust) | Makes some mods work         |
+| [YetAnotherConfigLib](https://www.curseforge.com/minecraft/mc-mods/yacl)                      | [XanderIsDev](https://www.curseforge.com/members/xanderisdev)           | Makes some mods' config work |
 {% endtab %}
 
 {% tab title="1.20.6" %}
@@ -140,7 +210,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify)                         | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds controller support better than Bedrock's                                                                              |
 | [Cubes Without Borders](https://www.curseforge.com/minecraft/mc-mods/cubes-without-borders)   | [Kir\_Antipov](https://www.curseforge.com/members/kir_antipov)      | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                     |
 | [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)                             | [isXander](https://www.curseforge.com/members/xanderisdev)          | Fixes some bugs, disables sending diagnostics data to Mojang. See [Bug Fixes](../bugs.md) and [Telemetry](../telemetry.md) |
-| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                     | [skyegreen](https://www.curseforge.com/members/skyegreen/projects)  | Allows opening worlds to public access the same way you can open to LAN                                                    |
+| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                     | [skyegreen](https://www.curseforge.com/members/skyegreen)           | Allows opening worlds to public access the same way you can open to LAN                                                    |
 | [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://www.curseforge.com/members/flashyreese)       | Adds OptiFine resource packs support to FabricSkyboxes                                                                     |
 | [Main Menu Credits](https://www.curseforge.com/minecraft/mc-mods/main-menu-credits)           | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds FO's clickable version number in title screen's bottom corner                                                         |
 | [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace)                         | [comp500](https://www.curseforge.com/members/comp500)               | Helps developers find the cause of crashes                                                                                 |
@@ -150,7 +220,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating FO                                                                                       |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds a scrollable and customizable zoom feature                                                                            |
 
-[**Libraries**](#user-content-fn-7)[^7]
+[**Libraries**](#user-content-fn-8)[^8]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -197,8 +267,8 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben\_0](https://www.curseforge.com/members/traben_0)                | Adds OptiFine's random and emissive mobs support                                                                         |
 | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes)                          | [AMereBagatelle](https://www.curseforge.com/members/amerebagatelle)     | Adds custom skybox support                                                                                               |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)                                    | [ramidzkh](https://www.curseforge.com/members/ramidzkh)                 | Lets you take a high-res screenshot with F9                                                                              |
-| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) 🔀[^8]                         | [someaddon](https://www.curseforge.com/members/someaddon)               | Keeps far loaded chunks visible in servers to increase visible render distance                                           |
-| [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) 🔀[^9]                  | [The\_TermiGator](https://www.curseforge.com/members/the_termigator)    | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr             |
+| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) 🔀[^9]                        | [someaddon](https://www.curseforge.com/members/someaddon)               | Keeps far loaded chunks visible in servers to increase visible render distance                                           |
+| [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) 🔀[^10]                | [The\_TermiGator](https://www.curseforge.com/members/the_termigator)    | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr             |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)                               | [coderbot](https://www.curseforge.com/members/coderbot)                 | Adds OptiFine's shaders support. See [Shaders](shaders.md)                                                               |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)                    | [LambdAurora](https://www.curseforge.com/members/LambdAurora)           | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                  |
 | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)                            | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar)       | Fixes transparent gaps in items and blocks                                                                               |
@@ -215,7 +285,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost)                           | [Giselbaer](https://www.curseforge.com/members/Giselbaer)               | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game)                   |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)           | [comp500](https://www.curseforge.com/members/comp500)                   | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)                     |
 | [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify)                             | [isXander](https://www.curseforge.com/members/xanderisdev)              | Fixes some bugs, disables sending diagnostics data to Mojang. See [Bug Fixes](../bugs.md) and [Telemetry](../telemetry.md) |
-| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                     | [skyegreen](https://www.curseforge.com/members/skyegreen/projects)      | Allows opening worlds to public access the same way you can open to LAN                                                    |
+| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc)                                     | [skyegreen](https://www.curseforge.com/members/skyegreen)               | Allows opening worlds to public access the same way you can open to LAN                                                    |
 | [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://www.curseforge.com/members/flashyreese)           | Adds OptiFine resource packs support to FabricSkyboxes                                                                     |
 | [Main Menu Credits](https://www.curseforge.com/minecraft/mc-mods/main-menu-credits)           | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds FO's clickable version number in title screen's bottom corner                                                         |
 | [MidnightControls](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols)             | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | Adds controller and touchscreen support - Bedrock parity!                                                                  |
@@ -226,7 +296,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Keeps your settings when updating FO                                                                                       |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds a scrollable and customizable zoom feature                                                                            |
 
-[**Libraries**](#user-content-fn-10)[^10]
+[**Libraries**](#user-content-fn-8)[^8]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -300,7 +370,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)            | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Keeps your settings when updating FO                                                                                       |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                  | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds a scrollable and customizable zoom feature                                                                            |
 
-[**Libraries**](#user-content-fn-11)[^11]
+[**Libraries**](#user-content-fn-8)[^8]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -322,7 +392,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | Makes chests, signs, beds, etc. render faster                                   |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)                    | [tr9zw](https://www.curseforge.com/members/tr9zw)                     | Stops rendering entities behind walls                                           |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)                  | [malte0811](https://www.curseforge.com/members/malte0811)             | Reduces RAM usage                                                               |
-| Hydrogen[^12]                                                                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)         | Reduces RAM usage                                                               |
+| Hydrogen[^11]                                                                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)         | Reduces RAM usage                                                               |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload)                 | [Jerozgen](https://www.curseforge.com/members/Jerozgen)               | Makes language switching instant, adds a searchbar                              |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)                                 | [tuxed](https://www.curseforge.com/members/tuxed)                     | Makes the game startup faster                                                   |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                                 | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)         | Optimizes game physics and chunk loading                                        |
@@ -363,25 +433,25 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining)              | [comp500](https://www.curseforge.com/members/comp500)               | Allows you to have Minecraft in full screen and interact with a different window (disabled by default)   |
 | [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) | [anar4732](https://www.curseforge.com/members/anar4732)             | Keeps typed message history across worlds                                                                |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders)  | [altrisi](https://www.curseforge.com/members/altrisi)               | Fixes the game freezing when you open resource pack folders, a screenshot etc.                           |
-| [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks)                        | [ImUrX](https://www.curseforge.com/members/imurx/projects)          | Adds the audio output option like 1.18                                                                   |
+| [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks)                        | [ImUrX](https://www.curseforge.com/members/imurx)                   | Adds the audio output option like 1.18                                                                   |
 | [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)                                 | [TerraformersMC](https://www.curseforge.com/members/TerraformersMC) | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!)            |
 | [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history)              | [JackFred2](https://www.curseforge.com/members/JackFred2)           | Increases chat history limit                                                                             |
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)            | [NatanFudge](https://www.curseforge.com/members/NatanFudge)         | Allows playing after a crash and getting the crash report as a link                                      |
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)            | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating FO                                                                     |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)                                  | [alexander9892](https://www.curseforge.com/members/alexander9892)   | Adds a scrollable zoom feature                                                                           |
 
-[**Libraries**](#user-content-fn-13)[^13]
+[**Libraries**](#user-content-fn-8)[^8]
 
-| Name                                                                                          | Author                                                              | Description                                           |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- |
-| [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)              | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Makes some mods work                                  |
-| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp)                                     | [one\_point\_o](https://www.curseforge.com/members/one_point_o)     | Makes some mods work                                  |
-| [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)                  | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Makes some mods work                                  |
-| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                 | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Makes many mods' config work                          |
-| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)                 | [lortseam\_](https://www.curseforge.com/members/lortseam_)          | Makes some mods' config work                          |
-| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)                         | [modmuss50](https://www.curseforge.com/members/modmuss50)           | Makes most mods work                                  |
-| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50)           | Makes some mods work                                  |
-| [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)                                 | [comp500](https://www.curseforge.com/members/comp500)               | Adds support for the Rendering API (more parity mods) |
+| Name                                                                                          | Author                                                          | Description                                           |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------- |
+| [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)              | [shedaniel](https://www.curseforge.com/members/shedaniel)       | Makes some mods work                                  |
+| [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp)                                     | [one\_point\_o](https://www.curseforge.com/members/one_point_o) | Makes some mods work                                  |
+| [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)                  | [shedaniel](https://www.curseforge.com/members/shedaniel)       | Makes some mods work                                  |
+| [Cloth Config API](https://www.curseforge.com/minecraft/mc-mods/cloth-config)                 | [shedaniel](https://www.curseforge.com/members/shedaniel)       | Makes many mods' config work                          |
+| [CompleteConfig](https://www.curseforge.com/minecraft/mc-mods/completeconfig)                 | [lortseam\_](https://www.curseforge.com/members/lortseam_)      | Makes some mods' config work                          |
+| [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)                         | [modmuss50](https://www.curseforge.com/members/modmuss50)       | Makes most mods work                                  |
+| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | [modmuss50](https://www.curseforge.com/members/modmuss50)       | Makes some mods work                                  |
+| [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)                                 | [comp500](https://www.curseforge.com/members/comp500)           | Adds support for the Rendering API (more parity mods) |
 {% endtab %}
 
 {% tab title="1.16.5" %}
@@ -394,7 +464,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)   | [tr9zw](https://www.curseforge.com/members/tr9zw)                       | Stops rendering entities behind walls                                           |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest)            | [fake\_domi](https://www.curseforge.com/members/fake_domi)              | Makes chests render faster                                                      |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811)               | Reduces RAM usage                                                               |
-| Hydrogen[^14]                                                                  | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)           | Reduces RAM usage                                                               |
+| Hydrogen[^11]                                                                  | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)           | Reduces RAM usage                                                               |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)                | [tuxed](https://www.curseforge.com/members/tuxed)                       | Makes the game startup faster                                                   |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_)           | Optimizes game physics and chunk loading                                        |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)                | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer)     | Makes game startup and resource packs switch faster by removing fade animations |
@@ -435,7 +505,7 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)           | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating FO                                                                     |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)                                 | [alexander9892](https://www.curseforge.com/members/alexander9892)   | Adds a scrollable zoom feature                                                                           |
 
-[**Libraries**](#user-content-fn-15)[^15]
+[**Libraries**](#user-content-fn-8)[^8]
 
 | Name                                                                                          | Author                                                    | Description                                           |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- |
@@ -448,32 +518,24 @@ Click on the yellow arrows 🔀 emoji below to know about the alternatives
 {% endtab %}
 {% endtabs %}
 
-[^1]: In some versions replaced by [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) by [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust), which only optimizes beds.
+[^1]: In some versions replaced by [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) by [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust), which only optimizes beds
 
-[^2]: In some versions replaced by [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by [dorianpb](https://www.curseforge.com/members/dorianpb), which is less compatible overall.
+[^2]: In some versions replaced by [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) by [dorianpb](https://www.curseforge.com/members/dorianpb), which is less compatible overall
 
-[^3]: In some versions replaced by [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by [Pepper\_Bell](https://www.curseforge.com/members/pepper_bell), which uses a different, potentially more intensive method for fixing models.
+[^3]: In some versions replaced by [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) by [Pepper\_Bell](https://www.curseforge.com/members/pepper_bell), which uses a different, potentially more intensive method for fixing models
 
-[^4]: In some versions replaced by [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) by [isXander](https://www.curseforge.com/members/xanderisdev), which only optimizes the culling of leaves.
+[^4]: In some versions replaced by [Animatica](https://www.curseforge.com/minecraft/mc-mods/animatica) by [FoundationGames](https://www.curseforge.com/members/FoundationGames), which might be less performant or be slower to update
 
-[^5]: In some versions replaced by [MidnightControls](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols) by [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust), which has slightly different features.
+[^5]: In some versions replaced by [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) by [isXander](https://www.curseforge.com/members/xanderisdev), which only optimizes the culling of leaves
 
-[^6]: Mods which make other mods work. Hidden in-game, and should not be disabled
+[^6]: In some versions replaced by [MidnightControls](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols) by [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust), which has slightly different features
 
-[^7]: Mods which make other mods work. Hidden in-game, but should not be removed
+[^7]: Mods which make other mods work. Hidden in-game, and should not be disabled
 
-[^8]: In the Modrinth pack, replaced by [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) by [The\_TermiGator](https://www.curseforge.com/members/the_termigator).
+[^8]: Mods which make other mods work. Hidden in-game, but should not be removed
 
-[^9]: In the Modrinth pack, replaces [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) by [someaddon](https://www.curseforge.com/members/someaddon).
+[^9]: In the Modrinth pack, replaced by [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) by [The\_TermiGator](https://www.curseforge.com/members/the_termigator)
 
-[^10]: Mods which make other mods work. Hidden in-game, but should not be removed
+[^10]: In the Modrinth pack, replaces [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) by [someaddon](https://www.curseforge.com/members/someaddon)
 
-[^11]: Mods which make other mods work. Hidden in-game, but should not be removed
-
-[^12]: Hydrogen comes from [Modrinth](https://modrinth.com/mod/hydrogen), [not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
-
-[^13]: Mods which make other mods work. Hidden in-game, but should not be removed
-
-[^14]: Hydrogen comes from [Modrinth](https://modrinth.com/mod/hydrogen), [not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
-
-[^15]: Mods which make other mods work. Hidden in-game, but should not be removed
+[^11]: Hydrogen comes from [Modrinth](https://modrinth.com/mod/hydrogen), [not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)

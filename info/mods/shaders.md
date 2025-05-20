@@ -9,14 +9,14 @@ FO supports shaders through [Iris](https://modrinth.com/mod/iris). You can find 
 To install an Iris shader:
 
 1. Download any shader. You should get a `zip` file
-2. In Minecraft's main menu, click on **Options...**
-3. Click on **Video Settings...**
-4. Click on **Shader Packs...**
+2. In Minecraft's main menu, click on <kbd>**Options...**</kbd>
+3. Click on <kbd>**Video Settings...**</kbd>
+4. Click on <kbd>**Shader Packs...**</kbd>
 5. Drag the `zip` file you downloaded in _step 1_ to the screen you opened in _step 4_
 6. Select the shader
-7. Make sure **Shaders** is enabled
-8. If you want to configure the shader, use the **Shader Pack Settings...** button
-9. Click on **Apply**
+7. Make sure <kbd>**Shaders**</kbd> is enabled
+8. If you want to configure the shader, use the <kbd>**Shader Pack Settings...**</kbd> button
+9. Click on <kbd>**Apply**</kbd>
 
 {% hint style="info" %}
 If you run into any issues, please report them on the [Iris issue tracker](https://github.com/IrisShaders/Iris/issues).
@@ -32,7 +32,7 @@ To get OptiFine's internal shaders, you can use:
 
 ## Fabulous Shaders
 
-Fabulous shaders are vanilla shaders which work by enabling **Fabulous!** graphics in video settings.
+Fabulous shaders are vanilla shaders which work by enabling <kbd>**Fabulous!**</kbd> graphics in video settings.
 
 Examples of Fabulous Shaders include:
 
@@ -77,4 +77,4 @@ Canvas shaders are not supported by FO, but you can replace some mods to support
    * Iris
 2. [Add](../../how-to/add-mods/) the [Canvas Renderer mod](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer)
 3. [Install the shader](shaders.md#shaders) you want
-4. Enable it from **Options...** → **Video Settings...** → **Canvas** → **Pipeline Options** → **Pipelines**
+4. Enable it from <kbd>**Options...**</kbd> → <kbd>**Video Settings...**</kbd> → <kbd>**Canvas**</kbd> → <kbd>**Pipeline Options**</kbd> → <kbd>**Pipelines**</kbd>
