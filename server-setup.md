@@ -9,12 +9,25 @@ The CurseForge listing used to have "server packs", but [those were actually jus
 
 ## Tips
 
+* [Do you even need a server?](#world-sharing)
 * [Use speedy server software](#software)
 * [Protect users from chat reporting](#chat-reporting)
 * [Give users flexibility with client version](#client-version-flexibility)
 * [Allow Bedrock users to join](#bedrock-compatibility)
 * [Server-side content mods](#server-side-content-mods)
 * [Restrict mod behaviours, not names](#mods-in-rules)
+
+### World sharing
+
+Did you know Fabulously Optimized lets you play with anyone in your singleplayer worlds, even if they are on a different network? If that's all you need, then you don't need to create a full-fledged server.
+
+1. Open your world
+2. Press Esc -> `Open to Internet`
+3. Confirm settings and `Open to Internet`
+4. Check the chat for an address (host domain), copy it
+5. Send your friend the address. Your friend needs to use the same version of Minecraft, but not necessarily the modpack.
+
+[More info about how it works](disclaimers.md)
 
 ### Software
 
