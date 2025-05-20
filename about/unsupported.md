@@ -9,11 +9,9 @@ FO is a Fabric pack for Minecraft: Java Edition. Because of this, it does not su
 
 ## Bedrock Edition
 
-FO is a pack for Minecraft: Java Edition, so it does not support Bedrock at all, nor [mobile devices in general](./#pojav-launcher).
+FO is a pack for Minecraft: Java Edition, so it does not support Bedrock at all.
 
 However, one of [FO's principles](./#familiarity) is focusing on parity with Bedrock Edition if possible.
-
-You may be interested in the [VDX addon](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) for a Java-like UI on mobile.
 
 ## Other Modpacks
 
@@ -37,24 +35,21 @@ FO does not support [NeoForge](https://neoforged.net/).
 
 FO does not plan on ever supporting NeoForge, because it is slower, it takes longer to update, and it does not support Fabric's optimizations.
 
-If you're coming from NeoForge, you can find a community-maintained [list of Fabric mods corresponding to NeoForge mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). See [how to add mods to FO](../how-to/add-mods/). There is also work being done to support NeoForge mods on Fabric, via [PatchWork](https://patchworkmc.net/).
+If you're coming from NeoForge, you can [add the corresponding mods to FO](../how-to/add-mods/), which you can find in a community-maintained [list of Fabric mods corresponding to NeoForge mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). There is also work being done to support NeoForge mods on Fabric, via [PatchWork](https://patchworkmc.net/).
 
 ### Quilt
 
 FO does not support [Quilt](https://quiltmc.org/).
 
-FO is tracking the sustainability and popularity of Quilt in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257). If many mods decide to migrate to Quilt, FO may support it in the future.
+It is unlikely that FO will ever support Quilt. However, if many mods decide to migrate to Quilt, FO may support it in the future.
+
+FO is tracking the sustainability and popularity of Quilt in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
 
 ## Game Clients
 
 FO is not compatible with "game clients", including "PvP clients".
 
-You may want to [add custom mods](../how-to/add-mods/) instead. Check out these lists of alternatives:
-
-* [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
-* [Feather Client](https://alternatives.microcontrollers.dev/latest/feather/#visuals)
-* [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals)
-* [Essential Mod](https://alternatives.microcontrollers.dev/latest/essential/#pictures)
+You may want to [add custom mods](../how-to/add-mods/) instead.
 
 FO itself is not a client for the following reasons:
 
@@ -97,17 +92,6 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 7. Check if the instance in Prism Launcher works
 8. Uninstall GDLauncher Legacy
 
-### Pojav Launcher
-
-Pojav Launcher is not supported because of the following drawbacks:
-
-* It allows piracy, and as such is a [cracked launcher](./#cracked-launchers)
-* Long and complicated installation process
-* High energy usage and battery drain
-* Poor performance, as it doesn't support Sodium
-
-FO isn't considering supporting Pojav Launcher in the future.
-
 ### PolyMC
 
 {% hint style="danger" %}
@@ -144,6 +128,19 @@ FO does not support any launcher that lets you run the game without having purch
 {% hint style="success" %}
 There is a way to obtain Minecraft for cheaper: you can use a [gift code from a trusted reseller (affiliate link)](https://download.fo/minecraft). Thank you!
 {% endhint %}
+
+#### Pojav Launcher
+
+Pojav Launcher is not supported because of the following drawbacks:
+
+* It is a [cracked launcher](./#cracked-launchers) because it allows piracy
+* Long and complicated installation process
+* High energy usage and battery drain
+* Poor performance, as it doesn't support Sodium
+* Incompatible with [FO's settings](../info/options/)
+* No longer available on the Google Play Store
+
+FO isn't considering supporting Pojav Launcher in the future.
 
 #### TLauncher
 
