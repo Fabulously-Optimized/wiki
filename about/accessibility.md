@@ -7,9 +7,9 @@ icon: handshake
 
 FO disables the accessibility screen shown on the first run. You can continue to take advantage of the accessibility features with the following keyboard shortcuts:
 
-* **`Left Arrow`** **`Left Arrow`** **`Enter`**: Access the accessibility settings
-* **`Right Arrow`** **`Enter`**: Access the languages settings
-* **`CTRL`**+**`B`**: Toggle Narrator
+* <kbd>← Left</kbd> <kbd>← Left</kbd> <kbd>↵ Enter</kbd>: Access the accessibility settings
+* <kbd>→ Right</kbd> <kbd>↵ Enter</kbd>: Access the languages settings
+* <kbd>CTRL</kbd>+<kbd>B</kbd> or <kbd>⌘ CMD</kbd>+<kbd>B</kbd>: Toggle Narrator
 
 {% hint style="success" %}
 For more accessibility features, you may want to [add](../how-to/add-mods/) the [Minecraft Access mod](https://modrinth.com/mod/minecraft-access).

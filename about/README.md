@@ -55,7 +55,7 @@ Read more about [FO's stance on telemetry](../info/telemetry.md).
 
 ## Transparency
 
-FO is [open-source](https://download.fo/github), and so is most of its mods. Its [content](../info/) is clearly listed, its [changes over time](https://download.fo/changelog) are clearly outlined, and it's ready to inform its users about new game features (such as [Player Reporting](../info/mods/player-reporting.md)) and to alarm its users about vulnerabilities affecting the game.
+FO is [open-source](https://download.fo/github), and so is most of its mods. Its [content](../info/) is clearly listed, its [changes over time](https://download.fo/changelog) are clearly outlined, and it's ready to inform its users about new game features or drastic changes (such as [Player Reporting](../info/mods/player-reporting.md)) and to alarm its users about vulnerabilities affecting the game.
 
 {% hint style="info" %}
 Read more about [public repositories by Fabulously Optimized](https://github.com/Fabulously-Optimized).
