@@ -99,7 +99,7 @@ In particular, this [version of Fresh Animations](https://www.curseforge.com/min
 3. Set **Use model creation fix?** to **No**
 4. Click on **Save & Quit**
 5. Click on **Done**
-6. In a world, press **`F3`** + **`T`**. You'll see a loading screen
+6. In a world, press <kbd>**F3**</kbd> + <kbd>**T**</kbd>. You'll see a loading screen
 7. Verify if the models are displayed correctly
 8. If not, custom models will not work. You should either:
    * Re-enable the option you changed in _step 3_, and disable the resource pack

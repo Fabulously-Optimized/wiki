@@ -9,16 +9,16 @@ icon: keyboard
 Click on each keybind to get a description of what it does.
 {% endhint %}
 
-| Option                                                          | Vanilla        | FO      | Reason for Change                    |
-| --------------------------------------------------------------- | -------------- | ------- | ------------------------------------ |
-| [Zoomify: Zoom](#user-content-fn-1)[^1]                         | **`v`**        | **`c`** | This key is more often used for zoom |
-| [Vanilla: Save Hotbar Activator](#user-content-fn-2)[^2]        | **`c`**        | _none_  | This key is more often used for zoom |
-| [Zoomify: Secondary zoom](#user-content-fn-3)[^3]               | **`F6`**       | _none_  | Not needed for most players          |
-| [Iris: Reload Shaders](#user-content-fn-4)[^4]                  | **`r`**        | _none_  | Not needed for most players          |
-| [Iris: Shaderpack Selection Screen](#user-content-fn-5)[^5]     | **`o`**        | _none_  | Not needed for most players          |
-| [Iris: Toggle Shaders](#user-content-fn-6)[^6]                  | **`k`**        | _none_  | Not needed for most players          |
-| [FabricSkyboxes: Toggle mod](#user-content-fn-7)[^7]            | **`Numpad 0`** | _none_  | Not needed for most players          |
-| [OptiGUI: Copy inspection to clipboard](#user-content-fn-8)[^8] | **`F12`**      | _none_  | Not needed for most players          |
+| Option                                                          | Vanilla             | FO           | Reason for Change                    |
+| --------------------------------------------------------------- | ------------------- | ------------ | ------------------------------------ |
+| [Zoomify: Zoom](#user-content-fn-1)[^1]                         | <kbd>v</kbd>        | <kbd>c</kbd> | This key is more often used for zoom |
+| [Vanilla: Save Hotbar Activator](#user-content-fn-2)[^2]        | <kbd>c</kbd>        | _none_       | This key is more often used for zoom |
+| [Zoomify: Secondary zoom](#user-content-fn-3)[^3]               | `F6`                | _none_       | Not needed for most players          |
+| [Iris: Reload Shaders](#user-content-fn-4)[^4]                  | <kbd>r</kbd>        | _none_       | Not needed for most players          |
+| [Iris: Shaderpack Selection Screen](#user-content-fn-5)[^5]     | <kbd>o</kbd>        | _none_       | Not needed for most players          |
+| [Iris: Toggle Shaders](#user-content-fn-6)[^6]                  | <kbd>k</kbd>        | _none_       | Not needed for most players          |
+| [FabricSkyboxes: Toggle mod](#user-content-fn-7)[^7]            | <kbd>Numpad 0</kbd> | _none_       | Not needed for most players          |
+| [OptiGUI: Copy inspection to clipboard](#user-content-fn-8)[^8] | <kbd>F12</kbd>      | _none_       | Not needed for most players          |
 
 [^1]: Zooms the view when the key is held
 
