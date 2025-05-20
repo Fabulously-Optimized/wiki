@@ -46,3 +46,5 @@ YOU may mention that YOU forked FO. YOU can use the following badges (created by
 ```
 {% endtab %}
 {% endtabs %}
+
+The same terms also apply for [FO's resource packs](../../info/resource-packs/): YOU may not use the names nor logos FO uses to represent YOUR remixes.

@@ -28,7 +28,7 @@ In accordance to the [Accessibility principle](../#accessibility), one of FO's o
 6. Copy that file's content
 7. In the `lang` folder, click on **Add file**
 8. Click on **Create new file**. This should fork the repo
-9. Name the file following the [language codes format](https://minecraft.wiki/w/Language#Languages). For example `et_ee.json`
+9. Name the file following the [language codes format](https://minecraft.wiki/w/Language#Languages). For example `en_ud.json`
 10. Paste the content you copied in _step 6_
 11. Start translating the values inside of the quotes, on the right side of the colon. For example:
 
@@ -54,10 +54,6 @@ Read more about [localization in Sodium natively](https://github.com/CaffeineMC/
 
 ## Resource Packs
 
-{% hint style="info" %}
-FO's translations are licensed under [CC0](https://choosealicense.com/licenses/cc0-1.0).
-{% endhint %}
-
 {% tabs %}
 {% tab title="Translator" %}
 1. Join the [FO project on Crowdin](https://download.fo/crowdin)
@@ -81,7 +77,7 @@ The resource pack must be tested because there are specific length requirements:
   3. Set **Fullscreen Resolution** to **1920x1080@60 (24 bit)** (The number after `@` may vary)
   4. Check the **Fullscreen** checkbox
   5. Click on **Apply**
-  6. If you're experiencing issues, press **`Shift`** + **`P`** to reset to default settings
+  6. If you're experiencing issues, press <kbd>⇧ Shift</kbd> + <kbd>P</kbd> to reset to default settings
   7. Click on **Done**
 * The [online translations tester](https://download.fo/size-checker) may help, but does not replace in-game testing
 * Feel free to rephrase sentences if you see fit
@@ -93,30 +89,26 @@ To test the translation in-game:
 1. In Crowdin, open the **Mod Menu Helper** file (not _All strings_!)
 2. Click on the menu button in the top-left corner
 3. Click on the **Download** button. You'll get a `xx_xx.json` file
-4. In Minecraft, open **Options...**
-5. Open **Resource Packs...**
-6. Click on **Open Pack Folder**
+4. In Minecraft, open <kbd>**Options...**</kbd>
+5. Open <kbd>**Resource Packs...**</kbd>
+6. Click on <kbd>**Open Pack Folder**</kbd>
 7. Open the `Mod Menu Helper.zip` file. If the `zip` file gets extracted, open the extracted folder
 8. Navigate to `assets/fo/lang`
 9. Drag the file you downloaded in _step 3_ and drop it into the folder you opened in _step 9_
 10. In Minecraft, if the `zip` file got extracted in _step 8_, activate it
-11. Click on **Done**
-12. Click on **Done**
-13. Open a world or a server, and press **`F3`** + **`T`** to reload the resource pack
-14. In the main menu, click on the **Mods** button to open the Mod Menu
+11. Click on <kbd>**Done**</kbd>
+12. Click on <kbd>**Done**</kbd>
+13. Open a world or a server, and press <kbd>F3</kbd> + <kbd>T</kbd> (sometimes <kbd>Fn</kbd> + <kbd>F3</kbd> + <kbd>T</kbd>) to reload the resource pack
+14. In the main menu, click on the <kbd>**Mods**</kbd> button to open the Mod Menu
 15. Make sure the translations fit the criteria above
-16. Click on **Back**
-17. Click on **Options...**
-18. Click on **Resource Packs...**
+16. Click on <kbd>**Back**</kbd>
+17. Click on <kbd>**Options...**</kbd>
+18. Click on <kbd>**Resource Packs...**</kbd>
 19. Make sure the translations fit the criteria above
 {% endtab %}
 {% endtabs %}
 
 ## Website
-
-{% hint style="info" %}
-FO's translations are licensed under [CC0](https://choosealicense.com/licenses/cc0-1.0).
-{% endhint %}
 
 The website is almost entirely translatable, except the wiki, which would get outdated very quickly.
 
@@ -131,10 +123,6 @@ Translation testing is recommended for proofreaders:
 5. Navigate the website and make sure translations are correct
 
 ## Installer
-
-{% hint style="info" %}
-FO's translations are licensed under [CC0](https://choosealicense.com/licenses/cc0-1.0).
-{% endhint %}
 
 Most messages on the installer, except for some very detailed errors, are translatable.
 
