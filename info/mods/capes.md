@@ -23,7 +23,7 @@ To be informed of those events as they happen, ensure you have the **Other news*
 ## Get a free cape
 
 1. Sign up on [MinecraftCapes](https://minecraftcapes.net/account/login)
-2. Draw and download a cape on the [MinecraftCapes Editor](https://minecraftcapes.net/gallery/cape-editor)
+2. Draw and download a cape on the [SkinMC Minecraft Cape Editor](https://skinmc.net/capes/editor)
 3. If you want to get the official FO cape:
    1. Open the [official FO cape](https://github.com/Fabulously-Optimized/fabulously-optimized/raw/main/cape.png) page
    2. Right-click on the image
@@ -39,12 +39,12 @@ There are multiple ways to solve this problem: choose one only.
 
 * Update FO to its latest version (recommended). See [instructions to update FO](../../how-to/update/)
 * Disable MinecraftCapes entirely. You'll not be able to get the free cape:
-  1. Open **Options...**
-  2. Open **Skin Customization...**
-  3. Click on the **Capes** icon
-  4. Click on the **Toggle** button
-  5. Set **MinecraftCapes** to **OFF**
-  6. Click on **Done** three times
+  1. Open <kbd>**Options...**</kbd>
+  2. Open <kbd>**Skin Customization...**</kbd>
+  3. Click on the <kbd>**Capes**</kbd> icon
+  4. Click on the <kbd>**Toggle**</kbd> button
+  5. Set <kbd>**MinecraftCapes**</kbd> to <kbd>**OFF**</kbd>
+  6. Click on <kbd>**Done**</kbd> three times
 * [Disable the Capes mod](../../how-to/disable-mods/), which causes the problem, then [add one of these mods](../../how-to/add-mods/):
-   * [MinecraftCapes](https://modrinth.com/mod/minecraftcapes): does not support all providers, rather only MinecraftCapes and vanilla
-   * [Cosmetica](https://modrinth.com/mod/cosmetica): its configuration is very different to that of FO and must be tweaked manually to your needs
+  * [MinecraftCapes](https://modrinth.com/mod/minecraftcapes): does not support all providers, rather only MinecraftCapes and vanilla
+  * [Cosmetica](https://modrinth.com/mod/cosmetica): its configuration is very different to that of FO and must be tweaked manually to your needs
