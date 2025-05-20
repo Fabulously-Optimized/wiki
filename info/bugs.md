@@ -35,6 +35,6 @@ FO includes some mods which fix vanilla bugs. If there's another bug you think F
 FO will only fix a bug if it affects a large majority of its users (at least 70% of them). Read more in [FO's principles](../about/).
 {% endhint %}
 
-1. Find the bug on [Mojang's bug tracker](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
-2. Request it or find its status on [Debugify's bug tracker](https://github.com/W-OVERFLOW/Debugify/issues)
-3. If you're sure the bug fix is in Debugify, [request an option change](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?labels=option&template=setting-request.yml)
+1. Find the bug on [Mojang's bug tracker](https://bugs.mojang.com/browse/MC)
+2. Request it or find its status on [Debugify's bug tracker](https://github.com/IsXander/Debugify/issues)
+3. If you're sure the bug fix is in Debugify, [request an option change](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?labels=option\&template=setting-request.yml)
