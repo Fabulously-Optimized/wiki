@@ -5,7 +5,7 @@ hidden: true
 # MultiMC
 
 1. Find the mod or mods you want to add from the [list of Fabric mods on Modrinth](https://modrinth.com/mods?g=categories:fabric)
-2. Click on **Versions**
+2. Click on the mod's **Details** page
 3. Click on **Download** next to the latest version compatible with Fabric and Minecraft. A `jar` file should be downloaded
 4. Open **MultiMC**
 5. Select the FO instance
