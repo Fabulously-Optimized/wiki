@@ -11,6 +11,15 @@ FO does not require any special setup server-side: any server compatible with va
 All content on this page is just a suggestion, and FO does not offer support for server setup. If you need help with it, please ask in the respective mod or platform support site.
 {% endhint %}
 
+## Share Your World
+
+Did you know FO allows you to play with anyone on your singleplayer worlds, even on different networks? If that's all you'd need a server for, there's no need for it:
+
+1. Open your singleplayer world
+2. Press <kbd>Esc</kbd>
+3. Click on <kbd>**Open to Internet**</kbd>. You should see an address in chat
+4. Send the address from chat to your friend. Your friend will need to use your same version of Minecraft.
+
 ## Optimize Server Software
 
 {% hint style="danger" %}
