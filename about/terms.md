@@ -11,7 +11,8 @@ By using Fabulously Optimized ("FO"), YOU agree to the following terms:
 * By installing FO, YOU agree that its authors, its mods' developers, Mojang and any other third party do not provide any warranties for using it. YOU are responsible for every action YOU do with it
 * FO is set up to be compatible with the rules of most public third-party servers, but it is YOUR responsibility to verify whether YOU are allowed to use FO or not
 * FO uses mods to support controllers with analog input, which may produce unexpectedly smooth movements; such smooth movements may be disallowed on some third-party servers. YOU are notified of this upon newly joining any server with a controller and with analog input enabled. YOU are expected to add servers which disallow this feature to the mods' allowlist, or to disable the analog input entirely
-*   FO disables the third-party server disclaimer shown when using the multiplayer function for the first time. By using FO, YOU also agree to the following disclaimer:
+* FO disables the tutorial hint for ["Social Interactions"](https://minecraft.wiki/w/Social_interactions#Usage) hotkey disclaimer shown when joining a server for the first time. YOU can access the "Social Interactions" screen with the <kbd>**Player Reporting**</kbd> button in the pause menu or by pressing <kbd>P</kbd>
+*   FO disables the third-party server disclaimer shown when using the multiplayer function for the first time. By using FO, YOU implicitly agree to the following disclaimer:
     ![Screenshot of the third-party server disclaimer](https://minecraft.wiki/images/Multiplayer_disclaimer.png)
 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone
