@@ -15,7 +15,7 @@ FO does not host any paid-for capes or cosmetics, nor does it encourage YOU to b
 All official capes by Mojang are automatically supported by FO, without additional configuration.
 
 {% hint style="success" %}
-Mojang has recently been releasing more and more official capes for completing certain actions during game events. Read more [about capes on the Minecraft Wiki](https://minecraft.wiki/w/Cape#Cross-platform_capes).
+Mojang has recently been releasing more and more official capes for completing certain actions during game events. Read more about [capes on the Minecraft Wiki](https://minecraft.wiki/w/Cape#Cross-platform_capes).
 
 To be informed of those events as they happen, ensure you have the **Other news** role on the [FO Discord server](https://download.fo/discord)!
 {% endhint %}
@@ -24,10 +24,10 @@ To be informed of those events as they happen, ensure you have the **Other news*
 
 1. Sign up on [MinecraftCapes](https://minecraftcapes.net/account/login)
 2. Draw and download a cape on the [SkinMC Minecraft Cape Editor](https://skinmc.net/capes/editor)
-3. If you want to get the official FO cape:
-   1. Open the [official FO cape](https://github.com/Fabulously-Optimized/fabulously-optimized/raw/main/cape.png) page
-   2. Right-click on the image
-   3. Click on **Save image as...**
+3. If you want the official FO cape, download it here:
+   {% file src="https://github.com/Fabulously-Optimized/fabulously-optimized/raw/main/cape.png" %}
+   Official FO cape
+   {% endfile %}
 4. Upload the cape you chose on the [MinecraftCapes page](https://minecraftcapes.net/upload-cape)
 5. You can now enjoy your cape in Minecraft! Users with FO or MinecraftCapes will also see it
 
