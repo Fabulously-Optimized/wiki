@@ -10,7 +10,7 @@ Do NOT disable "API" or "library" mods, because the other mods need them.
 
 1. Open the **Minecraft Launcher**
 2. Select the Fabric installation
-3. Click on **Folder** button
+3. Click on <kbd>**Folder**</kbd> button
 4. Open the `mods/` folder
 5. Find the mod you want to disable
 6. Rename the mod from `mod-name.jar` to `mod-name.jar.disabled`
