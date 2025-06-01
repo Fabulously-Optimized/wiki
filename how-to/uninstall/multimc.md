@@ -11,6 +11,6 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 {% endhint %}
 
 1. Open **MultiMC**
-2. Click on the FO instance
-3. Click on **Delete**
-4. Click on **Yes**
+2. Click on <kbd>**Fabulously Optimized**</kbd>
+3. Click on <kbd>**Delete**</kbd>
+4. Click on <kbd>**Yes**</kbd>

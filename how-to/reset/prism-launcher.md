@@ -5,9 +5,9 @@ hidden: true
 # Prism Launcher
 
 1. Open the **Prism Launcher**
-2. Right-click on the FO instance
-3. Click on **Folder**
-4. Click on **.minecraft**
+2. Right-click on **Fabulously Optimized**
+3. Click on <kbd>**Folder**</kbd>
+4. Click on <kbd>**.minecraft**</kbd>
 5. If you want to reset mod options, delete the `config` folder
 6. If you want to reset vanilla options, delete the `options.txt` file
 7. Download your version from the [FO versions on Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions). A file should be downloaded

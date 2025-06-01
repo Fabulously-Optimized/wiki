@@ -5,8 +5,8 @@ hidden: true
 # Minecraft Launcher
 
 1. Open the **Minecraft Launcher**
-2. Hover over the FO installation
-3. Click on the **Folder** button
+2. Hover over the **Fabulously Optimized** installation
+3. Click on the <kbd>**Folder**</kbd> button
 4. Open another folder to move your data to, like Documents
 5. Copy the following files from the folder you opened in _step 3_ to the folder you opened in _step 4_:
    * `saves`: Your local worlds

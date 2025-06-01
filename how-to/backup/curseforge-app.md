@@ -5,8 +5,8 @@ hidden: true
 # CurseForge App
 
 1. Open the **CurseForge App**
-2. Right-click on the FO instance
-3. Click on **Open Folder**
+2. Right-click on <kbd>**Fabulously Optimized**</kbd>
+3. Click on <kbd>**Open Folder**</kbd>
 4. Open another folder to move your data to, like Documents
 5. Copy the following files from the folder you opened in _step 3_ to the folder you opened in _step 4_:
    * `saves`: Your local worlds

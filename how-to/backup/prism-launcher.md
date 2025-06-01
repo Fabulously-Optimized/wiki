@@ -5,9 +5,9 @@ hidden: true
 # Prism Launcher
 
 1. Open the **Prism Launcher**
-2. Right-click on the FO instance
-3. Click on **Folder**
-4. Click on **.minecraft**
+2. Right-click on <kbd>**Fabulously Optimized**</kbd>
+3. Click on <kbd>**Folder**</kbd>
+4. Click on <kbd>**.minecraft**</kbd>
 5. Open another folder to move your data to, like Documents
 6. Copy the following files from the folder you opened in _step 4_ to the folder you opened in _step 5_:
    * `saves`: Your local worlds

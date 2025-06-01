@@ -11,7 +11,7 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 {% endhint %}
 
 1. Open the **Modrinth App**
-2. Click on the **Library**
-3. Right-click on the FO instance
-4. Click on **Delete**
-5. Click on **Delete**
+2. Click on the <kbd>**Library**</kbd>
+3. Right-click on <kbd>**Fabulously Optimized**</kbd>
+4. Click on <kbd>**Delete**</kbd>
+5. Click on <kbd>**Delete**</kbd>

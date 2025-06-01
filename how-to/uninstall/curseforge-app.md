@@ -11,7 +11,7 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 {% endhint %}
 
 1. Open the **CurseForge App**
-2. Select **Minecraft** from the grid or from the sidebar
-3. In **My Modpacks**, right-click on **Fabulously Optimized**
-4. Click on **Delete Profile**
-5. Click on **Delete**
+2. Select <kbd>**Minecraft**</kbd> from the grid or from the sidebar
+3. In **My Modpacks**, right-click on <kbd>**Fabulously Optimized**</kbd>
+4. Click on <kbd>**Delete Profile**</kbd>
+5. Click on <kbd>**Delete**</kbd>
