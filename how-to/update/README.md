@@ -16,7 +16,7 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 {% hint style="warning" %}
 **FO only supports updates to stable versions**.
 
-We do NOT support updating from a stable to an unstable version, nor do we support downgrading. In those cases, consider creating a separate installation/instance.
+We do NOT support updating from a stable to an unstable version, nor do we support downgrading. In those cases, consider creating a separate installation/instance. Read more about [FO's versioning](../../about/versioning.md).
 
 Of course, if you've [added custom mods to FO](../add-mods/), you are responsible for updating those, but you should not update [mods bundled in FO](../../info/mods/) manually.
 {% endhint %}

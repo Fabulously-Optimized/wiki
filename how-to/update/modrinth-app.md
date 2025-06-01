@@ -11,12 +11,17 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 {% endhint %}
 
 1. Open the **Modrinth App**
-2. Click on the **Library** section
-3. Select the existing FO instance
-4. Click on the **Update modpack** button on the top-right
+2. Click on the <kbd>**Library**</kbd> section
+3. Select the existing **Fabulously Optimized** instance
+4. Click on the <kbd>**Update modpack**</kbd> button on the top-right
 5. If you do not want the latest version, select the version you want from the dropdown
-6. Click on the **two-arrows** button. FO should get updated
-7. Once updated, launch the instance. Minecraft should open up
+6. Click on the <kbd>**two-arrows**</kbd> button. FO should get updated
+7. Once updated, launch **Fabulously Optimized**. Minecraft should open up
 8. If you can see the newly installed version in the bottom-right corner, you're done!
 
-<!-- TODO: clear cache? -->
+<details>
+<summary>Clear cache instructions</summary>
+
+TODO
+
+</details>
