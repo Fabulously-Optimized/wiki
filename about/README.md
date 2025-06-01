@@ -5,7 +5,7 @@ icon: circle-info
 
 # About
 
-Fabulously Optimized ("FO") is simple pack for Minecraft: Java Edition, focusing on performance and graphics enhancements.
+Fabulously Optimized ("FO") is a simple pack for Minecraft: Java Edition, focusing on performance and graphics enhancements.
 
 What separates FO from other similar modpacks?
 

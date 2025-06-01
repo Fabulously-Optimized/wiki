@@ -18,17 +18,9 @@ Generally, the development version of FO, which may not include all mods of a st
 
 ## Version Numbers
 
-An FO version is indicated by three numbers `X.Y.Z`, and a suffix for development versions. The three numbers now indicate:
+An FO version is indicated by three numbers `X.Y.Z`, and a suffix for development versions (`-alpha` or `-beta`). The three numbers indicate:
 
 <table><thead><tr><th width="100" align="center">Number</th><th width="140">Meaning</th><th>Description</th></tr></thead><tbody><tr><td align="center"><code>X</code></td><td>Major versions</td><td><strong>Starting from 7.y.z</strong>: mapped to Minecraft's <a href="https://minecraft.wiki/w/Game_drop">game drops</a> or <a href="https://minecraft.wiki/w/Java_Edition_version_history#Full_release">full releases</a><br><strong>From 1.y.z ~ 6.y.z</strong>: mapped to Minecraft's full releases from 1.16</td></tr><tr><td align="center"><code>Y</code></td><td>Minor versions</td><td>Minecraft patches or changes to FO</td></tr><tr><td align="center"><code>Z</code></td><td>Patches</td><td>Non-breaking changes, no mod changes</td></tr></tbody></table>
-
-The suffix is a term that approximately corresponds to the stages of Minecraft's development:
-
-|  Minecraft  |   FO   |  Suffix  |
-| :---------: | :----: | :------: |
-|   snapshot  |  alpha | `-alpha` |
-| pre-release |  beta  |  `-beta` |
-|   release   | stable |  _none_  |
 
 {% hint style="info" %}
 FO and its mods may not keep up with all snapshots, as they are released very quickly and they may break a lot of stuff behind the scenes. Also, support is not provided for these, see [Supported Versions](versioning.md#supported-versions) below.
