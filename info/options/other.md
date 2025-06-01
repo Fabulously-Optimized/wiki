@@ -1,5 +1,6 @@
 ---
 hidden: true
+hidden: true
 ---
 
 # Other Options
@@ -52,9 +53,9 @@ Using a gaming computer? Ensure your GPU optimizations are configured:
 
 * [NVIDIA GeForce Experience](https://www.addictivetips.com/windows-tips/add-games-geforce-experience)
 * [NVIDIA Control Panel](https://www.nvidia.com/content/Control-Panel-Help/vLatest/en-us/mergedProjects/nv3d/to_configure_uniques_3D_settings_for_my_applications_and_gamess)
-   * [Additional NVIDIA Settings](https://www.pcgamer.com/nvidia-control-panel-a-beginners-guide)
+  * [Additional NVIDIA Settings](https://www.pcgamer.com/nvidia-control-panel-a-beginners-guide)
 * [AMD Radeon Software](https://minecrafthopper.net/help/amd-dedicated-gpu)
-   * [Alternative AMD Settings](https://www.amd.com/en/support/kb/faq/dh2-012#faq-Creating-Application-Profiles)
+  * [Alternative AMD Settings](https://www.amd.com/en/support/kb/faq/dh2-012#faq-Creating-Application-Profiles)
 * [MSI AfterBurner](https://www.msi.com/support/technical_details/VGA_MSI_Utility_AfterBurner)
 
 For Linux users, Intel and AMD GPUs generally require no additional setup, but keeping your system updated is essential.

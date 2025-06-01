@@ -43,10 +43,10 @@ Some re-texturing of block entities may not work by default in FO.
 {% tabs %}
 {% tab title="Enhanced Block Entities" %}
 1. In the Mod Menu, find "Enhanced Block Entities"
-2. Click on the **Config** button ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Enable **Force Resource Pack Compatibility**
-4. If you can't find such an option, disable optimization of broken blocks. For example, for chests disable **Enhanced Chests**
-5. Click on **Done**
+2. Click on the ![Config button](https://i.ibb.co/j35cBtn/image.png) <kbd>**Config**</kbd> button
+3. Enable <kbd>**Force Resource Pack Compatibility**</kbd>
+4. If you can't find such an option, disable optimization of broken blocks. For example, for chests disable <kbd>`Enhanced Chests`</kbd>
+5. Click on <kbd>**Done**</kbd>
 {% endtab %}
 
 {% tab title="Better Beds" %}
@@ -57,9 +57,9 @@ Follow [instructions to disable the Better Beds mod](../../how-to/disable-mods/)
 FO version 1.12.3 and older
 
 1. In the Mod Menu, find "FastChest"
-2. Click on the **Config** button ![config](https://i.ibb.co/j35cBtn/image.png)
+2. Click on the ![Config button](https://i.ibb.co/j35cBtn/image.png) <kbd>**Config**</kbd> button
 3. Disable the mod
-4. Click on **Done**
+4. Click on <kbd>**Done**</kbd>
 {% endtab %}
 {% endtabs %}
 
@@ -81,10 +81,10 @@ Custom colors are only supported in FO version 5.9.0 or newer, or FO version 4.5
 If parts of the entities' bodies are missing, or custom mob shapes are not working:
 
 1. In the Mod Menu, find "Entity Model Features"
-2. Click on the **Config** button ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Set **Substitute missing model parts** to **Yes**
-4. Click on **Save Changes**
-5. Click on **Done**
+2. Click on the ![Config button](https://i.ibb.co/j35cBtn/image.png) <kbd>**Config**</kbd> button
+3. Set <kbd>**Substitute missing model parts**</kbd> to <kbd>`Yes`</kbd>
+4. Click on <kbd>**Save Changes</kbd>**
+5. Click on <kbd>**Done**</kbd>
 
 Find more details on [Entity Model Features' issue tracker](https://github.com/Traben-0/Entity_Model_Features/issues) or on their [Discord server](https://discord.com/invite/rURmwrzUcz).
 {% endtab %}
@@ -95,14 +95,14 @@ Find a [list of resource packs supported by CEM](https://github.com/dorianpb/cem
 In particular, this [version of Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) works. Discuss issues in the [Fresh Animations' issue](https://github.com/dorianpb/cem/issues/11).
 
 1. In the Mod Menu, find "Custom Entity Models"
-2. Click on the **Config** button ![config](https://i.ibb.co/j35cBtn/image.png)
-3. Set **Use model creation fix?** to **No**
-4. Click on **Save & Quit**
-5. Click on **Done**
-6. In a world, press <kbd>**F3**</kbd> + <kbd>**T**</kbd>. You'll see a loading screen
+2. Click on the ![Config button](https://i.ibb.co/j35cBtn/image.png) <kbd>**Config**</kbd> button
+3. Set <kbd>**Use model creation fix?**</kbd> to <kbd>`No`</kbd>
+4. Click on <kbd>**Save &</kbd> Quit**
+5. Click on <kbd>**Done**</kbd>
+6. In a world, press <kbd>F3</kbd> + <kbd>T</kbd>. You'll see a loading screen
 7. Verify if the models are displayed correctly
 8. If not, custom models will not work. You should either:
    * Re-enable the option you changed in _step 3_, and disable the resource pack
-   * Disable the **OptiFine** option, and keep the resource pack without the models
+   * Disable the <kbd>`OptiFine`</kbd> option, and keep the resource pack without the models
 {% endtab %}
 {% endtabs %}

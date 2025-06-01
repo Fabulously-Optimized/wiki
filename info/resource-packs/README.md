@@ -29,18 +29,18 @@ Mod Menu Helper is [licensed under BSD-3-Clause](https://github.com/Fabulously-O
 
 Improves the Mod Menu by explaining what each mod does and labeling configurable mods with <kbd>**🛠️**</kbd> or <kbd>**✏️**</kbd>:
 
-* If they are blue, the mod is configurable through the ![config](https://i.ibb.co/j35cBtn/image.png) **Settings** button
+* If they are blue, the mod is configurable through the ![Config button](https://i.ibb.co/j35cBtn/image.png) <kbd>**Config**</kbd> button
   * If the description says "Toggle mod", the entire mod can be disabled in-game
 * If they are gray, there will be no configuration button in-game. You can:
   * Sometimes find the mod's configuration in Minecraft's Options menu
   * Sometimes modify advanced configuration files manually (not recommended)
   * [Disable that mod](../../how-to/disable-mods/)
 * If you cannot see them, either that mod is not from FO, or the resource pack may be off:
-  1. Click on **Done**
-  2. Click on **Options...**
-  3. Click on **Resource Packs...**
-  4. Click on the right arrow next to **Mod Menu Helper.zip**
-  5. Click on **Done**. You should now see the icons in the Mod Menu
+  1. Click on <kbd>**Done**</kbd>
+  2. Click on <kbd>**Options...**</kbd>
+  3. Click on <kbd>**Resource Packs...**</kbd>
+  4. Click on the <kbd>**right arrow**</kbd> next to `Mod Menu Helper.zip`
+  5. Click on <kbd>**Done**</kbd>. You should now see the icons in the Mod Menu
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><p>Mod Menu Helper</p><p>on <strong>GitHub</strong></p></td><td><a href="https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper">https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper</a></td></tr></tbody></table>
 

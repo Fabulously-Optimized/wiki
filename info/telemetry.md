@@ -9,7 +9,7 @@ icon: chart-area
 
 While telemetry is not inherently bad, as it may help developers better support their users' devices (for example when it comes to performance), it may be unwanted and unexpected.
 
-FO disables all forms of telemetry by default, giving the user the choice to opt-in if he wills. This is because of three reasons:
+FO disables all forms of telemetry by default, giving the user the choice to opt-in if willing. This is because of three reasons:
 
 * In accordance to the [Transparency principle](../about/#transparency), we believe telemetry should be opt-in
 * Snooper collects too much data even in minimal configuration, for example the user's Xbox ID

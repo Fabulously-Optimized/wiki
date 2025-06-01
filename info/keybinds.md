@@ -11,12 +11,12 @@ Click on each keybind to get a description of what it does.
 
 | Option                                                          | Vanilla             | FO           | Reason for Change                    |
 | --------------------------------------------------------------- | ------------------- | ------------ | ------------------------------------ |
-| [Zoomify: Zoom](#user-content-fn-1)[^1]                         | <kbd>v</kbd>        | <kbd>c</kbd> | This key is more often used for zoom |
-| [Vanilla: Save Hotbar Activator](#user-content-fn-2)[^2]        | <kbd>c</kbd>        | _none_       | This key is more often used for zoom |
-| [Zoomify: Secondary zoom](#user-content-fn-3)[^3]               | `F6`                | _none_       | Not needed for most players          |
-| [Iris: Reload Shaders](#user-content-fn-4)[^4]                  | <kbd>r</kbd>        | _none_       | Not needed for most players          |
-| [Iris: Shaderpack Selection Screen](#user-content-fn-5)[^5]     | <kbd>o</kbd>        | _none_       | Not needed for most players          |
-| [Iris: Toggle Shaders](#user-content-fn-6)[^6]                  | <kbd>k</kbd>        | _none_       | Not needed for most players          |
+| [Zoomify: Zoom](#user-content-fn-1)[^1]                         | <kbd>V</kbd>        | <kbd>C</kbd> | This key is more often used for zoom |
+| [Vanilla: Save Hotbar Activator](#user-content-fn-2)[^2]        | <kbd>C</kbd>        | _none_       | This key is more often used for zoom |
+| [Zoomify: Secondary zoom](#user-content-fn-3)[^3]               | <kbd>F6</kbd>       | _none_       | Not needed for most players          |
+| [Iris: Reload Shaders](#user-content-fn-4)[^4]                  | <kbd>R</kbd>        | _none_       | Not needed for most players          |
+| [Iris: Shaderpack Selection Screen](#user-content-fn-5)[^5]     | <kbd>O</kbd>        | _none_       | Not needed for most players          |
+| [Iris: Toggle Shaders](#user-content-fn-6)[^6]                  | <kbd>K</kbd>        | _none_       | Not needed for most players          |
 | [FabricSkyboxes: Toggle mod](#user-content-fn-7)[^7]            | <kbd>Numpad 0</kbd> | _none_       | Not needed for most players          |
 | [OptiGUI: Copy inspection to clipboard](#user-content-fn-8)[^8] | <kbd>F12</kbd>      | _none_       | Not needed for most players          |
 
