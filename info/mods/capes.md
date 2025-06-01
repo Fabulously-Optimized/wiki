@@ -25,9 +25,9 @@ To be informed of those events as they happen, ensure you have the **Other news*
 1. Sign up on [MinecraftCapes](https://minecraftcapes.net/account/login)
 2. Draw and download a cape on the [SkinMC Minecraft Cape Editor](https://skinmc.net/capes/editor)
 3. If you want the official FO cape, download it here:
-   {% file src="https://github.com/Fabulously-Optimized/fabulously-optimized/raw/main/cape.png" %}
-   Official FO cape
-   {% endfile %}
+
+{% file src="/assets/cape.png" caption="Official FO cape" %}
+
 4. Upload the cape you chose on the [MinecraftCapes page](https://minecraftcapes.net/upload-cape)
 5. You can now enjoy your cape in Minecraft! Users with FO or MinecraftCapes will also see it
 
