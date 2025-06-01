@@ -5,11 +5,13 @@ hidden: true
 # MultiMC
 
 1. Find the mod or mods you want to add from the [list of Fabric mods on Modrinth](https://modrinth.com/mods?g=categories:fabric)
-2. Click on the mod's **Details** page
-3. Click on **Download** next to the latest version compatible with Fabric and Minecraft. A `jar` file should be downloaded
-4. Open **MultiMC**
-5. Select the FO instance
-6. Click on **Instance Folder**
-7. Copy the `jar` file you downloaded in _step 3_ to the `mods` folder
-8. Launch the instance. Minecraft should open up
-9. If you can see the newly installed content in the Mod Menu, you're done!
+2. Click on the mod's <kbd>**Details**</kbd> page
+3. Click on your desired Minecraft version
+4. Click on Fabric
+5. Click on <kbd>**Download**</kbd>. A `jar` file should be downloaded
+6. Open **MultiMC**
+7. Select <kbd>**Fabulously Optimized**</kbd>
+8. Click on <kbd>**Instance Folder**</kbd>
+9. Copy the `jar` file you downloaded in _step 3_ to the `mods` folder
+10. Double-click on <kbd>**Fabulously Optimized**</kbd>. Minecraft should open up
+11. If you can see the newly installed content in the Mod Menu, you're done!
