@@ -68,18 +68,18 @@ If you're having issues with a resource pack that uses these features, see the [
     1. Disable MoreCulling
     2. Add the [Cull Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-leaves) mod
     3. Enable Cull Leaves' bundled resource pack
-    4. Open **Options**
-    5. Open **Video Settings...**
-    6. Open **Performance**
-    7. Disable **Use Block Face Culling**
+    4. Open <kbd>**Options**</kbd>
+    5. Open <kbd>**Video Settings...**</kbd>
+    6. Open <kbd>**Performance**</kbd>
+    7. Disable <kbd>**Use Block Face Culling**</kbd>
 
 [^2]: Not identical to OptiFine, as people preferred a smoother zoom. If you want it to be identical:
 
-    1. Click on the **Mods** button
-    2. Find and click on **Zoomify**
-    3. Click on the **Configure** icon in the top-left
-    4. Click on the **Misc** tab
-    5. Select the **OptiFine** preset
+    1. Click on the <kbd>**Mods**</kbd> button
+    2. Find and click on <kbd>**Zoomify**</kbd>
+    3. Click on the <kbd>**Configure**</kbd> icon in the top-left
+    4. Click on the <kbd>**Misc**</kbd> tab
+    5. Select the <kbd>**OptiFine**</kbd> preset
 
 [^3]: No longer supported
 

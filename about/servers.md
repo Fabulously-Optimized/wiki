@@ -65,11 +65,11 @@ Read more on the ["Protecting Server Players" page in the No Chat Reports wiki](
 Minecraft 1.19.1 introduced chat reporting, which many servers disable. As a server admin, you can do the following:
 
 * If you're on **1.18.2 or earlier**, there's no need to do anything, as Player Reporting didn't exist yet
-  * FO users will see this icon: ![optional](https://i.ibb.co/hstcjW7/neutral.png)
+  * FO users will see this icon: ![Chat Reporting is optional](https://i.ibb.co/hstcjW7/neutral.png)
   * Vanilla users will see a gray bar next to the messages, and their messages will not be reportable
 * If you're on **1.19 or newer**:
   * Set `enforce-secure-profile` to `false` in `server.properties`, to allow users to not sign messages
-    * FO users will see this icon: ![optional](https://i.ibb.co/hstcjW7/neutral.png)
+    * FO users will see this icon: ![Chat Reporting is optional](https://i.ibb.co/hstcjW7/neutral.png)
     * Vanilla users will see a warning toast in the top-right corner, but their messages will still be reportable
     * Some hosts use different configuration files:
       * Velocity: set `force-key-authentication` to `false` in `velocity.toml`
@@ -78,21 +78,21 @@ Minecraft 1.19.1 introduced chat reporting, which many servers disable. As a ser
     * Vanilla: no known workarounds exist. Please consider using a mod loader
     * Paper/Purpur/Pufferfish: install the [FreedomChat plugin](https://modrinth.com/mod/freedomchat)
       * Set `rewrite-chat` and `send-prevents-chat-reports-to-client` to `true` in FreedomChat's configuration
-      * FO users will see this icon: ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
+      * FO users will see this icon: ![Chat Reporting is disabled](https://i.ibb.co/QDFzXCT/secure.png)
       * Vanilla users will see a gray bar next to the messages, and their messages will not be reportable
     * Fabric/NeoForge: install the [No Chat Reports mod](https://modrinth.com/mod/no-chat-reports)
-      * FO users will see this icon: ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
+      * FO users will see this icon: ![Chat Reporting is disabled](https://i.ibb.co/QDFzXCT/secure.png)
       * Vanilla users will see a gray bar next to the messages, and their messages will not be reportable
     * Quilt: no known workarounds exist. Please consider using another mod loader
     * LAN worlds: host with FO or install the [No Chat Reports mod](https://modrinth.com/mod/no-chat-reports) on the clients
-      * FO users will see this icon: ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
+      * FO users will see this icon: ![Chat Reporting is disabled](https://i.ibb.co/QDFzXCT/secure.png)
       * Vanilla users will see a gray bar next to the messages, and their messages will not be reportable
     * LAN-like worlds ([e4mc](https://e4mc.link/), [World Host](https://modrinth.com/mod/world-host), [Essential](https://essential.gg/)...): host with FO or install the [No Chat Reports mod](https://modrinth.com/mod/no-chat-reports) on the clients
-      * FO users will see this icon: ![optional](https://i.ibb.co/hstcjW7/neutral.png)
+      * FO users will see this icon: ![Chat Reporting is optional](https://i.ibb.co/hstcjW7/neutral.png)
       * Vanilla users will see a warning toast in the top-right corner, but their messages will still be reportable
     * Realms: almost impossible to circumvent
       * Mojang monitors ALL chats in Realms! Read more in the [Player Reporting article](../info/mods/player-reporting.md)
-      * FO users will see this icon: ![realms](https://i.ibb.co/gTxw84X/realms.png)
+      * FO users will see this icon: ![Chat Reporting is mandatory on Realms](https://i.ibb.co/gTxw84X/realms.png)
       * Vanilla users will not be warned at all, but their messages will be reportable
       * You could:
         * Use alternative methods to chat. Read more in the [Player Reporting article](../info/mods/player-reporting.md)

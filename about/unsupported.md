@@ -79,9 +79,9 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 
 1. Open **GDLauncher Legacy**
 2. Right-click on the previously-used instance
-3. Click on **Open Folder**
+3. Click on the <kbd>**Open Folder**</kbd> button
 4. Follow the [FO installation instructions for Prism Launcher](../how-to/install/prism-launcher.md)
-5. In Prism Launcher, click on the **Folder** button on the left
+5. In Prism Launcher, click on the <kbd>**Folder**</kbd> button on the left
 6. Move the following files from the folder you opened in _step 3_ to the folder you opened in _step 5_:
    * `saves`: Your local worlds
    * `resourcepacks`: Your resource packs, if any. If you're asked to replace files, do not!
@@ -105,17 +105,17 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 3. Open **Prism Launcher**. You should get a prompt
 4. Pay attention to what the prompt says. If it says:
    * > It looks like you used PolyMC before. Do you want to migrate your data to the new location of Prism Launcher?
-     * Click **Yes** to migrate automatically
+     * Click on the <kbd>**Yes**</kbd> button to migrate automatically
    * > Old data from PolyMC was found, but you already have existing data for Prism Launcher. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start Prism Launcher?
-     1. Click **No** to close the prompt
+     1. Click on the <kbd>**No**</kbd> button to close the prompt
      2. Open PolyMC's `instances` directory:
         * Windows: `%APPDATA%/PolyMC/instances`
         * macOS: `~/Library/Application Support/PolyMC/instances`
         * Linux: `~/.local/share/PolyMC/instances`
         * Portable: `PolyMC/instances`
      3. Copy all files and folders from that folder
-     4. In Prism Launcher, click on **Folders**
-     5. Click on **View Instance Folder**
+     4. In Prism Launcher, click on the <kbd>**Folders**</kbd> button
+     5. Click on the <kbd>**View Instance Folder**</kbd> button
      6. Paste the files you copied in _step 3_ in the folder you opened in _step 5_
      7. Close and reopen Prism Launcher. You should find all of your instances there
      8. Sign into your accounts and complete Prism Launcher's configuration
