@@ -107,20 +107,13 @@ In most cases:
 
 If there is a new Minecraft version:
 
-1. [Download the pack for your preferred Minecraft version](install-instructions.md#multimc-auto-update)
-2. Drag the ZIP-archive to MultiMC window
-3. Click that version, then `Minecraft Folder`
-4. Click the previous version, then `Minecraft Folder`
-5. Copy the important files and folders over:
-   * `saves` - your local worlds
-   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
-   * `shaders` - if you use any
-   * `screenshots` - screenshots you've taken with F2 or F9
-   * `servers.dat` - your multiplayer servers
-   * `options.txt` - if you want to keep your vanilla option and all hotkey changes
-   * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
-6. Close the folders and run the new version
-7. If everything looks right, delete the old version
+1. Go to the existing instance, click `Edit Instance`
+2. Go to `Settings` on the left, then `Custom commands`
+3. On `Pre-launch command`, you see a long text. Scroll to the rightmost edge.
+4. It will say something like _.../main/Packwiz/**1.21.5**/pack.toml_. Change the Minecraft version to the one you prefer (always higher; [ensure that the modpack is built for that version](https://modrinth.com/modpack/fabulously-optimized/versions)).
+5. Click `Launch`.
+6. You should see a popup saying "This modpack uses newer versions of the following..." - click `Update`.
+7. You're done - the instance is now using an updated Minecraft version.
 
 <details>
   <summary>Got asked to download a mod manually?</summary>
