@@ -10,25 +10,27 @@ hidden: true
 {% tab title="Windows" %}
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the `exe` installer. If you get a security prompt from Windows, allow the installer to run:
-   * Click on **More info**
-   * Click on **Run anyway**
+   * Click on <kbd>**More info**</kbd>
+   * Click on <kbd>**Run anyway**</kbd>
    * [Why did I get this prompt?](vanilla.md#why-does-windows-show-the-security-prompt)
 3. Select your desired FO and Minecraft versions
-4. Click on **Install**
+4. Click on <kbd>**Install**</kbd>
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
-6. Launch the newly created installation. Minecraft should start up
+6. Launch the newly created **Fabulously Optimized** installation. Minecraft should start up
 7. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
 ### Why does Windows show the security prompt?
+
+TODO
 {% endtab %}
 
 {% tab title="Linux" %}
 1. Download the [FO Installer](https://download.fo/vanilla)
-2. Open the `appimage` installer. If you get a security prompt from your OS, click on **Run once**.
+2. Open the `appimage` installer. If you get a security prompt from your OS, click on <kbd>**Run once**</kbd>.
 3. Select your desired FO and Minecraft versions
-4. Click on **Install**
+4. Click on <kbd>**Install**</kbd>
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
-6. Launch the newly created installation. Minecraft should start up
+6. Launch the newly created **Fabulously Optimized** installation. Minecraft should start up
 7. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 {% endtab %}
 
@@ -36,21 +38,21 @@ hidden: true
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the `dmg` installer. If you get a security prompt from macOS, allow the installer to run:
    * Double-click on the **FO Installer**. You will get a warning
-   * Click on **Done**
+   * Click on <kbd>**Done**</kbd>
    * On the menu bar, click on the Apple logo
-   * Click on **System Settings**
-   * In the sidebar, click on **Privacy & Security**
-   * In the right view, scroll down to find a **Open anyway** button
-   * Click the **Open anyway** button
+   * Click on <kbd>**System Settings**</kbd>
+   * In the sidebar, click on <kbd>**Privacy & Security**</kbd>
+   * In the right view, scroll down to find a <kbd>**Open anyway**</kbd> button
+   * Click on the <kbd>**Open anyway**</kbd> button
    * If prompted, authenticate with your password or your fingerprint
-   * [Why did I get this prompt?](vanilla.md#why-does-macos-show-the-security-prompt)
+   * [Why did I get this prompt?](vanilla.md#why-does-macos-15-show-the-security-prompt)
 3. Select your desired FO and Minecraft versions
-4. Click on **Install**
+4. Click on <kbd>**Install**</kbd>
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
-6. Launch the newly created installation. Minecraft should start up
+6. Launch the newly created **Fabulously Optimized** installation. Minecraft should start up
 7. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
-### Why does macOS show the security prompt?
+### Why does macOS 15+ show the security prompt?
 
 Apple has implemented a verification system for programs, which costs 99 USD a year. Such an expense is not worth it for FO.
 
@@ -61,16 +63,16 @@ If you are concerned by this, you can also install FO manually, or use another [
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the `dmg` installer. If you get a security prompt from macOS, allow the installer to run:
    * Right-click on the **FO Installer**
-   * Click on **Open**
-   * If a popup prompts again, click on **Open**
-   * [Why did I get this prompt?](vanilla.md#why-does-macos-show-the-security-prompt)
+   * Click on <kbd>**Open**</kbd>
+   * If a popup prompts again, click on <kbd>**Open**</kbd>
+   * [Why did I get this prompt?](vanilla.md#why-does-macos-14--show-the-security-prompt)
 3. Select your desired FO and Minecraft versions
-4. Click on **Install**
+4. Click on <kbd>**Install**</kbd>
 5. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download). You should find a new installation
-6. Launch the newly created installation. Minecraft should start up
+6. Launch the newly created **Fabulously Optimized** installation. Minecraft should start up
 7. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
-### Why does macOS show the security prompt?
+### Why does macOS 14- show the security prompt?
 
 Apple has implemented a verification system for programs, which costs 99 USD a year. Such an expense is not worth it for FO.
 
@@ -92,14 +94,14 @@ Please report any issues you encounter on [GitHub](https://github.com/Fabulously
 2. Download the [Fabric Installer](https://fabricmc.net/use)
 3. Open the Fabric Installer
 4. Select `version 0.16.12` of the Fabric Loader
-5. Click on **Install**. You have now installed the Fabric Loader
+5. Click on <kbd>**Install**</kbd>. You have now installed the Fabric Loader
 6. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download)
-7. Click on **Installations**. You should find a new Fabric installation
-8. Click on the folder icon 📂 next to the Fabric installation
+7. Click on <kbd>**Installations**</kbd>. You should find a new Fabric installation
+8. Click on the <kbd>**📂 Folder**</kbd> button next to the Fabric installation
 9. Open your **browser**
 10. Open the [FO vanilla downloader](https://download.fo/vanilla)
 11. If you do not want the latest version of FO, select the version you want from the dropdown
-12. Click on the download button ⬇️. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-zip-file-contain)
+12. Click on the <kbd>**⬇️ Download**</kbd> button. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-zip-file-contain)
 13. If you get a prompt about popup windows or multiple downloads, please allow them
 14. Extract the `zip` file
 15. Open the extracted `zip` file
@@ -131,14 +133,14 @@ The `zip` file contains the following:
    * Minecraft 1.19-1.19.3: `version 0.14.24`
    * Minecraft 1.17-1.18.2: `version 0.14.12`
    * Minecraft 1.16.5: `version 0.13.3`
-5. Click on **Install**. You have now installed the Fabric Loader
+5. Click on <kbd>**Install**</kbd>. You have now installed the Fabric Loader
 6. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download)
-7. Click on **Installations**. You should find a new Fabric installation
-8. Click on the folder icon 📂 next to the Fabric installation
-9. In your **browser**, open the [**Files** section on CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show)
+7. Click on <kbd>**Installations**</kbd>. You should find a new Fabric installation
+8. Click on the <kbd>**📂 Folder**</kbd> button next to the Fabric installation
+9. In your **browser**, open the [<kbd>**Files**</kbd> section on CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show)
 10. Click on the appropriate version of FO
-11. Click on **Additional files**. You should find a **MultiMC version**
-12. Click on `⋮`, then on `Download file`. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-multimc-pack-contain)
+11. Click on <kbd>**Additional files**</kbd>. You should find a **MultiMC version**
+12. Click on the <kbd>**three dots**</kbd>, then on <kbd>**Download file**</kbd>. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-multimc-pack-contain)
 13. Extract the `zip` file. If you see less than 10 mods in it, you have downloaded the wrong version
 14. Go to `Fabulously Optimized x.x.x` > `minecraft`. You should find a `zip` file in there
 15. Extract the `zip` file
