@@ -27,7 +27,7 @@ Here is how you should think about the version types in relation to Minecraft's:
 
 The latest stable version and if available, also latest beta and/or alpha versions. Older versions are listed for your convenience, but may not receive any more updates.
 
-#### Why won't the installer show versions older than 5.10.3?
+#### Why won't the installer show versions older than 5.12.0?
 
 These versions are old and therefore no longer recommended for most users. Please [use manual install](install-instructions.md#minecraft-launcher-vanilla) if you'd like to use them.
 
