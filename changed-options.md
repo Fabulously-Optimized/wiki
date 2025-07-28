@@ -93,7 +93,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |  
 | [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-237493](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| [MC-263865](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.3/PATCHED.md#unpatched-in-vanilla).
 
