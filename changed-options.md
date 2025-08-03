@@ -27,7 +27,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 ¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]`
 
-**Changed mod settings can be found on the repo at [.../yosbr/1.21.4/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.4/config).**
+**Changed mod settings can be found on the repo at [.../yosbr/1.21.8/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.8/config).**
 
 ### Telemetry
 
@@ -94,7 +94,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-263865](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
-If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.3/PATCHED.md#unpatched-in-vanilla).
+If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.8/PATCHED.md#unpatched-in-vanilla).
 
 #### Requesting a bugfix
 
