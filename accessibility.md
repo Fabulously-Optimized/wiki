@@ -2,10 +2,10 @@
 
 Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
 
-* The [first-run accessibility screen](https://minecraft.wiki/w/File:Accessibility_Onboarding_Screen_23w03a.png) is not used, as its content was already duplicated on the title screen.
-  * Languages screen can be accessed by pressing `→` (right arrow) `Enter` or clicking the ![Language](https://minecraft.wiki/images/LanguageButton.png) button. 
-  * Accessibility screen can be accessed by pressing `←` `←` (left arrow twice) `Enter` or clicking the ![Accessibility](https://minecraft.wiki/images/AccessibilityButton.png) button.
-  * Narrator can be enabled on any screen by holding `Ctrl` and pressing `B`.
+* The first-run accessibility screen is muted due to making unexpected sound.
+  * Narrator can be enabled on that screen by pressing `Enter` and on any screen by holding `Ctrl` and pressing `B`.
+  * Accessibility screen can be accessed there by pressing `Down arrow` and `Enter` or clicking the ![Accessibility](https://minecraft.wiki/images/AccessibilityButton.png) button in the main menu.
+  * Languages screen can be accessed there by pressing `Down arrow`, `Down arrow` and `Enter` or clicking the ![Language](https://minecraft.wiki/images/LanguageButton.png) button in the main menu. 
 * Users can search for and select [multiple languages](language-support.md)
   * User's native language is automatically applied (where supported)
   * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
