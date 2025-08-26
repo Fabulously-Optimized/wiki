@@ -7,7 +7,7 @@ This is a copy of the in-game first run tutorial, slightly reformatted for bette
 Welcome to **Fabulously Optimized**! Here are some tips.
 
 🪟 Connected Textures and Dynamic Lights can be configured in **Mods**\
-🏞 Better Grass and full screen with Alt+Tab support can be enabled in **Video Settings**\
+🏞️ Better Grass and full screen with Alt+Tab support can be enabled in **Video Settings**\
 ✨ Shaders and resource pack features are supported, just **download and enable**\
 🎮 **Connect** a game controller to use that instead of the keyboard\
 🛜 Press **Open to Internet** in singleplayer to play with friends, anywhere\
