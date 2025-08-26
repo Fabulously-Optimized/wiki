@@ -2,6 +2,7 @@
 
 * [Welcome to wiki!](README.md)
 * [Disclaimers](disclaimers.md)
+* [Tutorial](tutorial.md)
 * [How to install FO](install-instructions.md)
 * [How to update FO](update-instructions.md)
 * [How to add mods to FO](adding-more-mods.md)
@@ -21,4 +22,3 @@
 * [Improving performance](improving-performance.md)
 * [Server setup](server-setup.md)
 * [Unofficial Player Reporting FAQ](chat-reporting-faq.md)
-* [Tutorial](tutorial.md)
