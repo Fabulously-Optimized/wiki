@@ -74,3 +74,4 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 
 * Need to disable a mod instead? [See this page.](disabling-mods.md)
 * Coming from Forge and don't know what to install? Check out the [community list of equivalent mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md).
+* Looking to install FO with a custom game client? [Try these alternative mods](https://wiki.download.fo/install-instructions#game-clients)
