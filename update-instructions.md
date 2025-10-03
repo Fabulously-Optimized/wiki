@@ -28,7 +28,7 @@ If you haven't changed the mods:
 2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
     * Don't see that option? Follow the other instructions below.
 3. Click `Continue`.
-    * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
+    * Optional: Click `Select version` to choose which one you want before clicking `Continue`.
 4. Modpack will now update.
 5. Run it and check the version difference in the bottom right corner.
 
@@ -42,7 +42,7 @@ If you added or removed some mods:
 5. Click `Continue`
 6. Click `⫶` → `⇄ Change Version`.
 7. Click `Continue`.
-    * Optional: Select the version you want by selecting it on the dropdown before you click `Continue`.
+    * Optional: Click `Select version` to choose which one you want before clicking `Continue`.
 8. Modpack will now update.
 9. Run it and check the version difference in the bottom right corner.
 
