@@ -92,6 +92,12 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
 * For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.20-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
+### Crash Assistant
+
+Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for more streamlined support. 
+
+* For testing, change your system language (or game? verify) and crash the game by holding F3+C for 10 seconds.
+
 ### Website
 
 The new website is almost entirely localizable.
