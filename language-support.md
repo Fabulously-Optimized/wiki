@@ -23,7 +23,7 @@ I support people using Minecraft in their language and would like to promote tha
 
 List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform.
 
-1. [Sodium](https://crowdin.com/project/sodium-fabric) (unofficial, but bundled in FO)
+1. [Sodium](#sodium) (unofficial, but bundled in FO)
 2. [Sodium Extra](https://crowdin.com/project/sodium-extra)
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
 4. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
@@ -93,28 +93,6 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
 * For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.20-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
-### Fast Better Grass
-
-Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be reincluded in later releases.
-
-* The resource pack description is translated within [Mod Menu Helper](#mod-menu-helper), to keep the original pack small and simple.
-
-### Sodium
-
-Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
-
-* [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
-* Translations are published every Saturday, so any FO version to come after that will get it.
-* Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
-* You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
-
-### Installer
-
-It is possible to translate most messages on the installer, except for some very detailed errors.
-
-* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
-* The language of the installer is determined by the operating system, but changeable in the top left corner.
-
 ### Website
 
 The new website is almost entirely localizable.
@@ -131,6 +109,28 @@ The new website is almost entirely localizable.
 3. Scroll down to find a comment by the user `vercel`. Click `Visit Preview` on that comment.
 4. Ensure the site is in translated language and click around to see your translation as it would appear live.
 5. If needed, adjust your translation and repeat from step 2.
+
+### Installer
+
+It is possible to translate most messages on the installer, except for some very detailed errors.
+
+* The language of the installer is determined by the operating system, but changeable in the top left corner.
+* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+
+### Sodium
+
+Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
+
+* [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
+* Translations are published every Saturday, so any FO version to come after that will get it.
+* Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
+* You are more likely to be accepted as a proofreader if you have previous translation work on this modpack or other Minecraft-related projects.
+
+### Fast Better Grass
+
+Resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be reincluded in later releases.
+
+* The only string to translate is the pack description. It is translated within [Mod Menu Helper](#mod-menu-helper) to keep the original pack small and simple.
 
 ### Untranslated
 
