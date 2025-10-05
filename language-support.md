@@ -21,19 +21,18 @@ I support people using Minecraft in their language and would like to promote tha
 
 ### Notable mods to translate
 
-List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform.
+List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform. Links with *️⃣ use a translation platform similar to the modpack itself, and are hence easier to translate and collaborate in.
 
-1. [Sodium](#sodium) (unofficial, but bundled in FO)
-2. [Sodium Extra](https://crowdin.com/project/sodium-extra)
+1. [Sodium](#sodium) (unofficial translations, bundled in FO) *️⃣
+2. [Sodium Extra](https://crowdin.com/project/sodium-extra) *️⃣
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
-4. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
-5. [Mod Menu](https://crowdin.com/project/mod-menu)
-6. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
-7. [Fabric API/Installer](https://crowdin.com/project/fabricmc)
-8. [Zoomify](https://github.com/isXander/Zoomify/blob/multiversion/dev/src/main/resources/assets/zoomify/lang/en_us.json)
+4. [BetterGrassify](https://crowdin.com/project/bettergrassify/) *️⃣
+5. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json)
+6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/1.21.9/src/main/resources/assets/modmenu/lang/en_us.json)
+7. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
+8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.10/src/main/resources/assets/lambdynlights/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
-10. [Continuity](https://github.com/PepperCode1/Continuity/blob/1.20.1/dev/src/main/resources/assets/continuity/lang/en_us.json)
-11. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
+10. [Fabric API/Installer](https://crowdin.com/project/fabricmc) *️⃣
 
 ## Modpack
 
