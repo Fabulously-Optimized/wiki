@@ -94,13 +94,14 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 ### Crash Assistant
 
-Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for more streamlined support. 
+Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for clearer instructions. 
 
 * For testing, change your system language (or game? verify) and crash the game by holding F3+C for 10 seconds.
+* It is highly recommended to also [translate the mod itself](https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/common_config/src/main/resources/crash_assistant_localization/en_us.json), as it contains various crash analysis descriptions.
 
 ### Website
 
-The new website is almost entirely localizable.
+The modpack's website is almost entirely localizable to your language.
 
 * Translation testing is not required, but recommended. Currently possible only for proofreaders, read below.
 * Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
