@@ -96,8 +96,22 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for clearer instructions. 
 
-* For testing, change your system language (or game? verify) and crash the game by holding F3+C for 10 seconds.
+* Length is usually not an issue, so testing is optional.
 * It is highly recommended to also [translate the mod itself](https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/common_config/src/main/resources/crash_assistant_localization/en_us.json), as it contains various crash analysis descriptions.
+
+#### Testing tutorial
+
+1. Select your language on Crowdin
+2. Select `Crash Assistant`
+3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+   * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
+4. Run Fabulously Optimized
+5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
+6. Go one folder up to `.minecraft`
+7. Go to `config` → `crash_assistant` → `crash_assistant_localization_overrides`
+8. Go back to the game, hold down `F3` and `C` for 10 seconds
+8. Look around and make sure everything looks right.
+9. If necessary, change the translation on Crowdin and repeat from step 3.
 
 ### Website
 
