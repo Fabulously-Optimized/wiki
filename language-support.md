@@ -21,19 +21,18 @@ I support people using Minecraft in their language and would like to promote tha
 
 ### Notable mods to translate
 
-List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform.
+List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform. Links with *️⃣ use a translation platform similar to the modpack itself, and are hence easier to translate and collaborate in.
 
-1. [Sodium](https://crowdin.com/project/sodium-fabric) (unofficial, but bundled in FO)
-2. [Sodium Extra](https://crowdin.com/project/sodium-extra)
+1. [Sodium](#sodium) (unofficial translations, bundled in FO) *️⃣
+2. [Sodium Extra](https://crowdin.com/project/sodium-extra) *️⃣
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
-4. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json) (appears in Video Settings)
-5. [Mod Menu](https://crowdin.com/project/mod-menu)
-6. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
-7. [Fabric API/Installer](https://crowdin.com/project/fabricmc)
-8. [Zoomify](https://github.com/isXander/Zoomify/blob/multiversion/dev/src/main/resources/assets/zoomify/lang/en_us.json)
+4. [BetterGrassify](https://crowdin.com/project/bettergrassify/) *️⃣
+5. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json)
+6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/1.21.9/src/main/resources/assets/modmenu/lang/en_us.json)
+7. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
+8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.10/src/main/resources/assets/lambdynlights/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
-10. [Continuity](https://github.com/PepperCode1/Continuity/blob/1.20.1/dev/src/main/resources/assets/continuity/lang/en_us.json)
-11. [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
+10. [Fabric API/Installer](https://crowdin.com/project/fabricmc) *️⃣
 
 ## Modpack
 
@@ -93,31 +92,30 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
 * For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.20-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
-### Fast Better Grass
+### Crash Assistant
 
-Bundled resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be reincluded in later releases.
+Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for clearer instructions. 
 
-* The resource pack description is translated within [Mod Menu Helper](#mod-menu-helper), to keep the original pack small and simple.
+* Length is usually not an issue, so testing is optional.
+* It is highly recommended to also [translate the mod itself](https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/common_config/src/main/resources/crash_assistant_localization/en_us.json), as it contains various crash analysis descriptions.
 
-### Sodium
+#### Testing tutorial
 
-Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
-
-* [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
-* Translations are published every Saturday, so any FO version to come after that will get it.
-* Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
-* You are more likely to be accepted as a proofreader if you have previous translation work on FO or other Minecraft-related projects.
-
-### Installer
-
-It is possible to translate most messages on the installer, except for some very detailed errors.
-
-* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
-* The language of the installer is determined by the operating system, but changeable in the top left corner.
+1. Select your language on Crowdin
+2. Select `Crash Assistant`
+3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+   * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
+4. Run Fabulously Optimized
+5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
+6. Go one folder up to `.minecraft`
+7. Go to `config` → `crash_assistant` → `crash_assistant_localization_overrides`
+8. Go back to the game, hold down `F3` and `C` for 10 seconds
+8. Look around and make sure everything looks right.
+9. If necessary, change the translation on Crowdin and repeat from step 3.
 
 ### Website
 
-The new website is almost entirely localizable.
+The modpack's website is almost entirely localizable to your language.
 
 * Translation testing is not required, but recommended. Currently possible only for proofreaders, read below.
 * Keep the format as-is, e.g. if the original says `[Hello world][1]`, then you must only translate "Hello world" while keeping the square brackets as they are.
@@ -131,6 +129,28 @@ The new website is almost entirely localizable.
 3. Scroll down to find a comment by the user `vercel`. Click `Visit Preview` on that comment.
 4. Ensure the site is in translated language and click around to see your translation as it would appear live.
 5. If needed, adjust your translation and repeat from step 2.
+
+### Installer
+
+It is possible to translate most messages on the installer, except for some very detailed errors.
+
+* The language of the installer is determined by the operating system, but changeable in the top left corner.
+* Translation testing is currently not easy and therefore not required, just check the context and ask questions if needed.
+
+### Sodium
+
+Unofficial resource pack that adds translations to Sodium. Managed by the creator of Fabulously Optimized and the creator of Sodium Extra, but is an independent project.
+
+* [Translated on Crowdin](https://crowdin.com/project/sodium-fabric)
+* Translations are published every Saturday, so any FO version to come after that will get it.
+* Translations do not require approval to be published, however proofreading would still be preferred to ensure quality.
+* You are more likely to be accepted as a proofreader if you have previous translation work on this modpack or other Minecraft-related projects.
+
+### Fast Better Grass
+
+Resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be reincluded in later releases.
+
+* The only string to translate is the pack description. It is translated within [Mod Menu Helper](#mod-menu-helper) to keep the original pack small and simple.
 
 ### Untranslated
 
