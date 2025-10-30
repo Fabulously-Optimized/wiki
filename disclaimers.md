@@ -13,7 +13,6 @@ By using this modpack, you agree to the following:
 * The modpack hides the [third-party server disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png), therefore by using the multiplayer function, you implicitly agree to the following: 
     > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
 * The modpack hides a hotkey disclaimer for [the "social interactions" screen](https://minecraft.wiki/w/Social_interactions#Usage). Said screen can be opened by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
-* The modpack [supports various accessibility features](accessibility.md) while disabling [the accessibility onboarding screen](https://minecraft.wiki/w/File:Accessibility_Onboarding_Screen_23w03a.png).
 * Other [changed default options can be found here.](changed-options.md)
 
 ### Privacy and security
