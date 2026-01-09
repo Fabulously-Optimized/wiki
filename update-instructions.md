@@ -78,7 +78,7 @@ If you added or removed some mods:
 
 ### MultiMC
 
-{% hint style="info" %} Seems tedious? Consider using Prism Launcher or the MultiMC (auto-update) variant instead. {% endhint %}
+{% hint style="info" %} Seems tedious? Consider [switching to Prism Launcher](install-instructions.md#prism-launcher) or [using the MultiMC (auto-update)](install-instructions.md#multimc-auto-update) variant instead. {% endhint %}
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
@@ -168,7 +168,7 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
 <details>
    <summary>Manual installation - Minecraft 1.19.4+</summary>
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.16.10**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.18.4**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
