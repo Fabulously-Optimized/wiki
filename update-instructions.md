@@ -78,7 +78,7 @@ If you added or removed some mods:
 
 ### MultiMC
 
-{% hint style="info" %} Seems tedious? Consider [switching to Prism Launcher](install-instructions.md#prism-launcher) or [using the MultiMC (auto-update)](install-instructions.md#multimc-auto-update) variant instead. {% endhint %}
+{% hint style="info" %} Seems tedious? Consider switching to Prism Launcher or using the MultiMC (auto-update) variant instead. {% endhint %}
 
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
