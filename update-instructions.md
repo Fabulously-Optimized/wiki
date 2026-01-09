@@ -78,6 +78,8 @@ If you added or removed some mods:
 
 ### MultiMC
 
+{% hint style="info" %} Seems tedious? Consider using Prism Launcher or the MultiMC (auto-update) variant instead. {% endhint %}
+
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
