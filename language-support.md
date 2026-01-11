@@ -28,7 +28,7 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
 4. [BetterGrassify](https://crowdin.com/project/bettergrassify/) *️⃣
 5. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json)
-6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/1.21.9/src/main/resources/assets/modmenu/lang/en_us.json)
+6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/26.1/src/main/resources/assets/modmenu/lang/en_us.json)
 7. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
 8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.10/src/main/resources/assets/lambdynlights/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
@@ -62,6 +62,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
      * The numbers after `@` may vary. 
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
 * Keep paragraph sign (§), tools emoji (⚒️), arrows emoji (🔀) and newlines as they are on the original.
+* The length is also important on the tutorial screen. Follow instructions below, close game, set `onboardAccessibility=true` in `options.txt` and start game again.
 
 #### Testing tutorial
 
@@ -77,7 +78,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 8. Go back to the game, `Done` → `Done`
    * On macOS, activate the `Mod Menu Helper` (without .zip) resource pack first.
 9. Play any world or server
-10. Hold down `F3` and press `T`
+10. Hold down `F3` and press `T` to reload resource pack contents
 11. Press `Esc` → `Mods`. Look around and make sure everything fits.
     * Use maximized window or fullscreen, Full HD (1920×1080) screen, GUI scale 3, default font.
 12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
