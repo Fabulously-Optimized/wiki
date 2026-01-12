@@ -50,7 +50,7 @@ If you added or removed some mods:
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
-3. Click `⤓ Update modpack` on top right (Below `▶️ Play` and `+ Install content`)
+3. Click `⤓ Update pack` on top right (Below `+ Install content`)
 4. Select the version you want and click `⇆`.
   
 <details>
