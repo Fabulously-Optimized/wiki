@@ -27,10 +27,13 @@ If you haven't changed the mods:
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
     * Don't see that option? Follow the other instructions below.
-3. Click `Continue`.
-    * Optional: Click `Select version` to choose which one you want before clicking `Continue`.
-4. Modpack will now update.
-5. Run it and check the version difference in the bottom right corner.
+3. Click `Select version`
+4. Select a version that matches your current or has a newer Minecraft version
+   * Never downgrade an instance, this could corrupt your worlds and settings!
+   * It is not advised to upgrade from release to alpha or release to beta - make a separate instance for testing.
+   * Updating from alpha to beta, beta to release is recommended as long as the Minecraft version matches.
+5. Click `Continue`. Modpack will now update.
+6. Run it and check the version difference in the bottom right corner.
 
 If you added or removed some mods:
 
