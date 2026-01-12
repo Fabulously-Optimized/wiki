@@ -2,27 +2,13 @@
 
 ### Disclaimers
 
-- As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. If worried, make backups.
-- Upgrades from stable to unstable (alpha, beta) versions of the modpack are **never** supported (make a separate instance!), while updates from unstable versions to stable ones are.
-- Any kind of instance downgrading is **never** supported. Make a separate old instance or use something like [ViaFabricPlus](https://modrinth.com/mod/viafabricplus) if your server hasn't updated yet.
-- If you follow these instructions properly, all custom mods and most mod settings you have will persist (except those that need to change). If you want, you can [reset your settings](#resetting-settings) to get the latest changes.
-
-#### Updating mods
-
-* If you are using a supported version of Fabulously Optimized and you haven't added any extra mods, **do not update any mods manually**, just update the modpack instead.
-    * If you did add extra mods, **update those individually** after you've ensured you're on latest version of Fabulously Optimized.
-    * Updating mods that are in FO may cause unexpected issues which FO releases would prevent, so manual updates only make your own life harder.
-* If you are using an unsupported (legacy) version of Fabulously Optimized, **you may carefully update the mods**.
-    * Keep in mind that we haven't tested those updates, so you may run into issues and need to revert back to previous versions.
-* Some launchers have options to update all mods at once. **Do not use this feature** for reasons listed above.
-    * Even for legacy versions of FO, updating everything at once like that may cause problems like mod loader mismatch, Minecraft version mismatch, mod platform variances (more recent version on one platform vs another) and so on.
-    * It is always safer to update each mod individually so that you can see the update was successful and valid for your MC version/mod loader.
-* If you did any of the things above and are having issues, simply update Fabulously Optimized again.
-  * This will reset your mod list to the specified FO version ones, even if you used the same version of FO beforehand.
+- As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. Backups are recommended.
+- If you follow these instructions, your added mods and most modpack mods' settings will persist. If you want, you can [reset your settings](#resetting-settings) to get the latest modpack configurations.
+- Always update the modpack first and then your own mods (if any). Do not update the modpack's mods manually, unless it is a legacy version and you know what you're doing.
 
 ### CurseForge App
 
-If you haven't changed the mods:
+#### If you haven't changed modpack's mods
 
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, right click _Fabulously Optimized_, then `⇄ Change Version`
@@ -35,7 +21,7 @@ If you haven't changed the mods:
 5. Click `Continue`. Modpack will now update.
 6. Run it and check the version difference in the bottom right corner.
 
-If you added or removed some mods:
+#### If you've added or removed some mods
 
 1. Select _Minecraft_ from the grid or sidebar
 2. On My Modpacks, click _Fabulously Optimized_
