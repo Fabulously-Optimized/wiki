@@ -1,8 +1,8 @@
 # Update instructions
 
-### Disclaimers
+### Notes
 
-- As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your custom mods or your hard drive. Backups are recommended.
+- As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your added mods or your hard drive. Backups are recommended.
 - If you follow these instructions, your added mods and most modpack mods' settings will persist. If you want, you can [reset your settings](#resetting-settings) to get the latest modpack configurations.
 - Always update the modpack first and then your own mods (if any). Do not update the modpack's mods manually, unless it is a legacy version and you know what you're doing.
 
