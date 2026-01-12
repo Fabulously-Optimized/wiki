@@ -39,19 +39,27 @@ If you added or removed some mods:
 3. Click `⫶`→ `Profile Options`
 4. Uncheck "Allow content management for this profile". 
     * This will not affect added content and you can re-enable content management after the update.
-5. Click `Continue`
-6. Click `⫶` → `⇄ Change Version`.
-7. Click `Continue`.
-    * Optional: Click `Select version` to choose which one you want before clicking `Continue`.
-8. Modpack will now update.
-9. Run it and check the version difference in the bottom right corner.
+5. Click `Done`
+6. Click `⇄` (between `⫶` and `Play`).
+7. Click `Select version`
+8. Select a version that matches your current or has a newer Minecraft version
+   * Never downgrade an instance, this could corrupt your worlds and settings!
+   * It is not advised to upgrade from release to alpha or release to beta - make a separate instance for testing.
+   * Updating from alpha to beta, beta to release is recommended as long as the Minecraft version matches.
+9. Click `Continue`. Modpack will now update.
+10. Run it and check the version difference in the bottom right corner.
 
 ### Modrinth App
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
 3. Click `⤓ Update pack` on top right (Below `+ Install content`)
-4. Select the version you want and click `⇆`.
+4. Select the version that matches your current or has a newer Minecraft version
+   * Never downgrade an instance, this could corrupt your worlds and settings!
+   * It is not advised to upgrade from release to alpha or release to beta - make a separate instance for testing.
+   * Updating from alpha to beta, beta to release is recommended as long as the Minecraft version matches.
+5. Click `⇆`. Modpack will now update.
+6. Run it and check the version difference in the bottom right corner.
   
 <details>
   <summary>Not seeing a version or getting an error?</summary>
@@ -72,9 +80,14 @@ If you added or removed some mods:
 1. Select existing Fabulously Optimized instance
 2. Click `Edit` on the sidebar
 3. Select `Modrinth` on the tab list
-4. Click `Update pack`
-   * Optional: Select the version you want by selecting it on the dropdown before you click `Update pack`.
-5. Once the name prompt comes up, click `Yes`
+4. Click on the version dropdown
+5. Select the version that matches your current or has a newer Minecraft version
+   * Never downgrade an instance, this could corrupt your worlds and settings!
+   * It is not advised to upgrade from release to alpha or release to beta - make a separate instance for testing.
+   * Updating from alpha to beta, beta to release is recommended as long as the Minecraft version matches.
+5. Click `Update pack`. Modpack will now update.
+   * If a prompt is asking to change the instance name, click `Yes`
+6. Run it and check the version difference in the bottom right corner.
 
 ### MultiMC
 
@@ -83,12 +96,15 @@ If you added or removed some mods:
 1. Click `Add Instance`
 2. Select `Modrinth` tab from the left
 3. Select "Fabulously Optimized"
-4. Click `OK`
-   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
-5. The modpack will now install.
-6. Click that version you just created, then `Minecraft Folder`
-7. Click the previous version, then `Minecraft Folder`
-8. Copy the important files and folders over:
+4. Click on the version dropdown
+5. Select the version that matches your current or has a newer Minecraft version
+   * Never downgrade an instance, this could corrupt your worlds and settings!
+   * It is not advised to upgrade from release to alpha or release to beta - make a separate instance for testing.
+   * Updating from alpha to beta, beta to release is recommended as long as the Minecraft version matches.
+6. Click `OK`. The modpack will now install.
+7. Click that version you just created, then `Minecraft Folder`
+8. Click the previous version, then `Minecraft Folder`
+9. Copy the important files and folders over:
    * `saves` - your local worlds
    * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
    * `shaders` - if you use any
@@ -96,8 +112,8 @@ If you added or removed some mods:
    * `servers.dat` - your multiplayer servers
    * `options.txt` - if you want to keep your vanilla option and all hotkey changes
    * Ignore the `Copy all 3 folders!` file, that's for vanilla launcher users 
-9. Close the folders and run the new version
-10. If everything looks right, delete the old version
+10. Close the folders and run the new version
+11. If everything looks right, delete the old version
 
 ### MultiMC (auto-update)
 
@@ -112,7 +128,7 @@ If there is a new Minecraft version:
 1. Go to the existing instance, click `Edit Instance`
 2. Go to `Settings` on the left, then `Custom commands`
 3. On `Pre-launch command`, you see a long text. Scroll to the rightmost edge.
-4. It will say something like _.../main/Packwiz/**1.21.5**/pack.toml_. Change the Minecraft version to the one you prefer (always higher; [ensure that the modpack is built for that version](https://modrinth.com/modpack/fabulously-optimized/versions)).
+4. It will say something like _.../main/Packwiz/**1.21.10**/pack.toml_. Change the Minecraft version to the one you prefer (always higher; [ensure that the modpack is built for that version](https://modrinth.com/modpack/fabulously-optimized/versions)).
 5. Click `Launch`.
 6. You should see a popup saying "This modpack uses newer versions of the following..." - click `Update`.
 7. You're done - the instance is now using an updated Minecraft version.
