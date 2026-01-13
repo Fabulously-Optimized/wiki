@@ -30,7 +30,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Smart Leaves¹         | ✔️            | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)                                                                                                                                                                                                                         |
 | Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |                                                                                                   |
 | 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)      
-| Anisotropic Filtering       | ❌             | Not yet possible, check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    ||
+| Anisotropic Filtering       | ✔️            | Possible in vanilla since 1.21.11    ||
 
 ### Custom resource pack features
 
@@ -48,8 +48,8 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Natural Textures            | ✔️            | [Possible in vanilla since 1.8](https://minecraft.wiki/w/Java_Edition_14w17a#General_2). [See also](https://discord.com/channels/859124104644788234/1148531768157290537/1148531768157290537) [(via)](https://download.fo/discord)                                                                           |
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
 | Removal of gaps (see-through lines) in items | ✔️            | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) |
-| Custom Colors               | 🚧            | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) _until FO 10.2.0_ |         
-| Custom Items                | 🚧            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) _until FO 7.0.0_ / [partially available in vanilla 1.21.5](https://github.com/SHsuperCM/CITResewn/issues/524)                                                                                                                        |
+| Custom Colors               | ✔️            | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) |         
+| Custom Items                | 🚧            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) _until FO 7.0.0_ / [Available in vanilla 1.21.5](https://github.com/SHsuperCM/CITResewn/issues/524) (conversion tool for creators)                                                                                                                        |
 
 
 ¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
