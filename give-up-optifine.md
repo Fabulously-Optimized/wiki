@@ -17,6 +17,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Option                | Is supported? | Mod providing the feature                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Animation toggles     | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
+| Anisotropic Filtering       | ✔️            | Available in vanilla since 1.21.11    ||
 | Anti-Aliasing              | ✔️            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Available via shaders](getting-shaders.md), such as the [TAA Project](https://modrinth.com/shader/taa)) |
 | Better Grass          | ✔️            | [BetterGrassify](https://curseforge.com/minecraft/mc-mods/bettergrassify)  |      
 | Custom capes                 | ✔️            | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](free-cape.md))                                                                                                                                                                                                              |
@@ -30,7 +31,6 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Smart Leaves¹         | ✔️            | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)                                                                                                                                                                                                                         |
 | Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |                                                                                                   |
 | 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)      
-| Anisotropic Filtering       | ✔️            | Available in vanilla since 1.21.11    ||
 
 ### Custom resource pack features
 
