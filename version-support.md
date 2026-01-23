@@ -9,9 +9,9 @@ The goal is to push out a new version once per week or two weeks. This is not a 
 #### How do the modpack version numbers work?
 
 - **X**.Y.Z stands for "major versions"
-   - 1.x.x-6.x.x directly map to Minecraft's 1.**Y**.Z [full releases](https://minecraft.wiki/w/Java_Edition_version_history#Full_release) (1.16 was 1, 1.17 was 2 etc)
-   - 7.x.x and onwards the versions are mapped to [game drops](https://minecraft.wiki/w/Game_drop) and full releases (beginning with Bundles of Bravery)
-- X.**Y**.Z stands for minor versions which may map to Minecraft's 1.Y.**Z** or just refer to bigger changes like added mods
+   - 1.x.x-6.x.x directly map to Minecraft's A.**B**.C [full releases](https://minecraft.wiki/w/Java_Edition_version_history#Full_release) (1.16 was 1, 1.17 was 2, etc)
+   - 7.x.x and onwards the versions are mapped to [game drops](https://minecraft.wiki/w/Game_drop), beginning with Bundles of Bravery
+- X.**Y**.Z stands for minor versions which may map to Minecraft's A.B.**C** or just refer to bigger changes like added mods
 - X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
 
 Here is how you should think about the version types in relation to Minecraft's:
@@ -20,8 +20,10 @@ Here is how you should think about the version types in relation to Minecraft's:
 | ----------------- | ------------------------- |
 | snapshot                           | alpha                                              |
 | pre-release                        | beta                                               |
-| release candidate                  | -                                                  |
+| release candidate                  | beta*                                              |
 | release                            | stable                                             |
+
+\* Fabulously Optimized does not explicitly mark release candidates as such, because its releases often depend on external factors (the included 3rd party mods).
 
 #### What versions do you support?
 
