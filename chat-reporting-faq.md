@@ -198,6 +198,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [23w33a](https://minecraft.wiki/w/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
 - **2023-11-07** - [Mojang announced the Official Minecraft Server List](https://www.minecraft.net/en-us/article/the-official-minecraft-server-list-live), which features [the "Beacon of Safety badge"](https://findmcserver.com/parents#features) that requires the server to have chat reporting, profanity filter and a manual review by the site's admins. No Java Edition servers have the badge yet.
 - **[1.21.5-pre2](https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_1#General)** - implemented some changes for clientside exploit prevention (against servers sending messages with incorrect timestamps)
+- **2025-28-07** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
