@@ -10,7 +10,7 @@ Do NOT disable "API" or "library" mods, because the other mods need them.
 
 Instructions vary depending on whether you had installed FO on MultiMC with the easier installation or with automatic updates.
 
-<!-- TODO: instructions for manual installation? -->
+TODO: instructions for manual installation?
 
 {% tabs %}
 {% tab title="Windows" %}
