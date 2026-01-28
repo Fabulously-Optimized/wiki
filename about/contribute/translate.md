@@ -12,15 +12,14 @@ In accordance to the [Accessibility principle](../#accessibility), one of FO's o
 1. Check out the [list of mods in FO](../../info/mods/). The most important mods are:
    * [Sodium](translate.md#sodium)
    * [Sodium Extra](https://crowdin.com/project/sodium-extra)
-   * [Mod Menu](https://crowdin.com/project/mod-menu)
-   * [Fabric API and Installer](https://crowdin.com/project/fabricmc)
    * [Iris](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
+   * [BetterGrassify](https://crowdin.com/project/bettergrassify/)
    * [MoreCulling](https://github.com/fxmorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json)
+   * [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/26.1/src/main/resources/assets/modmenu/lang/en_us.json)
    * [Controlify](https://github.com/isXander/Controlify/blob/1.20.x/dev/src/main/resources/assets/controlify/lang/en_us.json)
-   * [Zoomify](https://github.com/isXander/Zoomify/blob/multiversion/dev/src/main/resources/assets/zoomify/lang/en_us.json)
+   * [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.10/src/main/resources/assets/lambdynlights/lang/en_us.json)
    * [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
-   * [Continuity](https://github.com/PepperCode1/Continuity/blob/1.19.3/dev/src/main/resources/assets/continuity/lang/en_us.json)
-   * [CIT Resewn](https://github.com/SHsuperCM/CITResewn/blob/main/src/main/resources/assets/citresewn/lang/en_us.json)
+   * [Fabric API and Installer](https://crowdin.com/project/fabricmc)
 2. For each mod you want to translate, open its page
 3. Find the link to Source code
 4. Read the mod's documentation to understand if translations happen on a translation platform
@@ -80,6 +79,7 @@ The resource pack must be tested because there are specific length requirements:
   6. If you're experiencing issues, press <kbd>⇧ Shift</kbd> + <kbd>P</kbd> to reset to default settings
   7. Click on <kbd>**Done**</kbd>
 * The [online translations tester](https://download.fo/size-checker) may help, but does not replace in-game testing
+* Importantly, the tutorial screen must be fully visible! To trigger it, close the game, then set `onboardAccessibility=true` in `options.txt`, then start it again.
 * Feel free to rephrase sentences if you see fit
 * In the options row, list as many of them as you can fit
 * Do NOT change the strings' format! Keep paragraph signs `§`, the tools `⚒️` and arrows `🔀` emoji, and newlines `\n` intact

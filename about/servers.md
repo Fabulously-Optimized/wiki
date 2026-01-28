@@ -64,7 +64,7 @@ Read more on the ["Protecting Server Players" page in the No Chat Reports wiki](
 
 Minecraft 1.19.1 introduced chat reporting, which many servers disable. As a server admin, you can do the following:
 
-* If you're on **1.18.2 or earlier**, there's no need to do anything, as Player Reporting didn't exist yet
+* If you're on **1.18.2 or older**, there's no need to do anything, as Player Reporting didn't exist yet
   * FO users will see this icon: ![Chat Reporting is optional](https://i.ibb.co/hstcjW7/neutral.png)
   * Vanilla users will see a gray bar next to the messages, and their messages will not be reportable
 * If you're on **1.19 or newer**:
