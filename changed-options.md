@@ -45,11 +45,11 @@ Most "quality & performance" video settings on the modpack are based on the vani
 
 Exceptions - options that are _not_ based on preset "fast":
 
-| Option | Description | Vanilla ("fancy") | Modpack ("custom") | Reason for Change |
-| - | - | - | - | - |
-| `ao` | Smooth Lighting: ON | `true` | `true` | Users preferred smooth lighting. |
-| `cutoutLeaves` | See-Through Leaves: ON | `true` | `true` | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) already provides significant improvements to leaf performance; users preferred improved visuals. |
-| `graphicsPreset` | Vanilla graphics preset: Custom | `"fancy"` | `"custom"` | Due to the exceptions to "fast" above, game sets the preset to "custom". |
+| Option | Description | Vanilla ("fancy") | Preset "fast" | Modpack ("custom") | Reason for Change |
+| - | - | - | - | - | - |
+| `ao` | Smooth Lighting: ON | `true` | `false` | `true` | Users preferred smooth lighting. |
+| `cutoutLeaves` | See-Through Leaves: ON | `true` | `false` | `true` | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) already provides significant improvements to leaf performance; users preferred improved visuals. |
+| `graphicsPreset` | Vanilla graphics preset: Custom | `"fancy"` | `"fast"` | `"custom"` | Due to the exceptions to "fast" above, game sets the preset to "custom". |
 
 Other video settings:
 
