@@ -17,7 +17,10 @@ Consider using [Prism Launcher](prism-launcher.md), which has a similar interfac
 1. Download and install [Java 21](https://download.fo/java21)
 2. Download FO's MultiMC pack for your preferred Minecraft version from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases):
 
-   <a class="button primary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.6.0-alpha.8/Fabulously.Optimized.MC.1.21.5.auto-update.zip">1.21.5</a>
+   <a class="button primary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v12.0.0-alpha.2/Fabulously.Optimized.MC.1.21.11.auto-update.zip">1.21.11</a>
+   <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v11.1.0-beta.3/Fabulously.Optimized.MC.1.21.10.auto-update.zip">1.21.10</a>
+   <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v10.2.0-beta.4/Fabulously.Optimized.MC.1.21.8.auto-update.zip">1.21.8</a>
+   <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v9.1.0/Fabulously.Optimized.MC.1.21.5.auto-update.zip">1.21.5</a>
    <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.6.0-alpha.8/Fabulously.Optimized.MC.1.21.4.auto-update.zip">1.21.4</a>
    <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.6.0-alpha.8/Fabulously.Optimized.MC.1.21.1.auto-update.zip">1.21.1</a>
    <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip">1.20.6</a>
@@ -25,7 +28,7 @@ Consider using [Prism Launcher](prism-launcher.md), which has a similar interfac
    <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip">1.18.2</a>
    <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip">1.17.1</a>
    <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip">1.16.5</a>
-3. If you do not want the latest version, you can find older ones in [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+3. If you do not want the latest version, you can find lower ones in [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 4. Open [**MultiMC**](https://multimc.org/)
 5. Drag the `zip` file and drop it inside of MultiMC's window. A window should pop up
 6. Click on <kbd>**OK**</kbd> in that window. Something should happen
@@ -61,8 +64,8 @@ Consider using [Prism Launcher](prism-launcher.md), which has a similar interfac
 2. In [**MultiMC**](https://multimc.org/), click on <kbd>**Add Instance**</kbd>
 3. Click on the <kbd>**Modrinth**</kbd> tab on the left
 4. Click on <kbd>**Fabulously Optimized**</kbd>
-5. If you do not want the latest version of FO, select the version you want from the dropdown
-6. Click on <kbd>**OK**</kbd>. Once installed, something should happen
+5. If you do not want the latest version, select the version you want from the dropdown
+6. Click on <kbd>**OK**</kbd>. Once installed, you should see something
 7. Double-click on the icon. Minecraft should open up
 8. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 {% endtab %}

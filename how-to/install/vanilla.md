@@ -81,7 +81,7 @@ If you are concerned by this, you can also install FO manually, or use another [
 {% endtabs %}
 
 {% hint style="warning" %}
-If the installation with the installer fails, or you want a version older than `5.10.3`, you should install FO manually.
+If the installation with the installer fails, or you want a version lower than `5.12.0`, you should install FO manually.
 
 Please report any issues you encounter on [GitHub](https://github.com/Fabulously-Optimized/installer/issues) or on [Discord](https://download.fo/discord).
 {% endhint %}
@@ -90,17 +90,17 @@ Please report any issues you encounter on [GitHub](https://github.com/Fabulously
 {% tab title="Manual" %}
 {% tabs %}
 {% tab title="Minecraft 1.19.4 and above" %}
-1. On macOS and Linux, download and install [Java](https://download.fo/java)
+1. On macOS and Linux, download and install [Java](https://download.fo/java) TODO: what version
 2. Download the [Fabric Installer](https://fabricmc.net/use)
 3. Open the Fabric Installer
-4. Select `version 0.16.12` of the Fabric Loader
+4. Select `version 0.18.1` of the Fabric Loader
 5. Click on <kbd>**Install**</kbd>. You have now installed the Fabric Loader
 6. Open the [**Minecraft Launcher**](https://minecraft.net/en-us/download)
 7. Click on <kbd>**Installations**</kbd>. You should find a new Fabric installation
 8. Click on the <kbd>**📂 Folder**</kbd> button next to the Fabric installation
 9. Open your **browser**
 10. Open the [FO vanilla downloader](https://download.fo/vanilla)
-11. If you do not want the latest version of FO, select the version you want from the dropdown
+11. If you do not want the latest version, select the version you want from the dropdown
 12. Click on the <kbd>**⬇️ Download**</kbd> button. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-zip-file-contain)
 13. If you get a prompt about popup windows or multiple downloads, please allow them
 14. Extract the `zip` file
@@ -142,7 +142,7 @@ The `zip` file contains the following:
 11. Click on <kbd>**Additional files**</kbd>. You should find a **MultiMC version**
 12. Click on the <kbd>**three dots**</kbd>, then on <kbd>**Download file**</kbd>. A `zip` file should be downloaded. [What does the `zip` file contain?](vanilla.md#what-does-the-multimc-pack-contain)
 13. Extract the `zip` file. If you see less than 10 mods in it, you have downloaded the wrong version
-14. Go to `Fabulously Optimized x.x.x` > `minecraft`. You should find a `zip` file in there
+14. Go to `Fabulously Optimized *.*.*` > `minecraft`. You should find a `zip` file in there
 15. Extract the `zip` file
 16. Copy all folders from the `zip`'s `minecraft` folder to the `.minecraft` folder you opened in _step 6_. [Why do I need to copy everything over?](vanilla.md#why-do-i-need-to-copy-everything-over)
 17. If you're asked to replace files, replace them
@@ -157,7 +157,7 @@ The MultiMC `zip` file is a packaged instance for [MultiMC](multimc.md#how-does-
 
 It contains the following:
 
-* `Fabulously Optimized x.y.z/`: A folder containing the MultiMC instance
+* `Fabulously Optimized *.*.*/`: A folder containing the MultiMC instance
   * `minecraft/`: The main folder of FO
     * `config/`: Configuration files to adjust the mods for the best experience
     * `mods/`: The mods included in FO
