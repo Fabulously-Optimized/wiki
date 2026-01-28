@@ -21,19 +21,19 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | `incompatibleResourcePacks` | List of forcefully enabled outdated resource packs | `[]` | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by version and are automatically changed by the game as needed. |
 | `joinedFirstServer` | Hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | `false` | `true` | Easily discoverable by the "Player Reporting" button on the pause screen. |
 | `mipmapLevels` | Mipmap levels: 2 | `2` | `4` | Matches vanilla's graphics preset "fast". |
-| `operatorItemsTab` | Operator Items Tab: ON | `false` | `true` | Only appears in Creative inventory when you have the permission (/op) for it, so it's weird Mojang even made it an option. |
-| `resourcePacks` | List of enabled resourcepacks | `[]` | (see ¹) | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default |
+| `operatorItemsTab` | Operator Items Tab: ON | `false` | `true` | Only appears in Creative inventory when you have the permission (/op) for it, so it's weird that it is even an option. |
+| `resourcePacks` | List of enabled resourcepacks | `[]` | (see ¹) | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default. |
 | `lang` | Game language | `en_us` | (your language) | Enables user's system language by default, where supported, using [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). |
-| `particles` | Particles: Decreased | `1` | `0` | Matches vanilla's graphics preset "fast" |
-| `prioritizeChunkUpdates` | Chunk Builder: Threaded | `1` | `0` | Matches vanilla's graphics preset "fast" |
-| `renderClouds` | Clouds: Fast | `"fast"` | `"true"` | Matches vanilla's graphics preset "fast" |
-| `renderDistance` | Render Distance: 8 Chunks | `8` | `16` | Matches vanilla's graphics preset "fast" |
-| `simulationDistance` | Simulation Distance: 6 Chunks | `6` | `12` | Matches vanilla's graphics preset "fast" |
+| `particles` | Particles: Decreased | `1` | `0` | Matches vanilla's graphics preset "fast". |
+| `prioritizeChunkUpdates` | Chunk Builder: Threaded | `1` | `0` | Matches vanilla's graphics preset "fast". |
+| `renderClouds` | Clouds: Fast | `"fast"` | `"true"` | Matches vanilla's graphics preset "fast". |
+| `renderDistance` | Render Distance: 8 Chunks | `8` | `16` | Matches vanilla's graphics preset "fast". |
+| `simulationDistance` | Simulation Distance: 6 Chunks | `6` | `12` | Matches vanilla's graphics preset "fast". |
 | `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
 | `telemetryOptInExtra` | Optional telemetry: OFF | `false` | `false` | Currently the default already, but may not always be the case, hence the enforcement. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to [disable telemetry entirely](#telemetry), so this is a fallback. |
-| `textureFiltering` | Texture Filtering: None | `1` | `0` | Matches vanilla's graphics preset "fast" |
+| `textureFiltering` | Texture Filtering: None | `1` | `0` | Matches vanilla's graphics preset "fast". |
 | `tutorialStep` | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
-| `weatherRadius` | Weather Effect Radius: 5 blocks | `5` | `10` | Matches vanilla's graphics preset "fast" |
+| `weatherRadius` | Weather Effect Radius: 5 blocks | `5` | `10` | Matches vanilla's graphics preset "fast". |
 
 ¹ `["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]`
 
