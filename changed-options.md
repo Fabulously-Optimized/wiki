@@ -1,45 +1,73 @@
 # Changed options
 
-Fabulously Optimized changes some default options of Minecraft to improve your gameplay.
+Fabulously Optimized changes some default options of Minecraft and the included mods to improve your gameplay.
 
-Because the pack is using YOSBR, the options will only change if you do not have `options.txt` or mod-specific files in `config` folder already, e.g. by using a clean profile. That also means you can freely update the pack without losing your settings!
+Because the pack is using Config Manager, the options will only change if you do not have `options.txt` or mod-specific files in `config` folder already, e.g. by using a clean profile. That also means you can freely update the pack without losing your settings!
 
-**P.S. This table has 5 columns. Scroll right if you can't see them!**
+Changed mod settings [can be found here](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.11/config).
+
+**P.S. Several tables have 5 columns. Scroll right if you can't see them!**
 
 ### Options
 
+List of all changed vanilla options in the modpack.
+
+#### General options
+
 | Option | Description | Vanilla | Modpack | Reason for Change |
 | - | - | - | - | - |
-| `advancedItemTooltips` | ["Advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items | `false` | `true` | Shows item IDs, durability value, armor color, map scale, loaded firework type on item tooltips. Plus, it is hidden by default, so many might not know about it. |
-| `biomeBlendRadius` | Biome Blend: 3x3 (Fast) | `2` | `1` | Matches vanilla's graphics preset "fast". |
-| `cloudRange` | Cloud Distance: 32 Chunks | `32` | `64` | Matches vanilla's graphics preset "fast". |
 | `darkMojangStudiosBackground` | Monochrome Logo: OFF | `false` | `true` | Black background is less intrusive than red, partial Bedrock Edition parity. |
-| `entityDistanceScaling` | Entity render distance: 75% | `1.0` | `0.75` | Matches vanilla's graphics preset "fast". |
-| `entityShadows` | Entity shadows: OFF | `true` | `false` | Matches vanilla's graphics preset "fast". |
-| `guiScale` | GUI Scale: 3 | `0` | `3` | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
-| `graphicsPreset` | Vanilla graphics preset: Custom | `"fancy"` | `"custom"` | Most options on the modpack are based on preset "fast", with the exception of transparent leaves and smooth lighting (both enabled). |
-| `incompatibleResourcePacks` | List of forcefully enabled outdated resource packs | `[]` | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by version and are automatically changed by the game as needed. |
-| `joinedFirstServer` | Hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | `false` | `true` | Easily discoverable by the "Player Reporting" button on the pause screen. |
-| `mipmapLevels` | Mipmap levels: 2 | `2` | `4` | Matches vanilla's graphics preset "fast". |
-| `operatorItemsTab` | Operator Items Tab: ON | `false` | `true` | Only appears in Creative inventory when you have the permission (/op) for it, so it's weird that it is even an option. |
-| `resourcePacks` | List of enabled resourcepacks | `[]` | (see ¹) | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default. |
+| `operatorItemsTab` | Operator Items Tab: ON | `false` | `true` | Only appears in Creative inventory when you have the permission (/op) for it. |
+| `resourcePacks` | List of enabled resourcepacks | `[]` | (see ¹) | Enables [mod-provided and modpack-exclusive resource packs](#resource-packs) by default. |
 | `lang` | Game language | `en_us` | (your language) | Enables user's system language by default, where supported, using [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). |
-| `particles` | Particles: Decreased | `1` | `0` | Matches vanilla's graphics preset "fast". |
-| `prioritizeChunkUpdates` | Chunk Builder: Threaded | `1` | `0` | Matches vanilla's graphics preset "fast". |
-| `renderClouds` | Clouds: Fast | `"fast"` | `"true"` | Matches vanilla's graphics preset "fast". |
-| `renderDistance` | Render Distance: 8 Chunks | `8` | `16` | Matches vanilla's graphics preset "fast". |
-| `simulationDistance` | Simulation Distance: 6 Chunks | `6` | `12` | Matches vanilla's graphics preset "fast". |
-| `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
-| `telemetryOptInExtra` | Optional telemetry: OFF | `false` | `false` | Currently the default already, but may not always be the case, hence the enforcement. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to [disable telemetry entirely](#telemetry), so this is a fallback. |
-| `textureFiltering` | Texture Filtering: None | `1` | `0` | Matches vanilla's graphics preset "fast". |
-| `tutorialStep` | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
-| `weatherRadius` | Weather Effect Radius: 5 blocks | `5` | `10` | Matches vanilla's graphics preset "fast". |
+| `telemetryOptInExtra` | Disables optional telemetry | `false` | `false` | Currently the default already, but may not always be the case, hence the enforcement. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to [disable telemetry entirely](#telemetry), so this is a fallback. |
 
 ¹ `["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]`
 
-**Changed mod settings can be found on the repo at [.../yosbr/1.21.11/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.11/config).**
+#### Video settings
 
-### Telemetry
+Most "quality & performance" video settings on the modpack are based on the vanilla preset "fast" for improved performance. User can change the preset by going to video settings, pressing <kbd>Shift</kbd> + <kbd>P</kbd> and adjusting the slider.
+
+| Option | Description | Vanilla ("fancy") | Modpack ("fast") |
+| - | - | - | - |
+| `biomeBlendRadius` | Biome Blend: 3x3 (Fast) | `2` | `1` |
+| `cloudRange` | Cloud Distance: 32 Chunks | `32` | `64` |
+| `entityDistanceScaling` | Entity render distance: 75% | `1.0` | `0.75` |
+| `entityShadows` | Entity shadows: OFF | `true` | `false` |
+| `mipmapLevels` | Mipmap levels: 2 | `2` | `4` |
+| `particles` | Particles: Decreased | `1` | `0` |
+| `prioritizeChunkUpdates` | Chunk Builder: Threaded | `1` | `0` |
+| `renderClouds` | Clouds: Fast | `"fast"` | `"true"` |
+| `renderDistance` | Render Distance: 8 Chunks | `8` | `16` |
+| `simulationDistance` | Simulation Distance: 6 Chunks | `6` | `12` |
+| `textureFiltering` | Texture Filtering: None | `1` | `0` |
+| `weatherRadius` | Weather Effect Radius: 5 blocks | `5` | `10` |
+
+Exceptions - options that are _not_ based on preset "fast":
+
+| Option | Description | Vanilla | Modpack | Reason for Change |
+| - | - | - | - | - |
+| `ao` | Smooth Lighting: ON | `true` | `true` | Users preferred smooth lighting. |
+| `cutoutLeaves` | See-Through Leaves: ON | `true` | `true` | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) already provides significant improvements to leaf performance; users preferred improved visuals. |
+| `graphicsPreset` | Vanilla graphics preset: Custom | `"fancy"` | `"custom"` | Due to the exceptions above, game sets the preset to "custom". |
+
+Other video settings:
+
+| Option | Description | Vanilla | Modpack | Reason for Change |
+| - | - | - | - | - |
+| `guiScale` | GUI Scale: 3 | `0` | `3` | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
+
+#### Hidden options
+
+| Option | Description | Vanilla | Modpack | Reason for Change |
+| - | - | - | - | - |
+| `advancedItemTooltips` | Enables ["Advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items | `false` | `true` | Shows item IDs, durability value, armor color, map scale, loaded firework type on item tooltips. |
+| `incompatibleResourcePacks` | List of forcefully enabled outdated resource packs | `[]` | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by version and are automatically changed by the game as needed. |
+| `joinedFirstServer` | Hides hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | `false` | `true` | It is easily discoverable by the "Player Reporting" button on the pause screen. |
+| `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
+| `tutorialStep` | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints#List_of_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
+
+#### Telemetry
 
 **Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
 
@@ -52,7 +80,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 
 [The modpack's stance](principles.md) is to disable all forms of telemetry by default, letting users to choose to opt-in to it manually when wanted. The modpack cannot disable any telemetry collected by game launcher or operating system.
 
-### Keybinds
+#### Keybinds
 
 | Option                            | Default | Modpack | Reason for Change                                                            |
 | --------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
@@ -64,7 +92,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 | FabricSkyboxes: Toggle mod              | <kbd>Numpad 0</kbd>       | none    | Not needed for most players                                             |
 | OptiGUI: Copy inspection to clipboard              | <kbd>F12</kbd>       | none    | Not needed for most players                                             |
 
-### Resource packs
+#### Resource packs
 
 Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
 
