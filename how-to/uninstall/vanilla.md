@@ -16,7 +16,7 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 2. Click on <kbd>**Installations**</kbd>
 3. Hover over the **Fabulously Optimized** installation
 4. Click on the <kbd>**Folder**</kbd> button
-5. If you had selected <kbd>**Use a different `.minecraft` folder for this version?**</kbd> during installation, delete the `fabulously-optimized-x.x.x` folder
+5. If you had selected <kbd>**Use a different `.minecraft` folder for this version?**</kbd> during installation, delete the `fabulously-optimized-*.*.*` folder
 6. If not, delete the `mods` and `config` folders
 7. Open the `versions` folder
 8. Delete all folders which start with `fabric-loader-`
@@ -29,7 +29,7 @@ As with any other piece of software, updates may go wrong for many reasons, incl
 {% tab title="Manual" %}
 1. Open the **Minecraft Launcher**
 2. Click on <kbd>**Installations**</kbd>
-3. Hover over the `fabric-loader-x.x.x` installation
+3. Hover over the `fabric-loader-*.*.*` installation
 4. Click on the <kbd>**Folder**</kbd> button
 5. Delete the `mods` and `config` folders
 6. Open the `versions` folder
