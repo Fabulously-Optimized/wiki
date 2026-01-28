@@ -47,7 +47,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | HD Fonts                    | ✔️            | [Possible in vanilla since 1.13.](https://minecraft.wiki/w/Java\_Edition\_1.13-pre6#Changes) [Download some from author's profile](https://www.curseforge.com/members/robotkoer/projects)                                                                                             |
 | Natural Textures            | ✔️            | [Possible in vanilla since 1.8](https://minecraft.wiki/w/Java_Edition_14w17a#General_2). [See also](https://discord.com/channels/859124104644788234/1148531768157290537/1148531768157290537) [(via)](https://download.fo/discord)                                                                           |
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
-| Removal of gaps (see-through lines) in items | ✔️            | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) |
+| Removal of gaps (see-through lines) in items | ✔️            | Available in vanilla since 1.21.11  |
 | Custom Colors               | ✔️            | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) |         
 | Custom Items                | 🚧            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) _until FO 7.0.0_ / Partly in vanilla since 1.21.5 [(conversion tool)](https://github.com/DimucaTheDev/VaniFine)                                                                                                                        |
 
