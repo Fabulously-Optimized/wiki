@@ -8,11 +8,11 @@ Changed mod settings [can be found here](https://github.com/Fabulously-Optimized
 
 **P.S. Several tables have 5 columns. Scroll right if you can't see them!**
 
-### Options
+## Options
 
 List of all changed vanilla options in the modpack.
 
-#### General options
+### General options
 
 | Option | Description | Vanilla | Modpack | Reason for Change |
 | - | - | - | - | - |
@@ -24,7 +24,7 @@ List of all changed vanilla options in the modpack.
 
 ¹ `["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]`
 
-#### Video settings
+### Video settings
 
 Most "quality & performance" video settings on the modpack are based on the vanilla preset "fast" for improved performance. User can change the preset by going to video settings, pressing <kbd>Shift</kbd> + <kbd>P</kbd> and adjusting the slider.
 
@@ -57,7 +57,7 @@ Other video settings:
 | - | - | - | - | - |
 | `guiScale` | GUI Scale: 3 | `0` | `3` | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
 
-#### Hidden options
+### Hidden options
 
 | Option | Description | Vanilla | Modpack | Reason for Change |
 | - | - | - | - | - |
@@ -67,7 +67,7 @@ Other video settings:
 | `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
 | `tutorialStep` | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints#List_of_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
 
-#### Telemetry
+### Telemetry
 
 **Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
 
@@ -80,7 +80,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 
 [The modpack's stance](principles.md) is to disable all forms of telemetry by default, letting users to choose to opt-in to it manually when wanted. The modpack cannot disable any telemetry collected by game launcher or operating system.
 
-#### Keybinds
+### Keybinds
 
 | Option                            | Default | Modpack | Reason for Change                                                            |
 | --------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
@@ -91,7 +91,7 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 | Iris: Toggle Shaders              | <kbd>K</kbd>       | none    | Not needed for most players                                             |
 | OptiGUI: Copy inspection to clipboard              | <kbd>F12</kbd>       | none    | Not needed for most players                                             |
 
-#### Resource packs
+### Resource packs
 
 Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
 
@@ -101,7 +101,7 @@ Fabulously Optimized enables relevant mod-provided resource packs and bundles so
 
 The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will work with other resource packs.
 
-### Fixed bugs
+## Fixed bugs
 
 Fabulously Optimized includes some mods that fix vanilla bugs.
 [Similar to the mod inclusion policy](principles.md), they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
@@ -126,7 +126,7 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.11/PATCHED.md#unpatched-in-vanilla).
 
-#### Requesting a bugfix
+### Requesting a bugfix
 
 Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
 
@@ -136,7 +136,7 @@ Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
 4. Describe the bug, mention the mod that fixes it and why it is important to 70-80% of users
 5. If accepted, expect the fix to be enabled in the next version of FO :)
 
-### Configuring mods
+## Configuring mods
 
 The modpack is already configured for the best performance and simplest experience for most users.
 
