@@ -6,8 +6,6 @@ Because the pack is using Config Manager, the options will only change if you do
 
 Changed mod settings [can be found here](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.11/config).
 
-**P.S. Several tables have 5 columns. Scroll right if you can't see them!**
-
 ## Options
 
 List of all changed vanilla options in the modpack.
