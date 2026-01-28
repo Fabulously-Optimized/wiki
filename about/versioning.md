@@ -18,9 +18,11 @@ Generally, the development version of FO, which may not include all mods of a st
 
 ## Version Numbers
 
-An FO version is indicated by three numbers `X.Y.Z`, and a suffix for development versions (`-alpha` or `-beta`). The three numbers indicate:
+An FO version is indicated by three numbers `x.y.z`, and a suffix for development versions (`-alpha` or `-beta`). The three numbers indicate:
 
-<table><thead><tr><th width="100" align="center">Number</th><th width="140">Meaning</th><th>Description</th></tr></thead><tbody><tr><td align="center"><code>X</code></td><td>Major versions</td><td><strong>Starting from 7.y.z</strong>: mapped to Minecraft's <a href="https://minecraft.wiki/w/Game_drop">game drops</a> or <a href="https://minecraft.wiki/w/Java_Edition_version_history#Full_release">full releases</a><br><strong>From 1.y.z ~ 6.y.z</strong>: mapped to Minecraft's full releases from 1.16</td></tr><tr><td align="center"><code>Y</code></td><td>Minor versions</td><td>Minecraft patches or changes to FO</td></tr><tr><td align="center"><code>Z</code></td><td>Patches</td><td>Non-breaking changes, no mod changes</td></tr></tbody></table>
+TODO: does new numbering start with 7 or 8?
+
+<table><thead><tr><th width="100" align="center">Number</th><th width="140">Meaning</th><th>Description</th></tr></thead><tbody><tr><td align="center"><code>x</code></td><td>Major versions</td><td><strong>Starting from 7.*.*</strong>: mapped to Minecraft's <a href="https://minecraft.wiki/w/Game_drop">game drops</a> or <a href="https://minecraft.wiki/w/Java_Edition_version_history#Full_release">full releases</a><br><strong>From 1.*.* ~ 6.*.*</strong>: mapped to Minecraft releases, starting from 1.16</td></tr><tr><td align="center"><code>y</code></td><td>Minor versions</td><td>Minecraft patches or changes to FO</td></tr><tr><td align="center"><code>z</code></td><td>Patches</td><td>Non-breaking changes, no mod changes</td></tr></tbody></table>
 
 {% hint style="info" %}
 FO and its mods may not keep up with all snapshots, as they are released very quickly and they may break a lot of stuff behind the scenes. Also, support is not provided for these, see [Supported Versions](versioning.md#supported-versions) below.
@@ -30,7 +32,7 @@ FO and its mods may not keep up with all snapshots, as they are released very qu
 
 Support is provided for the latest stable version of FO, and for the latest development version of FO if any.
 
-Older versions of FO, and for older Minecraft versions, are available but no longer supported. If you want to play them at your own risk, you may find a [list of older versions on CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show).
+Lower versions of FO, and for older Minecraft versions, are available but no longer supported. If you want to play them at your own risk, you may find a [list of lower versions on CurseForge](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show).
 
 {% hint style="danger" %}
 While FO does not support outdated versions, it especially warns its users against some which are known to have vulnerabilities and are only kept for archival purposes. Those are indicated in the websites with a triangle warning sign: ⚠️.

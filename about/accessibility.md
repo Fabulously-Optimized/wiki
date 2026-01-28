@@ -5,11 +5,12 @@ icon: handshake
 
 # Accessibility
 
-FO disables the [accessibility screen shown on the first run](https://minecraft.wiki/images/Accessibility_Onboarding_Screen_23w03a.png). You can continue to take advantage of the accessibility features with the following keyboard shortcuts:
+FO mutes the [accessibility screen shown on the first run](https://minecraft.wiki/images/Accessibility_Onboarding_Screen_23w03a.png). You can continue to take advantage of the accessibility features with the following keyboard shortcuts:
 
-* <kbd>← Left</kbd> <kbd>← Left</kbd> <kbd>↵ Enter</kbd>: Access the ![Accessibility button](https://minecraft.wiki/images/AccessibilityButton.png) **Accessibility** settings
-* <kbd>→ Right</kbd> <kbd>↵ Enter</kbd>: Access the ![Language button](https://minecraft.wiki/images/LanguageButton.png) **Language** settings
-* <kbd>⌃ CTRL</kbd>+<kbd>B</kbd> or <kbd>⌘ CMD</kbd>+<kbd>B</kbd>: Toggle **Narrator**
+* <kbd>Enter</kbd>: Unmute the **accessibility screen**
+* <kbd>⌃ CTRL</kbd>+<kbd>B</kbd> or <kbd>⌘ CMD</kbd>+<kbd>B</kbd>: Toggle **Narrator** anywhere
+* <kbd>↓ Down</kbd> <kbd>↵ Enter</kbd>: Access the ![Accessibility button](https://minecraft.wiki/images/AccessibilityButton.png) **Accessibility** settings
+* <kbd>↓ Down</kbd> <kbd>↓ Down</kbd> <kbd>↵ Enter</kbd>: Access the ![Language button](https://minecraft.wiki/images/LanguageButton.png) **Language** settings
 
 {% hint style="success" %}
 For more accessibility features, you may want to [add](../how-to/add-mods/) the [Minecraft Access mod](https://modrinth.com/mod/minecraft-access).
