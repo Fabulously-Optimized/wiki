@@ -61,7 +61,7 @@ Using a gaming computer? Ensure your GPU optimizations are configured:
 For Linux users, Intel and AMD GPUs generally require no additional setup, but keeping your system updated is essential.
 
 {% hint style="info" %}
-Fabulously Optimized moderators may not have access to all GPU configurations. Seek additional help from online communities like [Fabric Discord](https://discord.gg/v6v4pMv).
+FO moderators may not have access to all GPU configurations. Seek additional help from online communities like [Fabric Discord](https://discord.gg/v6v4pMv).
 {% endhint %}
 
 ## Additional Mods

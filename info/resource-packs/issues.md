@@ -1,5 +1,6 @@
 ---
 hidden: true
+hidden: true
 ---
 
 # Resource Pack Issues
@@ -54,7 +55,7 @@ Follow [instructions to disable the Better Beds mod](../../how-to/disable-mods/)
 {% endtab %}
 
 {% tab title="FastChest" %}
-FO version 1.12.3 and older
+FO version 1.12.3 and higher
 
 1. In the Mod Menu, find "FastChest"
 2. Click on the ![Config button](https://i.ibb.co/j35cBtn/image.png) <kbd>**Config**</kbd> button
@@ -67,17 +68,19 @@ FO version 1.12.3 and older
 
 [Core shaders](../mods/shaders.md), for example those which rearrange HUD elements, are not fully supported by FO.
 
+TODO: track in git repo
+
 ![Resource packs may be incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/0049c401-2922-4d03-976b-44bbf4fcc6a9)
 ![Resource packs are incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/3116448a-53fe-4af0-9520-99c061694ba0)
 
 ## Custom Colors
 
-Custom colors are only supported in FO version 5.9.0 or newer, or FO version 4.5.7 or older.
+Custom colors are only supported in FO version 5.9.0 or higher, or FO version 4.5.7 or lower.
 
 ## Custom Entity Models
 
 {% tabs %}
-{% tab title="FO version 4.6.0 or newer" %}
+{% tab title="FO version 4.6.0 or higher" %}
 If parts of the entities' bodies are missing, or custom mob shapes are not working:
 
 1. In the Mod Menu, find "Entity Model Features"
@@ -89,7 +92,7 @@ If parts of the entities' bodies are missing, or custom mob shapes are not worki
 Find more details on [Entity Model Features' issue tracker](https://github.com/Traben-0/Entity_Model_Features/issues) or on their [Discord server](https://discord.com/invite/rURmwrzUcz).
 {% endtab %}
 
-{% tab title="FO version 4.6.0 or older" %}
+{% tab title="FO version 4.6.0 or lower" %}
 Find a [list of resource packs supported by CEM](https://github.com/dorianpb/cem/issues/9), and a [list of features supported by CEM](https://github.com/dorianpb/cem#differences).
 
 In particular, this [version of Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) works. Discuss issues in the [Fresh Animations' issue](https://github.com/dorianpb/cem/issues/11).

@@ -44,6 +44,10 @@ Improves the Mod Menu by explaining what each mod does and labeling configurable
 
 <table data-column-title-hidden data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><p>Mod Menu Helper</p><p>on <strong>GitHub</strong></p></td><td><a href="https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper">https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper</a></td></tr></tbody></table>
 
+## Crash Assistant
+
+TODO
+
 ## Translations for Sodium
 
 {% hint style="info" %}
