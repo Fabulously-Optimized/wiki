@@ -17,7 +17,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | entityDistanceScaling | Entity render distance: 75% | 1.0 | 0.75 | Matches vanilla's graphics preset "fast". |
 | entityShadows | Entity shadows: OFF | true | false | Matches vanilla's graphics preset "fast". |
 | guiScale | GUI Scale: 3 | 0 | 3 | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
-| graphicsPreset | Vanilla graphics preset: Custom | "fancy" | "custom" | Most options on the modpack are based on preset "fast", with the exception of transparent leaves and smooth lighting. |
+| graphicsPreset | Vanilla graphics preset: Custom | "fancy" | "custom" | Most options on the modpack are based on preset "fast", with the exception of transparent leaves and smooth lighting (both enabled). |
 | incompatibleResourcePacks | List of forcefully enabled outdated resource packs | \[] | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by modpack version. |
 | joinedFirstServer | Hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | false | true | Easily discoverable by the "Player Reporting" button on the pause screen. |
 | mipmapLevels | Mipmap levels: 2 | 2 | 4 | Matches vanilla's graphics preset "fast". |
