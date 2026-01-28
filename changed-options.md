@@ -10,20 +10,30 @@ Because the pack is using YOSBR, the options will only change if you do not have
 
 | Option | Description | Vanilla | Modpack | Reason for Change |
 | - | - | - | - | - |
-| advancedItemTooltips | Enables ["advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items - item ID and durability, and exact color hex code for dyed armor | false | true | These are useful for much more than just debugging - if you're using commands, want to know the exact durability value, learning English, etc. Plus, this setting is hidden in the debug menu, so many people might not know about it. |
-| darkMojangStudiosBackground | Makes the Mojang Studios splash screen white-on-black instead of white-on-red | false | true | Black background is less intrusive than red, partial Bedrock Edition parity |
-| enableVsync | Toggle [VSync](https://en.wikipedia.org/wiki/Screen_tearing#Vertical_synchronization), a FPS-limiting system | true | false | Disabling VSync by default helps users instantly see the benefits of FO, reduces input lag and increases framerate when using shaders. The benefits of enabling or disabling it vary by system; also note that FO has an option to use Adaptive VSync on some systems. |
-| guiScale | Size of the menu and interface elements | 0 | 3 | 3 is more usable on most screens, 0 (Auto) can get too large on Full HD and larger screens, including most Macs' "Retina" displays |
-| incompatibleResourcePacks | A list of resource packs that have been forcefully enabled, despite being marked as incompatible | \[] | (varies) | Mod-provided resource packs that have old manifest version but are known to be compatible. Values may vary by FO version. |
+| advancedItemTooltips | ["Advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items | false | true | Useful for more than debugging - commands, exact durability, learning English etc. Plus, it is hidden by default, so many might not know about it. |
+| biomeBlendRadius | Biome Blend: 3x3 (Fast) | 2 | 1 | Matches vanilla's graphics preset "fast". |
+| cloudRange | Cloud Distance: 32 Chunks | 32 | 64 | Matches vanilla's graphics preset "fast". |
+| darkMojangStudiosBackground | Monochrome Logo: OFF | false | true | Black background is less intrusive than red, partial Bedrock Edition parity. |
+| entityDistanceScaling | Entity render distance: 75% | 1.0 | 0.75 | Matches vanilla's graphics preset "fast". |
+| entityShadows | Entity shadows: OFF | true | false | Matches vanilla's graphics preset "fast". |
+| guiScale | GUI Scale: 3 | 0 | 3 | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
+| graphicsPreset | Vanilla graphics preset: Custom | "fancy" | "custom" | Most options on the modpack are based on preset "fast", with the exception of transparent leaves and smooth lighting. |
+| incompatibleResourcePacks | List of forcefully enabled outdated resource packs | \[] | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by modpack version. |
 | joinedFirstServer | Whether to display the hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | false | true | The screen has a hotkey `P` and is easily discoverable by the "Player Reporting" button |
-| maxFps | The maximum framerate | 120 | 260 | 260 means "unlimited", which allows you to see the full FPS that your system is capable of |
-| operatorItemsTab | Shows operator-only items (command blocks, lights, barriers, etc.) in a Creative inventory tab, when you have operator access (`/op`) | false | true | It only appears when you have the permission for it, so it's weird Mojang even made it an option |
-| resourcePacks | Adjusts which resource packs are enabled by default | \[] | ¹ | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default |
-| lang | Adjusts the game's language | en_us | (your OS language) | Enables user's system language by default, for usability, accessibility and discoverability purposes - courtesy of [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). Not available for all launchers and operating systems. |
-| simulationDistance | Redstone and mob spawning distance | 12 | 6 | Better performance regardless of the rendering distance you use |
+| mipmapLevels | Mipmap levels: 2 | 2 | 4 | Matches vanilla's graphics preset "fast". |
+| operatorItemsTab | Operator Items Tab: ON | false | true | It only appears in Creative inventory when you have the permission (/op) for it, so it's weird Mojang even made it an option |
+| resourcePacks | List of enabled resourcepacks | \[] | ¹ | Enabled [mod-provided and FO-exclusive resource packs](#resource-packs) by default |
+| lang | Game language | en_us | (your OS language) | Enables user's system language by default, for usability, accessibility and discoverability purposes - courtesy of [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). Not available for all launchers and operating systems. |
+| particles | Particles: Decreased | 1 | 0 | Matches vanilla's graphics preset "fast" |
+| prioritizeChunkUpdates | Chunk Builder: Threaded | 1 | 0 | Matches vanilla's graphics preset "fast" |
+| renderClouds | Clouds: Fast | "fast" | "true" | Matches vanilla's graphics preset "fast" |
+| renderDistance | Render Distance: 8 Chunks | 8 | 16 | Matches vanilla's graphics preset "fast" |
+| simulationDistance | Simulation Distance: 6 Chunks | 6 | 12 | Matches vanilla's graphics preset "fast" |
 | skipMultiplayerWarning | Whether to skip [the legal disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen | false | true | Users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
-| telemetryOptInExtra | Sets the telemetry (analytics data collection) toggle to "minimal". | false | false | While "minimal" is the default right now anyway, it may not always be the case, hence the enforcement by FO. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback. |
+| telemetryOptInExtra | Optional telemetry: OFF | false | false | While "off" is currently the default anyway, it may not always be the case in every version, hence the enforcement. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to disable it entirely though, so this is also just a fallback. |
+| textureFiltering | Texture Filtering: None | 1 | 0 | Matches vanilla's graphics preset "fast" |
 | tutorialStep | The next step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | movement | none | Users are already expected to know basic aspects of Minecraft |
+| weatherRadius | Weather Effect Radius: 5 blocks | 5 | 10 | Matches vanilla's graphics preset "fast" |
 
 ¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]`
 
