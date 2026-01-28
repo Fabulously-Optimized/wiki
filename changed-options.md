@@ -35,7 +35,7 @@ Because the pack is using YOSBR, the options will only change if you do not have
 | tutorialStep | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints) | movement | none | Modpack users are expected to know basic aspects of Minecraft. |
 | weatherRadius | Weather Effect Radius: 5 blocks | 5 | 10 | Matches vanilla's graphics preset "fast" |
 
-¹ `["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Mod Menu Helper.zip","file/Chat Reporting Helper.zip"]`
+¹ `["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]`
 
 **Changed mod settings can be found on the repo at [.../yosbr/1.21.11/config](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.11/config).**
 
