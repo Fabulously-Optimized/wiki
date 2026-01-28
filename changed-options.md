@@ -54,17 +54,15 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 
 ### Keybinds
 
-**P.S. This table has 5 columns. Scroll right if you can't see them!**
-
-| Option                            | Description                                                         | Default | Modpack | Reason for Change                                                            |
-| --------------------------------- | ------------------------------------------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
-| Zoomify: Zoom             | Zooms the view when the key is held                                 | v       | c       | This key is more often used for zoom                                    |
-| Zoomify: Secondary zoom                      | Activates the secondary zoom option                                      | F6      | none    | Not needed for most players                                             |
-| Iris: Reload Shaders              | Reloads the applied shaders                                         | r       | none    | Not needed for most players                                             |
-| Iris: Shaderpack Selection Screen | Opens the shader selection screen                                   | o       | none    | Not needed for most players                                             |
-| Iris: Toggle Shaders              | Disables or enables shaders                                         | k       | none    | Not needed for most players                                             |
-| FabricSkyboxes: Toggle mod              | Disables or enables custom skyboxes                                         | Numpad 0       | none    | Not needed for most players                                             |
-| OptiGUI: Copy inspection to clipboard              | Copies OptiGUI's debug info                                         | F12       | none    | Not needed for most players                                             |
+| Option                            | Default | Modpack | Reason for Change                                                            |
+| --------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
+| Zoomify: Zoom             | <kbd>v</kbd>       | <kbd>c</kbd>       | This key is often used for zoom                                    |
+| Zoomify: Secondary zoom                      | <kbd>F6</kbd>      | none    | Not needed for most players                                             |
+| Iris: Reload Shaders              | <kbd>r</kbd>       | none    | Not needed for most players                                             |
+| Iris: Shaderpack Selection Screen | <kbd>o</kbd>       | none    | Not needed for most players                                             |
+| Iris: Toggle Shaders              | <kbd>k</kbd>       | none    | Not needed for most players                                             |
+| FabricSkyboxes: Toggle mod              | <kbd>Numpad 0</kbd>       | none    | Not needed for most players                                             |
+| OptiGUI: Copy inspection to clipboard              | <kbd>F12</kbd>       | none    | Not needed for most players                                             |
 
 ### Resource packs
 
