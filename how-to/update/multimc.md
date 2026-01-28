@@ -4,6 +4,8 @@ hidden: true
 
 # MultiMC
 
+TODO: instructions for MultiMC auto-update across MC versions
+
 {% hint style="danger" %}
 **You should ALWAYS [make backups](../backup/multimc.md) before updating**.
 

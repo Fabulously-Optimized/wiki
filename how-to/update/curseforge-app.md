@@ -18,7 +18,7 @@ As with any other piece of software, updates may go wrong for many reasons, incl
    1. Click on the <kbd>**three dots**</kbd> button
    2. Click on <kbd>**Profile Options**</kbd>
    3. Uncheck the <kbd>**Allow content management for this profile**</kbd> checkbox
-   4. Click on <kbd>**Continue**</kbd>
+   4. Click on <kbd>**Done**</kbd>
 6. If you do not want the latest version, select the version you want from the dropdown
 7. Click on <kbd>**Continue**</kbd>. FO should now get updated
 8. If you've followed _step 5_, remember to check the <kbd>**Allow content management for this profile**</kbd> checkbox again
