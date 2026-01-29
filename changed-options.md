@@ -6,9 +6,7 @@ Because the pack is using Config Manager, the options will only change if you do
 
 Changed mod settings [can be found here](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.11/config).
 
-## Options
-
-### Resource packs
+## Resource packs
 
 Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
 
@@ -17,6 +15,8 @@ Fabulously Optimized enables relevant mod-provided resource packs and bundles so
 - [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
 
 The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will work with other resource packs.
+
+## Options
 
 ### General options
 
