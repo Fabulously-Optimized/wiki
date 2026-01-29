@@ -37,17 +37,17 @@ Most "quality & performance" video settings on the modpack are based on the vani
 | Option | Description | Vanilla ("fancy") | Modpack ("fast") |
 | - | - | - | - |
 | `biomeBlendRadius` | Biome Blend: 3x3 (Fast) | `2` | `1` |
-| `cloudRange` | Cloud Distance: 32 Chunks | `32` | `64` |
+| `cloudRange` | Cloud Distance: 32 Chunks | `64` | `32` |
 | `entityDistanceScaling` | Entity render distance: 75% | `1.0` | `0.75` |
 | `entityShadows` | Entity shadows: OFF | `true` | `false` |
-| `mipmapLevels` | Mipmap levels: 2 | `2` | `4` |
-| `particles` | Particles: Decreased | `1` | `0` |
+| `mipmapLevels` | Mipmap levels: 2 | `4` | `2` |
+| `particles` | Particles: Decreased | `0` | `1` |
 | `prioritizeChunkUpdates` | Chunk Builder: Threaded | `1` | `0` |
-| `renderClouds` | Clouds: Fast | `"fast"` | `"true"` |
-| `renderDistance` | Render Distance: 8 Chunks | `8` | `16` |
-| `simulationDistance` | Simulation Distance: 6 Chunks | `6` | `12` |
+| `renderClouds` | Clouds: Fast | `"true"` | `"fast"` |
+| `renderDistance` | Render Distance: 8 Chunks | `16` | `8` |
+| `simulationDistance` | Simulation Distance: 6 Chunks | `12` | `6` |
 | `textureFiltering` | Texture Filtering: None | `1` | `0` |
-| `weatherRadius` | Weather Effect Radius: 5 blocks | `5` | `10` |
+| `weatherRadius` | Weather Effect Radius: 5 blocks | `10` | `5` |
 
 Exceptions - same category options that are _not_ based on preset "fast":
 
