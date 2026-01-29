@@ -8,7 +8,15 @@ Changed mod settings [can be found here](https://github.com/Fabulously-Optimized
 
 ## Options
 
-List of all changed vanilla options in the modpack.
+### Resource packs
+
+Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
+
+- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
+- [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
+- [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
+
+The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will work with other resource packs.
 
 ### General options
 
@@ -41,7 +49,7 @@ Most "quality & performance" video settings on the modpack are based on the vani
 | `textureFiltering` | Texture Filtering: None | `1` | `0` |
 | `weatherRadius` | Weather Effect Radius: 5 blocks | `5` | `10` |
 
-Exceptions - options that are _not_ based on preset "fast":
+Exceptions - same category options that are _not_ based on preset "fast":
 
 | Option | Description | Vanilla ("fancy") | Preset "fast" | Modpack ("custom") | Reason for Change |
 | - | - | - | - | - | - |
@@ -65,19 +73,6 @@ Other video settings:
 | `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
 | `tutorialStep` | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints#List_of_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
 
-### Telemetry
-
-**Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
-
-While telemetry is not always bad, as it may help developers better support their content for users' devices (e.g. to see where performance can be improved) it can be unwanted and unexpected for privacy concerns. 
-
-As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so in this modpack such option is added by [Debugify](https://curseforge.com/minecraft/mc-mods/debugify). The reason for disabling vanilla telemetry is that
-
-1. it collects too much data even in minimal configuration (e.g. user's Xbox ID)
-2. it skews Mojang's data due to being modded - Mojang may see that users using the modpack have good performance, but it does not actually reflect the original game
-
-[The modpack's stance](principles.md) is to disable all forms of telemetry by default, letting users to choose to opt-in to it manually when wanted. The modpack cannot disable any telemetry collected by game launcher or operating system.
-
 ### Keybinds
 
 | Option                            | Default | Modpack | Reason for Change                                                            |
@@ -89,15 +84,13 @@ As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so i
 | Iris: Toggle Shaders              | <kbd>K</kbd>       | none    | Not needed for most players                                             |
 | OptiGUI: Copy inspection to clipboard              | <kbd>F12</kbd>       | none    | Not needed for most players                                             |
 
-### Resource packs
+### Debug screen
 
-Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
+Vanilla <kbd>F3</kbd> debug screen can display various pieces of information and is configured with <kbd>F3</kbd>+<kbd>F6</kbd>. As it is a debugging feature and the old look cannot be directly replicated anyway, FO has chosen to keep it as default for now, except for the following:
 
-- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
-- [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
-- [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
-
-The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will work with other resource packs.
+| Option                          | Description  | Default | Modpack | Reason for Change                                                            |
+| ------------------------------- | -- | ------- | ------- | ----------------------------------------------------------------------- |
+| polytone:particle_hitboxes      | Enables hitboxes on particles when enabling Show hitboxes (<kbd>F3</kbd>+<kbd>B</kbd>)     | Always       | OFF       | Unexpected; users got confused                                    |
 
 ## Fixed bugs
 
@@ -123,6 +116,19 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-263865](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.11/PATCHED.md#unpatched-in-vanilla).
+
+### Telemetry
+
+**Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
+
+While telemetry is not always bad, as it may help developers better support their content for users' devices (e.g. to see where performance can be improved) it can be unwanted and unexpected for privacy concerns. 
+
+As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so in this modpack such option is added by [Debugify](https://curseforge.com/minecraft/mc-mods/debugify). The reason for disabling vanilla telemetry is that
+
+1. it collects too much data even in minimal configuration (e.g. user's Xbox ID)
+2. it skews Mojang's data due to being modded - Mojang may see that users using the modpack have good performance, but it does not actually reflect the original game
+
+[The modpack's stance](principles.md) is to disable all forms of telemetry by default, letting users to choose to opt-in to it manually when wanted. The modpack cannot disable any telemetry collected by game launcher or operating system.
 
 ### Requesting a bugfix
 
