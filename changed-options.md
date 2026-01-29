@@ -69,9 +69,9 @@ Other video settings:
 | - | - | - | - | - |
 | `advancedItemTooltips` | Enables ["Advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items | `false` | `true` | Shows item IDs, durability value, armor color, map scale, loaded firework type on item tooltips. |
 | `incompatibleResourcePacks` | List of forcefully enabled outdated resource packs | `[]` | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by version and are automatically changed by the game as needed. |
-| `joinedFirstServer` | Hides hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | `false` | `true` | It is easily discoverable by the "Player Reporting" button on the pause screen. |
+| `joinedFirstServer` | Hides hint toast for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | `false` | `true` | It is already easily discoverable by the "Player Reporting" button on the pause screen. |
 | `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
-| `tutorialStep` | The last step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints#List_of_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
+| `tutorialStep` | Hides [tutorial hint toasts](https://minecraft.wiki/w/Tutorial\_hints#List_of_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
 
 ### Keybinds
 
