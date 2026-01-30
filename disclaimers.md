@@ -17,7 +17,7 @@ By using this modpack, you agree to the following:
 
 ### Privacy and security
 
-* On versions 10.x.x and older, the modpack features [e4mc](https://modrinth.com/mod/e4mc), which gives users the ability to let their friends connect to their world through the internet, without the use of additional software or mods on the friend side.
+* The modpack features [e4mc](https://modrinth.com/mod/e4mc), which gives users the ability to let their friends connect to their world through the internet, without the use of additional software or mods on the friend side.
   * The feature is (only!) activated by the usual means of opening a world to LAN, so the world can be connected both through LAN and from Internet.
   * A proxy server in one of the four locations in the world is used to generate a randomized "IP" (technically, a subdomain) where other players can connect to. The host's own IP address is never shared, and the generated "IP" varies every time.
   * LAN-sharing and Internet-sharing are automatically disabled once the host disconnects the world. The host can also close the Internet sharing manually for the session by clicking on the link in chat that appeared during creation.
