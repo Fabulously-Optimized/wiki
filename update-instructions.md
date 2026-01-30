@@ -3,7 +3,7 @@
 ### Notes
 
 - As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your added mods or your hard drive. Backups are recommended.
-- If you follow these instructions, your added mods and most modpack mods' settings will persist. If you want, you can [reset your settings](#resetting-settings) to get the latest modpack configurations.
+- If you follow these instructions, your added mods and most modpack mods' settings will persist. If you want, you can [reset your settings](#resetting-options) to get the latest modpack configurations.
 - Always update the modpack first and then your own mods (if any). Do not update the modpack's mods manually, unless it is a legacy version and you know what you're doing.
 
 ### CurseForge App
@@ -219,9 +219,18 @@ No longer supported. [Please migrate to Prism Launcher.](install-instructions.md
 
 ## Resetting options
 
-Because the pack is using YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
+Because the pack is using Config Manager or YOSBR, your vanilla options and most of the mod ones will not change when you upgrade, [despite what is stated in the changelog](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md). This is made so that you can upgrade without having to reconfigure your options all the time. 
 
 However, at some point you may still want to do that in order to get the latest changes.
+
+1. Launch the game
+2. Go to `Mods` -> `Config Manager` -> `🎛️`
+3. If you want to _apply latest changes_ but keep configs for added mods, select `Update modpack's configs`. If you want to _delete all configs_ and start fresh, select `Reset modpack's configs`.
+4. Close the game and start it again. See if it works.
+5. If you got an error (especially on alpha or beta versions) or need to send logs to support, close the game and start again.
+
+<details>
+<summary>Instructions for version 10.3.1 and older</summary>
 
 1. Open the modpack folder
    * CurseForge App: right click on the modpack tile → `Open Folder`
@@ -237,3 +246,4 @@ However, at some point you may still want to do that in order to get the latest 
 6. Copy/extract the folder `configs` out to the modpack folder you previously opened
    * You may delete the `pack.zip` after you're done
 7. Launch the game. Modpack's defaults are now applied!
+</details>
