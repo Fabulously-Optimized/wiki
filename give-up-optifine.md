@@ -17,6 +17,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Option                | Is supported? | Mod providing the feature                                                                                                                                                                                                                                                                                  |
 | --------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Animation toggles     | ✔️            | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                                                                                                                                                                                                                                  |
+| Anisotropic Filtering       | ✔️            | Available in vanilla since 1.21.11    ||
 | Anti-Aliasing              | ✔️            | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Available via shaders](getting-shaders.md), such as the [TAA Project](https://modrinth.com/shader/taa)) |
 | Better Grass          | ✔️            | [BetterGrassify](https://curseforge.com/minecraft/mc-mods/bettergrassify)  |      
 | Custom capes                 | ✔️            | [Capes](https://www.curseforge.com/minecraft/mc-mods/capes) ([Tutorial](free-cape.md))                                                                                                                                                                                                              |
@@ -30,7 +31,6 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Smart Leaves¹         | ✔️            | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)                                                                                                                                                                                                                         |
 | Zoom²                  | ✔️            | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                                                                                                                                                                                                                            |                                                                                                   |
 | 32+ Render Distance   | ❌             | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656)      
-| Anisotropic Filtering       | ❌             | Not yet possible, check [this Discord discussion](https://discord.com/channels/756612889787498627/876567546390777856/978673913770950687) [(via)](https://discord.gg/7rnTYXu)    ||
 
 ### Custom resource pack features
 
@@ -47,9 +47,9 @@ Here is the list of OptiFine features that are supported in this modpack:
 | HD Fonts                    | ✔️            | [Possible in vanilla since 1.13.](https://minecraft.wiki/w/Java\_Edition\_1.13-pre6#Changes) [Download some from author's profile](https://www.curseforge.com/members/robotkoer/projects)                                                                                             |
 | Natural Textures            | ✔️            | [Possible in vanilla since 1.8](https://minecraft.wiki/w/Java_Edition_14w17a#General_2). [See also](https://discord.com/channels/859124104644788234/1148531768157290537/1148531768157290537) [(via)](https://download.fo/discord)                                                                           |
 | Random Entities             | ✔️            | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric)                                                                                        |
-| Removal of gaps (see-through lines) in items | ✔️            | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) |
-| Custom Colors               | 🚧            | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) _until FO 10.2.0_ |         
-| Custom Items                | 🚧            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) _until FO 7.0.0_ / [partially available in vanilla 1.21.5](https://github.com/SHsuperCM/CITResewn/issues/524)                                                                                                                        |
+| Removal of gaps (see-through lines) in items | ✔️            | Available in vanilla since 1.21.11  |
+| Custom Colors               | ✔️            | [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) |         
+| Custom Items                | 🚧            | [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) _until FO 7.0.0_ / Partly in vanilla since 1.21.5 [(conversion tool)](https://github.com/DimucaTheDev/VaniFine)                                                                                                                        |
 
 
 ¹ Not identical to OptiFine as people did not prefer the look. If you want it to be identical:
