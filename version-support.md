@@ -2,6 +2,8 @@
 
 ## Versions
 
+{% hint style="warning" %} Versions 11.3.0 and 12.0.0 are currently not available on the installer. Please use other launchers or manual installation. {% endhint %}
+
 #### How often does Fabulously Optimized receive updates?
 
 The goal is to push out a new version once per week or two weeks. This is not a guarantee and can change depending on the amount of mod updates, Mojang's schedules, real-life duties and others.
