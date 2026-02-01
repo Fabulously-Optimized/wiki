@@ -52,6 +52,8 @@ Notes:
 There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead](install-instructions.md#prism-launcher), which also has a seamless modpack updater.
 {% endhint %}
 
+You need to create a custom script to disable certain mods. See instructions by platform below.
+
 <details>
   <summary>Windows instructions</summary>
 
@@ -63,7 +65,7 @@ These instructions are here as-is to be used at your own risk, no support is pro
      1. Open MultiMC, right click your instance and click "Instance Folder"
      2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell prompt)
      3. Within the terminal, run the following commands to download the files.
- ```
+```
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/pre-launch.ps1" -OutFile "pre-launch.ps1")
 (Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optimized/main/Packwiz/post-exit.ps1" -OutFile "post-exit.ps1")
 ```
@@ -90,7 +92,7 @@ _Tutorial and scripts are made by [Ultrasonic1209](https://github.com/Ultrasonic
 </details>
 
 <details>
-  <summary>Linux, macOS instructions</support>
+  <summary>Linux, macOS instructions</summary>
 
 {% hint style="warning" %}
 Not fully tested on macOS. These instructions are here as-is to be used at your own risk, no support is provided.
