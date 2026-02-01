@@ -138,8 +138,6 @@ If there is a new Minecraft version:
 
 ### Minecraft Launcher (vanilla)
 
-{% hint style="warning" %} Versions 11.3.0 and 12.0.0 are currently not available on the installer. Please use other launchers or manual installation. {% endhint %}
-
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
     * In most cases, you may also use the older version of the installer if you have it already.
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
