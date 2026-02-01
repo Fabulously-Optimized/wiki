@@ -2,7 +2,7 @@
 
 ## Installer
 
-{% hint style="warning" %} Cannot see versions 11.3.0 or 12.0.0? Please update your installer. {% endhint %}
+{% hint style="warning" %} Cannot see versions 11.3.0 or 12.0.0? [Please update your installer.](https://download.fo/vanilla) {% endhint %}
 
 ### Why does the installer show less versions than other platforms?
 
