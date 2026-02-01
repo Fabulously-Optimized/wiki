@@ -57,7 +57,7 @@ No. Only stable versions of Minecraft are supported as they are available on all
 
 ### Where can I find the oldest Minecraft versions?
 
-[CurseForge listing](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) contains all latest versions down to Minecraft 1.16.1. Note that due to technical reasons they may not even directly work anymore.
+[CurseForge listing](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) contains all latest versions down to Minecraft 1.16.1. Note that due to technical reasons they may not even directly work anymore, you may have better luck with their MultiMC variants.
 
 If you need to play in a server that uses a version not supported by the modpack, your best bet is installing the latest version of the modpack and adding [ViaFabric](https://www.curseforge.com/minecraft/mc-mods/viafabric) to your modpack profile [(instructions are here)](adding-more-mods.md). It is recommended to keep the mod enabled only while playing the server where you need it.
 
