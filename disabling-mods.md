@@ -49,12 +49,16 @@ Notes:
 ### MultiMC (auto-update)
 
 {% hint style="info" %}
-There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead,](install-instructions.md#prism-launcher) which also has a seamless modpack updater.
+There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead](install-instructions.md#prism-launcher), which also has a seamless modpack updater.
 {% endhint %}
 
 <details>
   <summary>Windows instructions</summary>
-  
+
+{% hint style="warning" %}
+These instructions are here as-is to be used at your own risk, no support is provided.
+{% endhint %}
+
 1. Download the mod disabling scripts:
      1. Open MultiMC, right click your instance and click "Instance Folder"
      2. Inside the folder, shift-right click and select Open in Terminal (or equivalent PowerShell prompt)
@@ -81,16 +85,16 @@ There is no _easy_ way to disable mods because the tool downloads missing mods b
        * Or `path\to\folder\post-exit.ps1` (where `path\to\folder` is the path to the folder)
 4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
-_Tutorial and scripts are made by [Ultrasonic1209](https://github.com/Ultrasonic1209). These instructions are here as-is and no support is provided._
+_Tutorial and scripts are made by [Ultrasonic1209](https://github.com/Ultrasonic1209)._
 
 </details>
 
 <details>
-  <support></support>
+  <summary>Linux, macOS instructions</support>
 
-### Linux, macOS instructions
-
-Not fully tested on macOS.
+{% hint style="warning" %}
+Not fully tested on macOS. These instructions are here as-is to be used at your own risk, no support is provided.
+{% endhint %}
 
 1. Open a terminal and run the command below:
    * Debian-Ubuntu Linux: `sudo apt-get install jq`
@@ -129,7 +133,7 @@ curl -Os https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optim
        * Or `path/to/folder/post-exit.sh` (where `/path/to/folder` is the path to the folder)
 5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
-_Tutorial and scripts made by [RaptaG](https://github.com/RaptaG). These instructions are here as-is and no support is provided._
+_Tutorial and scripts made by [RaptaG](https://github.com/RaptaG)._
 
 #### What if I want to disable more or less than 6 mods?
 
