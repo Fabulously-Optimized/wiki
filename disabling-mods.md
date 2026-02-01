@@ -52,7 +52,7 @@ Notes:
 There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead](install-instructions.md#prism-launcher), which also has a seamless modpack updater.
 {% endhint %}
 
-You need to create a custom script to disable certain mods. See instructions by platform below.
+You need to create a custom script to disable mods. See instructions by platform below.
 
 <details>
   <summary>Windows instructions</summary>
