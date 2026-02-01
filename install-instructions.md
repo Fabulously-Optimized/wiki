@@ -133,8 +133,6 @@ It does _not_ auto-update any individual mods outside of what is set in the the 
     * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
-The installer includes only 
-
 <details>
   <summary>MacOS installer opening instructions</summary>
 
