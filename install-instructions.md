@@ -303,7 +303,7 @@ If you'd still like to do it on your responsibility, just install the other modp
 
 ### Game clients
 
-Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients".
+Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [It is also itself not one.](principles.md#why-is-fabulously-optimized-not-a-client)
 
 Instead, it is suggested to use this modpack and [add individual features as mods](adding-more-mods.md) that you might be missing from said clients. Here is a list for:
 - [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
@@ -314,15 +314,6 @@ Instead, it is suggested to use this modpack and [add individual features as mod
    - World hosting [already exists in this modpack](disclaimers.md)
 
 _Note: these lists are managed by contributors outside this wiki. There can be mods that are already in this modpack or are incompatible with it._
-
-#### Why is Fabulously Optimized itself not a client?
-
-- We would need explicit permission from the mod authors to use their mods in a client
-- The authors of each mod would receive no benefits by being included (unless ads or similar are included)
-- Less flexibility in mods that we could include at all
-- The client would need to be coded and maintained to keep it up to date
-
-Being a modpack makes it easier for the users to add their own mods in and use Fabulously Optimized as base pack for their own needs. This also makes it easier for the creator to add, remove and swap any mods at any time.
 
 ### Bedrock Edition
 
