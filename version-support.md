@@ -2,11 +2,13 @@
 
 ## Installer
 
-{% hint style="warning" %} Cannot see versions 11.3.0 or 12.0.0? [Please update your installer.](https://download.fo/vanilla) {% endhint %}
+{% hint style="warning" %}
+Cannot see versions 11.3.0 or 12.0.0? [Please update your installer.](https://download.fo/vanilla)
+{% endhint %}
 
 ### Why does the installer show less versions than other platforms?
 
-As the installer is intended for users with least Minecraft knowledge, the versions are also primarily limited to the stable versions. 
+As the installer is intended for users with least Minecraft knowledge, the versions are also primarily limited to the stable versions.
 
 Due to high interest, it will still always include the latest Minecraft version, even if the equivalent modpack version is still in alpha or beta. This can be selected by clicking on the version list and selecting the topmost item.
 
@@ -22,20 +24,20 @@ The goal is to push out a new version once per week or two weeks. This is not a 
 
 ### How do the modpack version numbers work?
 
-- **X**.Y.Z stands for "major versions"
-   - 1.x.x-6.x.x directly map to Minecraft's A.**B**.C [full releases](https://minecraft.wiki/w/Java_Edition_version_history#Full_release) (1.16.x was 1, 1.17.x was 2, etc)
-   - 8.x.x and onwards the versions are mapped to [game drops](https://minecraft.wiki/w/Game_drop), beginning with The Garden Awakens
-- X.**Y**.Z stands for minor versions which may map to Minecraft's A.B.**C** or just refer to bigger changes like added mods
-- X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
+* **X**.Y.Z stands for "major versions"
+  * 1.x.x-6.x.x directly map to Minecraft's A.**B**.C [full releases](https://minecraft.wiki/w/Java_Edition_version_history#Full_release) (1.16.x was 1, 1.17.x was 2, etc)
+  * 8.x.x and onwards the versions are mapped to [game drops](https://minecraft.wiki/w/Game_drop), beginning with The Garden Awakens
+* X.**Y**.Z stands for minor versions which may map to Minecraft's A.B.**C** or just refer to bigger changes like added mods
+* X.Y.**Z** stands for patch versions - no breaking changes, no mod additions/removals
 
 Here is how you should think about the version types in relation to Minecraft's:
 
-| Minecraft term            | Modpack equivalent term |
-| ----------------- | ------------------------- |
-| snapshot                           | alpha                                              |
-| pre-release                        | beta                                               |
-| release candidate                  | beta*                                              |
-| release                            | stable                                             |
+| Minecraft term    | Modpack equivalent term |
+| ----------------- | ----------------------- |
+| snapshot          | alpha                   |
+| pre-release       | beta                    |
+| release candidate | beta\*                  |
+| release           | stable                  |
 
 \* Fabulously Optimized does not explicitly mark release candidates as such, because its releases often depend on external factors (the included 3rd party mods).
 
