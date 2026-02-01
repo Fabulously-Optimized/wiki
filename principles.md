@@ -33,3 +33,5 @@ Looking for alternative mods to those you've been used to in (Neo)Forge? [Check 
 - The authors of each mod would receive no benefits by being included, unless ads or similar are introduced
 - Less flexibility in mods that could be included at all
 - The client would need to be coded and maintained to keep it up to date
+
+Being a modpack makes it easier for the users to add their own mods in and use Fabulously Optimized as base pack for their own needs. This also makes it easier for the creator to add, remove and swap any mods at any time.
