@@ -296,6 +296,15 @@ Instead, it is suggested to use this modpack and [add individual features as mod
 
 _Note: these lists are managed by contributors outside this wiki. There can be mods that are already in this modpack or are incompatible with it._
 
+#### Why is Fabulously Optimized itself not a client?
+
+- We would need explicit permission from the mod authors to use their mods in a client
+- The authors of each mod would receive no benefits by being included (unless ads or similar are included)
+- Less flexibility in mods that we could include at all
+- The client would need to be coded and maintained to keep it up to date
+
+Being a modpack makes it easier for the users to add their own mods in and use Fabulously Optimized as base pack for their own needs. This also makes it easier for the creator to add, remove and swap any mods at any time.
+
 ### Bedrock Edition
 
 Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui), however.
