@@ -8,7 +8,7 @@ Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutoria
 
 The default Minecraft launcher is very basic, and it lacks many features that improve usability with mods. For example, a third-party launcher can easily download and update the modpack, add and remove mods with a few simple clicks. Many can even manage resource packs, datapacks and shaders!
 
-All launchers in the "supported" list are safe to use, have been throughly tested and are fully supported by the Fabulously Optimized.
+All launchers in the "supported" list are safe to use, have been throughly tested and are fully supported by Fabulously Optimized.
 
 ## Supported
 
