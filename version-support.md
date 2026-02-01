@@ -2,7 +2,7 @@
 
 ## Installer
 
-{% hint style="warning" %} Versions 11.3.0 and 12.0.0 are currently not available on the installer. Please use other launchers or manual installation. {% endhint %}
+{% hint style="warning" %} Cannot see versions 11.3.0 or 12.0.0? Please update your installer. {% endhint %}
 
 ### Why does the installer show less versions than other platforms?
 
