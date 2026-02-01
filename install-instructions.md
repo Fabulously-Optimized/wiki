@@ -154,7 +154,7 @@ It does _not_ auto-update any individual mods outside of what is set in the the 
   
 </details>
 <details>
-   <summary>Manual installation - Minecraft 1.19.4+</summary>
+   <summary>Manual installation - version 4.11.0 (1.19.3) and newer</summary>
   
 For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
 
@@ -175,7 +175,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 </details>
 
 <details>
-  <summary>Manual installation - Minecraft 1.16.1-1.19.3</summary>
+  <summary>Manual installation - version 4.6.1 (1.19.3) and older</summary>
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
