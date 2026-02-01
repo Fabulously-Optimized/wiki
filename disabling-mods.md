@@ -85,7 +85,7 @@ These instructions are here as-is to be used at your own risk, no support is pro
        * Or `path\to\folder\post-exit.ps1` (where `path\to\folder` is the path to the folder)
 4. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
-_Tutorial and scripts are made by [Ultrasonic1209](https://github.com/Ultrasonic1209)._
+_Tutorial and scripts are made by [Ultrasonic1209](https://github.com/Ultrasonic1209) based on [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81)._
 
 </details>
 
@@ -133,7 +133,7 @@ curl -Os https://raw.githubusercontent.com/Fabulously-Optimized/fabulously-optim
        * Or `path/to/folder/post-exit.sh` (where `/path/to/folder` is the path to the folder)
 5. That's it! Now, the mods you disabled will not run with the instance nor appear inside Mod Menu!
 
-_Tutorial and scripts made by [RaptaG](https://github.com/RaptaG)._
+_Tutorial and scripts made by [RaptaG](https://github.com/RaptaG) based on [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81)._
 
 #### What if I want to disable more or less than 6 mods?
 
