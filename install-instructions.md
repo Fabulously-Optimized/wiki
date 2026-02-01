@@ -4,6 +4,12 @@ Here are the instructions to install Fabulously Optimized to various launchers.
 
 Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
 
+### Why try a new launcher?
+
+The default Minecraft launcher is very basic, and it lacks many features that improve usability with mods. For example, a third-party launcher can easily download and update the modpack, add and remove mods with a few simple clicks. Many can even manage resource packs, datapacks and shaders!
+
+All launchers in the "supported" list are safe to use, have been throughly tested and are fully supported by the Fabulously Optimized.
+
 ## Supported
 
 ### [CurseForge App](https://www.curseforge.com/download/app#download-options)
@@ -212,9 +218,9 @@ _Not to be confused with [TLauncher](#tlauncher)._
 
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
 
-### Pojav Launcher
+### Angel Aura Amethyst
 
-Pojav Launcher is not supported because it allows piracy and does not support Sodium, among some other issues.
+Angel Aura Amethyst and its predecessor Pojav Launcher are not supported because they allow piracy and do not support Sodium, among some other issues.
 
 ### PolyMC
 
@@ -307,16 +313,8 @@ Being a modpack makes it easier for the users to add their own mods in and use F
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui), however.
+Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
 
 ## Servers
 
-Any server that works with vanilla Minecraft is supported, no changes are necessary to the server. See [server setup](server-setup.md) for tips.
-
-## Quilt
-
-Fabulously Optimized is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
-
-It can be attempted to run it through Quilt, but not all mods and configurations work without changes. If you do attempt it, you're on your own - do not ask for support from the modpack.
-
-The sustainability and popularity of Quilt is being tracked in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+Any server that works with vanilla Minecraft is supported, no changes are necessary to the server. Modpack itself is not supported on servers. See [server setup](server-setup.md) for tips.
