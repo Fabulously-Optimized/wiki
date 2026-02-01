@@ -13,8 +13,6 @@
 * [Get a free Minecraft cape](free-cape.md)
 * [Install OptiFine shaders](getting-shaders.md)
 * [Resource pack troubleshooting](resource-pack-issues.md)
-* [Vanilla launcher FAQ](vanilla-launcher-faq.md)
-* [MultiMC auto-update](multimc-auto-update.md)
 * [Version support](version-support.md)
 * [Goals and principles](principles.md)
 * [Accessibility](accessibility.md)

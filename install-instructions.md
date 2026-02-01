@@ -4,6 +4,12 @@ Here are the instructions to install Fabulously Optimized to various launchers.
 
 Can't use Minecraft 1.17 and higher due to hardware limits? [Follow this tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) and then retry.
 
+### Why try a new launcher?
+
+The default Minecraft launcher is very basic, and it lacks many features that improve usability with mods. For example, a third-party launcher can easily download and update the modpack, add and remove mods with a few simple clicks. Many can even manage resource packs, datapacks and shaders!
+
+All launchers in the "supported" list are safe to use, have been throughly tested and are fully supported by the Fabulously Optimized.
+
 ## Supported
 
 ### [CurseForge App](https://www.curseforge.com/download/app#download-options)
@@ -25,8 +31,6 @@ Or directly from the website:
 5. Once the Minecraft Launcher has opened, click `Play` again
 
 ### [Modrinth App](https://modrinth.com/app)
-
-App version 0.6.2 or higher required, these instructions are for 0.9.2+.
 
 1. Under "Discover a modpack" section, click on "Fabulously Optimized"
 2. Click `⤓ Install`
@@ -105,13 +109,26 @@ You need [Java 21](https://download.fo/java21) to play the game.
 
 </details>
 
+<details>
+  <summary>How does this work?</summary>
+
+It is a normal MultiMC modpack that simply launches [packwiz](https://github.com/comp500/packwiz), a mod handling tool on every start.
+
+Every time you launch it, it asks the server whether the modpack has any updates. This means you do need internet access or you'll get an error (though you can skip the error).
+If there are any, they will be downloaded and launched, otherwise the current game will launch. 
+
+It does _not_ auto-update any individual mods outside of what is set in the the modpack.
+
+</details>
+
 ### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
 
 1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
     * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
-2. Select preferred FO/Minecraft version and install
+2. Select preferred modpack version and install
+    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 <details>
@@ -137,7 +154,7 @@ You need [Java 21](https://download.fo/java21) to play the game.
   
 </details>
 <details>
-   <summary>Manual installation - Minecraft 1.19.4+</summary>
+   <summary>Manual installation - version 4.11.0 (1.19.3) and newer</summary>
   
 For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
 
@@ -147,7 +164,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
    * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
-4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
+4. Open the zip file and copy **all folders** to your _.minecraft_ folder
    * If asked - replace the files.
 5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
@@ -158,7 +175,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 </details>
 
 <details>
-  <summary>Manual installation - Minecraft 1.16.1-1.19.3</summary>
+  <summary>Manual installation - version 4.6.1 (1.19.3) and older</summary>
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)
      * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
@@ -171,7 +188,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
   6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-  7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
+  7. Open the zip file and copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder
      * If asked - replace the files.
   8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
      * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
@@ -212,9 +229,9 @@ _Not to be confused with [TLauncher](#tlauncher)._
 
 ATLauncher is currently not supported simply because the interface is confusing and complex. There have been discussions with its developer to improve this and it may be considered in the future.
 
-### Pojav Launcher
+### Angel Aura Amethyst
 
-Pojav Launcher is not supported because it allows piracy and does not support Sodium, among some other issues.
+Angel Aura Amethyst and its predecessor Pojav Launcher are not supported because they allow piracy and do not support Sodium, among some other issues.
 
 ### PolyMC
 
@@ -284,7 +301,7 @@ If you'd still like to do it on your responsibility, just install the other modp
 
 ### Game clients
 
-Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients".
+Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [It is also itself not one.](principles.md#why-is-fabulously-optimized-not-a-client)
 
 Instead, it is suggested to use this modpack and [add individual features as mods](adding-more-mods.md) that you might be missing from said clients. Here is a list for:
 - [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
@@ -298,16 +315,8 @@ _Note: these lists are managed by contributors outside this wiki. There can be m
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui), however.
+Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
 
 ## Servers
 
-Any server that works with vanilla Minecraft is supported, no changes are necessary to the server. See [server setup](server-setup.md) for tips.
-
-## Quilt
-
-Fabulously Optimized is based on [Fabric](https://fabricmc.net/), not [Quilt](https://quiltmc.org). 
-
-It can be attempted to run it through Quilt, but not all mods and configurations work without changes. If you do attempt it, you're on your own - do not ask for support from the modpack.
-
-The sustainability and popularity of Quilt is being tracked in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
+Any server that works with vanilla Minecraft is supported, no changes are necessary to the server. Modpack itself is not supported on servers. See [server setup](server-setup.md) for tips.

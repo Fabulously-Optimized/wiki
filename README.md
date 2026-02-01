@@ -14,9 +14,7 @@ How to [⬇️ Install](install-instructions.md) | [🆕 Update](update-instruct
 
 Get a [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼️ Resource packs to work](resource-pack-issues.md)
 
-How does the modpack work in [🍦 Vanilla launcher](vanilla-launcher-faq.md) | [🔃 MultiMC (auto-update)](multimc-auto-update.md) | [🔢 across Minecraft versions](version-support.md)
-
-How is the pack built: [🔣 Goals and principles](principles.md) [(why use Fabric?)](principles.md#why-use-fabric) | [♿ Accessibility](accessibility.md) | [💡 Facts and trivia on FTB Wiki](https://ftb.fandom.com/wiki/Fabulously_Optimized)
+How is the pack built: [🔣 Goals and principles](principles.md) [(why use Fabric?)](principles.md#why-use-fabric) | [♿ Accessibility](accessibility.md) | [🔢 Version support](version-support.md) | [💡 Facts and trivia on FTB Wiki](https://ftb.fandom.com/wiki/Fabulously_Optimized)
 
 You can help by [❤️ Supporting the pack](https://download.fo/thanks) | [✍️ Translating to your language](language-support.md)
 

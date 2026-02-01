@@ -26,3 +26,12 @@ Some facts about Fabric that can make you reconsider using (Neo)Forge...
 * **Fabric is easy** - many launchers are supported, and the [installers are accessible right from the homepage](https://fabricmc.net/use/installer/)
 
 Looking for alternative mods to those you've been used to in (Neo)Forge? [Check this list out!](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md)
+
+### Why is Fabulously Optimized not a client?
+
+- Explicit permission is needed from the mod authors to use their mods in a client
+- The authors of each mod would receive no benefits by being included, unless ads or similar are introduced
+- Less flexibility in mods that could be included at all
+- The client would need to be coded and maintained to keep it up to date
+
+Being a modpack makes it easier for the users to add their own mods in and use Fabulously Optimized as base pack for their own needs. This also makes it easier for the creator to add, remove and swap any mods at any time.
