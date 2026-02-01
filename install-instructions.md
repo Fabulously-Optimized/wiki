@@ -129,8 +129,11 @@ It does _not_ auto-update any individual mods outside of what is set in the the 
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
     * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
-2. Select preferred FO/Minecraft version and install
+2. Select preferred modpack version and install
+    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+The installer includes only 
 
 <details>
   <summary>MacOS installer opening instructions</summary>
@@ -165,7 +168,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
    * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
-4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
+4. Open the zip file and copy **all folders** to your _.minecraft_ folder
    * If asked - replace the files.
 5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
@@ -189,7 +192,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
   6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-  7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
+  7. Open the zip file and copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder
      * If asked - replace the files.
   8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
      * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
