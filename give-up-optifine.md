@@ -30,7 +30,7 @@ Here is the list of OptiFine features that are supported in this modpack:
 | Shaders | ✔️ | [Iris](https://www.curseforge.com/minecraft/mc-mods/irisshaders) ([Tutorial](getting-shaders.md)) |
 | Smart Leaves | ✔️ | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling)¹ |
 | Zoom | ✔️ | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)² |
-| Vanilla UI design | 🚧 | Vanilla video settings screen viewable by <kbd>Shift</kbd>+<kbd>P</kbd>³ |
+| Vanilla UI design | 🚧 | ([Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)) - vanilla video settings screen viewable by <kbd>Shift</kbd>+<kbd>P</kbd>³ |
 | 32+ Render Distance | ❌ | Available through [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric), but [removed from FO due to platform limits.](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/656) |
 
 ### Custom resource pack features
