@@ -81,6 +81,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 10. Hold down `F3` and press `T` to reload resource pack contents
 11. Press `Esc` → `Mods`. Look around and make sure everything fits.
     * Use maximized window or fullscreen, Full HD (1920×1080) screen, GUI scale 3, default font.
+    * It is likely that not all translated mod descriptions are available on the same version of the modpack - just test the ones you can see on the latest stable version.
 12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
 13. If not everything fits yet, change the translation on Crowdin and repeat from step 3.
 
