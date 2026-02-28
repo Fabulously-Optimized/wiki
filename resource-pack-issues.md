@@ -22,11 +22,33 @@ See also: [Minecraft Wiki article about this](https://minecraft.wiki/w/Resource_
 
 ### Fullbright
 
-_Or "game brightness beyond 100%"_.
+If you want to have game brightness at 100% where not usually expected, see your options below.
 
-Currently the vanilla resource pack and a direct options.txt edit **do not work**, OptiFine-based resource packs _might work_. Either way, it is recommended to just [add a mod](adding-more-mods.md), such as [Gamma Utils](https://modrinth.com/mod/gamma-utils) or [other simpler ones](https://modrinth.com/mods?q=fullbright&e=client&g=categories:fabric).
+#### Works
 
-Fabulously Optimized does not plan to add "fullbright" methods beyond its current [dynamic lighting](give-up-optifine.md), because it would take away from vanilla gameplay's night vision and may be disallowed on certain servers' rules.
+- [Night Vision potion](https://minecraft.wiki/w/Night_Vision)
+- Holding up a torch
+- [Dedicated mods](https://modrinth.com/mods?q=fullbright&e=client&g=categories:fabric)) that add fullbright
+- [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fullbright) for fullbright
+
+#### Does not work
+
+- Resource packs that add fullbright ("core shaders")
+- Editing options.txt directly (vanilla game restriction)
+
+### Disabling fog
+
+If you'd like to disable fog, see your options below.
+
+#### Works
+
+- Fog setting in video settings (provided by the modpack)
+- [Dedicated mods](https://modrinth.com/discover/mods?q=fog&g=categories:fabric&e=client) that add fog toggles
+- [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fog) for disabling fog
+
+#### Does not work
+
+- Resource packs that disable fog ("core shaders")
 
 ### Invisible blocks
 
