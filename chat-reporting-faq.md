@@ -199,6 +199,8 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **2023-11-07** - [Mojang announced the Official Minecraft Server List](https://www.minecraft.net/en-us/article/the-official-minecraft-server-list-live), which features [the "Beacon of Safety badge"](https://findmcserver.com/parents#features) that requires the server to have chat reporting, profanity filter and a manual review by the site's admins. No Java Edition servers have the badge yet.
 - **[1.21.5-pre2](https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_1#General)** - implemented some changes for clientside exploit prevention (against servers sending messages with incorrect timestamps)
 - **2025-28-07** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
+- **2026-02-15** - Aforementioned age verification starts to take effect for UK users. Affected users [will not be able to](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/1067) use 3rd party launchers, chat or commands.
+- **[26.1](https://minecraft.wiki/w/Java_Edition_26.1#General_2)** - Users affected by age verification should be able to open chat, use commands and see system messages again.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
@@ -456,6 +458,15 @@ However, what we do know:
 * Realms always has chat reporting.
 
 Public server listings usually only list the latest version a player can join with, not all versions, so even the 1.19.3+ server count is hard to determine.
+
+### How does age verification work in Java Edition?
+
+Users using Minecraft 1.16.4-1.21.11 will not be able to receive chat or system messages or open chat at all. This affects only multiplayer (not LAN, Realms, singleplayer), including commands. On 26.1 and higher, commands and system messages should be accessible again.
+
+Additionally, third party launchers may not let you sign in until age is verified.
+
+[Official FAQ](https://support.xbox.com/en-GB/help/family-online-safety/online-safety/UK-age-verification)
+[News article](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/)
 
 ### I have more questions.
 
