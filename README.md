@@ -12,7 +12,7 @@ Welcome to the Fabulously Optimized wiki! [🌐 Read in your language](https://t
 
 How to [⬇️ Install](install-instructions.md) | [🆕 Update](update-instructions.md) [(reset options)](update-instructions.md#resetting-options) | [➕ Add mods](adding-more-mods.md) | [➖ Remove mods](disabling-mods.md) | [🗑️ Backup and uninstall](backup-and-uninstall.md)
 
-Get a [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼️ Resource packs to work](resource-pack-issues.md)
+Get a [🦸 Cape](free-cape.md) | [🌅 Shaders](getting-shaders.md) | [🖼️ Resource packs to work](resource-pack-issues.md) [(fullbright, fog)](resource-pack-issues.md#fullbright)
 
 How is the pack built: [🔣 Goals and principles](principles.md) [(why use Fabric?)](principles.md#why-use-fabric) | [♿ Accessibility](accessibility.md) | [🔢 Version support](version-support.md) | [💡 Facts and trivia on FTB Wiki](https://ftb.fandom.com/wiki/Fabulously_Optimized)
 
