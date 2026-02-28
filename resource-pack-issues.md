@@ -85,7 +85,7 @@ Some versions of FO include Better Beds instead.
 
 Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? Does the resource pack change lighting or fog?
 
-That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on FO.
+That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on the modpack. When possible, always use dedicated mods instead.
 
 ### Custom colors
 
