@@ -461,12 +461,12 @@ Public server listings usually only list the latest version a player can join wi
 
 ### How does age verification work in Java Edition?
 
-Users using Minecraft 1.16.4-1.21.11 will not be able to receive chat or system messages or open chat at all. This affects only multiplayer (not LAN, Realms, singleplayer), including commands. On 26.1 and higher, commands and system messages should be accessible again.
+Affected users who decide to not verify and are using Minecraft 1.16.4-1.21.11 will not be able to receive chat or system messages or open chat at all. This affects only multiplayer (not LAN, Realms, singleplayer), including commands. On 26.1 and higher, commands and system messages should be accessible again.
 
 Additionally, third party launchers may not let you sign in until age is verified.
 
-[Official FAQ](https://support.xbox.com/en-GB/help/family-online-safety/online-safety/UK-age-verification)
-[News article](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/)
+- [Official FAQ](https://support.xbox.com/en-GB/help/family-online-safety/online-safety/UK-age-verification)
+- [News article](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/)
 
 ### I have more questions.
 
