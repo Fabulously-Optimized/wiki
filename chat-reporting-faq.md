@@ -200,7 +200,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **[1.21.5-pre2](https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_1#General)** - implemented some changes for clientside exploit prevention (against servers sending messages with incorrect timestamps)
 - **2025-28-07** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
 - **2026-02-15** - Aforementioned age verification starts to take effect for UK users. Affected users [will not be able to](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/1067) use 3rd party launchers, chat or commands.
-- **[26.1](https://minecraft.wiki/w/Java_Edition_26.1#General_2)** - Users affected by age verification should be able to open chat, use commands and see system messages again.
+- **[26.1](https://minecraft.wiki/w/Java_Edition_26.1#General_2)** - Users affected by age verification who decide to not verify should be able to open chat, use commands and see system messages again.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
