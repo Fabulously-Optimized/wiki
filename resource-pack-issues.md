@@ -33,7 +33,7 @@ If you want to have game brightness at 100% where not usually expected, see your
 
 #### Does not work
 
-- Resource packs that add fullbright ("core shaders")
+- Resource packs that add fullbright [("core shaders")](resource-pack-issues.md#core-shadersincompatible-with-sodium)
 - Editing options.txt directly (vanilla game restriction)
 
 ### Disabling fog
@@ -48,7 +48,7 @@ If you'd like to disable fog, see your options below.
 
 #### Does not work
 
-- Resource packs that disable fog ("core shaders")
+- Resource packs that disable fog [("core shaders")](resource-pack-issues.md#core-shadersincompatible-with-sodium)
 
 ### Invisible blocks
 
@@ -83,7 +83,7 @@ Some versions of FO include Better Beds instead.
 ![Resource packs may be incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/0049c401-2922-4d03-976b-44bbf4fcc6a9)
 ![Resource packs are incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/3116448a-53fe-4af0-9520-99c061694ba0)
 
-Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? 
+Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? Does the resource pack change lighting or fog?
 
 That means it may depend on [core shaders](getting-shaders.md#core-shaders), which are not fully supported on FO.
 
