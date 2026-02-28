@@ -28,7 +28,7 @@ If you want to have game brightness at 100% where not usually expected, see your
 
 - [Night Vision potion](https://minecraft.wiki/w/Night_Vision)
 - Holding up a torch
-- [Dedicated mods](https://modrinth.com/mods?q=fullbright&e=client&g=categories:fabric)) that add fullbright
+- [Dedicated mods](https://modrinth.com/mods?q=fullbright&e=client&g=categories:fabric) that add fullbright
 - [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fullbright) for fullbright
 
 #### Does not work
