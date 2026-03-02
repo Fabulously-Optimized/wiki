@@ -284,7 +284,7 @@ After that, pick any supported launcher from this page and enjoy the game!
 
 ### Other launchers
 
-Technically you can install it in _some_ other launchers that support CurseForge or Modrinth modpacks or in _any_ launcher by following the vanilla instructions. However, please do not ask for support here if you use an unsupported launcher.
+Technically you can install it in other launchers that support CurseForge or Modrinth modpacks or in any launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
 
 ### Other modpacks
 
@@ -297,7 +297,7 @@ While it is theoretically possible, this is **not advised**:
 
 Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
 
-If you'd still like to do it on your responsibility, just install the other modpack first and then copy FO's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
+If you'd still like to do it on your responsibility, just install the other modpack first and then copy modpack's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
 
 ### Game clients
 
@@ -315,8 +315,8 @@ _Note: these lists are managed by contributors outside this wiki. There can be m
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#pojav-launcher). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
+Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#angel-aura-amethyst). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
 
 ## Servers
 
-Any server that works with vanilla Minecraft is supported, no changes are necessary to the server. Modpack itself is not supported on servers. See [server setup](server-setup.md) for tips.
+Any server that works with vanilla Minecraft can be played with the modpack, no changes are necessary to the server. Installing modpack itself to the servers is not supported. See [server setup](server-setup.md) for tips.
