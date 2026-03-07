@@ -47,7 +47,8 @@
    * Never downgrade an instance, this could corrupt your worlds and settings!
    * It is not advised to upgrade from release to alpha or release to beta - make a separate instance for testing.
    * Updating from alpha to beta, beta to release is recommended as long as the Minecraft version matches.
-5. Click `⇆`. Modpack will now update.
+5. Click `⇆` button next to the version name. Modpack will now update.
+   * Do not click the version name itself as this will lead you to download a new instance.
 6. Run it and check the version difference in the bottom right corner.
   
 <details>
