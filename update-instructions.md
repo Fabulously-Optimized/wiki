@@ -117,8 +117,8 @@
 1. Go to the existing instance, click `Edit Instance`
 2. Go to `Settings` on the left, then `Custom commands`
 3. On `Pre-launch command`, you see a long text. Scroll to the rightmost edge.
-4. It will say something like _.../main/Packwiz/**1.21.11**/pack.toml_. Change the Minecraft version to the one you prefer.
-   - Always use a newer version. 
+4. It will say something like _.../main/Packwiz/**1.21.11**/pack.toml_. Change the Minecraft version to a newer one.
+   - Do not select an older version, this could corrupt your worlds and settings!
    - [Ensure that the modpack is already built for that version](https://modrinth.com/modpack/fabulously-optimized/versions).
 5. Click `Launch`.
 6. You should see a popup saying "This modpack uses newer versions of the following..." - click `Update`.
