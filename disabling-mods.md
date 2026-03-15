@@ -30,7 +30,8 @@ Notes:
 1. Open Modrinth App
 2. Open `|||\` "Library"
 3. Click on Fabulously Optimized
-4. Find the mod you need, toggle the knob.
+4. If the mod you want to disable is a part of the modpack, click `📦 Content`
+5. Find the mod you need, toggle the knob.
 
 ### Prism Launcher
 
