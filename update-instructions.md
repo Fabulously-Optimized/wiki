@@ -49,8 +49,8 @@
    * Never downgrade an instance, this could corrupt your worlds and settings!
    * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
    * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
-5. You will get a warning about losing content, so optionally make a backup and then `⤓ Update modpack`
-   * In our testing there has not been any loss of added content, but this is currently being confirmed with Modrinth.
+7. In the warning, click `⤓ Update modpack`
+   * The warning is currently being discussed with Modrinth as the wording seems to be misleading; nonetheless making backups wouldn't hurt.
 6. Run it and check the version difference in the bottom right corner.
 
 #### If the update uses a newer Minecraft version
@@ -64,8 +64,8 @@
    * Never downgrade an instance, this could corrupt your worlds and settings!
    * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
    * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
-7. You will get a warning about losing content, so optionally make a backup and then `⤓ Update modpack`
-   * In our testing there has not been any loss of added content, but this is currently being confirmed with Modrinth. 
+7. In the warning, click `⤓ Update modpack`
+   * The warning is currently being discussed with Modrinth as the wording seems to be misleading; nonetheless making backups wouldn't hurt.
 8. Run it and check the version difference in the bottom right corner.
 
 ### Prism Launcher
