@@ -32,7 +32,7 @@ Or directly from the website:
 
 ### [Modrinth App](https://modrinth.com/app)
 
-1. Under "Discover a modpack" section, click on "Fabulously Optimized"
+1. Under "Discover content" section, look for "Fabulously Optimized"
 2. Click `⤓ Install`
    * Optional: Select the version you want by instead clicking the tile → `Versions` → `⤓` on the version you want.
 3. The modpack will now install.
