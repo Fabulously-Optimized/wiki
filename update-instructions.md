@@ -15,9 +15,8 @@
     * Don't see that option? Follow the other instructions below.
 3. Click `Select version`
 4. Select a version that matches your current or has a newer Minecraft version
-   * Never downgrade an instance, this could corrupt your worlds and settings!
-   * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-   * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+   * Do not select an older version, this could corrupt your worlds and settings!
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#curseforge-app) for testing.
 5. Click `Continue`. Modpack will now update.
 6. Run it and check the version difference in the bottom right corner.
 
@@ -32,9 +31,8 @@
 6. Click `⇄` (between `⫶` and `Play`).
 7. Click `Select version`
 8. Select a version that matches your current or has a newer Minecraft version
-   * Never downgrade an instance, this could corrupt your worlds and settings!
-   * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-   * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+   * Do not select an older version, this could corrupt your worlds and settings!
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#curseforge-app) for testing.
 9. Click `Continue`. Modpack will now update.
 10. Run it and check the version difference in the bottom right corner.
 
@@ -46,14 +44,15 @@
 2. Select existing Fabulously Optimized instance
 3. Click `⤓ Update` on top right (next to `ஃ Content`)
 4. Click `⤓ Update to ...`
-   * Never downgrade an instance, this could corrupt your worlds and settings!
-   * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-   * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+   * Do not select an older version, this could corrupt your worlds and settings!
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#modrinth-app) for testing.
 7. In the warning, click `⤓ Update modpack`
    * The warning is currently being discussed with Modrinth as the wording seems to be misleading; nonetheless making backups wouldn't hurt.
 6. Run it and check the version difference in the bottom right corner.
 
 #### If the update uses a newer Minecraft version
+
+{% hint style="warning" %} Do not update to an alpha or beta from a release version, make a separate instance for testing. {% endhint %}
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
@@ -61,9 +60,8 @@
 4. Click `⇆ Change version` below Installed modpack
 5. Click `👁️ Show incompatible`
 6. Select the latest version and click `⤓ Update to ...`
-   * Never downgrade an instance, this could corrupt your worlds and settings!
-   * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-   * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+   * Do not select an older version, this could corrupt your worlds and settings!
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#modrinth-app) for testing.
 7. In the warning, click `⤓ Update modpack`
    * The warning is currently being discussed with Modrinth as the wording seems to be misleading; nonetheless making backups wouldn't hurt.
 8. Run it and check the version difference in the bottom right corner.
@@ -75,9 +73,8 @@
 3. Select `Modrinth` on the tab list
 4. Click on the version dropdown
 5. Select the version that matches your current or has a newer Minecraft version
-   * Never downgrade an instance, this could corrupt your worlds and settings!
-   * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-   * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+   * Do not select an older version, this could corrupt your worlds and settings!
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#prism-launcher) for testing.
 5. Click `Update pack`. Modpack will now update.
    * If a prompt is asking to change the instance name, click `Yes`
 6. Run it and check the version difference in the bottom right corner.
@@ -91,9 +88,8 @@
 3. Select "Fabulously Optimized"
 4. Click on the version dropdown
 5. Select the version that matches your current or has a newer Minecraft version
-   * Never downgrade an instance, this could corrupt your worlds and settings!
-   * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-   * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+   * Do not select an older version, this could corrupt your worlds and settings!
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#multimc) for testing.
 6. Click `OK`. The modpack will now install.
 7. Click that version you just created, then `Minecraft Folder`
 8. Click the previous version, then `Minecraft Folder`
@@ -110,18 +106,20 @@
 
 ### MultiMC (auto-update)
 
-In most cases:
+#### If the update uses the same Minecraft version
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
 2. Check the version difference in the bottom right corner.
 
-If there is a new Minecraft version:
+#### If the update uses a newer Minecraft version
 
 1. Go to the existing instance, click `Edit Instance`
 2. Go to `Settings` on the left, then `Custom commands`
 3. On `Pre-launch command`, you see a long text. Scroll to the rightmost edge.
-4. It will say something like _.../main/Packwiz/**1.21.10**/pack.toml_. Change the Minecraft version to the one you prefer (always higher; [ensure that the modpack is built for that version](https://modrinth.com/modpack/fabulously-optimized/versions)).
+4. It will say something like _.../main/Packwiz/**1.21.11**/pack.toml_. Change the Minecraft version to the one you prefer.
+   - Always use a newer version. 
+   - [Ensure that the modpack is already built for that version](https://modrinth.com/modpack/fabulously-optimized/versions).
 5. Click `Launch`.
 6. You should see a popup saying "This modpack uses newer versions of the following..." - click `Update`.
 7. You're done - the instance is now using an updated Minecraft version.
@@ -182,15 +180,13 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
    * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
-        * Never downgrade an instance, this could corrupt your worlds and settings!
-        * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-        * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
+      * Do not select an older version, this could corrupt your worlds and settings!
+      * Do not update to an alpha or beta from a release version, [create it to a separate instance](https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes) for testing.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
-4. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) to your _.minecraft_ folder
+4. Open the zip file and copy **all folders** to your _.minecraft_ folder
    * If asked - replace the files.
-5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+5. Recommended: delete current `options.txt` to get [modpack's default settings](changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-    * If you choose not to do this, please at least enable bundled resource packs manually.
 6. Launch the installed Fabric profile
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
@@ -213,11 +209,10 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
   5. Click `⋮` → `Download file` on the latest **MultiMC version**
      * If you see less than 10 mods in the zip, you downloaded the wrong version.  
   6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
-  7. Open the zip file and copy **all folders** [(why?)](vanilla-launcher-faq.md#so-i-just-copy-the-mods-right) from zip's _minecraft_ folder to your _.minecraft_ folder
+  7. Open the zip file and copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder
      * If asked - replace the files.
-  8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+  8. Recommended: delete current `options.txt` to get [modpack's default settings](changed-options.md)
      * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-     * If you choose not to do this, please at least enable bundled resource packs manually.
   9. Launch the installed Fabric profile
   10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
