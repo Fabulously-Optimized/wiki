@@ -10,7 +10,7 @@ Method 1:
 
 1. Open CurseForge App
 2. Go to `My Modpacks`, click on Fabulously Optimized
-3. Click on the three dots, select `Profile Options`
+3. Click `⫶` (three dots) → `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
 5. Click 🧩 (puzzle icon)
 6. Choose any mod you want and click Install. You can manage them later under Installed Mods tab
