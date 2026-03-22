@@ -63,7 +63,7 @@
    * Do not select an older version, this could corrupt your worlds and settings!
    * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#modrinth-app) for testing.
 7. In the warning, click `⤓ Update modpack`
-   * The warning is currently being discussed with Modrinth as the wording seems to be misleading; nonetheless making backups wouldn't hurt.
+   * The warning is misleading, no user has lost any added content to our knowledge. Modrinth is aware and should be fixing the wording soon.
 8. Run it and check the version difference in the bottom right corner.
 
 ### Prism Launcher
