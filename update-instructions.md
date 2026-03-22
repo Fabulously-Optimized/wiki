@@ -47,7 +47,7 @@
    * Do not select an older version, this could corrupt your worlds and settings!
    * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#modrinth-app) for testing.
 7. In the warning, click `⤓ Update modpack`
-   * The warning is misleading, no user has lost any added content to our knowledge. Modrinth is aware and ahould be fixing the wording soon.
+   * The warning is misleading, no user has lost any added content to our knowledge. Modrinth is aware and should be fixing the wording soon.
 6. Run it and check the version difference in the bottom right corner.
 
 #### If the update uses a newer Minecraft version
