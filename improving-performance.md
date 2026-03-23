@@ -61,5 +61,4 @@ Please note that Fabulously Optimized moderators may not have these graphics car
 Mods that may improve performance in specific scenarios, but are not necessarily stable or relevant to be included in FO itself. No guarantees and no support is provided by FO for these mods.
 
 * [Nvidium](https://modrinth.com/mod/nvidium) - improves performance with NVIDIA GPUs, as long as you don't use shaders
-* [Methane](https://modrinth.com/mod/methane) - optimizes the game by removing light calculations, aka using the "fullbright" effect
-* [C2ME](https://modrinth.com/mod/c2me-fabric) - improve chunk loading by using very experimental optimizations
+* [C2ME](https://modrinth.com/mod/c2me-fabric) - improve chunk loading by using experimental optimizations
