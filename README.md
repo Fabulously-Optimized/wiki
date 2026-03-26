@@ -1,7 +1,7 @@
 # Welcome to wiki!
 
 {% hint style="info" %}
-This wiki is currently being redesigned, there may be broken links or formatting. Sorry for the inconvenience!
+This wiki is currently being redesigned; there may be broken links or formatting. Sorry for the inconvenience!
 {% endhint %}
 
 Welcome to the Fabulously Optimized wiki! [🌐 Read in your language](https://translate.google.com/translate?js=n\&sl=auto\&u=https://wiki.download.fo/)
