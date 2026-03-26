@@ -5,7 +5,7 @@ Fabulously Optimized is a strictly client-sided modpack, meaning it works and be
 
 The CurseForge listing used to have "server packs", but [those were actually just the MultiMC packages](install-instructions.md#minecraft-launcher-vanilla) that were marked as server packs for better visibility.
 
-**Disclaimer: all content on this page are just suggestions. If you need any help with server setup, please ask in the respective mod or platform support site.**
+**Disclaimer: all content on this page is just suggestions. If you need any help with server setup, please ask in the respective mod or platform support site.**
 
 ## Tips
 
@@ -39,7 +39,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 ### Chat Reporting
 
-Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). Most servers disable it, as it can result users being banned for things that are allowed by server rules.
+Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). Most servers disable it, as it can result in users being banned for things that are allowed by server rules.
 
 #### How your server works in Fabulously Optimized
 
