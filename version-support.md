@@ -4,7 +4,7 @@
 
 ### Why does the installer show less versions than other platforms?
 
-As the installer is intended for users with least Minecraft knowledge, the versions are also primarily limited to the stable versions.
+As the installer is intended for users with the least Minecraft knowledge, the versions are also primarily limited to the stable versions.
 
 Due to high interest, it will still always include the latest Minecraft version, even if the equivalent modpack version is still in alpha or beta. This can be selected by clicking on the version list and selecting the topmost item.
 
