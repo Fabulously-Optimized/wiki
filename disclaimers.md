@@ -5,7 +5,7 @@ By using this modpack, you agree to the following:
 ### Server rules and policies
 
 * The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. [The mod list may help.](https://download.fo/mods)
-* The modpack supports using controllers with analog input, whose usage may trigger anticheats on some servers due to unexpectedly smooth movement. If the playing server rules disallow analog input, the user is expected to manually add the server to mod whitelist, or disable analog input entirely.
+* The modpack supports using controllers with analog input, whose usage may trigger anticheats on some servers due to unexpectedly smooth movement. If the playing server rules disallow analog input, the user is expected to manually add the server to the mod whitelist, or disable analog input entirely.
    * The user is reminded of said fact upon joining any new server with a controller and analog input enabled.
 
 ### Changed default options
