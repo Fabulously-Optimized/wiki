@@ -11,7 +11,7 @@
 #### If you haven't changed modpack's mods
 
 1. Select _Minecraft_ from the grid or sidebar
-2. On the 'My Modpacks' tab, right click _Fabulously Optimized_, then `⇄ Change Version`
+2. On the "My Modpacks" tab, right click _Fabulously Optimized_, then `⇄ Change Version`
     * Don't see that option? Follow the other instructions below.
 3. Click `Select version`
 4. Select a version that matches your current or has a newer Minecraft version
@@ -23,7 +23,7 @@
 #### If you've added or removed some mods
 
 1. Select _Minecraft_ from the grid or sidebar
-2. On My Modpacks, click _Fabulously Optimized_
+2. On the "My Modpacks" tab, click _Fabulously Optimized_
 3. Click `⫶`→ `Profile Options`
 4. Uncheck "Allow content management for this profile". 
     * This will not affect added content and you can re-enable content management after the update.
