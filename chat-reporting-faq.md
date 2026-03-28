@@ -461,7 +461,9 @@ Public server listings usually only list the latest version a player can join wi
 
 ### How does age verification work in Java Edition?
 
-Affected users who decide to not verify and are using Minecraft 1.16.4-1.21.11 will not be able to see, open or write to chat. This affects only multiplayer and LAN - not Realms or singleplayer. On 26.1 and higher, it is possible to open chat, use commands and see system messages again. On servers without chat reporting, they can also see player messages and sometimes even use `/msg`.
+Affected users who decide to not verify and are using Minecraft 1.16.4-1.21.11 will not be able to see, open or write to chat. This affects only multiplayer and LAN - not Realms or singleplayer. 
+
+On 26.1 and higher, it is possible to open chat, use commands and see system messages again. On servers without chat reporting, they can also see player messages and sometimes even use commands like `/msg`.
 
 Additionally, third party launchers may not let you sign in until age is verified.
 
