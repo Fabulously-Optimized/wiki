@@ -200,7 +200,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 - **[1.21.5-pre2](https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_1#General)** - implemented some changes for clientside exploit prevention (against servers sending messages with incorrect timestamps)
 - **2025-28-07** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
 - **2026-02-15** - Aforementioned age verification starts to take effect for UK users. Affected users [will not be able to](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/1067) use 3rd party launchers, chat or commands.
-- **[26.1 Snapshot 7](https://minecraft.wiki/w/Java_Edition_26.1_Snapshot_7#General)** - Users affected by age verification who decide to not verify should be able to open chat, use commands and see system messages again.
+- **[26.1 Snapshot 7](https://minecraft.wiki/w/Java_Edition_26.1_Snapshot_7#General)** - Users affected by age verification who decide to not verify can open chat, use commands and see system messages again. On servers without chat reporting, they can also see player messages and sometimes even use `/msg`.
 
 _See also: Minecraft Wiki's history sections for [Social Interactions](https://minecraft.wiki/w/Social_interactions#History) and [Chat](https://minecraft.wiki/w/Chat#History)._
 
@@ -461,7 +461,7 @@ Public server listings usually only list the latest version a player can join wi
 
 ### How does age verification work in Java Edition?
 
-Affected users who decide to not verify and are using Minecraft 1.16.4-1.21.11 will not be able to receive chat or system messages or open chat at all. This affects only multiplayer (not LAN, Realms, singleplayer), including commands. On 26.1 and higher, commands and system messages should be accessible again.
+Affected users who decide to not verify and are using Minecraft 1.16.4-1.21.11 will not be able to see, open or write to chat. This affects only multiplayer and LAN - not Realms or singleplayer. On 26.1 and higher, it is possible to open chat, use commands and see system messages again. On servers without chat reporting, they can also see player messages and sometimes even use `/msg`.
 
 Additionally, third party launchers may not let you sign in until age is verified.
 
