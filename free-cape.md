@@ -1,6 +1,6 @@
 # Free cape
 
-Fabulously Optimized shows capes from Mojang, OptiFine, MinecraftCapes mod, Wynntils and Cosmetica.
+Fabulously Optimized shows capes from Mojang, OptiFine, MinecraftCapes mod and Cosmetica.
 
 ### Instructions for a free cape
 
