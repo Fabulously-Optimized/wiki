@@ -73,18 +73,10 @@ This is done to help you while you _transition_ to the new version, old Minecraf
 
 ## Other mod loaders
 
-### Will the modpack move to [Forge](https://files.minecraftforge.net) or [NeoForge](https://neoforged.net/)?
+### Will the modpack move to a different mod loader like NeoForge, Forge or Quilt?
 
-No. Forge and NeoForge receive mod updates slower and do not have all the same performance and graphics-enhancing mods as Fabric.
+Not planned, and there will not be an alternative variant of the modpack either. May only be considered if something happens to Fabric Loader or its ecosystem as a whole, in which case users will be notified and supported in migration.
 
-### Can I use (Neo)Forge mods in this modpack?
+### Can I use other mod loader's mods in this modpack?
 
-No, but [there are many equivalents anyway](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). [Ask us on Discord](https://download.fo/discord) if you need an alternative for a specific mod!
-
-### Will the modpack move to [Quilt](https://quiltmc.org)?
-
-It may be considered if the majority of mod developers do it, but currently that does not seem to be the case. [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257).
-
-### Can I use Quilt mods in this modpack?
-
-"No. Quilt mods are distinct from Fabric mods, and not defined in the same way." [Source](https://quiltmc.org/en/about/faq/) However, many Quilt-only mods have moved to Fabric in recent versions of the game.
+Only if they have a Fabric variant. [Check this list](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83) or [ask us on Discord](https://download.fo/discord) if you need an alternative for a specific mod!
