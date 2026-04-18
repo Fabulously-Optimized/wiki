@@ -286,6 +286,10 @@ After that, pick any supported launcher from this page and enjoy the game!
 
 Technically you can install it in other launchers that support CurseForge or Modrinth modpacks or in any launcher by following the vanilla instructions. However, please do not ask for support if you use an unsupported launcher.
 
+### Other mod loaders
+
+The modpack only supports Fabric Loader.
+
 ### Other modpacks
 
 Some users have experienced interest in using FO with other, content-focused modpacks. 
