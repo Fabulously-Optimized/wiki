@@ -5,7 +5,7 @@ Because the pack is using Config Manager or YOSBR, your vanilla options and most
 However, at some point you may still want to do that in order to get the latest changes.
 
 {% tabs %}
-{% tab title="Modpack version 10.3.2 and newer" %}
+{% tab title="Modern versions" %}
 
 1. Launch the game
 2. Go to `Mods` -> `Config Manager` -> `🎛️`
@@ -16,7 +16,7 @@ However, at some point you may still want to do that in order to get the latest 
 
 {% endtab %}
 
-{% tab title="Modpack version 10.3.1 and older" %}
+{% tab title="FO 10.3.1 and older" %}
 
 1. Open the modpack folder:
 

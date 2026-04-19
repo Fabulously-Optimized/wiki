@@ -60,7 +60,7 @@ You may now see a new file _paigaldaja_meta.json_ next to the installer. This is
 
 {% tab title="Manual install" %}
 {% tabs %}
-{% tab title="4.11.0 (MC 1.19.4) and newer" %}
+{% tab title="Modern versions" %}
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.19.2**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
@@ -75,7 +75,7 @@ You may now see a new file _paigaldaja_meta.json_ next to the installer. This is
 
 {% endtab %}
 
-{% tab title="4.6.1 (MC 1.19.3) and older" %}
+{% tab title="FO 4.6.1 (MC 1.19.3) and older" %}
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java:
 
