@@ -27,9 +27,12 @@ If you have an existing version of the installer, in most cases you do not need 
 5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
 6. Scroll down on the right view, you should see the button `Open anyway`
 7. Enter your password or fingerprint. The installer should open.
-8. Future launches of the same installer version open the installer directly on double-click.
-9. Select preferred modpack version and install
-10. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+8. Select preferred modpack version and install
+9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% hint style="info" %}
+Future launches of the same installer version open the installer directly on double-click.
+{% endhint %}
 
 {% endtab %}
 
@@ -40,9 +43,12 @@ If you have an existing version of the installer, in most cases you do not need 
 3. Open the downloaded .dmg file
 4. Right click the "Fabulously Optimized Installer" and click `Open`
 5. Click `Open` again when asked in a prompt. The installer should open.
-6. Future launches of the same installer version open the installer directly on double-click.
-7. Select preferred modpack version and install
-8. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+6. Select preferred modpack version and install
+7. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% hint style="info" %}
+Future launches of the same installer version open the installer directly on double-click.
+{% endhint %}
 
 {% endtab %}
 
@@ -87,7 +93,7 @@ You may now see a new file _paigaldaja_meta.json_ next to the installer. This is
 
 {% tab title="4.6.1 (MC 1.19.3) and older" %}
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java:
 
 {% tabs %}
 {% tab title="Minecraft 1.19-1.19.3" %}
@@ -101,7 +107,7 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 {% endtab %}
 {% endtabs %}
 
-    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
+   * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
 4. Click the version you need, then click "Additional files"

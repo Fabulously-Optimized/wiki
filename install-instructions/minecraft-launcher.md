@@ -27,9 +27,12 @@ The installer only supports recommended versions of the modpack. For legacy vers
 5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
 6. Scroll down on the right view, you should see the button `Open anyway`
 7. Enter your password or fingerprint. The installer should open.
-8. Future launches of the same installer version open the installer directly on double-click.
-9. Select preferred modpack version and install
-10. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+8. Select preferred modpack version and install
+9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% hint style="info" %}
+Future launches of the same installer version open the installer directly on double-click.
+{% endhint %}
 
 {% endtab %}
 
@@ -40,9 +43,12 @@ The installer only supports recommended versions of the modpack. For legacy vers
 3. Open the downloaded .dmg file
 4. Right click the "Fabulously Optimized Installer" and click `Open`
 5. Click `Open` again when asked in a prompt. The installer should open.
-6. Future launches of the same installer version open the installer directly on double-click.
-7. Select preferred modpack version and install
-8. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+6. Select preferred modpack version and install
+7. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% hint style="info" %}
+Future launches of the same installer version open the installer directly on double-click.
+{% endhint %}
 
 {% endtab %}
 
@@ -86,7 +92,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 
 {% tab title="4.6.1 (MC 1.19.3) and older" %}
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/)
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java:
 
 {% tabs %}
 {% tab title="Minecraft 1.19-1.19.3" %}
