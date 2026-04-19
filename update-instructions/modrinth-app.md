@@ -1,7 +1,7 @@
 # Modrinth App
 
 {% tabs %}
-{% tab title="To same Minecraft version" %}
+{% tab title="Within the same Minecraft version" %}
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
@@ -12,7 +12,7 @@
 
 {% endtab %}
 
-{% tab title="To newer Minecraft version" %}
+{% tab title="To a newer Minecraft version" %}
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
@@ -27,7 +27,7 @@
 {% endtabs %}
 
 {% hint style="warning" %}
-Never update to an older version, this could corrupt your worlds and settings!
+Never downgrade to an older version, this could corrupt your worlds and settings!
 
 Never update to an alpha or beta from a release version, [install a separate instance](../install-instructions/modrinth-app.md) for testing.
 {% endhint %}

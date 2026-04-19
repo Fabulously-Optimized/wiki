@@ -21,13 +21,13 @@ However, at some point you may still want to do that in order to get the latest 
 1. Open the modpack folder:
 
 {% tabs %}
-{% tab title="CurseForge" %}
+{% tab title="CurseForge App" %}
 Right click on the modpack tile → `Open Folder`
 {% endtab %}
-{% tab title="Modrinth" %}
+{% tab title="Modrinth App" %}
 Right click on the modpack tile → `📂 Open folder`
 {% endtab %}
-{% tab title="Prism" %}
+{% tab title="Prism Launcher" %}
 Right click on the instance → `Folder` → `.minecraft`
 {% endtab %}
 {% tab title="MultiMC" %}

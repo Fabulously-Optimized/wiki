@@ -109,7 +109,7 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 {% endtabs %}
 
 {% hint style="warning" %}
-Never update to an older version, this could corrupt your worlds and settings!
+Never downgrade to an older version, this could corrupt your worlds and settings!
 
 Never update to an alpha or beta from a release version, [install a separate instance](https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes) for testing.
 {% endhint %}

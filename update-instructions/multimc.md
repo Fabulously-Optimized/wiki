@@ -27,7 +27,7 @@ Consider [switching to Prism Launcher](../install-instructions/prism-launcher.md
 11. If everything looks right, delete the old version
 
 {% hint style="warning" %}
-Never update to an older version, this could corrupt your worlds and settings!
+Never downgrade to an older version, this could corrupt your worlds and settings!
 
 Never update to an alpha or beta from a release version, [install a separate instance](../install-instructions/multimc.md) for testing.
 {% endhint %}
@@ -37,7 +37,7 @@ Never update to an alpha or beta from a release version, [install a separate ins
 {% tab title="Auto-update" %}
 
 {% tabs %}
-{% tab title="To same Minecraft version" %}
+{% tab title="Within the same Minecraft version" %}
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
@@ -45,7 +45,7 @@ Never update to an alpha or beta from a release version, [install a separate ins
 
 {% endtab %}
 
-{% tab title="To newer Minecraft version" %}
+{% tab title="To a newer Minecraft version" %}
 
 {% hint style="info" %}
 Before updating, ensure that the modpack [has already been built for that Minecraft version](https://modrinth.com/modpack/fabulously-optimized/versions).
@@ -60,7 +60,7 @@ Before updating, ensure that the modpack [has already been built for that Minecr
 7. You're done - the instance is now using an updated Minecraft version.
 
 {% hint style="warning" %}
-Never update to an older version, this could corrupt your worlds and settings!
+Never downgrade to an older version, this could corrupt your worlds and settings!
 
 Never update to an alpha or beta from a release version, [install a separate instance](../install-instructions/multimc.md) for testing.
 {% endhint %}
