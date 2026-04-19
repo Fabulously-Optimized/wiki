@@ -4,6 +4,14 @@ icon: down-to-bracket
 
 # Install
 
+Here are the instructions to install Fabulously Optimized to various launchers.
+
+### Why try a new launcher?
+
+The default Minecraft launcher is very basic, and it lacks many features that improve usability with mods. For example, a third-party launcher can easily download and update the modpack, add and remove mods with a few simple clicks. Many can even manage resource packs, datapacks and shaders!
+
+All launchers in the "supported" list are safe to use, have been thoroughly tested and are fully supported by Fabulously Optimized.
+
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr><tr><td align="center"><strong>Modrinth App</strong></td><td><a href="modrinth-app.md">modrinth-app.md</a></td></tr><tr><td align="center"><strong>Prism Launcher</strong></td><td><a href="prism-launcher.md">prism-launcher.md</a></td></tr><tr><td align="center"><strong>Minecraft Launcher</strong></td><td><a href="vanilla.md">vanilla.md</a></td></tr><tr><td align="center"><strong>MultiMC</strong></td><td><a href="multimc.md">multimc.md</a></td></tr><tr><td align="center"><strong>Steam Deck</strong><br>via Prism Launcher</td><td><a href="steam-deck.md">steam-deck.md</a></td></tr><tr><td align="center">Unsupported launchers and methods</td><td><a href="unsupported.md">#other-launchers</a></td></tr></tbody></table>
 
 {% hint style="success" %}
