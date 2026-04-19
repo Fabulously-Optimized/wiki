@@ -41,7 +41,7 @@ Technically, "chat reportability" would be a more accurate phrase than "chat rep
 
 ### Why is chat reporting controversial?
 
-Because the current implementation of it is vaguely described, sustainability not guaranteed and ethics questionable. [Skin/username reports have different concerns - see here](#skin-and-username-reporting).
+Because the current implementation of it is vaguely described, sustainability is not guaranteed and ethics are questionable. [Skin/username reports have different concerns - see here](#skin-and-username-reporting).
 
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and swore at someone on one server and want to go to another to relax again? Nope, you can't do that.
 
