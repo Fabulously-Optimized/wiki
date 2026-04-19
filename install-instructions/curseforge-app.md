@@ -29,5 +29,5 @@
 {% endtabs %}
 
 {% hint style="success" %}
-Using the CurseForge App supports the modpack with monetary benefits. Thank you!
+Using the CurseForge App supports the modpack and its mods. Thank you!
 {% endhint %}
