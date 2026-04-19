@@ -25,7 +25,7 @@ Consider [using Prism Launcher](prism-launcher.md) instead, as it has a similar 
    * [Java 21](https://download.fo/java21) for Minecraft 1.21.x or [Java 25](https://download.fo/java25) for Minecraft 26.x
 2. Download the pack for your preferred Minecraft version: 
 
-<a class="button primary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v13.2.0-alpha.3/Fabulously.Optimized.MC.26.1.2.auto-update.zip">26.1.2</a>
+<a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v13.2.0-alpha.3/Fabulously.Optimized.MC.26.1.2.auto-update.zip">26.1.2</a>
 <a class="button primary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v12.0.0-alpha.2/Fabulously.Optimized.MC.1.21.11.auto-update.zip">1.21.11</a>
 <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v11.1.0-beta.3/Fabulously.Optimized.MC.1.21.10.auto-update.zip">1.21.10</a>
 <a class="button secondary" href="https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v10.2.0-beta.4/Fabulously.Optimized.MC.1.21.8.auto-update.zip">1.21.8</a>

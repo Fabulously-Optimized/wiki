@@ -19,8 +19,8 @@ You can currently only install the latest version through the website. To select
 {% endhint %}
 
 1. Download and install [Modrinth App](https://modrinth.com/app)
-2. Go to [the listing page](https://modrinth.com/modpack/fabulously-optimized#download) on Modrinth
-3. Click `⤓ Download`, then `Install with Modrinth App`
+2. Go to [the listing page](https://modrinth.com/modpack/fabulously-optimized) on Modrinth
+3. Click `⤓ Download`, then [`Install with Modrinth App`](modrinth://mod/fabulously-optimized)
 4. The modpack will now install.
 5. Once installed, go to `|||\` "Library" and hover on the created instance
 6. Click ▶️ button to play.

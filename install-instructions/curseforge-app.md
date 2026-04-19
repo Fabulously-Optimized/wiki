@@ -19,7 +19,7 @@
 1. Download and install [CurseForge App](https://www.curseforge.com/download/app#download-options)
    * On Windows, the standalone version is recommended.
 2. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
-3. Click `Install` and accept the prompt in your browser
+3. Click [`Install via App`](curseforge://install?addonId=396246&source=cf_website) and accept the prompt in your browser
    * Optional: Select the version you want by instead clicking `Files` → the version you want → `Install`.
 4. The app should open and download should start
 5. To run the modpack, hover on the modpack icon and click `Play`
