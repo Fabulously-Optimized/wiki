@@ -1,7 +1,7 @@
 # Modrinth App
 
 {% tabs %}
-{% tab title="Via app" %}
+{% tab title="On the app" %}
 
 1. Download, install and launch [Modrinth App](https://modrinth.com/app)
 2. Under "Discover content" section, look for "Fabulously Optimized"
@@ -13,9 +13,9 @@
 
 {% endtab %}
 
-{% tab title="Via website" %}
-{% hint style="warning" %}
-You can currently only install the latest version through the website. To select a specific version, [install through the app instead](#via-app).
+{% tab title="On the website" %}
+{% hint style="info" %}
+You can currently only install the latest version through the website. To select a specific version, [install through the app instead](#on-the-app).
 {% endhint %}
 
 1. Download and install [Modrinth App](https://modrinth.com/app)

@@ -1,7 +1,7 @@
 # CurseForge App
 
 {% tabs %}
-{% tab title="Via app" %}
+{% tab title="On the app" %}
 
 1. Download, install and launch [CurseForge App](https://www.curseforge.com/download/app#download-options)
    * On Windows, the standalone version is recommended.
@@ -14,7 +14,7 @@
 
 {% endtab %}
 
-{% tab title="Via website" %}
+{% tab title="On the website" %}
 
 1. Download and install [CurseForge App](https://www.curseforge.com/download/app#download-options)
    * On Windows, the standalone version is recommended.
