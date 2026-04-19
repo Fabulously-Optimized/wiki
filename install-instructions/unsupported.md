@@ -18,15 +18,17 @@ Angel Aura Amethyst and its predecessor Pojav Launcher are not supported because
 
 ### PolyMC
 
-{% hint style="error" %}
-PolyMC is a fork of MultiMC that [got compromised in 2022](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496). Users are advised to use its safe continuation, [Prism Launcher](../install-instructions/prism-launcher.md).
+{% hint style="danger" %}
+PolyMC is a fork of MultiMC that [got compromised in 2022](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496).
 {% endhint %}
+
+Users are advised to use its safe continuation, [Prism Launcher](../install-instructions/prism-launcher.md).
 
 ### TLauncher
 
 _Not to be confused with [ATLauncher](#atlauncher)._
 
-{% hint style="error" %}
+{% hint style="danger" %}
 [TLauncher is malware](https://www.youtube.com/watch?v=SBTH9n6lz9o), so users who have it are advised to [reset their computer](https://www.howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows/) and change their passwords.
 {% endhint %}
 
