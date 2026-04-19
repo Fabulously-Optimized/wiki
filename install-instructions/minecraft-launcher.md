@@ -3,6 +3,10 @@
 {% tabs %}
 {% tab title="Installer" %}
 
+{% hint style="info" %}
+The installer only supports recommended versions of the modpack. For other versions, use a different launcher. [Read more](../version-support.md#installer)
+{% endhint %}
+
 {% tabs %}
 {% tab title="Windows" %}
 
@@ -10,7 +14,6 @@
 2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
 3. Open the .exe file, click `More info` and then `Run anyway`.
 4. Select preferred modpack version and install
-    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
@@ -26,7 +29,6 @@
 7. Enter your password or fingerprint. The installer should open.
 8. Future launches of the same installer version open the installer directly on double-click.
 9. Select preferred modpack version and install
-    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 10. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
@@ -36,11 +38,10 @@
 1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
 2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
 3. Open the downloaded .dmg file
-4. **Right click** the "Fabulously Optimized Installer" and click `Open`
+4. Right click the "Fabulously Optimized Installer" and click `Open`
 5. Click `Open` again when asked in a prompt. The installer should open.
 6. Future launches of the same installer version open the installer directly on double-click.
 7. Select preferred modpack version and install
-    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 8. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
@@ -52,7 +53,6 @@
 3. Open the .appimage file and click `Run once` when prompted.
    * If it doesn't open directly, right click, find `Properties` and add a checkmark to an option `Allow executing this file`
 4. Select preferred modpack version and install
-    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
