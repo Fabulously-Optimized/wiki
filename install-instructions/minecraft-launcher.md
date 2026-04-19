@@ -59,4 +59,5 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 
 {% endtab %}
 {% endtabs %}
+{% endtab %}
 {% endtabs %}
