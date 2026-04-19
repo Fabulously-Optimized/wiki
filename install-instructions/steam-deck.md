@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Steam Deck + Modrinth App
 
 1. Get a [Steam Deck](https://www.steamdeck.com/)

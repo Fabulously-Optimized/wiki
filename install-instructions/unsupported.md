@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 ## Unsupported launchers and install methods
 
 ### GDLauncher

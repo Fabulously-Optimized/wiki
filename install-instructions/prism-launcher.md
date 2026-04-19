@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Prism Launcher
 
 1. Download, install and launch [Prism Launcher](https://prismlauncher.org/)

@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Modrinth App
 
 {% tabs %}
