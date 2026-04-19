@@ -58,7 +58,8 @@ Please note that Fabulously Optimized moderators may not have these graphics car
 
 ## Additional mods
 
-Mods that may improve performance in specific scenarios, but are not necessarily stable or relevant to be included in FO itself. No guarantees and no support is provided by FO for these mods.
+Mods that may improve performance in specific scenarios, but are not currently in the modpack for various reasons. No guarantees and no support is provided by FO for these mods.
 
-* [Nvidium](https://modrinth.com/mod/nvidium) - improves performance with NVIDIA GPUs, as long as you don't use shaders
 * [C2ME](https://modrinth.com/mod/c2me-fabric) - improve chunk loading by using experimental optimizations
+* [Distant Horizons](https://modrinth.com/mod/distanthorizons) - renders long distances with low detail
+* [voxy](https://modrinth.com/mod/voxy) - renders long distances with low detail
