@@ -72,6 +72,7 @@
 5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
+{% endtabs %}
 
 {% endtab %}
 
