@@ -20,26 +20,20 @@ However, at some point you may still want to do that in order to get the latest 
 1. Open the modpack folder
 
 {% tabs %}
-{% tab title="Modpack version 10.3.2 and newer" %}
-   * CurseForge App: right click on the modpack tile → `Open Folder`
-   * Modrinth App: right click on the modpack tile → `📂 Open folder`
-   * Prism Launcher: right click on the instance → `Folder` → `.minecraft`
-   * MultiMC: right click on the instance → `Minecraft Folder`
-   * Minecraft Launcher: click `Installations` → hover on the instance → click `📁`
+{% tab title="CurseForge App" %}
+Right click on the modpack tile → `Open Folder`
 {% endtab %}
-{% tab title="Modpack version 10.3.2 and newer" %}
-   * CurseForge App: right click on the modpack tile → `Open Folder`
-   * Modrinth App: right click on the modpack tile → `📂 Open folder`
-   * Prism Launcher: right click on the instance → `Folder` → `.minecraft`
-   * MultiMC: right click on the instance → `Minecraft Folder`
-   * Minecraft Launcher: click `Installations` → hover on the instance → click `📁`
+{% tab title="Modrinth App" %}
+Right click on the modpack tile → `📂 Open folder`
 {% endtab %}
-{% tab title="Modpack version 10.3.2 and newer" %}
-   * CurseForge App: right click on the modpack tile → `Open Folder`
-   * Modrinth App: right click on the modpack tile → `📂 Open folder`
-   * Prism Launcher: right click on the instance → `Folder` → `.minecraft`
-   * MultiMC: right click on the instance → `Minecraft Folder`
-   * Minecraft Launcher: click `Installations` → hover on the instance → click `📁`
+{% tab title="Prism Launcher" %}
+Right click on the instance → `Folder` → `.minecraft`
+{% endtab %}
+{% tab title="MultiMC" %}
+Right click on the instance → `Minecraft Folder`
+{% endtab %}
+{% tab title="Minecraft Launcher" %}
+Click `Installations` → hover on the instance → click `📁`
 {% endtab %}
 {% endtabs %}
 

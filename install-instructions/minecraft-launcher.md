@@ -87,9 +87,19 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 {% tab title="4.6.1 (MC 1.19.3) and older" %}
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/)
-   * Version 4.0.0-4.6.1 (MC 1.19-1.19.3): Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
-   * Version 2.0.0-3.14.1 (MC 1.17-1.18.2): Fabric Loader **0.14.12** and [Java 17](https://download.fo/java17)
-   * Version 1.0.0-1.12.3 (MC 1.16.1-1.16.5): Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
+
+{% tabs %}
+{% tab title="Minecraft 1.19-1.19.3" %}
+Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
+{% endtab %}
+{% tab title="Minecraft 1.17-1.18.2" %}
+Fabric Loader **0.14.12** and [Java 17](https://download.fo/java17)
+{% endtab %}
+{% tab title="Minecraft 1.16.5" %}
+Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
+{% endtab %}
+{% endtabs %}
+
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge

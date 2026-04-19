@@ -87,10 +87,20 @@ You may now see a new file _paigaldaja_meta.json_ next to the installer. This is
 
 {% tab title="4.6.1 (MC 1.19.3) and older" %}
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/)
-    * Minecraft 1.19-1.19.3: Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
-    * Minecraft 1.17-1.18.2: Fabric Loader **0.14.12** and [Java 17](https://download.fo/java17)
-    * Minecraft 1.16.5: Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java
+
+{% tabs %}
+{% tab title="Minecraft 1.19-1.19.3" %}
+Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
+{% endtab %}
+{% tab title="Minecraft 1.17-1.18.2" %}
+Fabric Loader **0.14.12** and [Java 17](https://download.fo/java17)
+{% endtab %}
+{% tab title="Minecraft 1.16.5" %}
+Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
+{% endtab %}
+{% endtabs %}
+
     * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
