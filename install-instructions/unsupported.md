@@ -1,8 +1,6 @@
----
-hidden: true
----
-
 ## Unsupported launchers and install methods
+
+These launchers and installation methods are not supported by the modpack. This page lists reasons for some of them.
 
 ### GDLauncher
 
@@ -19,7 +17,7 @@ Due to technical limits and issues, GDLauncher Legacy is no longer supported and
 9. Right click on your previously used instance → `Open Folder`
 10. Copy the important files and folders over:
    * `saves` - your local worlds
-   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
+   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](../changed-options.md#resource-packs))
    * `shaders` - if you use any
    * `screenshots` - screenshots you've taken with F2 or F9
    * `servers.dat` - your multiplayer servers
@@ -52,7 +50,7 @@ To migrate to Prism Launcher (a safe fork of PolyMC), follow these instructions:
          * Click `Yes` and the migration will complete.
     3. > Old data from PolyMC was found, but you already have existing data for Prism Launcher. Sadly you will need to migrate yourself. Do you want to be reminded of the pending data migration next time you start Prism Launcher?
         * Click `No` and follow manual migration instructions below.
-4. If needed, [update](update-instructions.md#prism-launcher) or [install](install-instructions.md#prism-launcher) the modpack again
+4. If needed, [update](../update-instructions.md#prism-launcher) or [install](../install-instructions/prism-launcher.md) the modpack again
 5. To run the modpack, double click the Fabulously Optimized icon
 
 <details>
@@ -84,7 +82,7 @@ It is highly recommended to [reset your entire computer](https://www.howtogeek.c
 Any launchers that let you run the game without having purchased it first are not supported.
 
 There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller](https://download.fo/minecraft).
-After that, pick any supported launcher from this page and enjoy the game! 
+After that, [pick any supported launcher from installation page](../install-instructions) and enjoy the game! 
 
 ### Other launchers
 
@@ -92,7 +90,7 @@ Technically you can install it in other launchers that support CurseForge or Mod
 
 ### Other mod loaders
 
-The modpack only supports Fabric Loader.
+The modpack only supports Fabric Loader. Other mod loaders are not planned.
 
 ### Other modpacks
 
@@ -103,24 +101,24 @@ While it is theoretically possible, this is **not advised**:
 * mods may have conflicts
 * neither FO or the other modpack will be able to support you
 
-Instead, we recommend you to use FO with [other mods added by you](adding-more-mods.md).
+Instead, we recommend you to use FO with [other mods added by you](../adding-more-mods.md).
 
-If you'd still like to do it on your responsibility, just install the other modpack first and then copy modpack's files on top [(see vanilla instructions)](install-instructions.md#minecraft-launcher-vanilla).
+If you'd still like to do it on your responsibility, just install the other modpack first and then copy modpack's files on top [(see vanilla instructions)](install-instructions/minecraft-launcher.md).
 
 ### Game clients
 
-Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [It is also itself not one.](principles.md#why-is-fabulously-optimized-not-a-client)
+Fabulously Optimized is not compatible with any "game clients", including "hacked clients" and "PvP clients". [It is also itself not one.](../principles.md#why-is-fabulously-optimized-not-a-client)
 
-Instead, it is suggested to use this modpack and [add individual features as mods](adding-more-mods.md) that you might be missing from said clients. Here is a list for:
+Instead, it is suggested to use this modpack and [add individual features as mods](../adding-more-mods.md) that you might be missing from said clients. Here is a list for:
 - [Lunar Client](https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals)
 - [Feather Client](https://alternatives.microcontrollers.dev/latest/feather/#visuals)
 - [Badlion Client](https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals)
 - [Essential Mod](https://alternatives.microcontrollers.dev/latest/essential/#pictures)
    - Considered a "client" due to the amount of different things it does, which can also have incompatibilities.
-   - World hosting [already exists in this modpack](disclaimers.md)
+   - World hosting [already exists in this modpack](../disclaimers.md)
 
 _Note: these lists are managed by contributors outside this wiki. There can be mods that are already in this modpack or are incompatible with it._
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](install-instructions.md#angel-aura-amethyst). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
+Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](#angel-aura-amethyst). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
