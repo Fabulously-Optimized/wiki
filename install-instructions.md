@@ -178,7 +178,7 @@ It does _not_ auto-update any individual mods outside of what is set in the the 
   
 For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
 
-1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.18.4**
+1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.19.2**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
