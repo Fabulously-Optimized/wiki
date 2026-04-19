@@ -52,6 +52,10 @@
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+Legacy versions of the modpack are not available on the installer. [Read more](../version-support.md#installer)
+{% endhint %}
+
 {% endtab %}
 
 {% tab title="Manual install" %}
@@ -113,10 +117,5 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-Legacy versions of the modpack are not available on the installer. [Read more](../version-support.md#installer)
-{% endhint %}
-
 {% endtab %}
 {% endtabs %}
