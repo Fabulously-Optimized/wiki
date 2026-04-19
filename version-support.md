@@ -2,7 +2,7 @@
 
 ## Installer
 
-### Why does the installer show less versions than other platforms?
+### Why does the installer show fewer versions than other platforms?
 
 As the installer is intended for users with the least Minecraft knowledge, the versions are also primarily limited to the stable versions.
 
