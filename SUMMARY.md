@@ -16,7 +16,7 @@
     * [Prism Launcher](update-instructions/prism-launcher.md)
     * [MultiMC](update-instructions/multimc.md)
     * [Minecraft Launcher](update-instructions/minecraft-launcher.md)
-    * [Resetting settings](update-instructions/resetting-options.md)
+    * [Reset options](update-instructions/reset-options.md)
 * [How to add mods](adding-more-mods.md)
 * [How to remove mods](disabling-mods.md)
 * [How to backup and uninstall](backup-and-uninstall.md)

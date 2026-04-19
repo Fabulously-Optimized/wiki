@@ -1,4 +1,4 @@
-# Resetting options
+# Reset options
 
 Because the pack is using Config Manager or YOSBR, your vanilla options and most of the mod ones will not change when you upgrade. This is made so that you can upgrade without having to reconfigure your options all the time. 
 
