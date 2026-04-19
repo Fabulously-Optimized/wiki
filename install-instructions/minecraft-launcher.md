@@ -56,7 +56,7 @@
 
 {% tab title="Manual install" %}
 {% tabs %}
-{% tab title="4.11.0 (MC 1.19.4) and newer" %}
+{% tab title="Modern versions" %}
 
 {% hint style="info" %}
 For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
@@ -79,7 +79,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 
 {% endtab %}
 
-{% tab title="4.6.1 (MC 1.19.3) and older" %}
+{% tab title="FO 4.6.1 (MC 1.19.3) and older" %}
 
 1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
 2. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java:
