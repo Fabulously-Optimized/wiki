@@ -12,84 +12,103 @@ All launchers in the "supported" list are safe to use, have been thoroughly test
 
 ## Supported
 
-### [CurseForge App](https://www.curseforge.com/download/app#download-options)
+### CurseForge App
 
-1. Select _Minecraft_ from the grid or sidebar
-2. Search "Fabulously Optimized"
-3. Click `Install`
+#### Install via app
+
+1. Download, install and launch [CurseForge App](https://www.curseforge.com/download/app#download-options)
+    * On Windows, the standalone version is recommended.
+2. Select _Minecraft_ from the grid or sidebar
+3. Search "Fabulously Optimized"
+4. Click `Install`
    * Optional: Select the version you want by instead clicking the row → `Versions` → `⤓`.
-4. To run the modpack, hover on the modpack icon and click `Play`
-5. Once the Minecraft Launcher has opened, click `Play` again
+5. To run the modpack, hover on the modpack icon and click `Play`
+6. Once the Minecraft Launcher has opened, click `Play` again
 
-Or directly from the website:
+#### Install via website
 
-1. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
-2. Click `Install` and accept the prompt in your browser
+1. Download and install [CurseForge App](https://www.curseforge.com/download/app#download-options)
+2. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
+3. Click `Install` and accept the prompt in your browser
    * Optional: Select the version you want by instead clicking `Files` → the version you want → `Install`.
-3. The app should open and download should start
-4. To run the modpack, hover on the modpack icon and click `Play`
-5. Once the Minecraft Launcher has opened, click `Play` again
+4. The app should open and download should start
+5. To run the modpack, hover on the modpack icon and click `Play`
+6. Once the Minecraft Launcher has opened, click `Play` again
 
-### [Modrinth App](https://modrinth.com/app)
+### Modrinth App
 
-1. Under "Discover content" section, look for "Fabulously Optimized"
-2. Click `⤓ Install`
+#### Install via app
+
+1. Download, install and launch [Modrinth App](https://modrinth.com/app)
+2. Under "Discover content" section, look for "Fabulously Optimized"
+3. Click `⤓ Install`
    * Optional: Select the version you want by instead clicking the tile → `Versions` → `⤓` on the version you want.
-3. The modpack will now install.
-4. Once installed, go to `|||\` "Library" and hover on the created instance
-5. Click ▶️ button to play.
+4. The modpack will now install.
+5. Once installed, go to `|||\` "Library" and hover on the created instance
+6. Click ▶️ button to play.
 
-### [Prism Launcher](https://prismlauncher.org/)
+#### Install via website
 
-1. Click `Add Instance`
-2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
-4. Click `OK`
+1. Download and install [Modrinth App](https://modrinth.com/app)
+2. Go to [the listing page](https://modrinth.com/modpack/fabulously-optimized#download) on Modrinth
+3. Click `⤓ Download`, then `Install with Modrinth App`
+4. The modpack will now install.
+5. Once installed, go to `|||\` "Library" and hover on the created instance
+6. Click ▶️ button to play.
+
+### Prism Launcher
+
+1. Download, install and launch [Prism Launcher](https://prismlauncher.org/)
+2. Click `Add Instance`
+3. Select `Modrinth` tab from the left
+4. Select "Fabulously Optimized"
+5. Click `OK`
    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
-5. The modpack will now install.
-6. Once installed, double-click the icon to play.
+6. The modpack will now install.
+7. Once installed, double-click the icon to play.
 
-### [Steam Deck](https://www.steamdeck.com/) + Prism Launcher
+### Steam Deck + Prism Launcher
 
-1. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
-2. From the taskbar, select 👜 "Discover".
-3. Tap the searchbar on the top left corner, then press ❎ to open the on-screen keyboard.
-4. Search for "Prism Launcher" and tap `Install` on the first result.
-5. Launch it and go through its initial setup process, then close it.
-6. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
-7. Close Steam and launch `Return to Gaming Mode`.
-8. Launch Prism Launcher from your game library.
-9. Tap `Add Instance`
-10. Select `Modrinth` tab from the left
-11. Select "Fabulously Optimized"
-12. Click `OK`
-   * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
-13. The modpack will now install.
-14. Once installed, double-tap the icon and wait.
-15. Tap `Options...` → `Controls...` → `Controller Settings...`
-16. Select a controller, then `Done` → `Done` → `Done`
-17. The game is now set up and you can just launch it from your game library from now on. 
-18. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
+1. Get a [Steam Deck](https://www.steamdeck.com/)
+2. With Steam Deck turned on, hold down `⏻` (power) and tap `Switch to Desktop`.
+3. From the taskbar, select 👜 "Discover".
+4. Tap the searchbar on the top left corner, then press ❎ to open the on-screen keyboard.
+5. Search for "Prism Launcher" and tap `Install` on the first result.
+6. Launch it and go through its initial setup process, then close it.
+7. Open Steam app, select `Games` → `Add a Non-Steam Game to My Library...` → select Prism Launcher → `ADD SELECTED PROGRAMS`.
+8. Close Steam and launch `Return to Gaming Mode`.
+9. Launch Prism Launcher from your game library.
+10. Tap `Add Instance`
+11. Select `Modrinth` tab from the left
+12. Select "Fabulously Optimized"
+13. Click `OK`
+    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
+14. The modpack will now install.
+15. Once installed, double-tap the icon and wait.
+16. Tap `Options...` → `Controls...` → `Controller Settings...`
+17. Select a controller, then `Done` → `Done` → `Done`
+18. The game is now set up and you can just launch it from your game library from now on. 
+19. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
 P.S. If you get Deck-specific issues, try asking on [r/SteamDeck](https://old.reddit.com/r/steamdeck) as FO moderators may not have one.
 
-### [MultiMC](https://multimc.org)
+### MultiMC
 
-You need [Java 21](https://download.fo/java21) or [Java 25](https://download.fo/java25) to play the game.
-
-1. Click `Add Instance`
-2. Select `Modrinth` tab from the left
-3. Select "Fabulously Optimized"
-4. Click `OK`
+1. Download, install and launch [MultiMC](https://multimc.org) and Java
+   * [Java 21](https://download.fo/java21) for Minecraft 1.21.x or [Java 25](https://download.fo/java25) for Minecraft 26.x
+2. Click `Add Instance`
+3. Select `Modrinth` tab from the left
+4. Select "Fabulously Optimized"
+5. Click `OK`
    * Optional: Select the version you want by selecting it on the dropdown before you click `OK`.
-5. The modpack will now install.
-6. Once installed, double-click the icon to play.
+6. The modpack will now install.
+7. Once installed, double-click the icon to play.
 
-### [MultiMC](https://multimc.org) (auto-update)
+### MultiMC (auto-update)
 
-You need [Java 21](https://download.fo/java21) or [Java 25](https://download.fo/java25) to play the game.
-
-1. Download the pack for your preferred Minecraft version: 
+1. Download, install and launch [MultiMC](https://multimc.org) and Java
+   * [Java 21](https://download.fo/java21) for Minecraft 1.21.x or [Java 25](https://download.fo/java25) for Minecraft 26.x
+2. Download the pack for your preferred Minecraft version: 
    * [26.1.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v13.2.0-alpha.3/Fabulously.Optimized.MC.26.1.2.auto-update.zip) | [1.21.11](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v12.0.0-alpha.2/Fabulously.Optimized.MC.1.21.11.auto-update.zip) | [1.21.10](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v11.1.0-beta.3/Fabulously.Optimized.MC.1.21.10.auto-update.zip) | [1.21.8](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v10.2.0-beta.4/Fabulously.Optimized.MC.1.21.8.auto-update.zip) | [1.21.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v9.1.0/Fabulously.Optimized.MC.1.21.5.auto-update.zip) | [1.21.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.6.0-alpha.8/Fabulously.Optimized.MC.1.21.4.auto-update.zip) | [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.6.0-alpha.8/Fabulously.Optimized.MC.1.21.1.auto-update.zip) | [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
    * Other versions can be found from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the ZIP-archive to MultiMC window, and hit OK in the window that pops up.
@@ -121,15 +140,16 @@ It does _not_ auto-update any individual mods outside of what is set in the the 
 
 </details>
 
-### [Minecraft Launcher](https://www.minecraft.net/en-us/download) (vanilla)
+### Minecraft Launcher (vanilla)
 
-1. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
+1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
+2. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
     * Windows: Open the .exe file, click `More info` and then `Run anyway`.
     * macOS: See instructions below
     * Linux: Open the .appimage file and click `Run once` when prompted.
-2. Select preferred modpack version and install
+3. Select preferred modpack version and install
     * The available versions are limited to recommendations. [Read more](version-support.md#installer)
-3. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 <details>
   <summary>MacOS installer opening instructions</summary>
