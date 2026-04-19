@@ -41,7 +41,9 @@
 {% tabs %}
 {% tab title="4.11.0 (MC 1.19.4) and newer" %}
 
+{% hint style="info" %}
 For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric Installer.
+{% endhint %}
 
 1. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.19.2**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.

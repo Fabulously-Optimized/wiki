@@ -19,10 +19,8 @@ Angel Aura Amethyst and its predecessor Pojav Launcher are not supported because
 ### PolyMC
 
 {% hint style="danger" %}
-PolyMC is a fork of MultiMC that [got compromised in 2022](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496).
+PolyMC is a fork of MultiMC that [got compromised in 2022](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/496). Users are advised to use its safe continuation, [Prism Launcher](../install-instructions/prism-launcher.md).
 {% endhint %}
-
-Users are advised to use its safe continuation, [Prism Launcher](../install-instructions/prism-launcher.md).
 
 ### TLauncher
 
@@ -37,7 +35,7 @@ _Not to be confused with [ATLauncher](#atlauncher)._
 Any launchers that let you run the game without having purchased it first are not supported.
 
 {% hint style="success" %}
-There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller](https://download.fo/minecraft). After that, [pick any supported launcher from installation page](../install-instructions) and enjoy the game! 
+There is a legitimate way to obtain Minecraft for cheaper: [get a giftcode from a trusted reseller](https://download.fo/minecraft).
 {% endhint %}
 
 ### Other launchers
@@ -50,10 +48,10 @@ The modpack only supports Fabric Loader. Other mod loaders are not planned.
 
 ### Other modpacks
 
-It is possible to combine modpacks, but:
+It is theoretically possible to combine modpacks, but:
 
 * the mods may have conflicts
-* neither FO or the other modpack will be able to support you
+* neither this or the other modpack will be able to support you
 
 Instead, we recommend you to use Fabulously Optimized with [other mods added by you](../adding-more-mods.md).
 
@@ -69,8 +67,12 @@ Instead, it is suggested to use this modpack and [add individual features as mod
    - Considered a "client" due to the amount of different things it does, which can also have incompatibilities.
    - World hosting [already exists in this modpack](../disclaimers.md)
 
-_Note: these lists are managed by contributors outside this wiki. There can be mods that are already in this modpack or are incompatible with it._
+{% hint style="info" %}
+These lists are managed by contributors outside this wiki. There may be mods that are already in this modpack or are incompatible with it.
+{% endhint %}
 
 ### Bedrock Edition
 
-Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](#angel-aura-amethyst). You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
+Fabulously Optimized is not compatible with Bedrock Edition [or mobile devices in general](#angel-aura-amethyst). 
+
+You may be interested in the [VDX resource pack](https://www.curseforge.com/minecraft-bedrock/addons/vdx-legacy-desktop-ui) just to achieve a Java-like look, however.
