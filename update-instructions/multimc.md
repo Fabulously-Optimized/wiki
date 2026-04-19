@@ -3,7 +3,7 @@
 {% tabs %}
 {% tab title="Default" %}
 
-{% hint style="info" %} 
+{% hint style="info" %}
 Consider [switching to Prism Launcher](../install-instructions/prism-launcher.md) or using the [MultiMC (auto-update) variant](#auto-update) instead for an easier update process. 
 {% endhint %}
 
@@ -47,8 +47,8 @@ Never update to an alpha or beta from a release version, [install a separate ins
 
 {% tab title="Newer Minecraft version" %}
 
-{% hint style="info" %} 
-Before updating, ensure that the modpack [has actually been built for that Minecraft version](https://modrinth.com/modpack/fabulously-optimized/versions).
+{% hint style="info" %}
+Before updating, ensure that the modpack [has already been built for that Minecraft version](https://modrinth.com/modpack/fabulously-optimized/versions).
 {% endhint %}
 
 1. Go to the existing instance, click `Edit Instance`
@@ -66,6 +66,7 @@ Never update to an alpha or beta from a release version, [install a separate ins
 {% endhint %}
 
 {% endtab %}
+{% endtabs %}
 
 <details>
   <summary>Got asked to download a mod manually?</summary>

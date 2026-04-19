@@ -1,7 +1,5 @@
 # CurseForge App
 
-The process differs depending on whether you've added extra content to the modpack or not. Choose the appropriate tab for instructions.
-
 {% tabs %}
 {% tab title="Unchanged modpack" %}
 

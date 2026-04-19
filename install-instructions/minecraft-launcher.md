@@ -82,7 +82,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
 4. Open the zip file and copy **all folders** to your _.minecraft_ folder
    * If asked - replace the files.
-5. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+5. Recommended: delete `options.txt` to get [modpack default settings](../changed-options.md)
     * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
     * If you choose not to do this, please at least enable bundled resource packs manually.
 6. Launch the installed Fabric profile
@@ -115,7 +115,7 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 7. Open the zip file and copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder
    * If asked - replace the files.
-8. Recommended: delete `options.txt` to get [FO default settings](changed-options.md)
+8. Recommended: delete `options.txt` to get [modpack default settings](../changed-options.md)
    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
    * If you choose not to do this, please at least enable bundled resource packs manually.
 9. Launch the installed Fabric profile

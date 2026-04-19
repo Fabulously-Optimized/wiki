@@ -1,7 +1,5 @@
 # Modrinth App
 
-The process differs depending on whether you want to update to a new Minecraft version or only new modpack version. Choose the appropriate tab for instructions.
-
 {% tabs %}
 {% tab title="Same Minecraft version" %}
 

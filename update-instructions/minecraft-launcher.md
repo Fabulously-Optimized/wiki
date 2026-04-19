@@ -4,7 +4,7 @@
 {% tab title="Installer" %}
 
 {% hint style="info" %}
-If you have an existing version of the installer, in most cases you do not need to redownload.
+If you have an existing version of the installer, in most cases you can use it again to update the modpack.
 {% endhint %}
 
 {% tabs %}
@@ -82,10 +82,8 @@ You may now see a new file _paigaldaja_meta.json_ next to the installer. This is
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
 4. Open the zip file and copy **all folders** to your _.minecraft_ folder
    * If asked - replace the files.
-5. Recommended: delete current `options.txt` to get [modpack's default settings](changed-options.md)
-    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-6. Launch the installed Fabric profile
-7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+5. Launch the installed Fabric profile
+6. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 {% endtab %}
 
@@ -114,10 +112,8 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
 7. Open the zip file and copy **all folders** from zip's _minecraft_ folder to your _.minecraft_ folder
     * If asked - replace the files.
-8. Recommended: delete current `options.txt` to get [modpack's default settings](changed-options.md)
-    * Your vanilla options like selected resource packs, language, keybinds will be reset but you can reapply them later.
-9. Launch the installed Fabric profile
-10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
+8. Launch the installed Fabric profile
+9. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 {% endtab %}
 {% endtabs %}

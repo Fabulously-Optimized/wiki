@@ -37,7 +37,7 @@
 18. The game is now set up and you can just launch it from your game library from now on. 
 19. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
-{% hint style="warning" %}
+{% hint style="info" %}
 If you get issues that are specific to Steam Deck, try asking on [r/SteamDeck on Reddit](https://old.reddit.com/r/steamdeck). Modpack moderators may not be able to help you.
 {% endhint %}
 

@@ -20,13 +20,13 @@ However, at some point you may still want to do that in order to get the latest 
 1. Open the modpack folder
 
 {% tabs %}
-{% tab title="CurseForge App" %}
+{% tab title="CurseForge" %}
 Right click on the modpack tile → `Open Folder`
 {% endtab %}
-{% tab title="Modrinth App" %}
+{% tab title="Modrinth" %}
 Right click on the modpack tile → `📂 Open folder`
 {% endtab %}
-{% tab title="Prism Launcher" %}
+{% tab title="Prism" %}
 Right click on the instance → `Folder` → `.minecraft`
 {% endtab %}
 {% tab title="MultiMC" %}
@@ -39,7 +39,7 @@ Click `Installations` → hover on the instance → click `📁`
 
 2. Delete the `config` folder
    * If you prefer, also delete `options.txt` which stores vanilla options
-3. Download [your version of FO again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
+3. Download [your version of the modpack again from Modrinth](https://modrinth.com/modpack/fabulously-optimized/versions)
 4. Rename the file to `pack.zip`
 5. Open the file you renamed, go to `overrides`
 6. Copy/extract the folder `configs` out to the modpack folder you previously opened
