@@ -6,26 +6,27 @@ This tutorial assumes that you have the pack already installed and launcher open
 
 ### CurseForge App
 
-Method 1:
+#### On the app
 
 1. Open CurseForge App
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click `⫶` (three dots) → `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
 5. Click 🧩 (puzzle icon)
-6. Choose any mod you want and click Install. You can manage them later under Installed Mods tab
+6. Choose any mod you want and click `Install`
 7. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
-Method 2:
+#### On the website
 
-1. [Open CurseForge site](https://www.curseforge.com/minecraft/search?gameVersionTypeId=4), search for a mod compatible with your Minecraft version
-2. On the compatible version, click Install
-3. CurseForge Launcher opens. Click `Select a profile`
+1. [Open CurseForge search](https://www.curseforge.com/minecraft/search?gameVersionTypeId=4), search for a mod compatible with Fabric and your Minecraft version
+2. Open the listing, then `Versions`. Click on any version with mod loader Fabric
+3. Click `Install`
 4. Select "Fabulously Optimized", click `Install`
-5. The mod will be added to the FO profile
-6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
+5. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
 ### Modrinth App
+
+#### On the app
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
@@ -34,6 +35,15 @@ Method 2:
 5. Search for the mod you want
 6. Click `⤓ Install`
 7. Go back to `|||\` and run the game as usual. You should now have the new mod(s) installed!
+
+#### On the website
+
+1. [Open Modrinth search](https://modrinth.com/discover/mods?g=categories:fabric), search for a mod compatible with Fabric and your Minecraft version
+2. Click on the mod listing
+3. Click `Install`, then `Install with Modrinth App`
+4. Select `Existing Instance`, then click `Install`
+5. Close the addition window with `X`
+6. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
 ### Prism Launcher
 
@@ -46,7 +56,7 @@ Method 2:
 7. A confirmation window appears, click `OK`.
 8. The mods will be downloaded and added to your instance.
 
-### MultiMC/MultiMC (auto-update)
+### MultiMC
 
 1. Open MultiMC
 2. Click on Fabulously Optimized, then `Instance Folder`
@@ -56,7 +66,7 @@ Method 2:
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
 
-### Minecraft Launcher (vanilla)
+### Minecraft Launcher
 
 1. Open Minecraft Launcher, click on `Installations`
 2. Hover on the Fabric installation, click 📂
