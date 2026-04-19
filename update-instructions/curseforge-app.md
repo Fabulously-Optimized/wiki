@@ -32,6 +32,7 @@ The process differs depending on whether you've added extra content to the modpa
 {% endtabs %}
 
 {% hint style="warning" %}
-   * Never update to an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](../install-instructions/curseforge-app.md) for testing.
+Never update to an older version, this could corrupt your worlds and settings!
+
+Never update to an alpha or beta from a release version, [install a separate instance](../install-instructions/curseforge-app.md) for testing.
 {% endhint %}

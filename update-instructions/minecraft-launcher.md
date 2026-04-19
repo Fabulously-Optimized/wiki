@@ -79,8 +79,6 @@ You may now see a new file _paigaldaja_meta.json_ next to the installer. This is
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
    * Optional: Select the version you want by selecting it on the dropdown before you click ⬇️.
-      * Do not select an older version, this could corrupt your worlds and settings!
-      * Do not update to an alpha or beta from a release version, [create it to a separate instance](https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes) for testing.
    * If you got a prompt for popup windows or multiple downloads, please accept it - technical limitation.
 4. Open the zip file and copy **all folders** to your _.minecraft_ folder
    * If asked - replace the files.
@@ -111,9 +109,6 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 2. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 3. Go to [Files](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show) on CurseForge
 4. Click the version you need, then click "Additional files"
-    * Never downgrade an instance, this could corrupt your worlds and settings!
-    * It is not advised to upgrade release → alpha or release → beta, make a separate instance for testing.
-    * Updating alpha → beta or beta → release is recommended as long as the Minecraft version matches.
 5. Click `⋮` → `Download file` on the latest **MultiMC version**
     * If you see less than 10 mods in the zip, you downloaded the wrong version.  
 6. Open the zip file, go to _Fabulously Optimized x.x.x_ > _minecraft_
@@ -128,3 +123,9 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 {% endtabs %}
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+Never update to an older version, this could corrupt your worlds and settings!
+
+Never update to an alpha or beta from a release version, [install a separate instance](https://help.minecraft.net/hc/en-us/articles/23431114561037-Create-a-New-Minecraft-Java-Installation-to-Troubleshoot-Launcher-Crashes) for testing.
+{% endhint %}
