@@ -15,7 +15,7 @@
 
 {% tab title="On the website" %}
 {% hint style="warning" %}
-You can currently only install the latest version through the website. To select a specific version, [install through the app instead](#via-app).
+You can currently only install the latest version through the website. To select a specific version, [install through the app instead](#on-the-app).
 {% endhint %}
 
 1. Download and install [Modrinth App](https://modrinth.com/app)

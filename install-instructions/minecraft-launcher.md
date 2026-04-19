@@ -3,10 +3,6 @@
 {% tabs %}
 {% tab title="Installer" %}
 
-{% hint style="info" %}
-The installer only supports recommended versions of the modpack. For legacy versions, use a different launcher. [Read more](../version-support.md#installer)
-{% endhint %}
-
 {% tabs %}
 {% tab title="Windows" %}
 
@@ -30,10 +26,6 @@ The installer only supports recommended versions of the modpack. For legacy vers
 8. Select preferred modpack version and install
 9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
-{% hint style="info" %}
-Future launches of the same installer version open the installer directly on double-click.
-{% endhint %}
-
 {% endtab %}
 
 {% tab title="macOS 14 and older" %}
@@ -45,10 +37,6 @@ Future launches of the same installer version open the installer directly on dou
 5. Click `Open` again when asked in a prompt. The installer should open.
 6. Select preferred modpack version and install
 7. Run Minecraft Launcher. You'll see the new installation, click PLAY.
-
-{% hint style="info" %}
-Future launches of the same installer version open the installer directly on double-click.
-{% endhint %}
 
 {% endtab %}
 
@@ -125,3 +113,7 @@ Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
 {% endtabs %}
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Legacy versions of the modpack are not available on the installer. [Read more](../version-support.md#installer)
+{% endhint %}

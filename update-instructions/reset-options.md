@@ -17,7 +17,7 @@ However, at some point you may still want to do that in order to get the latest 
 
 {% tab title="Modpack version 10.3.1 and older" %}
 
-1. Open the modpack folder
+1. Open the modpack folder:
 
 {% tabs %}
 {% tab title="CurseForge" %}

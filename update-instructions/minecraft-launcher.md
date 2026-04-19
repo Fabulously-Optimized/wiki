@@ -4,7 +4,7 @@
 {% tab title="Installer" %}
 
 {% hint style="info" %}
-If you have an existing version of the installer, in most cases you can use it again to update the modpack.
+If you already have the installer, just launch it again.
 {% endhint %}
 
 {% tabs %}
@@ -30,10 +30,6 @@ If you have an existing version of the installer, in most cases you can use it a
 8. Select preferred modpack version and install
 9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
-{% hint style="info" %}
-Future launches of the same installer version open the installer directly on double-click.
-{% endhint %}
-
 {% endtab %}
 
 {% tab title="macOS 14 and older" %}
@@ -45,10 +41,6 @@ Future launches of the same installer version open the installer directly on dou
 5. Click `Open` again when asked in a prompt. The installer should open.
 6. Select preferred modpack version and install
 7. Run Minecraft Launcher. You'll see the new installation, click PLAY.
-
-{% hint style="info" %}
-Future launches of the same installer version open the installer directly on double-click.
-{% endhint %}
 
 {% endtab %}
 

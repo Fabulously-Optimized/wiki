@@ -4,7 +4,7 @@
 {% tab title="Default" %}
 
 {% hint style="info" %}
-Consider [switching to Prism Launcher](../install-instructions/prism-launcher.md) or using the [MultiMC (auto-update) variant](#auto-update) instead for an easier update process. 
+Consider [switching to Prism Launcher](../install-instructions/prism-launcher.md) or using the [MultiMC (auto-update) variant](../install-instructions/multimc.md#auto-update) instead for an easier update process. 
 {% endhint %}
 
 1. Click `Add Instance`
