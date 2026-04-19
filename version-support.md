@@ -10,11 +10,11 @@ Due to high interest, it will still always include the latest Minecraft version,
 
 ### Where are versions older than 5.12.0?
 
-These versions are not available on the installer due to technical and platform limits. Please [use manual install](install-instructions.md#minecraft-launcher-vanilla) or other launchers if you'd like to use them.
+These versions are not available on the installer due to technical and platform limits. Please [use manual install](install-instructions/minecraft-launcher.md) or other launchers if you'd like to use them.
 
 ### Where are versions older than 11.3.1?
 
-[Update your installer](install-instructions.md#minecraft-launcher-vanilla) to see them.
+[Update your installer](install-instructions/minecraft-launcher.md) to see them.
 
 ## Versions
 

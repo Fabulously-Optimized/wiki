@@ -3,7 +3,7 @@
 
 Fabulously Optimized is a strictly client-sided modpack, meaning it works and behaves mostly the same on **every server that allows vanilla clients**. 
 
-The CurseForge listing used to have "server packs", but [those were actually just the MultiMC packages](install-instructions.md#minecraft-launcher-vanilla) that were marked as server packs for better visibility.
+The CurseForge listing used to have "server packs", but [those were actually just the MultiMC packages](install-instructions/minecraft-launcher.md) that were marked as server packs for better visibility.
 
 **Disclaimer: All content on this page should be treated as a suggestion. If you need any help with server setup, please ask in the respective mod or platform support site.**
 
@@ -125,7 +125,7 @@ Note that there can be incompatibilities and weird glitches (e.g. with anticheat
 Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means that you can add new stuff to the server while your users use unmodified Fabulously Optimized!
 
 - [Check out these mods](https://github.com/Patbox/polymer/blob/dev/1.21/MODS.md) built for [Polymer](https://modrinth.com/mod/polymer) to provide this seamlessly
-- [Check out PolyMc](https://theepicblock.github.io/PolyMc/) [(_not_ the launcher!)](install-instructions.md#polymc), which can work with even more mods but requires your testing first
+- [Check out PolyMc](https://theepicblock.github.io/PolyMc/), which can work with even more mods but requires your testing first
 
 ### Mods in rules
 

@@ -50,7 +50,7 @@ Notes:
 ### MultiMC (auto-update)
 
 {% hint style="info" %}
-There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead](install-instructions.md#prism-launcher), which also has a seamless modpack updater.
+There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead](install-instructions/prism-launcher.md), which also has a seamless modpack updater.
 {% endhint %}
 
 You need to create a custom script to disable mods. See instructions by platform below.
@@ -153,7 +153,3 @@ _Tutorial and scripts made by [RaptaG](https://github.com/RaptaG) based on [Remt
 4. Rename the specific mod from "modname.jar" to "modname.jar.disabled"
    * Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
    * Rename ".jar.disabled" back to ".jar" to use the mod again.
-
-### GDLauncher
-
-No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
