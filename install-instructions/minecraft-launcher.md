@@ -12,6 +12,29 @@
     * The available versions are limited to recommendations. [Read more](version-support.md#installer)
 4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
+<details>
+  <summary>MacOS installer opening instructions</summary>
+
+  #### macOS Sequoia 15 and later
+  1. Open the downloaded .dmg file
+  2. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+  3. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
+  4. Scroll down on the right view, you should see the button `Open anyway`
+  5. Enter your password or fingerprint. The installer should open.
+  6. Future launches of the same installer version open the installer directly on double-click.
+
+  #### macOS Sonoma 14 and older
+  1. Open the downloaded .dmg file
+  2. **Right click** the "Fabulously Optimized Installer" and click `Open`
+  3. Click `Open` again when asked in a prompt. The installer should open.
+  4. Future launches of the same installer version open the installer directly on double-click.
+
+  #### Why is this necessary?
+  Apple requires 99$ a year to get a program "verified". This is not feasible for this modpack.
+  If you are concerned, feel free to use manual instructions or a different launcher.
+  
+</details>
+
 {% endtab %}
 
 {% tab title="Manual install" %}
