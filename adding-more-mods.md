@@ -2,7 +2,7 @@
 
 While the modpack only intends to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft!
 
-This tutorial assumes that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions.md)
+This tutorial assumes that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions/README.md)
 
 ### CurseForge App
 
@@ -65,10 +65,6 @@ Method 2:
 5. Click `⤓` on the latest version that is compatible with Fabric and your Minecraft version
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
-
-### GDLauncher
-
-No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
 ### Other hints
 

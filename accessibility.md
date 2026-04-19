@@ -12,7 +12,7 @@ Fabulously Optimized is designed to be accessible for everyone, and as such cont
   * Items have the original names on their tooltips for command usage purposes
 * Game controllers are supported
 * Local worlds can optionally be played with friends [through the Internet](disclaimers.md#privacy-and-security)
-* [Several launchers are supported](install-instructions.md)
+* [Several launchers are supported](install-instructions/README.md)
 * [The purpose and settings for each included mod are displayed in the mod menu](changed-options.md#resource-packs)
 * Splash screen is black, similar to Bedrock Edition
 * Other [changed options](changed-options.md) to match users' expectations

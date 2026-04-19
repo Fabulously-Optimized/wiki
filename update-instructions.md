@@ -16,7 +16,7 @@
 3. Click `Select version`
 4. Select a version that matches your current or has a newer Minecraft version
    * Do not select an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#curseforge-app) for testing.
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions/curseforge-app.md) for testing.
 5. Click `Continue`. Modpack will now update.
 6. Run it and check the version difference in the bottom right corner.
 
@@ -32,7 +32,7 @@
 7. Click `Select version`
 8. Select a version that matches your current or has a newer Minecraft version
    * Do not select an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#curseforge-app) for testing.
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions/curseforge-app.md) for testing.
 9. Click `Continue`. The modpack will now update.
 10. Run it and check the version difference in the bottom right corner.
 
@@ -45,7 +45,7 @@
 3. Click `⤓ Update` on top right (next to `ஃ Content`)
 4. Click `⤓ Update to ...`
    * Do not select an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#modrinth-app) for testing.
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions/modrinth-app.md) for testing.
 7. In the warning, click `⤓ Update modpack`
 6. Run it and check the version difference in the bottom right corner.
 
@@ -60,7 +60,7 @@
 5. Click `👁️ Show incompatible`
 6. Select the latest version and click `⤓ Update to ...`
    * Do not select an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#modrinth-app) for testing.
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions/modrinth-app.md) for testing.
 7. In the warning, click `⤓ Update modpack`
 8. Run it and check the version difference in the bottom right corner.
 
@@ -72,7 +72,7 @@
 4. Click on the version dropdown
 5. Select the version that matches your current or has a newer Minecraft version
    * Do not select an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#prism-launcher) for testing.
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions/prism-launcher.md) for testing.
 5. Click `Update pack`. Modpack will now update.
    * If a prompt is asking to change the instance name, click `Yes`
 6. Run it and check the version difference in the bottom right corner.
@@ -87,7 +87,7 @@
 4. Click on the version dropdown
 5. Select the version that matches your current or has a newer Minecraft version
    * Do not select an older version, this could corrupt your worlds and settings!
-   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions.md#multimc) for testing.
+   * Do not update to an alpha or beta from a release version, [install a separate instance](install-instructions/multimc.md) for testing.
 6. Click `OK`. The modpack will now install.
 7. Click that version you just created, then `Minecraft Folder`
 8. Click the previous version, then `Minecraft Folder`
@@ -215,10 +215,6 @@ Note: you may now see a new file _paigaldaja_meta.json_ next to the installer. T
   10. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 </details>
-
-### GDLauncher
-
-No longer supported. [Please migrate to Prism Launcher.](install-instructions.md#gdlauncher)
 
 ## Resetting options
 
