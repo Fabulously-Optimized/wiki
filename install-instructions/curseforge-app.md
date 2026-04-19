@@ -1,5 +1,9 @@
 # CurseForge App
 
+{% hint style="info" %}
+The installation can be started through the app (recommended) or through the website. Choose the preferred tab for instructions.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Via app" %}
 
