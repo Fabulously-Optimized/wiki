@@ -3,37 +3,75 @@
 {% tabs %}
 {% tab title="Installer" %}
 
+{% tabs %}
+{% tab title="Windows" %}
+
 1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
-2. Download [Fabulously Optimized Installer](https://download.fo/vanilla) and run it
-    * Windows: Open the .exe file, click `More info` and then `Run anyway`.
-    * macOS: See instructions below
-    * Linux: Open the .appimage file and click `Run once` when prompted.
-3. Select preferred modpack version and install
+2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+3. Open the .exe file, click `More info` and then `Run anyway`.
+4. Select preferred modpack version and install
     * The available versions are limited to recommendations. [Read more](version-support.md#installer)
-4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
-<details>
-  <summary>MacOS installer opening instructions</summary>
+{% endtab %}
 
-  #### macOS Sequoia 15 and later
-  1. Open the downloaded .dmg file
-  2. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
-  3. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
-  4. Scroll down on the right view, you should see the button `Open anyway`
-  5. Enter your password or fingerprint. The installer should open.
-  6. Future launches of the same installer version open the installer directly on double-click.
+{% tab title="macOS 15 and later" %}
 
-  #### macOS Sonoma 14 and older
-  1. Open the downloaded .dmg file
-  2. **Right click** the "Fabulously Optimized Installer" and click `Open`
-  3. Click `Open` again when asked in a prompt. The installer should open.
-  4. Future launches of the same installer version open the installer directly on double-click.
+1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
+2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+3. Open the downloaded .dmg file
+4. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
+6. Scroll down on the right view, you should see the button `Open anyway`
+7. Enter your password or fingerprint. The installer should open.
+8. Future launches of the same installer version open the installer directly on double-click.
+9. Select preferred modpack version and install
+    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
+10. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
-  #### Why is this necessary?
-  Apple requires 99$ a year to get a program "verified". This is not feasible for this modpack.
-  If you are concerned, feel free to use manual instructions or a different launcher.
-  
-</details>
+{% endtab %}
+
+{% tab title="macOS Sequoia 15 and later" %}
+
+1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
+2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+3. Open the downloaded .dmg file
+4. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
+6. Scroll down on the right view, you should see the button `Open anyway`
+7. Enter your password or fingerprint. The installer should open.
+8. Future launches of the same installer version open the installer directly on double-click.
+9. Select preferred modpack version and install
+    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
+10. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% endtab %}
+
+{% tab title="macOS Sonoma 14 and older" %}
+
+1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
+2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+3. Open the downloaded .dmg file
+4. **Right click** the "Fabulously Optimized Installer" and click `Open`
+5. Click `Open` again when asked in a prompt. The installer should open.
+6. Future launches of the same installer version open the installer directly on double-click.
+7. Select preferred modpack version and install
+    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
+8. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% endtab %}
+
+{% tab title="Ubuntu, Mint and other Linux" %}
+
+1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
+2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+3. Open the .appimage file and click `Run once` when prompted.
+   * If it doesn't open directly, right click, find `Properties` and add a checkmark to an option `Allow executing this file`
+4. Select preferred modpack version and install
+    * The available versions are limited to recommendations. [Read more](version-support.md#installer)
+5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+
+{% endtab %}
 
 {% endtab %}
 
