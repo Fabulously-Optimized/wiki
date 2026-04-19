@@ -4,7 +4,7 @@
 {% tab title="Via app" %}
 
 1. Download, install and launch [CurseForge App](https://www.curseforge.com/download/app#download-options)
-    * On Windows, the standalone version is recommended.
+   * On Windows, the standalone version is recommended.
 2. Select _Minecraft_ from the grid or sidebar
 3. Search "Fabulously Optimized"
 4. Click `Install`
@@ -17,6 +17,7 @@
 {% tab title="Via website" %}
 
 1. Download and install [CurseForge App](https://www.curseforge.com/download/app#download-options)
+   * On Windows, the standalone version is recommended.
 2. Go to [the listing page](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/) on CurseForge
 3. Click `Install` and accept the prompt in your browser
    * Optional: Select the version you want by instead clicking `Files` → the version you want → `Install`.

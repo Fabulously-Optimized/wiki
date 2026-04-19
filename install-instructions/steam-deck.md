@@ -22,5 +22,5 @@
 19. Bonus: if you want a better icon in your game library, [follow these instructions](https://prismlauncher.org/download/steam-deck/#setting-up-artwork).
 
 {% hint style="warning" %}
-If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](https://old.reddit.com/r/steamdeck). Modpack moderators might not be able to help you.
+If you get issues that are specific to Steam Deck, try asking on [r/SteamDeck on Reddit](https://old.reddit.com/r/steamdeck). Modpack moderators may not be able to help you.
 {% endhint %}

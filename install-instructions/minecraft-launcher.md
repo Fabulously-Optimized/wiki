@@ -13,6 +13,7 @@
 4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
+
 {% tab title="Manual install" %}
 {% tabs %}
 {% tab title="4.11.0 (MC 1.19.4) and newer" %}
@@ -34,6 +35,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 7. If you now see "Fabulously Optimized" in the right bottom corner, you're done!
 
 {% endtab %}
+
 {% tab title="4.6.1 (MC 1.19.3) and older" %}
 
   1. Download and install [Fabric Loader](https://fabricmc.net/use/)

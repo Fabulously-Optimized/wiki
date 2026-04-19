@@ -1,5 +1,9 @@
 # MultiMC
 
+{% hint style="info" %}
+Consider [using Prism Launcher](prism-launcher.md) instead, as it has a similar interface but more features.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Default" %}
 
@@ -14,6 +18,7 @@
 7. Once installed, double-click the icon to play.
 
 {% endtab %}
+
 {% tab title="Auto-update" %}
 
 1. Download, install and launch [MultiMC](https://multimc.org) and Java
@@ -49,8 +54,5 @@ If there are any, they will be downloaded and launched, otherwise the current ga
 It does _not_ auto-update any individual mods outside of what is set in the the modpack.
 
 </details>
+{% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-Consider using Prism Launcher instead, as it has a similar interface but more features.
-{% endhint %}
