@@ -4,7 +4,7 @@
 {% tab title="Installer" %}
 
 {% hint style="info" %}
-The installer only supports recommended versions of the modpack. For other versions, use a different launcher. [Read more](../version-support.md#installer)
+The installer only supports recommended versions of the modpack. For legacy versions, use a different launcher. [Read more](../version-support.md#installer)
 {% endhint %}
 
 {% tabs %}
