@@ -3,55 +3,51 @@
 {% tabs %}
 {% tab title="Installer" %}
 
-{% hint style="info" %}
-If you already have the installer, just launch it again.
-{% endhint %}
-
 {% tabs %}
 {% tab title="Windows" %}
 
-1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
-2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
-3. Open the .exe file, click `More info` and then `Run anyway`.
-4. Select preferred modpack version and install
-5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+1. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+   * If you already have the installer, launch it and skip to step 3.
+2. Open the .exe file, click `More info` and then `Run anyway`.
+3. Select preferred modpack version and install
+4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
 
 {% tab title="macOS 15 and later" %}
 
-1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
-2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
-3. Open the downloaded .dmg file
-4. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
-5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
-6. Scroll down on the right view, you should see the button `Open anyway`
-7. Enter your password or fingerprint. The installer should open.
-8. Select preferred modpack version and install
-9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+1. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+   * If you already have the installer, launch it and skip to step 7.
+2. Open the downloaded .dmg file
+3. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
+4. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
+5. Scroll down on the right view, you should see the button `Open anyway`
+6. Enter your password or fingerprint. The installer should open.
+7. Select preferred modpack version and install
+8. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
 
 {% tab title="macOS 14 and older" %}
 
-1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
-2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
-3. Open the downloaded .dmg file
-4. Right click the "Fabulously Optimized Installer" and click `Open`
-5. Click `Open` again when asked in a prompt. The installer should open.
-6. Select preferred modpack version and install
-7. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+1. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+   * If you already have the installer, launch it and skip to step 5.
+2. Open the downloaded .dmg file
+3. Right click the "Fabulously Optimized Installer" and click `Open`
+4. Click `Open` again when asked in a prompt. The installer should open.
+5. Select preferred modpack version and install
+6. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
 
 {% tab title="Linux" %}
 
-1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
-2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
-3. Open the .appimage file and click `Run once` when prompted.
+1. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
+   * If you already have the installer, launch it and skip to step 3.
+2. Open the .appimage file and click `Run once` when prompted.
    * If it doesn't open directly, right click, find `Properties` and add a checkmark to an option `Allow executing this file`
-4. Select preferred modpack version and install
-5. Run Minecraft Launcher. You'll see the new installation, click PLAY.
+3. Select preferred modpack version and install
+4. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
 {% endtab %}
 {% endtabs %}

@@ -14,7 +14,7 @@
 {% endtab %}
 
 {% tab title="On the website" %}
-{% hint style="warning" %}
+{% hint style="info" %}
 You can currently only install the latest version through the website. To select a specific version, [install through the app instead](#on-the-app).
 {% endhint %}
 

@@ -9,9 +9,10 @@ However, at some point you may still want to do that in order to get the latest 
 
 1. Launch the game
 2. Go to `Mods` -> `Config Manager` -> `🎛️`
-3. If you want to _apply latest changes_ but keep configs for added mods, select `Update modpack's configs`. If you want to _delete all configs_ and start fresh, select `Reset modpack's configs`.
+3. If you want to _apply latest changes_ but keep configs for added mods, select `Update modpack's configs`. 
+   * If you want to _delete all configs_ and start fresh, select `Reset modpack's configs`.
 4. Close the game and start it again. See if it works.
-   * If you got an error (especially on alpha or beta versions) or need to send logs to support, close the game and start again to ensure configurations are properly applied.
+   * If you got an error (especially on alpha or beta versions), start the game again to ensure configurations are properly applied.
 
 {% endtab %}
 

@@ -1,7 +1,7 @@
 # Modrinth App
 
 {% tabs %}
-{% tab title="Same Minecraft version" %}
+{% tab title="To same Minecraft version" %}
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
@@ -12,7 +12,7 @@
 
 {% endtab %}
 
-{% tab title="Newer Minecraft version" %}
+{% tab title="To newer Minecraft version" %}
 
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance

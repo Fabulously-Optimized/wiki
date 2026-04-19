@@ -37,7 +37,7 @@ Never update to an alpha or beta from a release version, [install a separate ins
 {% tab title="Auto-update" %}
 
 {% tabs %}
-{% tab title="Same Minecraft version" %}
+{% tab title="To same Minecraft version" %}
 
 1. Run the existing version, wait for the progress bar to fill up
    * If you get a popup "This modpack uses new versions of the following...", just click `Update`.
@@ -45,7 +45,7 @@ Never update to an alpha or beta from a release version, [install a separate ins
 
 {% endtab %}
 
-{% tab title="Newer Minecraft version" %}
+{% tab title="To newer Minecraft version" %}
 
 {% hint style="info" %}
 Before updating, ensure that the modpack [has already been built for that Minecraft version](https://modrinth.com/modpack/fabulously-optimized/versions).
