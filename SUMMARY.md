@@ -9,6 +9,7 @@
     * [Prism Launcher](install-instructions/prism-launcher.md)
     * [MultiMC](install-instructions/multimc.md)
     * [Minecraft Launcher](install-instructions/minecraft-launcher.md)
+    * [Unsupported methods](install-instructions/unsupported.md)
 * [How to update](update-instructions.md)
 * [How to add mods](adding-more-mods.md)
 * [How to remove mods](disabling-mods.md)
