@@ -29,5 +29,5 @@ You can currently only install the latest version through the website. To select
 {% endtabs %}
 
 {% hint style="success" %}
-Using the CurseForge App supports the modpack and its mods. Thank you!
+Using the Modrinth App supports the modpack and its mods. Thank you!
 {% endhint %}
