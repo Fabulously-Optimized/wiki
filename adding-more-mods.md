@@ -2,8 +2,6 @@
 
 While the modpack only intends to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft!
 
-This tutorial assumes that you have the pack already installed and launcher opened. [If you don't, see these instructions.](install-instructions/README.md)
-
 ### CurseForge App
 
 #### On the app
@@ -76,8 +74,12 @@ This tutorial assumes that you have the pack already installed and launcher open
 6. Once downloaded, copy the JAR file to the pack's "mods" folder.
 7. Run the game as usual. You should now have the new mod(s) installed!
 
-### Other hints
+### Alternative mods
 
-* Need to disable a mod instead? [See this page.](disabling-mods.md)
-* Coming from Forge and don't know what to install? Check out the [community list of equivalent mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md).
-* Looking to install FO with a custom game client? [Try these alternative mods](https://wiki.download.fo/install-instructions#game-clients)
+Are you looking for alternatives to:
+
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Mods originally made for <strong>Minecraft Forge</strong></td><td><a href="https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md">https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83#file-forge-to-fabric-ports-md</a></td></tr><tr><td align="center"><strong>Essential Mod</strong><br>World hosting is already in the modpack</td><td><a href="https://alternatives.microcontrollers.dev/latest/essential/#pictures">https://alternatives.microcontrollers.dev/latest/essential/#pictures</a></td></tr><tr><td align="center"><strong>Lunar Client</strong></td><td><a href="https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals">https://alternatives.microcontrollers.dev/latest/lunar/#17-visuals</a></td></tr><tr><td align="center"><strong>Feather Client</strong></td><td><a href="https://alternatives.microcontrollers.dev/latest/feather/#visuals">https://alternatives.microcontrollers.dev/latest/feather/#visuals</a></td></tr><tr><td align="center"><strong>Badlion Client</strong></td><td><a href="https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals">https://alternatives.microcontrollers.dev/latest/badlion/#17-visuals</a></td></tr></tbody></table>
+
+{% hint style="info" %}
+These lists are managed by contributors outside this wiki. There may be mods that are already in this modpack or are incompatible with it.
+{% endhint %}
