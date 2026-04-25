@@ -12,6 +12,26 @@ Here are the instructions to install Fabulously Optimized to various launchers.
 Any server that works with vanilla Minecraft can be played with the modpack, no changes are necessary to the server. [Read more tips for server owners](../server-setup.md).
 {% endhint %}
 
+### Comparison table
+
+We recommend and support five launchers, all of which can be used offline on 🪟 Windows, 🐧 Linux and 🍏 macOS.
+
+See this table for a comparison between the launchers:
+
+| Launcher                                      |               Tutorial               |    Install    |     Upgrade     |   Add mods    | Support us and mods |
+| --------------------------------------------- | :----------------------------------: | :-----------: | :-------------: | :-----------: | :-----------------: |
+| [CurseForge App](https://curseforge.com/download/app)                  |    [🔗&nbsp;Open](curseforge-app.md)    |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
+| [Modrinth App](https://modrinth.com/app)              | [🔗&nbsp;Open](modrinth-app.md) |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
+| [Prism Launcher](https://prismlauncher.org)               |  [🔗&nbsp;Open](prism-launcher.md)   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
+| [MultiMC](https://multimc.org)                    | [🔗&nbsp;Open](multimc.md#default)  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [MultiMC (auto-update)](https://multimc.org)           |   [🔗&nbsp;Open](multimc.md#auto-update)   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [Minecraft Launcher](https://minecraft.net/en-us/download) (installer) | [🔗&nbsp;Open](minecraft-launcher.md#installer) |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [Minecraft Launcher](https://minecraft.net/en-us/download) (manual setup) | [🔗&nbsp;Open](minecraft-launcher.md#manual-install)  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+
+> **[1]**: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
+>
+> **[2]**: These launchers support the modpack and its mods by increasing their download count, but not with monetary benefits.
+
 ### Why try a new launcher?
 
 The default Minecraft launcher is very basic, and it lacks many features that improve usability with mods. For example, a third-party launcher can easily download and update the modpack, add and remove mods with a few simple clicks. Many can even manage resource packs, datapacks and shaders!
