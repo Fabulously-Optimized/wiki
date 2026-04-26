@@ -1,6 +1,6 @@
 # Free cape
 
-Fabulously Optimized shows capes from Mojang, OptiFine, MinecraftCapes mod and Cosmetica.
+Fabulously Optimized shows capes from Minecraft (official), MinecraftCapes mod, Cosmetica, OptiFine.
 
 ### Instructions for a free cape
 
@@ -12,21 +12,21 @@ Fabulously Optimized shows capes from Mojang, OptiFine, MinecraftCapes mod and C
 
 ![image](https://user-images.githubusercontent.com/8611110/230607851-3ddd87c5-fe74-4bc4-8484-9cca5ceffc64.png)
 
-### "Update your mod"
-
-Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheColher/Capes/issues/118), which causes this message to appear on users' capes in older versions of FO. Here are your options, pick _one_:
-
-- [Update Fabulously Optimized to latest version](update-instructions.md) - the easiest and best solution.
--  [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
-- Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general (you can no longer use the free cape instructions above).
-   * Go to `Options...` → `Skin Customization...` → ![Capes icon](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/textures/gui/sprites/icon/cape_options.png?raw=true) → `Toggle` → `MinecraftCapes: OFF` → `Done` → `Done` → `Done`.
-- [Remove Capes](disabling-mods.md) and [install](adding-more-mods.md) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
-   * Go to `Mods` → search "Cosmetica" → press ![config](https://i.ibb.co/j35cBtn/image.png) → configure by your preferences.
-
 ### Official capes
 
 Mojang has begun to release more [official, cross-platform capes](https://minecraft.wiki/w/Cape#Cross-platform_capes) for completing various actions during game events.
 These events are announced on [the modpack's Discord server](https://download.fo/discord/) as they happen. Ensure you have the **Other news** role to get notified!
+
+### "Update your mod"
+
+Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheColher/Capes/issues/118), which causes this message to appear on users' capes in older versions of the modpack. Here are your options, pick _one_:
+
+- [Update Fabulously Optimized to latest version](update-instructions/README.md) - the easiest and best solution.
+-  [Remove Capes](disabling-mods.md) and [install](adding-more-mods/README.md) [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
+- Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general (you can no longer use the free cape instructions above).
+   * Go to `Options...` → `Skin Customization...` → ![Capes icon](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/textures/gui/sprites/icon/cape_options.png?raw=true) → `Toggle` → `MinecraftCapes: OFF` → `Done` → `Done` → `Done`.
+- [Remove Capes](disabling-mods.md) and [install](adding-more-mods/README.md) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
+   * Go to `Mods` → search "Cosmetica" → press ![config](https://i.ibb.co/j35cBtn/image.png) → configure by your preferences.
 
 ### Disclaimer
 
