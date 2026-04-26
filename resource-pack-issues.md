@@ -14,7 +14,7 @@ If you see this message while activating a resource pack:
 
 This means the resource pack maker is **using spaces or other non-standard characters** in the file or folder names.
 
-If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lightning issues, broken textures...).
+If this is the case, the modpack will warn you and allow overriding it, but note that various glitches may occur (miscolored or invisible blocks, lighting issues, broken textures...).
 
 To fix that, please tell the resource pack maker to only use the following characters in file/folder names: `a-z0-9._-`.
 
