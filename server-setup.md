@@ -135,7 +135,7 @@ Some servers tend to put a list of allowed mods into their rules. While it may s
 
 This would disallow Fabulously Optimized, despite it having mods that do exactly the same thing.
 
-> **DO**: "Performance and visual-enchancing mods are allowed."
+> **DO**: "Performance and visual-enhancing mods are allowed."
 
 This would allow Fabulously Optimized in your server without requiring further clarification.
 
