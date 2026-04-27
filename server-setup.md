@@ -157,7 +157,7 @@ This would already disqualify Fabulously Optimized, as it has more.
 
 > **DO:** (don't mention it)
 
-Arbitary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
+Arbitrary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
 
 ---
 
