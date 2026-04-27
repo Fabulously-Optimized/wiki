@@ -150,7 +150,7 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 
 ### Fast Better Grass
 
-Resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be reincluded in later releases.
+Resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be re-included in later releases.
 
 * The only string to translate is the pack description. It is translated within [Mod Menu Helper](#mod-menu-helper) to keep the original pack small and simple.
 
