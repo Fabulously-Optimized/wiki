@@ -147,7 +147,7 @@ The players would only depend on that single mod's updates, even if there are al
 
 > **DO:** "Any minimap mod with player radar disabled."
 
-This allows users to use any minimap mods by configuring them by theirselves. Many minimap mods also have server-side enforcement options.
+This allows users to use any minimap mods by configuring them by themselves. Many minimap mods also have server-side enforcement options.
 
 ---
 
