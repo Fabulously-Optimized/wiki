@@ -6,7 +6,8 @@
 1. Open Modrinth App
 2. Open `|||\` "Library"
 3. Click on Fabulously Optimized
-4. Click `+ Install content`
+4. Click `🧭 Browse content`
+   * If you have not added any mods, the button will be at the bottom center, otherwise right below the header
 5. Search for the mod you want
 6. Click `⤓ Install`
 7. Go back to `|||\` and run the game as usual. You should now have the new mod(s) installed!
