@@ -7,7 +7,7 @@
 2. Go to `My Modpacks`, click on Fabulously Optimized
 3. Click `⫶` (three dots) → `Profile Options`
 4. Check "Allow content management for this profile", click `Done`
-5. Click 🧩 (puzzle icon)
+5. Click `🧩` (puzzle icon)
 6. Choose any mod you want and click `Install`
 7. Run the game by clicking `Play`. You should now have the new mod(s) installed!
 
