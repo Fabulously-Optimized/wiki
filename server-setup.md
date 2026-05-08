@@ -147,7 +147,7 @@ The players would only depend on that single mod's updates, even if there are al
 
 > **DO:** "Any minimap mod with player radar disabled."
 
-This allows users to use any minimap mods by configuring them by theirselves. Many minimap mods also have server-side enforcement options.
+This allows users to use any minimap mods by configuring them by themselves. Many minimap mods also have server-side enforcement options.
 
 ---
 
@@ -157,7 +157,7 @@ This would already disqualify Fabulously Optimized, as it has more.
 
 > **DO:** (don't mention it)
 
-Arbitary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
+Arbitrary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
 
 ---
 
