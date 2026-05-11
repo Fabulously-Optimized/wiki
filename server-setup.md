@@ -16,6 +16,7 @@ The CurseForge listing used to have "server packs", but [those were actually jus
 * [Allow Bedrock users to join](#bedrock-compatibility)
 * [Server-side content mods](#server-side-content-mods)
 * [Restrict mod behaviours, not names](#mods-in-rules)
+* [Prevent cheats and exploits](#exploit-prevention)
 
 ### World sharing
 
@@ -28,6 +29,8 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 5. Send your friend the address. Your friend needs to use the same version of Minecraft, but not necessarily the modpack.
 
 [More info about how it works](disclaimers.md#privacy-and-security)
+
+**Note: if you're using an outdated version of the modpack (between 4.x.x - 11.x.x) with this method, it is advised to update e4mc and Fabric API manually.**
 
 ### Software
 
