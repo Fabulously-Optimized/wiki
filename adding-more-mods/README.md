@@ -1,3 +1,7 @@
+---
+icon: plus-large
+---
+
 # Adding more mods
 
 While the modpack only intends to add mods that fit vanilla style, you are free to add any Fabric mod you want for your Minecraft!

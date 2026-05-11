@@ -1,3 +1,7 @@
+---
+icon: trash
+---
+
 # Backup and uninstall instructions
 
 Sometimes you might want to reinstall the modpack or remove old instances of it. Here's how to do it.
