@@ -16,6 +16,10 @@
 The tool downloads missing mods back on launch, therefore creating a custom script is needed. Consider [switching to Prism Launcher instead](install-instructions/prism-launcher.md), which also has a seamless modpack updater.
 {% endhint %}
 
+{% hint style="warning" %}
+Don't disable anything that says "API", because other mods need those to work.
+{% endhint %}
+
 {% tabs %}
 {% tab title="Windows" %}
 
@@ -106,9 +110,5 @@ _Tutorial and scripts made by [RaptaG](https://github.com/RaptaG) based on [Remt
 * Adding: Press `Enter` in the end of line 11 and type `mod6=` for example. Then, in the end of line 36, press again `Enter` and type `$mod6.jar\`. Repeat the same for more mods by just changing the number (`mod6=` to `mod7=` and `$mod6.jar\` to `$mod7.jar\` etc.).
 
 {% endtab %}
-
-{% hint style="warning" %}
-Don't disable anything that says "API", because other mods need those to work.
-{% endhint %}
 
 {% endtabs %}

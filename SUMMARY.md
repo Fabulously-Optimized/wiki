@@ -24,7 +24,6 @@
     * [MultiMC](adding-more-mods/multimc.md)
     * [Minecraft Launcher](adding-more-mods/minecraft-launcher.md)
 * [How to disable mods](disabling-mods/README.md)
-    * [Mod Menu](disabling-mods/mod-menu.md)
     * [CurseForge App](disabling-mods/curseforge-app.md)
     * [Modrinth App](disabling-mods/modrinth-app.md)
     * [Prism Launcher](disabling-mods/prism-launcher.md)
