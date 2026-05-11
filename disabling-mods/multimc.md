@@ -1,7 +1,7 @@
 # MultiMC
 
 {% tabs %}
-{% tab title="Default - a mod you've added | Default - a mod in the modpack | Auto-update - a mod you've added" %}
+{% tab title="Default - added mod | Default - modpack mod | Auto-update - added mod" %}
 
 1. Open MultiMC
 2. Click on Fabulously Optimized, then `Edit Instance`
@@ -10,14 +10,10 @@
 
 {% endtab %}
 
-{% tab title="Auto-update - a mod in the modpack" %}
+{% tab title="Auto-update - modpack mod" %}
 
 {% hint style="info" %}
-The tool downloads missing mods back on launch, therefore creating a custom script is needed. Consider [switching to Prism Launcher instead](install-instructions/prism-launcher.md), which also has a seamless modpack updater.
-{% endhint %}
-
-{% hint style="warning" %}
-Don't disable anything that says "API", because other mods need those to work.
+The tool downloads missing mods back on launch, therefore you need to make a custom script. Consider [switching to Prism Launcher instead](install-instructions/prism-launcher.md), which allows disabling mods with just a click.
 {% endhint %}
 
 {% tabs %}
@@ -103,6 +99,10 @@ _Tutorial and scripts made by [RaptaG](https://github.com/RaptaG) based on [Remt
 
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %}
+Don't disable anything that says "API", because other mods need those to work.
+{% endhint %}
 
 #### What if I want to disable more or less than 6 mods?
 

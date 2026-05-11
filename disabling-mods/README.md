@@ -28,16 +28,15 @@ There is no config option to disable the mod or it is not easy to disable the mo
 
 {% tab title="No icon on the row" %}
 
-You've added the mod yourself. 
+You've added the mod yourself. Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png) and if so, whether the mod has a way to disable itself.
 
-* Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png) and if so, whether the mod has a way to disable itself.
-* Otherwise, follow the launcher instructions below to disable the mod.
+Otherwise, follow the launcher instructions below to disable the mod.
 
 {% endtab %}
 
-{% tab title="No icons at all" %}
+{% tab title="No icons on any row" %}
 
-You don't have the Mod Menu Helper resource pack enabled for some reason. Here's how to fix it:
+You don't have the *Mod Menu Helper* resource pack enabled for some reason. Here's how to fix it:
 
 1. Click `Done`
 2. Click `Options...`
@@ -52,7 +51,7 @@ You don't have the Mod Menu Helper resource pack enabled for some reason. Here's
 
 ## Disabling mods entirely
 
-Here are instructions to disable mods entirely, this is useful when there are conflicts or incompatibilities.
+Here are instructions to disable mods entirely, for example due to incompatibilities.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr>

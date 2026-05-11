@@ -1,7 +1,7 @@
 # Modrinth App
 
 {% tabs %}
-{% tab title="A mod you've added" %}
+{% tab title="A mod you\'ve added" %}
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
