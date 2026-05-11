@@ -17,7 +17,7 @@
     * [MultiMC](update-instructions/multimc.md)
     * [Minecraft Launcher](update-instructions/minecraft-launcher.md)
     * [Reset options](update-instructions/reset-options.md)
-* [How to add mods](adding-more-mods/README.md.md)
+* [How to add mods](adding-more-mods/README.md)
     * [CurseForge App](adding-more-mods/curseforge-app.md)
     * [Modrinth App](adding-more-mods/modrinth-app.md)
     * [Prism Launcher](adding-more-mods/prism-launcher.md)
