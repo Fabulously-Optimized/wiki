@@ -1,7 +1,7 @@
 # MultiMC
 
 {% tabs %}
-{% tab title="Default" %}
+{% tab title="Default - a mod you've added | Default - a mod in the modpack | Auto-update - a mod you've added" %}
 
 1. Open MultiMC
 2. Click on Fabulously Optimized, then `Edit Instance`
@@ -10,13 +10,11 @@
 
 {% endtab %}
 
-{% tab title="Auto-update" %}
+{% tab title="Auto-update - a mod in the modpack" %}
 
-{% hint style="warning" %}
-There is no _easy_ way to disable mods because the tool downloads missing mods back on launch. Consider [switching to Prism Launcher instead](install-instructions/prism-launcher.md), which also has a seamless modpack updater.
+{% hint style="info" %}
+The tool downloads missing mods back on launch, therefore creating a custom script is needed. Consider [switching to Prism Launcher instead](install-instructions/prism-launcher.md), which also has a seamless modpack updater.
 {% endhint %}
-
-You need to create a custom script to disable mods. See instructions by platform below.
 
 {% tabs %}
 {% tab title="Windows" %}
@@ -108,4 +106,9 @@ _Tutorial and scripts made by [RaptaG](https://github.com/RaptaG) based on [Remt
 * Adding: Press `Enter` in the end of line 11 and type `mod6=` for example. Then, in the end of line 36, press again `Enter` and type `$mod6.jar\`. Repeat the same for more mods by just changing the number (`mod6=` to `mod7=` and `$mod6.jar\` to `$mod7.jar\` etc.).
 
 {% endtab %}
+
+{% hint style="warning" %}
+Don't disable anything that says "API", because other mods need those to work.
+{% endhint %}
+
 {% endtabs %}

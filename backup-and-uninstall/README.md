@@ -32,7 +32,7 @@ Click `Installations` → hover on the instance → click `📁`
 
 2. Find the folders you want to back up.
    * `saves` - your local worlds
-   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](changed-options.md#resource-packs))
+   * `resourcepacks` - if you added any (it is not needed to copy [the modpack defaults](../changed-options.md#resource-packs))
    * `shaders` - if you use any
    * `screenshots` - screenshots you've taken with F2 or F9
    * `servers.dat` - your multiplayer servers

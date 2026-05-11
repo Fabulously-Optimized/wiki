@@ -10,12 +10,8 @@ Don't like a feature or having a mod conflict? Easiest way to resolve it is to d
 You can also delete the mod(s), but that will make it harder to [use them later](../adding-more-mods), unless you remember the mod's name exactly.
 {% endhint %}
 
-{% hint style="warning" %}
-Don't disable anything that says "API", other mods need those to work.
-{% endhint %}
-
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td align="center"><strong>Mod Menu</strong></td><td><a href="mod-menu.md">mod-menu.md</a></td></tr>
+<tr><td align="center"><strong>Mod Menu</strong><br>Disabling mod features while in-game</td><td><a href="mod-menu.md">mod-menu.md</a></td></tr>
 <tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr>
 <tr><td align="center"><strong>Modrinth App</strong></td><td><a href="modrinth-app.md">modrinth-app.md</a></td></tr>
 <tr><td align="center"><strong>Prism Launcher</strong></td><td><a href="prism-launcher.md">prism-launcher.md</a></td></tr>

@@ -7,5 +7,9 @@
    * Rename ".jar.disabled" back to ".jar" to use the mod again.
 
 {% hint style="info" %}
-Don't see ".jar" at the end of the name? [See this page for help.](https://www.thewindowsclub.com/show-file-extensions-in-windows)
+Don't see ".jar" at the end of the name? See the help page for [Windows](https://www.howtogeek.com/205086/beginner-how-to-make-windows-show-file-extensions/) or [macOS](https://support.apple.com/en-us/guide/mac-help/mchlp2304/mac).
+{% endhint %}
+
+{% hint style="warning" %}
+Don't disable anything that says "API", unless you've added it yourself, because other mods need those to work.
 {% endhint %}
