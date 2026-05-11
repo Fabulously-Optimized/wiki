@@ -1,7 +1,7 @@
 # Modrinth App
 
 {% hint style="warning" %}
-Did you remember to make a backup? If not, [do it first.](README.md)
+Did you remember to make a backup? If not, [do it first.](./README.md)
 {% endhint %}
 
 1. Open Modrinth App

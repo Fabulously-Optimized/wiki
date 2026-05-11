@@ -5,29 +5,24 @@ icon: dash
 
 # Disabling mods and their features
 
-Don't like a specific feature or are you having a mod conflict? Easiest way to resolve it is to disable the mod.
+## Using Mod Menu in-game
 
-## Mod Menu - disable included mods' features in-game
+Many features can already be disabled in-game.
 
 1. With the game open, click `Mods`
-2. Scroll down to the specific mod you want to disable, note the third row with the ⚒️ (tools) or ✏️ (pencil) icon. How does that icon look like?
+2. Scroll down to the specific mod you want to disable
+3. Look at the third row with the ⚒️ (tools) or ✏️ (pencil) icon. How does that icon look like?
 
 {% tabs %}
 {% tab title="Icon is blue" %}
 
-* If the text mentions **"Toggle mod"**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and find the setting that disables the mod. 
-* Otherwise, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if you can disable the specific feature you need.
+Click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if you can disable the mod or its specific feature.
 
 {% endtab %}
 
 {% tab title="Icon is gray" %}
 
-Either:
-
-* there is no config option to disable the mod
-* it is not easy to disable the mod from in-game
-
-In that case, follow the launcher instructions below to disable the mod.
+There is no config option to disable the mod or it is not easy to disable the mod from in-game. Follow the launcher instructions below to disable the mod.
 
 {% endtab %}
 
@@ -50,14 +45,14 @@ You don't have the Mod Menu Helper resource pack enabled for some reason. Here's
 4. Click `⏵` on "Mod Menu Helper.zip"
 5. Click `Done`
 5. Click `Mods`
-6. Now look again to see which option matches best.
+6. Now check again to see which icons do you see.
 
 {% endtab %}
 {% endtabs %}
 
-## Disable mods entirely
+## Disabling mods entirely
 
-Here are instructions to disable mods entirely.
+Here are instructions to disable mods entirely, this is useful when there are conflicts or incompatibilities.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr>
