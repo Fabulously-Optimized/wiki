@@ -178,3 +178,4 @@ It is important to keep server platform and mods up to date to prevent client ex
 
 * Anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) or [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)
 * Anti-exploit mods [Fabric/Quilt/NeoForge/Forge](https://modrinth.com/mod/crashexploitfixer)
+* Finding volunteer moderators to spectate users
