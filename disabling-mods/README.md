@@ -22,15 +22,15 @@ Click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if
 
 {% tab title="Icon is gray" %}
 
-There is no config option to disable the mod or it is not easy to disable the mod from in-game. Follow the launcher instructions below to disable the mod.
+There is no config option to disable the mod or it is difficult to do. Follow the launcher instructions below to disable the mod.
 
 {% endtab %}
 
 {% tab title="No icon on the row" %}
 
-You've added the mod yourself. Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png) and if so, whether the mod has a way to disable itself.
+You've added the mod yourself. 
 
-Otherwise, follow the launcher instructions below to disable the mod.
+Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png) and if so, whether the mod has a way to disable itself. Otherwise, follow the launcher instructions below to disable the mod.
 
 {% endtab %}
 

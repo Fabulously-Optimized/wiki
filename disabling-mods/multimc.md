@@ -1,7 +1,7 @@
 # MultiMC
 
 {% tabs %}
-{% tab title="Default - added mod | Default - modpack mod | Auto-update - added mod" %}
+{% tab title="Default | Auto-update - added mod" %}
 
 1. Open MultiMC
 2. Click on Fabulously Optimized, then `Edit Instance`

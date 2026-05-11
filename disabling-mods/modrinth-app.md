@@ -1,7 +1,7 @@
 # Modrinth App
 
 {% tabs %}
-{% tab title="A mod you\'ve added" %}
+{% tab title="Added mod" %}
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
@@ -10,7 +10,7 @@
 
 {% endtab %}
 
-{% tab title="A mod in the modpack" %}
+{% tab title="Modpack mod" %}
 
 1. Open Modrinth App
 2. Open `|||\` "Library"
