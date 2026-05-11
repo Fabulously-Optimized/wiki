@@ -30,7 +30,7 @@ There is no config option to disable the mod or it is difficult to do. Follow th
 
 You've added the mod yourself. 
 
-Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png) and if so, whether the mod has a way to disable itself. Otherwise, follow the launcher instructions below to disable the mod.
+Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png), otherwise follow the launcher instructions below to disable the mod.
 
 {% endtab %}
 
