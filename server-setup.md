@@ -16,6 +16,7 @@ The CurseForge listing used to have "server packs", but [those were actually jus
 * [Allow Bedrock users to join](#bedrock-compatibility)
 * [Server-side content mods](#server-side-content-mods)
 * [Restrict mod behaviours, not names](#mods-in-rules)
+* [Prevent cheats and exploits](#exploit-prevention)
 
 ### World sharing
 
@@ -28,6 +29,8 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 5. Send your friend the address. Your friend needs to use the same version of Minecraft, but not necessarily the modpack.
 
 [More info about how it works](disclaimers.md#privacy-and-security)
+
+**Note: if you're using an outdated version of the modpack (between 4.x.x - 11.x.x) with this method, it is advised to update e4mc and Fabric API manually.**
 
 ### Software
 
@@ -135,7 +138,7 @@ Some servers tend to put a list of allowed mods into their rules. While it may s
 
 This would disallow Fabulously Optimized, despite it having mods that do exactly the same thing.
 
-> **DO**: "Performance and visual-enchancing mods are allowed."
+> **DO**: "Performance and visual-enhancing mods are allowed."
 
 This would allow Fabulously Optimized in your server without requiring further clarification.
 
@@ -147,7 +150,7 @@ The players would only depend on that single mod's updates, even if there are al
 
 > **DO:** "Any minimap mod with player radar disabled."
 
-This allows users to use any minimap mods by configuring them by theirselves. Many minimap mods also have server-side enforcement options.
+This allows users to use any minimap mods by configuring them by themselves. Many minimap mods also have server-side enforcement options.
 
 ---
 
@@ -157,7 +160,7 @@ This would already disqualify Fabulously Optimized, as it has more.
 
 > **DO:** (don't mention it)
 
-Arbitary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
+Arbitrary mod count limits do not benefit anything at all. Some mods may be big and do a lot, while others may be small and do very little, hence users may have very different mod counts.
 
 ---
 
@@ -169,9 +172,10 @@ Fabulously Optimized does not use Forge.
 
 Restricting certain mod loaders or clients is bad for the user and harmful for the Minecraft ecosystem as a whole. Just restrict behaviours.
 
----
+### Exploit prevention
 
-Other recommendations:
+It is important to keep server platform and mods up to date to prevent client exploits. Additionally you may consider:
 
-* Get voluntary moderators for your server
-* Use anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) or [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)
+* Anti-cheat plugins: [Paper/Spigot](https://www.spigotmc.org/wiki/anti-cheat-list-bukkit-and-spigot-1-19-x/) or [Fabric/Quilt](https://serverside.infra.link/#:~:text=Anticheat/Anti%20X%2Dray)
+* Anti-exploit mods [Fabric/Quilt/NeoForge/Forge](https://modrinth.com/mod/crashexploitfixer)
+* Finding volunteer moderators to spectate users

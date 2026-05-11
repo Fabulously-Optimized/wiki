@@ -4,7 +4,7 @@ This wiki article describes the aspects of player reporting, which is a feature 
 
 The intent of this article is to educate [good-minded users](#i-already-follow-the-server-rules-am-a-nice-person.-why-should-i-care) about the pitfalls of the newly introduced player reporting system, including important details and answers to questions that [Mojang's official resources](#official-posts) don't provide. 
 
-The article, and the modpack do not encourage breaking any rules, and to the author's knowledge (not a lawyer), none of the advice, including described mods, break Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is, without a warranty of any kind.
+The article, and the modpack do not encourage breaking any rules, and to the author's knowledge (not a lawyer), none of the advice, including described mods, breaks Mojang's [Community Standards](https://www.minecraft.net/en-us/community-standards) or [Terms of Service](https://www.minecraft.net/en-us/eula) either. The article is provided solely for educational purposes, as-is, without a warranty of any kind.
 
 ## Chat reporting
 
