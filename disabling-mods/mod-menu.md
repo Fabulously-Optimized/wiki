@@ -18,7 +18,7 @@ Either:
 * there is no config option to disable the mod
 * it is not easy to disable the mod from in-game
 
-In that case, [follow the launcher instructions](../disabling-mods/README.md) to disable the mod.
+In that case, [follow the launcher instructions](README.md) to disable the mod.
 
 {% endtab %}
 
@@ -27,7 +27,7 @@ In that case, [follow the launcher instructions](../disabling-mods/README.md) to
 That means you've added the mod yourself. 
 
 * Check if there are config options ![config](https://i.ibb.co/j35cBtn/image.png) and if so, whether the mod has a way to disable itself.
-* Otherwise, [follow the launcher instructions](../disabling-mods/README.md) to disable the mod.
+* Otherwise, [follow the launcher instructions](README.md) to disable the mod.
 
 {% endtab %}
 

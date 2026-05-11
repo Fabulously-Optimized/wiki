@@ -1,5 +1,9 @@
 # Minecraft Launcher
 
+{% hint style="warning" %}
+Did you remember to make a backup? If not, [do it first.](README.md)
+{% endhint %}
+
 {% tabs %}
 {% tab title="Installer - default folder" %}
 

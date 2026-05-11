@@ -7,5 +7,5 @@
 5. Find the mod you need, toggle the knob.
 
 {% hint style="warning" %}
-Don't disable anything that says "API", other mods need those to work.
+Don't disable anything that says "API", unless you've added it yourself, because other mods need those to work.
 {% endhint %}
