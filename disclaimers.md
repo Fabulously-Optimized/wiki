@@ -30,10 +30,10 @@ By using this modpack, you agree to the following:
 
 * By installing this modpack you agree that the modpack author, the mod developers and Mojang provide no warranties for using this modpack, every action you do with it is your own.
 * The modpack is officially hosted on:
-  * CurseForge at https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/
-  * Modrinth at https://modrinth.com/modpack/fabulously-optimized
-  * GitHub at https://github.com/Fabulously-Optimized/fabulously-optimized/
-  * Website at https://download.fo/
+  * CurseForge at [https://www.curseforge.com/minecraft/modpacks/fabulously-optimized](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized])
+  * Modrinth at [https://modrinth.com/modpack/fabulously-optimized](https://modrinth.com/modpack/fabulously-optimized)
+  * GitHub at [https://github.com/Fabulously-Optimized/fabulously-optimized](https://github.com/Fabulously-Optimized/fabulously-optimized)
+  * Website at [https://download.fo](https://download.fo)
   * Any other website or platform is unofficial and potentially malicious, please avoid.
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](free-cape.md), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.
 * Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
