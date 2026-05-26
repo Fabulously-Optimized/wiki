@@ -62,4 +62,11 @@ Mods that may improve performance in specific scenarios, but are not currently i
 
 * [C2ME](https://modrinth.com/mod/c2me-fabric) - improve chunk loading by using experimental optimizations
 * [Distant Horizons](https://modrinth.com/mod/distanthorizons) - renders long distances with low detail
+  * As of Minecraft 26.1.2, you'll either need to disable Iris to run this mod, or:
+    1. Add the mod to your instance
+    2. Launch the game
+    3. Go to instance config folder
+    4. Open `DistantHorizons.toml`
+    5. Find line `renderingApi = "AUTO"` and set it to `renderingApi = "OPEN_GL"`
+    6. Save the file and launch the game
 * [voxy](https://modrinth.com/mod/voxy) - renders long distances with low detail
