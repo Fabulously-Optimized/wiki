@@ -55,6 +55,7 @@ Exceptions - same category options that are _not_ based on preset "fast":
 | - | - | - | - | - | - |
 | `ao` | Smooth Lighting: ON | `true` | `false` | `true` | Users preferred smooth lighting. |
 | `cutoutLeaves` | See-Through Leaves: ON | `true` | `false` | `true` | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) already provides significant improvements to leaf performance; users preferred improved visuals. |
+| `simulationDistance` | Simulation Distance: 8 | `"8"` | `"6"` | `"8"` | More reliable mob spawning on mob farms |
 | `graphicsPreset` | Vanilla graphics preset: Custom | `"fancy"` | `"fast"` | `"custom"` | Due to the exceptions to "fast" above, game sets the preset to "custom". |
 
 Other video settings:
