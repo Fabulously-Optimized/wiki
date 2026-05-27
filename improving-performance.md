@@ -66,7 +66,7 @@ Mods that may improve performance in specific scenarios, but are not currently i
     1. Add the mod to your instance
     2. Launch the game (Distant Horizons will generate initial config, you'll get a crash)
     3. Go to instance config folder
-    4. Open `DistantHorizons.toml`
-    5. Find line `renderingApi = "AUTO"` and set it to `renderingApi = "OPEN_GL"`
+    4. Open `DistantHorizons.toml` in Notepad or equivalent
+    5. Find line `renderingApi = "AUTO"` (approx. on line 550) and set it to `renderingApi = "OPEN_GL"`
     6. Save the file and launch the game
 * [voxy](https://modrinth.com/mod/voxy) - renders long distances with low detail
