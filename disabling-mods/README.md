@@ -11,7 +11,7 @@ Many features can already be disabled in-game.
 
 1. With the game open, click `Mods`
 2. Scroll down to the specific mod you want to disable
-3. Look at the third row with the ⚒️ (tools) or ✏️ (pencil) icon. How does that icon look like?
+3. Look at the third row with the ⚒️ (tools) or ✏️ (pencil) icon. What does that icon look like?
 
 {% tabs %}
 {% tab title="Icon is blue" %}
@@ -44,7 +44,7 @@ You don't have the *Mod Menu Helper* resource pack enabled for some reason. Here
 4. Click `⏵` on "Mod Menu Helper.zip"
 5. Click `Done`
 5. Click `Mods`
-6. Now check again to see which icons do you see.
+6. Now check again to see which icons you see.
 
 {% endtab %}
 {% endtabs %}
