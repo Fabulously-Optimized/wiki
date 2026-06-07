@@ -198,7 +198,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
    - [23w33a](https://minecraft.wiki/w/Java_Edition_23w33a) added [skin and username reporting](#skin-and-username-reporting), removed "impersonation" as a report category and added "generic" report category.
 - **2023-11-07** - [Mojang announced the Official Minecraft Server List](https://www.minecraft.net/en-us/article/the-official-minecraft-server-list-live), which features [the "Beacon of Safety badge"](https://findmcserver.com/parents#features) that requires the server to have chat reporting, profanity filter and a manual review by the site's admins. No Java Edition servers have the badge yet.
 - **[1.21.5-pre2](https://minecraft.wiki/w/Java_Edition_1.21.5_Pre-Release_1#General)** - implemented some changes for clientside exploit prevention (against servers sending messages with incorrect timestamps)
-- **2025-28-07** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
+- **2025-07-28** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
 - **2026-02-15** - Aforementioned age verification starts to take effect for UK users. Affected users [will not be able to](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/1067) use 3rd party launchers, chat or commands.
 - **[26.1 Snapshot 7](https://minecraft.wiki/w/Java_Edition_26.1_Snapshot_7#General)** - Users affected by age verification who decide to not verify can open chat, use commands and see system messages again. On servers without chat reporting, they can also see player messages and sometimes even use `/msg`.
 
@@ -286,10 +286,10 @@ _See also: [why does this article exist](#what-is-the-intent-of-this-article) an
 
 Do what you always did.
 
-- If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
-- If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
-- If an user is talking about commiting suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
-- If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
+- If a user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
+- If a user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
+- If a user is talking about committing suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
+- If a user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
 
 ### I am a player. How do I know if chat reporting is enabled?
 
