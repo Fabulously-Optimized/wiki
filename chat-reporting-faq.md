@@ -89,7 +89,7 @@ Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www
 
 1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
 2. Select "Minecraft: Java" as the game.
-3. Fill the form throughly with all information you have
+3. Fill the form thoroughly with all information you have
 4. Submit the form
 5. Wait patiently for their response
 
