@@ -89,7 +89,7 @@ Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www
 
 1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
 2. Select "Minecraft: Java" as the game.
-3. Fill the form throughly with all information you have
+3. Fill the form thoroughly with all information you have
 4. Submit the form
 5. Wait patiently for their response
 
@@ -295,7 +295,7 @@ Do what you always did.
 
 * If you're using Fabulously Optimized or No Chat Reports with Chat Reporting Helper, [click here.](#what-does-this-modpack-do-for-me)
 * If you're using just No Chat Reports, [click here.](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)
-* If you the server is very popular, you may find it on the [Official Minecraft Server List](https://findmcserver.com/). In there, look for the existence of the light blue [Beacon of Safety badge](https://findmcserver.com/badges-explained).
+* If the server is very popular, you may find it on the [Official Minecraft Server List](https://findmcserver.com/). In there, look for the existence of the light blue [Beacon of Safety badge](https://findmcserver.com/badges-explained).
 
 <details>
 <summary>If you're not using No Chat Reports or using vanilla client, click here</summary>
