@@ -64,7 +64,7 @@ It is a normal MultiMC modpack that simply launches [packwiz](https://github.com
 Every time you launch it, it asks the server whether the modpack has any updates. This means you do need internet access or you'll get an error (though you can skip the error).
 If there are any, they will be downloaded and launched, otherwise the current game will launch. 
 
-It does _not_ auto-update any individual mods outside of what is set in the the modpack.
+It does _not_ auto-update any individual mods outside of what is set in the modpack.
 
 </details>
 {% endtab %}
