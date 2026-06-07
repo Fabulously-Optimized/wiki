@@ -286,10 +286,10 @@ _See also: [why does this article exist](#what-is-the-intent-of-this-article) an
 
 Do what you always did.
 
-- If an user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
-- If an user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
-- If an user is talking about committing suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
-- If an user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
+- If a user is being annoying, hide their messages by clicking the chat icon near the username in Social Interactions or, in some servers, `/ignore (username)`.
+- If a user has broken the rules of the server, report it to server administration. This is usually done by `/report`, `/helpop`, server forum or Discord.
+- If a user is talking about committing suicide, talk to them and [give local help resources](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines). 
+- If a user is doing or threatening illegal actions, report it to server admins and local police. Provide them with as much context as possible, including screenshots.
 
 ### I am a player. How do I know if chat reporting is enabled?
 
