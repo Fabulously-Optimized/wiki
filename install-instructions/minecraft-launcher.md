@@ -53,7 +53,7 @@
 {% endtabs %}
 
 {% hint style="info" %}
-Legacy versions of the modpack are not available on the installer. [Read more](../version-support.md#installer)
+Unsupported versions of the modpack are not available on the installer. [Read more](../version-support.md#installer)
 {% endhint %}
 
 {% endtab %}
@@ -67,7 +67,7 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 {% endhint %}
 
 1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
-2. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.19.2**
+2. Download and install [Fabric Loader](https://fabricmc.net/use/) **version 0.19.3**
    * Remember that the _installer version_ doesn't matter, what matters is the _loader version_ that appears when you run the installer.
 3. Open Minecraft Launcher, click `Installations`, then click 📂 on the Fabric installation
 4. [Open this site](https://download.fo/vanilla), then click the ⬇️ button
@@ -83,17 +83,14 @@ For macOS or Linux [you need Java](https://download.fo/java) to run the Fabric I
 
 {% endtab %}
 
-{% tab title="FO 4.6.1 (MC 1.19.3) and older" %}
+{% tab title="FO 3.15.0 (MC 1.18.2) and older" %}
 
 1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
 2. Download and install [Fabric Loader](https://fabricmc.net/use/) and Java:
 
 {% tabs %}
-{% tab title="Minecraft 1.19-1.19.3" %}
-Fabric Loader **0.14.24** and [Java 17](https://download.fo/java17)
-{% endtab %}
 {% tab title="Minecraft 1.17-1.18.2" %}
-Fabric Loader **0.14.12** and [Java 17](https://download.fo/java17)
+Fabric Loader **0.19.3** and [Java 17](https://download.fo/java17)
 {% endtab %}
 {% tab title="Minecraft 1.16.5" %}
 Fabric Loader **0.13.3** and [Java 8](https://download.fo/java8)
