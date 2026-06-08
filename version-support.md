@@ -4,15 +4,11 @@
 
 ### Why does the installer show fewer versions than other platforms?
 
-As the installer is intended for users with the least Minecraft knowledge, the versions are also primarily limited to the stable versions.
+As the installer is intended for users with the least Minecraft knowledge, the versions are also limited to the stable versions.
 
 Due to high interest, it will still always include the latest Minecraft version, even if the equivalent modpack version is still in alpha or beta. This can be selected by clicking on the version list and selecting the topmost item.
 
 If you're missing the latest version of the modpack on the installer, [update the installer.](install-instructions/minecraft-launcher.md)
-
-### Where are versions older than 5.12.0?
-
-These versions are not available on the installer due to technical and platform limits. Please [use manual install](install-instructions/minecraft-launcher.md) or other launchers if you'd like to use them.
 
 ## Versions
 
