@@ -102,7 +102,6 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-577](https://bugs.mojang.com/browse/MC-577)   | Mouse buttons block all inventory controls that are not default   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)     |
 | [MC-59810](https://bugs.mojang.com/browse/MC-59810)   | Cannot break blocks while sprinting (Ctrl+Click = right click on macOS)    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)     |
 | [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag (Singleplayer only)                        | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)           |
-| [MC-89146](https://bugs.mojang.com/browse/MC-89146)   | Pistons forget update when being reloaded                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-90683](https://bugs.mojang.com/browse/MC-90683)   | "Received unknown passenger" - Entities with differing render distances as passengers outputs error                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                              | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |
@@ -112,7 +111,6 @@ Fabulously Optimized includes some mods that fix vanilla bugs.
 | [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)             |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 | [MC-259512](https://bugs.mojang.com/browse/MC-259512) | Horizontal camera rotation lags when riding                                | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-263865](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.11/PATCHED.md#unpatched-in-vanilla).
 
@@ -135,7 +133,7 @@ Want to get a bug fixed in Fabulously Optimized? Here's what you'll need to do:
 
 1. Find the actual bug [in Mojang's bug tracker](https://bugs.mojang.com/browse/MC)
 2. Request it or look at its status on [Debugify's bug tracker](https://github.com/isXander/Debugify/issues)
-3. Once implemented (or confirmed to be) in Debugify, [request an option change in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
+3. Once implemented in Debugify and confirmed to be in the "Client" tab, [request an option change in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?assignees=\&labels=option\&template=setting-request.yml)
 4. Describe the bug, mention the mod that fixes it and why it is important to 70-80% of users
 5. If accepted, expect the fix to be enabled in the next version of FO :)
 
