@@ -8,7 +8,7 @@ Consider [using Prism Launcher](prism-launcher.md) instead, as it has a similar 
 {% tab title="Default" %}
 
 1. Download, install and launch [MultiMC](https://multimc.org) and Java
-   * [Java 21](https://download.fo/java21) for Minecraft 1.21.x or [Java 25](https://download.fo/java25) for Minecraft 26.x
+   * [Java 25](https://download.fo/java25) for Minecraft 26.x or [Java 21](https://download.fo/java21) for Minecraft 1.21.x
 2. Click `Add Instance`
 3. Select `Modrinth` tab from the left
 4. Select "Fabulously Optimized"
