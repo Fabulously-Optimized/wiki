@@ -9,7 +9,7 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
 * VSync - limits your framerate to your screen's Hz, which may give you a smooth game that uses less system resources, but may also add input lag or increase system strain due to unlimited FPS
    * If available, try using Adaptive VSync before disabling it entirely.
    * [See this article for more info](https://www.howtogeek.com/853225/what-is-vsync-and-should-you-enable-it/)
-* Max framerate - similar to Vsync, but instead of being automatic, you control the maximum frame rate.
+* Max framerate - similar to VSync, but instead of being automatic, you control the maximum frame rate.
 * Weather/leaves - using the "fast" mode may give you a better experience. It is advised to change these separately and keep Graphics on "fancy".
 * Particles - FO allows you to either reduce the rate of particles (all/decreased/minimal) or toggle the ones individually.
 * Entity distance - unlike simulation distance, this affects just the distance where you _see_ the mobs, which means it also works in multiplayer.
