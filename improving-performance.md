@@ -43,6 +43,7 @@ Before changing any settings, ensure your drivers are up to date:
 * [Intel](https://www.intel.com/content/www/us/en/support/intel-driver-support-assistant.html)
 * [NVIDIA](https://www.nvidia.com/en-us/geforce/geforce-experience/)
 * [AMD](https://www.amd.com/support)
+* [Snapdragon](https://softwarecenter.qualcomm.com/catalog/item/Windows_Graphics_Driver)
 
 And these instructions tell you how to enable specific optimizations or make the software recognize Minecraft as a game:
 
@@ -52,6 +53,8 @@ And these instructions tell you how to enable specific optimizations or make the
 * [AMD (Radeon Software)](https://minecrafthopper.net/help/amd-dedicated-gpu/)
   * [Alternative method](https://www.amd.com/en/support/kb/faq/dh2-012#faq-Creating-Application-Profiles)
 * [MSI AfterBurner](https://www.msi.com/support/technical_details/VGA_MSI_Utility_AfterBurner)
+* [Snapdragon Control Panel](https://softwarecenter.qualcomm.com/catalog/item/SnapdragonControlPanel) (no instructions yet, this is just the download)
+  * Additionally, please download and enable [Microsoft OpenJDK for AArch64](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-25) as your launcher may not do it automatically. 
 * On Linux, Intel and AMD GPUs usually do not need additional configuration, but ensure your system is up to date.
 
 Please note that Fabulously Optimized moderators may not have these graphics cards and as such may not be able to help you with this. You can search online or ask in a community such as [Fabric Discord](https://discord.gg/v6v4pMv).
