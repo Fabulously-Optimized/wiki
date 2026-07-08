@@ -16,13 +16,13 @@
 
 {% tab title="macOS 15 and later" %}
 
-1. Download and install [Minecraft Launcher](https://www.minecraft.net/en-us/download)
+1. Download and install [Minecraft Launcher](https://www.minecraft.net/download)
 2. Download [Fabulously Optimized Installer](https://download.fo/vanilla)
 3. Open the downloaded .dmg file
 4. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
 5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
 6. Scroll down on the right view, you should see the button `Open anyway`
-7. Enter your password or fingerprint. The installer should open.
+7. Enter your password or use TouchID. The installer should open.
 8. Select preferred modpack version and install
 9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
