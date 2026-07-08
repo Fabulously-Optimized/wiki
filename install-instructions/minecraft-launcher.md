@@ -22,7 +22,7 @@
 4. Double-click the "Fabulously Optimized Installer". You will get a warning, press `Done`.
 5. On your menubar, press Apple logo, then `System Settings`, then click `Privacy & Security` in the sidebar
 6. Scroll down on the right view, you should see the button `Open anyway`
-7. Enter your password or use TouchID. The installer should open.
+7. Enter your password or use Touch ID. The installer should open.
 8. Select preferred modpack version and install
 9. Run Minecraft Launcher. You'll see the new installation, click PLAY.
 
