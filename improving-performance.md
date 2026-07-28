@@ -54,7 +54,8 @@ And these instructions tell you how to enable specific optimizations or make the
   * [Alternative method](https://www.amd.com/en/support/kb/faq/dh2-012#faq-Creating-Application-Profiles)
 * [MSI AfterBurner](https://www.msi.com/support/technical_details/VGA_MSI_Utility_AfterBurner)
 * [Snapdragon Control Panel](https://softwarecenter.qualcomm.com/catalog/item/SnapdragonControlPanel) (no instructions yet, this is just the download)
-  * Additionally, please download and enable [Microsoft OpenJDK for AArch64](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-25) as your launcher may not do it automatically. 
+  * Additionally, please download and enable [Microsoft OpenJDK for AArch64](https://learn.microsoft.com/en-us/java/openjdk/download#openjdk-25) as your launcher may not do it automatically.
+  * [OpenCL™, OpenGL®, and Vulkan® Compatibility Pack](https://apps.microsoft.com/detail/9nqpsl29bfff) can also help.
 * On Linux, Intel and AMD GPUs usually do not need additional configuration, but ensure your system is up to date.
 
 Please note that Fabulously Optimized moderators may not have these graphics cards and as such may not be able to help you with this. You can search online or ask in a community such as [Fabric Discord](https://discord.gg/v6v4pMv).
