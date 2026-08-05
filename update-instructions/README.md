@@ -5,7 +5,7 @@ icon: arrows-rotate
 # Update instructions
 
 {% hint style="warning" %}
-As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your added mods or your hard drive. [Backups are recommended.](../backup-and-uninstall.md)
+As with any update, *things may break*. Probably not due to the modpack itself, but maybe your launcher, your added mods or your hard drive. [Backups are recommended.](../backup-and-uninstall/README.md)
 
 Do not update the modpack's mods manually, unless it is a legacy version and you know what you're doing.
 {% endhint %}
