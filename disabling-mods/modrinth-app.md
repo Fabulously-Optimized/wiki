@@ -15,7 +15,7 @@
 1. Open Modrinth App
 2. Open `|||\` "Library"
 3. Click on Fabulously Optimized
-4. Click `ஃ Content`
+4. Click `👁️ View content`
 5. Find the mod you need, toggle the knob.
 
 {% hint style="warning" %}
