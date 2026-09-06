@@ -14,7 +14,7 @@ If you're missing the latest version of the modpack on the installer, [update th
 
 ### How often does Fabulously Optimized receive updates?
 
-The goal is to push out a new version once per week or two weeks. This is not a guarantee and can change depending on the amount of mod updates, Mojang's schedules, real-life duties and others.
+The goal is to push out a new version every other week, sometimes faster. This is not a guarantee and can change depending on the amount of mod updates, Mojang's schedules, real-life duties and others.
 
 ### How do the modpack version numbers work?
 
