@@ -57,14 +57,10 @@ These kinds of shaders are rare and may not work in the modpack. Prefer Iris/Opt
 * Sildur's [Fabulous Shaders resource pack](https://sildurs-shaders.github.io/downloads/) [(configuring instructions)](https://sildurs-shaders.github.io/install/#fabulous)
 * [Depth Shaders resource pack](https://github.com/onnowhere/depth_shaders/releases)
 
-{% hint style="info" %}
-[More shaders can be found on Modrinth.](https://modrinth.com/discover/shaders?g=categories:vanilla) Ensure the shader mentions "fabulous", not just "core"!
-{% endhint %}
-
 #### Installation
 
 1. Go to `Options` -> `Video Settings` -> `Quality` -> `Graphics: Fabulous!`
-2. Download any Fabulous shader pack
+2. [Download any Fabulous shader pack](https://modrinth.com/discover/shaders?g=categories:vanilla). Ensure the shader mentions "fabulous", not just "core"!
 3. Move the shader pack to `resourcepacks` folder or drag it into the resourcepacks screen
 4. Apply the resource pack in resource packs screen
 {% endtab %}
