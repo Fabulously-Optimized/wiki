@@ -1,3 +1,7 @@
+---
+icon: arrow-trend-up
+---
+
 # Improving performance
 
 Fabulously Optimized consists of mods and settings that aim to improve performance for most devices. But sometimes you need more targeted optimizations, this page describes some of those.
@@ -7,8 +11,8 @@ Fabulously Optimized consists of mods and settings that aim to improve performan
 * Render distance - affects how far you see and has a high impact on performance. Lowering that is the first thing to try.
 * Simulation distance - affects entity (mob) spawning and movement. If you're using big mob farms, you may want to lower this.
 * VSync - limits your framerate to your screen's Hz, which may give you a smooth game that uses less system resources, but may also add input lag or increase system strain due to unlimited FPS
-   * If available, try using Adaptive VSync before disabling it entirely.
-   * [See this article for more info](https://www.howtogeek.com/853225/what-is-vsync-and-should-you-enable-it/)
+  * If available, try using Adaptive VSync before disabling it entirely.
+  * [See this article for more info](https://www.howtogeek.com/853225/what-is-vsync-and-should-you-enable-it/)
 * Max framerate - similar to VSync, but instead of being automatic, you control the maximum frame rate.
 * Weather/leaves - using the "fast" mode may give you a better experience. It is advised to change these separately and keep Graphics on "fancy".
 * Particles - FO allows you to either reduce the rate of particles (all/decreased/minimal) or toggle the ones individually.
@@ -18,9 +22,9 @@ Hint: the tooltips of the options usually give you good info on the impact and t
 
 ## Adding RAM
 
-Usually, you'd not need to add RAM just to play Minecraft. However, if you want to run intensive shaders or high-resolution resource packs, it may be a good idea. 
+Usually, you'd not need to add RAM just to play Minecraft. However, if you want to run intensive shaders or high-resolution resource packs, it may be a good idea.
 
-Try: 
+Try:
 
 * 2GB for light use (if you also lower your video settings)
 * 4GB for most users
@@ -31,7 +35,7 @@ Click the link for a tutorial that is made for your launcher.
 * [CurseForge App](https://serverminer.com/article/how-to-add-more-ram-to-your-curseforge-launcher-overwolf/)
 * [Modrinth App](https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/573/How-to-allocate-more-ram-in-the-Modrinth-launcher.html)
 * [Prism Launcher](https://prismlauncher.org/wiki/help-pages/java-settings/#memory)
-* [MultiMC](https://github.com/MultiMC/Launcher/wiki/Increasing-Java%27s-memory-allocation)
+* [MultiMC](https://github.com/MultiMC/Launcher/wiki/Increasing-Java's-memory-allocation)
 * [Minecraft Launcher](https://www.wikihow.com/Allocate-More-RAM-to-Minecraft#Using-Launcher-Version-1.6.X)
 
 ## Dedicated GPU

@@ -1,4 +1,8 @@
-# Resource pack issues
+---
+icon: bug-slash
+---
+
+# Resource pack troubleshooting
 
 Fabulously Optimized supports [various OptiFine features](give-up-optifine.md), including resource pack extras. However, the implementation differs from mod to mod and some resource packs are accepted in OptiFine even if they are broken, so this page should help you fix some of those issues.
 
@@ -26,15 +30,15 @@ If you want to have game brightness at 100% where not usually expected, see your
 
 #### Works
 
-- [Night Vision potion](https://minecraft.wiki/w/Night_Vision)
-- Holding up a torch
-- [Dedicated mods](https://modrinth.com/mods?q=fullbright&e=client&g=categories:fabric) that add fullbright
-- [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fullbright) for fullbright
+* [Night Vision potion](https://minecraft.wiki/w/Night_Vision)
+* Holding up a torch
+* [Dedicated mods](https://modrinth.com/mods?q=fullbright\&e=client\&g=categories:fabric) that add fullbright
+* [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fullbright) for fullbright
 
 #### Does not work
 
-- Resource packs that add fullbright [("core shaders")](resource-pack-issues.md#core-shadersincompatible-with-sodium)
-- Editing options.txt directly (vanilla game restriction)
+* Resource packs that add fullbright [("core shaders")](resource-pack-issues.md#core-shadersincompatible-with-sodium)
+* Editing options.txt directly (vanilla game restriction)
 
 ### Disabling fog
 
@@ -42,13 +46,13 @@ If you'd like to disable fog, see your options below.
 
 #### Works
 
-- Fog setting in video settings (provided by the modpack)
-- [Dedicated mods](https://modrinth.com/discover/mods?q=fog&g=categories:fabric&e=client) that add fog toggles
-- [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fog) for disabling fog
+* Fog setting in video settings (provided by the modpack)
+* [Dedicated mods](https://modrinth.com/discover/mods?q=fog\&g=categories:fabric\&e=client) that add fog toggles
+* [Shaders (Iris or OptiFine)](https://modrinth.com/discover/shaders?q=fog) for disabling fog
 
 #### Does not work
 
-- Resource packs that disable fog [("core shaders")](resource-pack-issues.md#core-shadersincompatible-with-sodium)
+* Resource packs that disable fog [("core shaders")](resource-pack-issues.md#core-shadersincompatible-with-sodium)
 
 ### Invisible blocks
 
@@ -80,8 +84,7 @@ Some versions of FO include Better Beds instead.
 
 ### Core shaders/incompatible with Sodium
 
-![Resource packs may be incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/0049c401-2922-4d03-976b-44bbf4fcc6a9)
-![Resource packs are incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/3116448a-53fe-4af0-9520-99c061694ba0)
+![Resource packs may be incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/0049c401-2922-4d03-976b-44bbf4fcc6a9) ![Resource packs are incompatible with Sodium](https://github.com/Fabulously-Optimized/wiki/assets/8611110/3116448a-53fe-4af0-9520-99c061694ba0)
 
 Does the resource pack change the UI beyond usual means (e.g. rearrange HUD elements)? Does the resource pack change lighting or fog?
 
@@ -95,7 +98,7 @@ Please ensure you're using FO 5.9.0 or newer; or FO 4.5.7 or older.
 
 _Or "mobs with a custom shape"._
 
-[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)' latest version is fully supported. 
+[Fresh Animations](https://www.curseforge.com/minecraft/texture-packs/fresh-animations)' latest version is fully supported.
 
 If the entities are missing parts of their body, try this:
 
@@ -107,23 +110,24 @@ If the entities are missing parts of their body, try this:
 Issues and workarounds are tracked [on the mod's Discord](https://discord.com/invite/rURmwrzUcz) or [GitHub](https://github.com/Traben-0/Entity_Model_Features/issues).
 
 <details>
-  <summary>Legacy versions - 4.6.0 and earlier</summary>
 
-  Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
-  
-  For Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) with the instructions below [(discuss any issues here)](https://github.com/dorianpb/cem/issues/11).
-  
-  If your resource pack's entities are supported but are still not displayed correctly, you can try this:
-  
-  1. Click `Mods`
-  2. Search for "Custom Entity Models", click the config button (top right, above `Issues`)
-  3. Set "Use model creation fix?" to `No`
-  4. Click `Save & Quit` and `Done`
-  5. In your world, hold down `F3` (and `Fn` on laptops), press `T`
-  6. You'll see a short loading screen. After that, check if the models are displayed correctly.
-  7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
-     * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
-  
-  See also: [a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
+<summary>Legacy versions - 4.6.0 and earlier</summary>
+
+Partly supported. [Resource packs that should work are discussed here (cem#9)](https://github.com/dorianpb/cem/issues/9)
+
+For Fresh Animations, [try this version](https://www.curseforge.com/minecraft/texture-packs/fresh-animations/files/3705824) with the instructions below [(discuss any issues here)](https://github.com/dorianpb/cem/issues/11).
+
+If your resource pack's entities are supported but are still not displayed correctly, you can try this:
+
+1. Click `Mods`
+2. Search for "Custom Entity Models", click the config button (top right, above `Issues`)
+3. Set "Use model creation fix?" to `No`
+4. Click `Save & Quit` and `Done`
+5. In your world, hold down `F3` (and `Fn` on laptops), press `T`
+6. You'll see a short loading screen. After that, check if the models are displayed correctly.
+7. If they still are not, set that setting back to `Yes` and disable your resource pack, wait for CEM to implement them.
+   * Or if you want to continue using your resource pack without the models, disable the optifine setting in CEM to essentially disable the mod.
+
+See also: [a list of supported entity types and features.](https://github.com/dorianpb/cem#differences)
 
 </details>

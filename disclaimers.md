@@ -1,3 +1,7 @@
+---
+icon: triangle-exclamation
+---
+
 # Disclaimers
 
 By using this modpack, you agree to the following:
@@ -6,12 +10,13 @@ By using this modpack, you agree to the following:
 
 * The modpack has been set up to be compatible with the rules of most public third-party servers, but it is your responsibility to verify whether you are allowed to use it or not. [The mod list may help.](https://download.fo/mods)
 * The modpack supports using controllers with analog input, whose usage may trigger anticheats on some servers due to unexpectedly smooth movement. If the playing server rules disallow analog input, the user is expected to manually add the server to the mod whitelist, or disable analog input entirely.
-   * The user is reminded of said fact upon joining any new server with a controller and analog input enabled.
+  * The user is reminded of said fact upon joining any new server with a controller and analog input enabled.
 
 ### Changed default options
 
-* The modpack hides the [third-party server disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png), therefore by using the multiplayer function, you implicitly agree to the following: 
-    > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone. 
+*   The modpack hides the [third-party server disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png), therefore by using the multiplayer function, you implicitly agree to the following:
+
+    > Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang Studios or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.
 * The modpack hides a hotkey disclaimer for [the "social interactions" screen](https://minecraft.wiki/w/Social_interactions#Usage). Said screen can be opened by pressing the key `P` in-game or the `Player Reporting` button in the pause menu.
 * Other [changed default options can be found here.](changed-options.md)
 
@@ -40,27 +45,34 @@ By using this modpack, you agree to the following:
   * That also goes for the Mod Menu Helper resource pack (which uses the same license) - you may include it, if you change the logo and any references to "Fabulously Optimized".
 * NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-### Badges for forks 
+### Badges for forks
 
 If you have forked the modpack, you can optionally use these badges in your description to show it. For CurseForge, just select and copy the image to get it with the link; for Modrinth and GitHub select the Markdown or HTML variant. [Made by Devin](https://intergrav.github.io/devins-badges-docs)
-  
-<a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
+
+
 
 Markdown
+
 ```html
 [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://download.fo)
 ```
+
 HTML
+
 ```html
 <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
 ```
-<a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
+
+
 
 Markdown
+
 ```html
 [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_46h.png)](https://download.fo)
 ```
+
 HTML
+
 ```html
 <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
 ```

@@ -1,4 +1,8 @@
-# Getting shaders
+---
+icon: sparkles
+---
+
+# How to add shaders
 
 ### OptiFine and Iris shaders
 
@@ -8,7 +12,7 @@ OptiFine-compatible and Iris-compatible shaders are supported by default as the 
 
 1. Open Minecraft with Fabulously Optimized installed
 2. Open `Options...` → `Video Settings...` → `Shader Packs...`
-3. Download any shader pack from [Modrinth](https://modrinth.com/shaders?g=categories:iris) or [CurseForge](https://www.curseforge.com/minecraft/search?page=1&pageSize=20&sortBy=relevancy&class=shaders)
+3. Download any shader pack from [Modrinth](https://modrinth.com/shaders?g=categories:iris) or [CurseForge](https://www.curseforge.com/minecraft/search?page=1\&pageSize=20\&sortBy=relevancy\&class=shaders)
 4. Drag the ZIP file into the shader pack screen
 5. Select the shader, make sure _Shaders_ is set to enabled and click `Apply`
 6. The shader has been applied! If you run into any problems with shaders, [please report them here](https://github.com/IrisShaders/Iris/issues).
@@ -31,15 +35,15 @@ Looking for OptiFine's internal shaders? Try [internal-shaders](https://modrinth
 
 {% embed url="https://youtu.be/luzgOwKt6_c?t=126" %}
 
-* [Basic Shaders for Vanilla 1.16 resource pack](https://github.com/bradleyq/mc\_vanilla\_shaders#basic-shaders-for-vanilla-116)
+* [Basic Shaders for Vanilla 1.16 resource pack](https://github.com/bradleyq/mc_vanilla_shaders#basic-shaders-for-vanilla-116)
 
 {% embed url="https://youtu.be/dRnlaRx3zBY?t=24" %}
 
 * Sildur's [Fabulous Shaders resource pack](https://sildurs-shaders.github.io/downloads/) [(configuring instructions)](https://sildurs-shaders.github.io/install/#fabulous)
-* [Depth Shaders resource pack](https://github.com/onnowhere/depth\_shaders/releases)
+* [Depth Shaders resource pack](https://github.com/onnowhere/depth_shaders/releases)
 * [More shaders can be found on Modrinth](https://modrinth.com/shaders?g=categories%3A%27vanilla%27)
 
-#### Installation 
+#### Installation
 
 1. Go to `Options` -> `Video Settings` -> `Quality` -> `Graphics: Fabulous!`
 2. Download any [Fabulous shader pack](https://modrinth.com/shaders?g=categories%3A%27vanilla%27)
@@ -51,16 +55,18 @@ Looking for OptiFine's internal shaders? Try [internal-shaders](https://modrinth
 "Core shaders" are a kind of vanilla shaders utilized by resource packs to adjust the vanilla HUD and add special effects to specific blocks. These usually do _not_ change landscapes overall and _may or may not work in FO._
 
 Examples of working core shaders of [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/):
+
 * Translucent Spyglass Overlay
 * No Spyglass Overlay
 
 Examples of **not** working core shaders of [Vanilla Tweaks](https://vanillatweaks.net/picker/resource-packs/):
+
 * ~~Mob Spawn Indicator~~
 * ~~Wavy Leaves~~
 * ~~Wavy Plants~~
 * ~~Wavy Water~~
 
-Luckily those features can be replicated with [OptiFine shaders](#optifine-shaders) or [other mods](adding-more-mods.md), so you're not missing out.
+Luckily those features can be replicated with [OptiFine shaders](getting-shaders.md#optifine-shaders) or [other mods](adding-more-mods/), so you're not missing out.
 
 **Resource pack developers**: you may try to make your pack work in Sodium [with this mod](https://modrinth.com/mod/sodium-core-shader-support) or [this manifest](https://github.com/CaffeineMC/sodium-fabric/pull/2206).
 
@@ -71,12 +77,12 @@ Luckily those features can be replicated with [OptiFine shaders](#optifine-shade
 3. Apply the resource pack in resource packs screen
 4. See if it works.
    * If yes, enjoy!
-   * If not, it is recommended to use OptiFine shaders or other mods for the same purpose. 
-       * You may, alternatively, disable Sodium and related mods if you really want them to work, but that will harm your performance too.
+   * If not, it is recommended to use OptiFine shaders or other mods for the same purpose.
+     * You may, alternatively, disable Sodium and related mods if you really want them to work, but that will harm your performance too.
 
 ### Canvas shaders
 
-[Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) is a mod that provides a new type of shaders that may be better optimized for powerful computers. 
+[Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer) is a mod that provides a new type of shaders that may be better optimized for powerful computers.
 
 Canvas shaders are **not supported by default on FO**. By replacing some mods, you can still make them work, however.
 
@@ -87,17 +93,17 @@ Canvas shaders are **not supported by default on FO**. By replacing some mods, y
 * [Lumi Lights resource pack](https://spiralhalo.github.io)
 * [More shaders can be found on Modrinth](https://modrinth.com/shaders?g=categories%3A%27canvas%27)
 
-#### Installation
+**Installation**
 
-1. [Disable the following mods](disabling-mods.md):
-    1. Sodium
-    2. Sodium Extra
-    3. Reese's Sodium Settings
-    4. Iris
+1. [Disable the following mods](disabling-mods/):
+   1. Sodium
+   2. Sodium Extra
+   3. Reese's Sodium Settings
+   4. Iris
 2. Install [Canvas Renderer](https://www.curseforge.com/minecraft/mc-mods/canvas-renderer)
 3. Download any [Canvas-compatible shader pack](https://modrinth.com/shaders?g=categories%3A%27canvas%27)
 4. Move the shader pack to `resourcepacks` folder or drag it into the resourcepacks screen
 5. Apply the resource pack in resource packs screen
 6. Go to `Options` -> `Video Settings` -> `Canvas` -> `Pipeline Options` -> `Pipelines` and select the shader you'd like to use.
-  
+
 </details>

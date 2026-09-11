@@ -1,3 +1,7 @@
+---
+icon: code-branch
+---
+
 # Version support
 
 ## Installer
@@ -45,9 +49,9 @@ No. Only stable versions of Minecraft are supported as they are available on all
 
 ### What do symbols mean in a version's title?
 
-- ⚠️ - version contains known vulnerabilities or bugs. These are available for archival purposes only and may cause problems in multiplayer or your worlds. Please see the version's notes before installing and know that you will not get support.
-- ▪️ - version that is not necessarily vulnerable, but is still experimental and was superseded by a newer Minecraft version. Not advised.
-- ▫️ - an extra version that is important in some way, but may not be the latest or stable. Read notes for more info.
+* ⚠️ - version contains known vulnerabilities or bugs. These are available for archival purposes only and may cause problems in multiplayer or your worlds. Please see the version's notes before installing and know that you will not get support.
+* ▪️ - version that is not necessarily vulnerable, but is still experimental and was superseded by a newer Minecraft version. Not advised.
+* ▫️ - an extra version that is important in some way, but may not be the latest or stable. Read notes for more info.
 
 ### Where can I find the oldest Minecraft versions?
 

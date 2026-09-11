@@ -1,3 +1,7 @@
+---
+icon: book-open-cover
+---
+
 # Tutorial
 
 {% hint style="info" %}
@@ -14,7 +18,7 @@ Welcome to **Fabulously Optimized**! Here are some tips.
 📸 Take 4K screenshots - press **F9**\
 🏴 Free custom capes - [https://download.fo/cape](free-cape.md)\
 🌐 Help translate the modpack - [https://download.fo/translate](language-support.md)\
-➕ Add extra mods - [https://download.fo/add](adding-more-mods.md)\
+➕ Add extra mods - [https://download.fo/add](adding-more-mods/)\
 ❓ Problems or questions - [https://download.fo/wiki](./)
 
 (**Maximize window** or visit [https://download.fo/tutorial](tutorial.md))

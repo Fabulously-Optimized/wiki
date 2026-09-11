@@ -1,3 +1,7 @@
+---
+icon: gear
+---
+
 # Changed options
 
 Fabulously Optimized changes some default options of Minecraft and the included mods to improve your gameplay.
@@ -10,9 +14,9 @@ Changed mod settings [can be found here](https://github.com/Fabulously-Optimized
 
 Fabulously Optimized enables relevant mod-provided resource packs and bundles some resource packs for better experience.
 
-- [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
-- [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
-- [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
+* [Mod Menu Helper](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper) (FO-exclusive) - explains what each mod does in a consistent and clear way on Mod Menu
+* [Chat Reporting Helper](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) - explains [chat reporting](chat-reporting-faq.md) in a clear way by simplifying vanilla and No Chat Reports tooltips and No Chat Reports icons
+* [Translations for Sodium](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium) - adds unofficial translations for Sodium (video settings)
 
 The resource packs use minimal resources, [can be translated to your language](language-support.md) and they will work with other resource packs.
 
@@ -20,13 +24,13 @@ The resource packs use minimal resources, [can be translated to your language](l
 
 ### General options
 
-| Option | Description | Vanilla | Modpack | Reason for Change |
-| - | - | - | - | - |
-| `darkMojangStudiosBackground` | Monochrome Logo: OFF | `false` | `true` | Black background is less intrusive than red, partial Bedrock Edition parity. |
-| `operatorItemsTab` | Operator Items Tab: ON | `false` | `true` | Only appears in Creative inventory when you have the permission (/op) for it. |
-| `resourcePacks` | List of enabled resourcepacks | `[]` | (see ¹) | Enables [mod-provided and modpack-exclusive resource packs](#resource-packs) by default. |
-| `lang` | Game language | `en_us` | (your language) | Enables user's system language by default, where supported, using [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload). |
-| `telemetryOptInExtra` | Disables optional telemetry | `false` | `false` | Currently the default already, but may not always be the case, hence the enforcement. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to [disable telemetry entirely](#telemetry), so this is a fallback. |
+| Option                        | Description                   | Vanilla | Modpack         | Reason for Change                                                                                                                                                                                                                                 |
+| ----------------------------- | ----------------------------- | ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `darkMojangStudiosBackground` | Monochrome Logo: OFF          | `false` | `true`          | Black background is less intrusive than red, partial Bedrock Edition parity.                                                                                                                                                                      |
+| `operatorItemsTab`            | Operator Items Tab: ON        | `false` | `true`          | Only appears in Creative inventory when you have the permission (/op) for it.                                                                                                                                                                     |
+| `resourcePacks`               | List of enabled resourcepacks | `[]`    | (see ¹)         | Enables [mod-provided and modpack-exclusive resource packs](changed-options.md#resource-packs) by default.                                                                                                                                        |
+| `lang`                        | Game language                 | `en_us` | (your language) | Enables user's system language by default, where supported, using [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload).                                                                                                |
+| `telemetryOptInExtra`         | Disables optional telemetry   | `false` | `false`         | Currently the default already, but may not always be the case, hence the enforcement. [Debugify](https://curseforge.com/minecraft/mc-mods/debugify) is used to [disable telemetry entirely](changed-options.md#telemetry), so this is a fallback. |
 
 ¹ `["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]`
 
@@ -34,83 +38,82 @@ The resource packs use minimal resources, [can be translated to your language](l
 
 Most "quality & performance" video settings on the modpack are based on the vanilla preset "fast" for improved performance. User can change the preset by going to video settings, pressing <kbd>Shift</kbd> + <kbd>P</kbd> and adjusting the slider.
 
-| Option | Description | Vanilla ("fancy") | Modpack ("fast") |
-| - | - | - | - |
-| `biomeBlendRadius` | Biome Blend: 3x3 (Fast) | `2` | `1` |
-| `cloudRange` | Cloud Distance: 32 Chunks | `64` | `32` |
-| `entityDistanceScaling` | Entity render distance: 75% | `1.0` | `0.75` |
-| `entityShadows` | Entity shadows: OFF | `true` | `false` |
-| `mipmapLevels` | Mipmap levels: 2 | `4` | `2` |
-| `particles` | Particles: Decreased | `0` | `1` |
-| `prioritizeChunkUpdates` | Chunk Builder: Threaded | `1` | `0` |
-| `renderClouds` | Clouds: Fast | `"true"` | `"fast"` |
-| `renderDistance` | Render Distance: 8 Chunks | `16` | `8` |
-| `textureFiltering` | Texture Filtering: None | `1` | `0` |
-| `weatherRadius` | Weather Effect Radius: 5 blocks | `10` | `5` |
+| Option                   | Description                     | Vanilla ("fancy") | Modpack ("fast") |
+| ------------------------ | ------------------------------- | ----------------- | ---------------- |
+| `biomeBlendRadius`       | Biome Blend: 3x3 (Fast)         | `2`               | `1`              |
+| `cloudRange`             | Cloud Distance: 32 Chunks       | `64`              | `32`             |
+| `entityDistanceScaling`  | Entity render distance: 75%     | `1.0`             | `0.75`           |
+| `entityShadows`          | Entity shadows: OFF             | `true`            | `false`          |
+| `mipmapLevels`           | Mipmap levels: 2                | `4`               | `2`              |
+| `particles`              | Particles: Decreased            | `0`               | `1`              |
+| `prioritizeChunkUpdates` | Chunk Builder: Threaded         | `1`               | `0`              |
+| `renderClouds`           | Clouds: Fast                    | `"true"`          | `"fast"`         |
+| `renderDistance`         | Render Distance: 8 Chunks       | `16`              | `8`              |
+| `textureFiltering`       | Texture Filtering: None         | `1`               | `0`              |
+| `weatherRadius`          | Weather Effect Radius: 5 blocks | `10`              | `5`              |
 
 Exceptions - same category options that are _not_ based on preset "fast":
 
-| Option | Description | Vanilla ("fancy") | Preset "fast" | Modpack ("custom") | Reason for Change |
-| - | - | - | - | - | - |
-| `ao` | Smooth Lighting: ON | `true` | `false` | `true` | Users preferred smooth lighting. |
-| `cutoutLeaves` | See-Through Leaves: ON | `true` | `false` | `true` | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) already provides significant improvements to leaf performance; users preferred improved visuals. |
-| `simulationDistance` | Simulation Distance: 8 Chunks | `12` | `6` | `8` | More reliable mob spawning on mob farms |
-| `graphicsPreset` | Vanilla graphics preset: Custom | `"fancy"` | `"fast"` | `"custom"` | Due to the exceptions to "fast" above, game sets the preset to "custom". |
+| Option               | Description                     | Vanilla ("fancy") | Preset "fast" | Modpack ("custom") | Reason for Change                                                                                                                                                    |
+| -------------------- | ------------------------------- | ----------------- | ------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ao`                 | Smooth Lighting: ON             | `true`            | `false`       | `true`             | Users preferred smooth lighting.                                                                                                                                     |
+| `cutoutLeaves`       | See-Through Leaves: ON          | `true`            | `false`       | `true`             | [MoreCulling](https://curseforge.com/minecraft/mc-mods/moreculling) already provides significant improvements to leaf performance; users preferred improved visuals. |
+| `simulationDistance` | Simulation Distance: 8 Chunks   | `12`              | `6`           | `8`                | More reliable mob spawning on mob farms                                                                                                                              |
+| `graphicsPreset`     | Vanilla graphics preset: Custom | `"fancy"`         | `"fast"`      | `"custom"`         | Due to the exceptions to "fast" above, game sets the preset to "custom".                                                                                             |
 
 Other video settings:
 
-| Option | Description | Vanilla | Modpack | Reason for Change |
-| - | - | - | - | - |
-| `guiScale` | GUI Scale: 3 | `0` | `3` | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
+| Option     | Description  | Vanilla | Modpack | Reason for Change                                                                           |
+| ---------- | ------------ | ------- | ------- | ------------------------------------------------------------------------------------------- |
+| `guiScale` | GUI Scale: 3 | `0`     | `3`     | 3 is more usable on most screens; 0 (Auto) can get too large on Full HD and larger screens. |
 
 ### Hidden options
 
-| Option | Description | Vanilla | Modpack | Reason for Change |
-| - | - | - | - | - |
-| `advancedItemTooltips` | Enables ["Advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items | `false` | `true` | Shows item IDs, durability value, armor color, map scale, loaded firework type on item tooltips. |
-| `incompatibleResourcePacks` | List of forcefully enabled outdated resource packs | `[]` | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by version and are automatically changed by the game as needed. |
-| `joinedFirstServer` | Hides hint toast for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen) | `false` | `true` | It is already easily discoverable by the "Player Reporting" button on the pause screen. |
-| `skipMultiplayerWarning` | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) | `false` | `true` | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft. |
-| `tutorialStep` | Hides [tutorial hint toasts](https://minecraft.wiki/w/Tutorial\_hints#List_of_hints) | `movement` | `none` | Modpack users are already expected to know basic aspects of Minecraft. |
+| Option                      | Description                                                                                                                        | Vanilla    | Modpack  | Reason for Change                                                                                                                                 |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `advancedItemTooltips`      | Enables ["Advanced" tooltip info](https://www.online-tech-tips.com/wp-content/uploads/2021/01/Armor-Tooltips-610x571.png) on items | `false`    | `true`   | Shows item IDs, durability value, armor color, map scale, loaded firework type on item tooltips.                                                  |
+| `incompatibleResourcePacks` | List of forcefully enabled outdated resource packs                                                                                 | `[]`       | (varies) | Mod-provided outdated resource packs that are known to be compatible. Values vary by version and are automatically changed by the game as needed. |
+| `joinedFirstServer`         | Hides hint toast for [Social Interactions](https://minecraft.wiki/w/Social_Interactions_screen)                                    | `false`    | `true`   | It is already easily discoverable by the "Player Reporting" button on the pause screen.                                                           |
+| `skipMultiplayerWarning`    | Hides [multiplayer disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png)                                           | `false`    | `true`   | Modpack users are already expected to know that the third party servers are not owned or monitored by Mojang Studios or Microsoft.                |
+| `tutorialStep`              | Hides [tutorial hint toasts](https://minecraft.wiki/w/Tutorial_hints#List_of_hints)                                                | `movement` | `none`   | Modpack users are already expected to know basic aspects of Minecraft.                                                                            |
 
 ### Keybinds
 
-| Option                            | Default | Modpack | Reason for Change                                                            |
-| --------------------------------- | ------- | ------- | ----------------------------------------------------------------------- |
-| Zoomify: Zoom             | <kbd>V</kbd>       | <kbd>C</kbd>       | This key is often used for zoom                                    |
-| Zoomify: Secondary zoom                      | <kbd>F6</kbd>      | none    | Not needed for most players                                             |
-| Iris: Reload Shaders              | <kbd>R</kbd>       | none    | Not needed for most players                                             |
-| Iris: Shaderpack Selection Screen | <kbd>O</kbd>       | none    | Not needed for most players                                             |
-| Iris: Toggle Shaders              | <kbd>K</kbd>       | none    | Not needed for most players                                             |
-| OptiGUI: Copy inspection to clipboard              | <kbd>F12</kbd>       | none    | Not needed for most players                                             |
+| Option                                | Default        | Modpack      | Reason for Change               |
+| ------------------------------------- | -------------- | ------------ | ------------------------------- |
+| Zoomify: Zoom                         | <kbd>V</kbd>   | <kbd>C</kbd> | This key is often used for zoom |
+| Zoomify: Secondary zoom               | <kbd>F6</kbd>  | none         | Not needed for most players     |
+| Iris: Reload Shaders                  | <kbd>R</kbd>   | none         | Not needed for most players     |
+| Iris: Shaderpack Selection Screen     | <kbd>O</kbd>   | none         | Not needed for most players     |
+| Iris: Toggle Shaders                  | <kbd>K</kbd>   | none         | Not needed for most players     |
+| OptiGUI: Copy inspection to clipboard | <kbd>F12</kbd> | none         | Not needed for most players     |
 
 ### Debug screen
 
 Vanilla <kbd>F3</kbd> debug screen can display various pieces of information and is configured with <kbd>F3</kbd>+<kbd>F6</kbd>. As it is a debugging feature and the old look cannot be directly replicated anyway, FO has chosen to keep it as default for now, except for the following:
 
-| Option                          | Description  | Default | Modpack | Reason for Change                                                            |
-| ------------------------------- | -- | ------- | ------- | ----------------------------------------------------------------------- |
-| polytone:particle_hitboxes      | Enables hitboxes on particles when enabling Show hitboxes (<kbd>F3</kbd>+<kbd>B</kbd>)     | Always       | OFF       | Unexpected; users got confused                                    |
+| Option                      | Description                                                                            | Default | Modpack | Reason for Change              |
+| --------------------------- | -------------------------------------------------------------------------------------- | ------- | ------- | ------------------------------ |
+| polytone:particle\_hitboxes | Enables hitboxes on particles when enabling Show hitboxes (<kbd>F3</kbd>+<kbd>B</kbd>) | Always  | OFF     | Unexpected; users got confused |
 
 ## Fixed bugs
 
-Fabulously Optimized includes some mods that fix vanilla bugs.
-[Similar to the mod inclusion policy](principles.md), they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
+Fabulously Optimized includes some mods that fix vanilla bugs. [Similar to the mod inclusion policy](principles.md), they must be meaningful to 70%+ users to get enabled (e.g. FPS drops, crashes, platform-specific annoyances...).
 
-| Mojang bug                                            | Description                                                                | Fixed by                                                                  |
-| ----------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [MC-577](https://bugs.mojang.com/browse/MC-577)   | Mouse buttons block all inventory controls that are not default   | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)     |
-| [MC-59810](https://bugs.mojang.com/browse/MC-59810)   | Cannot break blocks while sprinting (Ctrl+Click = right click on macOS)    | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)     |
-| [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag (Singleplayer only)                        | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)           |
-| [MC-90683](https://bugs.mojang.com/browse/MC-90683)   | "Received unknown passenger" - Entities with differing render distances as passengers outputs error                                  | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                              | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |
-| [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts  | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | 
-| [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat      | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra) |
-| [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)             |  
-| [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                   | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)             |
-| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                               | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
-| [MC-259512](https://bugs.mojang.com/browse/MC-259512) | Horizontal camera rotation lags when riding                                | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)             |
+| Mojang bug                                            | Description                                                                                         | Fixed by                                                                          |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| [MC-577](https://bugs.mojang.com/browse/MC-577)       | Mouse buttons block all inventory controls that are not default                                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
+| [MC-59810](https://bugs.mojang.com/browse/MC-59810)   | Cannot break blocks while sprinting (Ctrl+Click = right click on macOS)                             | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
+| [MC-81098](https://bugs.mojang.com/browse/MC-81098)   | Redstone dust updates cause lag (Singleplayer only)                                                 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                   |
+| [MC-90683](https://bugs.mojang.com/browse/MC-90683)   | "Received unknown passenger" - Entities with differing render distances as passengers outputs error | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
+| [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
+| [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                                                       | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                     |
+| [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts                           | [Better Mount Hud](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) |
+| [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat                               | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)         |
+| [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                                          | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                     |
+| [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                                            | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                   |
+| [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
+| [MC-259512](https://bugs.mojang.com/browse/MC-259512) | Horizontal camera rotation lags when riding                                                         | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
 
 If you'd like to enable more bugfixes for your game, see [the fixed bug list for Debugify](https://github.com/isXander/Debugify/blob/1.21.11/PATCHED.md#unpatched-in-vanilla).
 
@@ -118,7 +121,7 @@ If you'd like to enable more bugfixes for your game, see [the fixed bug list for
 
 **Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's and potentially mods', launchers' methods of collecting analytics about the user, usually in a limited form to preserve privacy. [Minecraft's telemetry options are detailed here.](https://minecraft.wiki/w/Snooper)
 
-While telemetry is not always bad, as it may help developers better support their content for users' devices (e.g. to see where performance can be improved) it can be unwanted and unexpected for privacy concerns. 
+While telemetry is not always bad, as it may help developers better support their content for users' devices (e.g. to see where performance can be improved) it can be unwanted and unexpected for privacy concerns.
 
 As of 1.20.2, Minecraft does not have an option to fully disable telemetry, so in this modpack such option is added by [Debugify](https://curseforge.com/minecraft/mc-mods/debugify). The reason for disabling vanilla telemetry is that
 
@@ -150,6 +153,6 @@ For other things like dynamic lights, shaders and zoom:
 3. If `🛠️` or `✏️` is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
    * If you don't see the `🛠️` or `✏️` emoji, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
-If you need to disable a mod, [see this wiki page](disabling-mods.md).
+If you need to disable a mod, [see this wiki page](https://github.com/Fabulously-Optimized/wiki/blob/main/disabling-mods.md).
 
 If you have more questions about the mods, [chat with us on Discord!](https://fabulously-optimized.github.io/discord)

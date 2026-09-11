@@ -1,3 +1,7 @@
+---
+icon: language
+---
+
 # Language support
 
 You can translate the mods themselves and the modpack-specific content. All modpack-specific translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
@@ -21,18 +25,18 @@ I support people using Minecraft in their language and would like to promote tha
 
 ### Notable mods to translate
 
-List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform. Links with *️⃣ use a translation platform similar to the modpack itself, and are hence easier to translate and collaborate in.
+List of mods that contribute the most viewed phrases in the modpack, click to get to their English language file/translation platform. Links with \*️⃣ use a translation platform similar to the modpack itself, and are hence easier to translate and collaborate in.
 
-1. [Sodium](#sodium) (unofficial translations, bundled in FO) *️⃣
-2. [Sodium Extra](https://crowdin.com/project/sodium-extra) *️⃣
+1. [Sodium](language-support.md#sodium) (unofficial translations, bundled in FO) \*️⃣
+2. [Sodium Extra](https://crowdin.com/project/sodium-extra) \*️⃣
 3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
-4. [BetterGrassify](https://crowdin.com/project/bettergrassify/) *️⃣
+4. [BetterGrassify](https://crowdin.com/project/bettergrassify/) \*️⃣
 5. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json)
 6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/26.1/src/main/resources/assets/modmenu/lang/en_us.json)
 7. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
 8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.10/src/main/resources/assets/lambdynlights/lang/en_us.json)
 9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
-10. [Fabric API/Installer](https://crowdin.com/project/fabricmc) *️⃣
+10. [Fabric API/Installer](https://crowdin.com/project/fabricmc) \*️⃣
 
 ## Modpack
 
@@ -42,24 +46,24 @@ Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabu
 2. Start translating the file you prefer. The files are listed in the order of priority.
    * You can vote for existing suggestions with ➕ and ➖ buttons
    * In the comments you can discuss the specific phrase, ask for more info, report wrong translations etc.
-   * File-specific tips and requirements [are listed below](#mod-menu-helper)
+   * File-specific tips and requirements [are listed below](language-support.md#mod-menu-helper)
 3. [Join our Discord](https://fabulously-optimized.github.io/discord) for a yellow rank and a possibility to become a proofreader in your language.
    * Yellow rank requirement is translating any file to 100%; it also gives you access to some hidden channels ;)
-4. As a proofreader, read over every string, [test MMH in-game](#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FO.**   
+4. As a proofreader, read over every string, [test MMH in-game](language-support.md#testing-tutorial) and approve ✔️ everything that looks correct. **Any file must be 100% approved before it gets pushed to FO.**
    * For example, if you fully translate two files but fully approve one, then only the fully approved file will be published at the moment.
-6. Wait for the next release of FO to see your translations live!
-7. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
+5. Wait for the next release of FO to see your translations live!
+6. You'll get an email and/or Discord notification when there are new phrases to translate. Then just repeat from step 3!
 
 ### Mod Menu Helper
 
 Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and available options.
 
-* The phrases have very specific length requirements, so you must test them after translating [with the instructions below](#testing-tutorial).
-   * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
-   * [There is an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that helps you assume how long the string might be, but it is not 100% accurate.
-   * If you don't have a Full HD display, you can also emulate it in-game: `Options...` → `Video Settings...` → `Fullscreen Resolution: 1920x1080@60 (24 bit)` → `Fullscreen: 🔲` → `Apply` → `Done`
-     * If you get any issues, press `Shift` + `P` within the video settings, to get the vanilla video settings and revert fullscreen options there.
-     * The numbers after `@` may vary. 
+* The phrases have very specific length requirements, so you must test them after translating [with the instructions below](language-support.md#testing-tutorial).
+  * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
+  * [There is an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that helps you assume how long the string might be, but it is not 100% accurate.
+  * If you don't have a Full HD display, you can also emulate it in-game: `Options...` → `Video Settings...` → `Fullscreen Resolution: 1920x1080@60 (24 bit)` → `Fullscreen: 🔲` → `Apply` → `Done`
+    * If you get any issues, press `Shift` + `P` within the video settings, to get the vanilla video settings and revert fullscreen options there.
+    * The numbers after `@` may vary.
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
 * Keep paragraph sign (§), tools emoji (⚒️), arrows emoji (🔀) and newlines as they are on the original.
 * The length is also important on the tutorial screen. Follow instructions below, close game, set `onboardAccessibility=true` in `options.txt` and start game again.
@@ -68,7 +72,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 
 1. Select your language on Crowdin
 2. Select `Mod Menu Helper`
-3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+3. Click `≡` on the left, then `Download`. You'll get a file in the format _language\_code.json_.
    * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
 4. Run Fabulously Optimized
 5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
@@ -82,21 +86,21 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 11. Press `Esc` → `Mods`. Look around and make sure everything fits.
     * Use maximized window or fullscreen, Full HD (1920×1080) screen, GUI scale 3, default font.
     * It is likely that not all translated mod descriptions are available on the same version of the modpack - just test the ones you can see on the latest stable version.
-12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits. 
+12. Press `Back` → `Options...` → `Resource Packs...`. Look around and make sure everything fits.
 13. If not everything fits yet, change the translation on Crowdin and repeat from step 3.
 
 ### Chat Reporting Helper
 
 Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports phrases to make chat reporting availability and interactions easier to understand.
 
-* In-game testing is needed only for the resource pack description - [use MMH's instructions](#testing-tutorial).
+* In-game testing is needed only for the resource pack description - [use MMH's instructions](language-support.md#testing-tutorial).
 * Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
 * For a more complete translation, you might also want to [translate No Chat Reports](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/1.20-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
 ### Crash Assistant
 
-Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for clearer instructions. 
+Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for clearer instructions.
 
 * Length is usually not an issue, so testing is optional.
 * It is highly recommended to also [translate the mod itself](https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/common_config/src/main/resources/crash_assistant_localization/en_us.json), as it contains various crash analysis descriptions.
@@ -105,15 +109,15 @@ Mod Crash Assistant helps users understand how to get support after a crash. Fab
 
 1. Select your language on Crowdin
 2. Select `Crash Assistant`
-3. Click `≡` on the left, then `Download`. You'll get a file in the format _language_code.json_.
+3. Click `≡` on the left, then `Download`. You'll get a file in the format _language\_code.json_.
    * Is the button grayed out? Make sure you're browsing "Mod Menu Helper", not "all strings".
 4. Run Fabulously Optimized
 5. Go to `Options...` → `Resource Packs...` → `Open Pack Folder`
 6. Go one folder up to `.minecraft`
 7. Go to `config` → `crash_assistant` → `crash_assistant_localization_overrides`
 8. Go back to the game, hold down `F3` and `C` for 10 seconds
-8. Look around and make sure everything looks right.
-9. If necessary, change the translation on Crowdin and repeat from step 3.
+9. Look around and make sure everything looks right.
+10. If necessary, change the translation on Crowdin and repeat from step 3.
 
 ### Website
 
@@ -152,7 +156,7 @@ Unofficial resource pack that adds translations to Sodium. Managed by the creato
 
 Resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mode". As of FO 8.0.0, this is no longer included by default, but might be re-included in later releases.
 
-* The only string to translate is the pack description. It is translated within [Mod Menu Helper](#mod-menu-helper) to keep the original pack small and simple.
+* The only string to translate is the pack description. It is translated within [Mod Menu Helper](language-support.md#mod-menu-helper) to keep the original pack small and simple.
 
 ### Untranslated
 
