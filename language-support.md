@@ -14,7 +14,7 @@ If you get confused about the interface, [have a look at their documentation](ht
 
 ## Mods
 
-I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the entire pack, you should translate its mods as well.
+This is a _pack of mods_, so if you want to translate the pack, start by translating its mods.
 
 1. [Check out the list of mods](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth) and click the name of the mod you want to translate
 2. On every page, find the Issues or Source link at the top
@@ -46,7 +46,7 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 
 ## Modpack
 
-Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized). Here are the steps:
+Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized), just like Minecraft itself. Here are the steps:
 
 1. Join [the Fabulously Optimized project](https://crowdin.com/project/fabulously-optimized)
 2. Start translating the file you prefer. The files are listed in the order of priority.
@@ -67,7 +67,7 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 * The phrases have very specific length requirements, so you must test them after translating [with the instructions below](language-support.md#testing-tutorial).
   * The lines **must be** fully visible in a maximised Full HD (1920×1080) screen using the default font. If your language uses the Unicode font by default, consider that instead.
   * [There is an online tool](https://fabulously-optimized.github.io/Mod-Menu-Helper-Size-Checker/) that helps you assume how long the string might be, but it is not 100% accurate.
-  * If you don't have a Full HD display, you can also emulate it in-game: `Options...` → `Video Settings...` → `Fullscreen Resolution: 1920x1080@60 (24 bit)` → `Fullscreen: 🔲` → `Apply` → `Done`
+  * If you don't have a Full HD display, you can also emulate it in-game: `Options...` → `Video Settings...` → `Fullscreen Resolution: 1920x1080@60 (24 bit)` → `Fullscreen: ON` → `Apply` → `Done`
     * If you get any issues, press `Shift` + `P` within the video settings, to get the vanilla video settings and revert fullscreen options there.
     * The numbers after `@` may vary.
 * Feel free to rephrase the sentences to make them more understandable and/or shorter for your language. In the options row, list as many options as you can fit.
@@ -106,7 +106,7 @@ Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Cha
 
 ### Crash Assistant
 
-Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings for clearer instructions.
+Mod Crash Assistant helps users understand how to get support after a crash. Fabulously Optimized includes a subset of changed strings and added scripts for clearer instructions.
 
 * Length is usually not an issue, so testing is optional.
 * It is highly recommended to also [translate the mod itself](https://github.com/KostromDan/Crash-Assistant/blob/1.19-1.20.1/common_config/src/main/resources/crash_assistant_localization/en_us.json), as it contains various crash analysis descriptions.
@@ -164,7 +164,7 @@ Resource pack "Fast Better Grass" imitates the OptiFine's Better Grass' "fast mo
 
 * The only string to translate is the pack description. It is translated within [Mod Menu Helper](language-support.md#mod-menu-helper) to keep the original pack small and simple.
 
-### Untranslated
+### Listing and wiki
 
 The listing does not accept translations due to technical limits, users are expected to visit the website for localized content.
 
