@@ -8,7 +8,7 @@ Fabulously Optimized changes some default options of Minecraft and the included 
 
 Because the pack is using Config Manager, the options will only change if you do not have `options.txt` or mod-specific files in `config` folder already, e.g. by using a clean profile. That also means you can freely update the pack without losing your settings!
 
-Changed mod settings [can be found here](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.11/config).
+Changed mod settings [can be found here](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/26.2/config).
 
 ## Resource packs
 
@@ -153,6 +153,6 @@ For other things like dynamic lights, shaders and zoom:
 3. If `🛠️` or `✏️` is blue, you can configure the mod by clicking the config button ![config](https://i.ibb.co/j35cBtn/image.png)
    * If you don't see the `🛠️` or `✏️` emoji, you don't have the Mod Menu Helper resource pack enabled for some reason. Click `Done` → `Options...` → `Resource Packs...` → `⏵` on "Mod Menu Helper.zip" → `Done` → go to point 1 of this tutorial
 
-If you need to disable a mod, [see this wiki page](https://github.com/Fabulously-Optimized/wiki/blob/main/disabling-mods.md).
+If you need to disable a mod, [see this wiki page](./disabling-mods/).
 
-If you have more questions about the mods, [chat with us on Discord!](https://fabulously-optimized.github.io/discord)
+If you have more questions about the mods, [chat with us on Discord!](https://download.fo/discord)
