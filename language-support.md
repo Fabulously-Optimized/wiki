@@ -6,6 +6,12 @@ icon: language
 
 You can translate the mods themselves and the modpack-specific content. All modpack-specific translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
 
+## Minecraft
+
+Did you know that _you_ can help translate Minecraft: Java Edition? Just [sign up on Crowdin](https://crowdin.com/project/minecraft) and start translating! If translations have been suggested already, you can vote (+/-) for the best ones.
+
+If you get confused about the interface, [have a look at their documentation](https://support.crowdin.com/online-editor/).
+
 ## Mods
 
 I support people using Minecraft in their language and would like to promote that in the modpack too. However, this is a _pack of mods_, so if you want to translate the entire pack, you should translate its mods as well.
