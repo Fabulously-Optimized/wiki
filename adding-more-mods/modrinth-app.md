@@ -25,3 +25,5 @@
 
 {% endtab %}
 {% endtabs %}
+
+{% hint style="warning" %} Never unlink the instance! There is no need to do it, it just prevents you from updating the modpack later. {% endhint %}
