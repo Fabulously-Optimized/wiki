@@ -77,7 +77,7 @@ On public servers, no. You can be banned by server admins throughout the same se
 
 ### Is there a way to appeal the ban?
 
-Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www.minecraft.net/en-us/community-standards#main-content). It is unknown how many appeals are accepted.
+Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www.minecraft.net/en-us/community-standards#article-grid-a-be55900b0f). It is unknown how many appeals are accepted.
 
 1. [Open the Case Review request](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452)
 2. Select "Minecraft: Java" as the game.
@@ -85,7 +85,7 @@ Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www
 4. Submit the form
 5. Wait patiently for their response
 
-If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) as well.
+If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/20712000178317-Manage-Settings-for-Your-Minecraft-Java-Edition-Realm) as well.
 
 ### What if I'm permanently banned?
 
@@ -106,7 +106,6 @@ If core changes to the system will not be made, Mojang could still improve its c
 * Add a clear, yet unobtrusive indicator that shows whether the system is in place or not for given server
   * Current vanilla indicators are small and per chat line which are easy to miss or unwillingly ignore; the warning toast is annoying and technically easy to disable.
 * Be very clear and truthful about the system in help pages
-  * For example, Mojang repeatedly claims that [they do not monitor chat](https://help.minecraft.net/hc/en-us/articles/7317376541197) while [that is not actually the case in Realms](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 * Use less cryptic terminology in errors related to the system
 * Write a technical overview about the system's working so that users inclined would be able to read it from the official source
 
@@ -146,12 +145,11 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 
 #### Official posts
 
-* [Help page](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
-* [FAQ](https://help.minecraft.net/hc/en-us/articles/7317376541197)
-* [Why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
+* [Report a Player in Minecraft: Java Edition](https://help.minecraft.net/hc/en-us/articles/7149823936781-Player-Reporting-in-Minecraft-Java-Edition)
+* [Guidelines for Reporting Inappropriate Player Behavior in Minecraft](https://help.minecraft.net/hc/en-us/articles/7317376541197)
+* [Banned Minecraft Accounts and the Appeal Process](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-)
 * [Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety)
 * [Community Standards](https://www.minecraft.net/en-us/community-standards)
-* [How to report a player](https://help.minecraft.net/hc/en-us/articles/13019118732429)
 
 ### History of changes
 
@@ -437,7 +435,7 @@ Though, it is worth pointing out that _monitoring_ and "automated proactive chat
 
 ### How many servers actually have chat reporting?
 
-**Update:** [**Mojang released an official server list**](https://findmcserver.com/parents#features)**, which indicates chat reporting with a "Beacon of Safety badge". As of Feb 2025, no Java Edition servers have the badge yet.**
+**Update:** [**Mojang released an official server list**](https://findmcserver.com/parents#features)**, which indicates chat reporting with a "Beacon of Safety badge". As of Sep 2026, two Java Edition servers have the badge.**
 
 There is no easy way to get this statistic, as it is only obtainable once the player has sent the first message, and the server can change its stance at any time.
 
