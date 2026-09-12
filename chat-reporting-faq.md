@@ -49,7 +49,7 @@ Because the current implementation of it is vaguely described, sustainability is
 * **Banned from all multiplayer** - instead of getting punished on one server, you are getting punished on all, including Realms and others' LAN servers. Maybe you just got angry and swore at someone on one server and want to go to another to relax again? Nope, you can't do that.
 * **Some swearing is interpreted too strictly** - some swear words are interpreted as bannable offenses even if the players know each other and know that the other party will not get offended by it. [Read more about one user's experience from this post](https://old.reddit.com/r/Minecraft/comments/xfh3ee/suspended_from_playing_minecraft_for_swearing_in/).
 * **Realms chat is constantly monitored** - [according to Our Commitment to Player Safety](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE), Mojang/Microsoft monitors all Realms chat and will take action regardless of whether you are reported and regardless of whether the other party actually took your message seriously or not. This was not possible before they introduced chat signing and global bans.
-* **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically [pause the subscription](https://help.minecraft.net/hc/en-us/articles/4410000696077-Minecraft-Java-Edition-Realms-Billing-Issues-FAQ#h_01FGCST20673JYZ76PB9BN4BNK) of any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control. This makes sense for short-term bans like up to a week, but any longer than that should give an explicit option at least.
+* **Realms subscriptions don't get cancelled** - if you get banned, Mojang will not automatically [pause the subscription](https://help.minecraft.net/hc/en-us/articles/35758234749581-Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer) of any Realms servers you own, meaning you'll continue to pay for server(s) you cannot access or control. This makes sense for short-term bans like up to a week, but any longer than that should give an explicit option at least.
 * **Not sent to server admins** - sending reports to Mojang will result in different judgement and outcomes of the cases - while server admins could punish faster, with a shorter penalty, with different kinds of punishments like mutes and jails, Mojang can only choose between banning people from multiplayer entirely or not punishing them at all.
 * **Report reviewers lack context** - players can select 1-4 messages, to which the system will add up to 9 messages before the selected ones - at most 40 messages in total. That is a very partial context for serious offenses as it is missing player builds, signs, books, Discord/forum messages, daily general behavior etc. In other words, it assumes the player only offends another within one hour, not for a longer period.
 * **Fairness doesn't scale** - Minecraft has a huge playerbase and if lots of players play it, lots can report each other as well. How can Mojang guarantee a _fair action_ to be taken on _thousands_ of reports every day? The investigators may accidentally overlook a part of the conversation or misinterpret the intent due to words used. Compare that to a single server that has fewer players, therefore less reports and less admins needed, appeals that are dealt with faster.
@@ -85,7 +85,7 @@ Yes, if you [meet their criteria (see "how to submit an appeal...")](https://www
 4. Submit the form
 5. Wait patiently for their response
 
-If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/20712000178317-Manage-Settings-for-Your-Minecraft-Java-Edition-Realm) as well.
+If you own a Realm, you may want to [pause your subscription](https://help.minecraft.net/hc/en-us/articles/35758234749581-Cancel-a-Minecraft-Realms-Subscription-Started-on-a-Personal-Computer) as well.
 
 ### What if I'm permanently banned?
 
@@ -421,13 +421,9 @@ Yes, but only on [Realms](https://support.xbox.com/en-US/help/games-apps/game-ti
 >
 > We use it to classify, filter, and escalate online harms for human review and moderation to promote safe and welcoming interactions on Minecraft games. That includes behaviors such as harassment, abuse, and hate speech.
 
-Similarly, the [why have I been banned FAQ](https://help.minecraft.net/hc/en-us/articles/4408964729869-Why-Have-I-Been-Banned-from-Minecraft-) says
+Consider using [alternative chat methods instead](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
 
-> Specifically, our highly trained moderation staff is looking at the most egregious violations in public Featured Servers and Realms \[...]
-
-Consider using [alternative chat methods instead.](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
-
-Though, it is worth pointing out that _monitoring_ and "automated proactive chat filtering" in this case likely refers to automatic reports triggered by specific keywords used, not that there is a person or team specifically looking at your messages.
+Though, it is worth pointing out that "monitoring" and "automated proactive chat filtering" in this case likely refers to automatic reports triggered by specific keywords used, not that there is a person or team specifically looking at your messages.
 
 ### Does Bedrock Edition also have player reporting?
 
