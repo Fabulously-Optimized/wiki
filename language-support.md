@@ -35,14 +35,13 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 
 1. [Sodium](language-support.md#sodium) (unofficial translations, bundled in FO) \*️⃣
 2. [Sodium Extra](https://crowdin.com/project/sodium-extra) \*️⃣
-3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/multiloader-new/common/src/main/resources/assets/iris/lang/en_us.json)
+3. [Iris Shaders](https://github.com/IrisShaders/Iris/blob/26.1/common/src/main/resources/assets/iris/lang/en_us.json)
 4. [BetterGrassify](https://crowdin.com/project/bettergrassify/) \*️⃣
 5. [MoreCulling](https://github.com/FxMorin/MoreCulling/blob/master/common/src/main/resources/assets/moreculling/lang/en_us.json)
-6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/26.1/src/main/resources/assets/modmenu/lang/en_us.json)
+6. [Mod Menu](https://github.com/TerraformersMC/ModMenu/blob/26.3/src/main/resources/assets/modmenu/lang/en_us.json)
 7. [Controlify](https://github.com/isXander/Controlify/blob/multiversion/dev/src/main/resources/assets/controlify/lang/en_us.json)
-8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/1.21.10/src/main/resources/assets/lambdynlights/lang/en_us.json)
-9. [Fabric Capes](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/lang/en_us.json)
-10. [Fabric API/Installer](https://crowdin.com/project/fabricmc) \*️⃣
+8. [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights/blob/26.2/src/main/resources/assets/lambdynlights/lang/en_us.json)
+9. [Fabric API/Installer](https://crowdin.com/project/fabricmc) \*️⃣
 
 ## Modpack
 
