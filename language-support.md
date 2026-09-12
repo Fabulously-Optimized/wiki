@@ -4,7 +4,7 @@ icon: language
 
 # Language support
 
-You can translate the mods themselves and the modpack-specific content. All modpack-specific translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
+You can translate the mods themselves and the modpack-specific content.
 
 ## Minecraft
 
@@ -46,7 +46,10 @@ List of mods that contribute the most viewed phrases in the modpack, click to ge
 
 ## Modpack
 
-Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized), just like Minecraft itself. Here are the steps:
+Fabulously Optimized [is translated on Crowdin](https://crowdin.com/project/fabulously-optimized), just like Minecraft itself.
+All modpack-specific translations are licensed under [CC0](https://www.tldrlegal.com/license/creative-commons-cc0-1-0-universal), meaning they can be freely copied, modified, republished and so on.
+
+Here are the steps:
 
 1. Join [the Fabulously Optimized project](https://crowdin.com/project/fabulously-optimized)
 2. Start translating the file you prefer. The files are listed in the order of priority.
