@@ -25,10 +25,10 @@ Mojang has begun to release more [official, cross-platform capes](https://minecr
 Unfortunately [MinecraftCapes updated their servers](https://github.com/CaelTheColher/Capes/issues/118), which causes this message to appear on users' capes in older versions of the modpack. Here are your options, pick _one_:
 
 * [Update Fabulously Optimized to latest version](update-instructions/) - the easiest and best solution.
-* [Remove Capes](disabling-mods/) and [install](https://github.com/Fabulously-Optimized/wiki/blob/main/adding-more-mods/README.md) [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
+* [Remove Capes](disabling-mods/) and [install](adding-more-mods/) [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) instead - fixes the message, but you'll lose out on other providers like OptiFine capes.
 * Disable MinecraftCapes support - gets rid of the message, but also this provider's capes in general (you can no longer use the free cape instructions above).
   * Go to `Options...` → `Skin Customization...` → ![Capes icon](https://github.com/CaelTheColher/Capes/blob/architectury/common/src/main/resources/assets/capes/textures/gui/sprites/icon/cape_options.png?raw=true) → `Toggle` → `MinecraftCapes: OFF` → `Done` → `Done` → `Done`.
-* [Remove Capes](disabling-mods/) and [install](https://github.com/Fabulously-Optimized/wiki/blob/main/adding-more-mods/README.md) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
+* [Remove Capes](disabling-mods/) and [install](adding-more-mods/) [Cosmetica](https://modrinth.com/mod/cosmetica) - fixes the message and keeps other providers, but the experience can highly vary from FO defaults, so it is recommended to configure the mod to suit your needs.
   * Go to `Mods` → search "Cosmetica" → press ![config](https://i.ibb.co/j35cBtn/image.png) → configure by your preferences.
 
 ### Disclaimer
