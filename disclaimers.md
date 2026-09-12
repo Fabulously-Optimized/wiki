@@ -49,7 +49,7 @@ By using this modpack, you agree to the following:
 
 If you have forked the modpack, you can optionally use these badges in your description to show it. For CurseForge, just select and copy the image to get it with the link; for Modrinth and GitHub select the Markdown or HTML variant. [Made by Devin](https://intergrav.github.io/devins-badges-docs)
 
-
+<a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
 
 Markdown
 
@@ -63,7 +63,7 @@ HTML
 <a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
 ```
 
-
+<a href="https://download.fo"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
 
 Markdown
 
