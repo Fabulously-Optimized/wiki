@@ -6,7 +6,7 @@
 1. Go to `|||\` "Library"
 2. Select existing Fabulously Optimized instance
 3. Click `⤓ Update` on top right (next to `ஃ Content`)
-  * Cannot see it? Click `⇆ Switch version` instead.
+   * Cannot see it? Click `⇆ Switch version` instead.
 4. Click `⤓ Update to ...`
 5. In the warning, click `⤓ Update modpack`
 6. Run it and check the version difference in the bottom right corner.
