@@ -61,7 +61,7 @@ The following icons show the status of the server. Icons are shown on the bottom
         * All messages can be reported.
      2. If `enforce-secure-profile` = `false` (recommended), FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
         * Vanilla users' messages can be reported and disabled FO users' messages can not. On vanilla clients, gray bars are displayed on the left of FO users' messages.
-* **Realms**: FO users will see ![realms](https://i.ibb.co/gTxw84X/realms.png).
+* **Realms**: FO users will see ![realms](https://i.ibb.co/gTxw84X/realms.png)/![blue police badge with pink letter R](https://github.com/user-attachments/assets/9d68bc1e-ccba-4e7c-92e0-a22e361d3896).
   * All messages can be reported and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
 #### How to protect your users
