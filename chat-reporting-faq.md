@@ -215,7 +215,7 @@ In order to get the status of the server, open the chat box (press `T`) and look
 * ![outlined police badge icon](https://i.ibb.co/hstcjW7/neutral.png) - most chat messages can be reported to Mojang, but the server does not prefer it and the playing user opts out
   * In some cases, no messages can be reported but that is not reflected on the icon. You can confirm by seeing if you can report anyone on Social Interactions.
 * ![blue police badge with gold star icon](https://i.ibb.co/2YgMHpR/insecure.png) - all chat messages can be reported to Mojang
-* ![blue police badge with red recording dot icon](https://i.ibb.co/gTxw84X/realms.png) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](chat-reporting-faq.md#does-mojang-monitor-my-chats)
+* ![blue police badge with red recording dot icon](https://i.ibb.co/gTxw84X/realms.png)/![blue police badge with pink letter R](https://github.com/user-attachments/assets/9d68bc1e-ccba-4e7c-92e0-a22e361d3896) - only on Realms: all chat messages can be reported to Mojang and [Mojang is passively monitoring the chat for violations](chat-reporting-faq.md#does-mojang-monitor-my-chats)
 
 _(Expected different icons? Disable Chat Reporting Helper resource pack and_ [_see No Chat Reports wiki._](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Configuration-Files#option-showserversafety)_)_
 
