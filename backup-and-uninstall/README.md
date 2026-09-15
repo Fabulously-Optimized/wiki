@@ -22,6 +22,9 @@ Right click on the modpack tile → `📂 Open folder`
 {% tab title="Prism Launcher" %}
 Right click on the instance → `Folder` → `.minecraft`
 {% endtab %}
+{% tab title="MeshMC" %}
+Right click on the instance → `Instance Folder`
+{% endtab %}
 {% tab title="MultiMC" %}
 Right click on the instance → `Minecraft Folder`
 {% endtab %}
@@ -43,4 +46,4 @@ Click `Installations` → hover on the instance → click `📁`
 
 ## Uninstall
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr><tr><td align="center"><strong>Modrinth App</strong></td><td><a href="modrinth-app.md">modrinth-app.md</a></td></tr><tr><td align="center"><strong>Prism Launcher</strong></td><td><a href="prism-launcher.md">prism-launcher.md</a></td></tr><tr><td align="center"><strong>MultiMC</strong></td><td><a href="multimc.md">multimc.md</a></td></tr><tr><td align="center"><strong>Minecraft Launcher</strong></td><td><a href="minecraft-launcher.md">minecraft-launcher.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr><tr><td align="center"><strong>Modrinth App</strong></td><td><a href="modrinth-app.md">modrinth-app.md</a></td></tr><tr><td align="center"><strong>Prism Launcher</strong></td><td><a href="prism-launcher.md">prism-launcher.md</a></td></tr><tr><td align="center"><strong>MeshMC</strong></td><td><a href="meshmc.md">meshmc.md</a></td></tr><tr><td align="center"><strong>MultiMC</strong></td><td><a href="multimc.md">multimc.md</a></td></tr><tr><td align="center"><strong>Minecraft Launcher</strong></td><td><a href="minecraft-launcher.md">minecraft-launcher.md</a></td></tr></tbody></table>

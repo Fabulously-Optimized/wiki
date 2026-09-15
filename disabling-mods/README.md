@@ -57,6 +57,7 @@ Here are instructions to disable mods entirely, for example due to incompatibili
 <tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr>
 <tr><td align="center"><strong>Modrinth App</strong></td><td><a href="modrinth-app.md">modrinth-app.md</a></td></tr>
 <tr><td align="center"><strong>Prism Launcher</strong></td><td><a href="prism-launcher.md">prism-launcher.md</a></td></tr>
+<tr><td align="center"><strong>MeshMC</strong></td><td><a href="meshmc.md">meshmc.md</a></td></tr>
 <tr><td align="center"><strong>MultiMC</strong></td><td><a href="multimc.md">multimc.md</a></td></tr>
 <tr><td align="center"><strong>Minecraft Launcher</strong></td><td><a href="minecraft-launcher.md">minecraft-launcher.md</a></td></tr>
 </tbody></table>
