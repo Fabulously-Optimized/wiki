@@ -190,6 +190,7 @@ All videos are suitable for describing the interactions and ethical concerns, bu
 * **2025-07-28** - Xbox [announced age verification in the UK](https://news.xbox.com/en-us/2025/07/28/xbox-age-verification-uk/) and "more regions in the future". On UK this will take effect from February 2026. Exact behavior on Java Edition remains to be seen.
 * **2026-02-15** - Aforementioned age verification starts to take effect for UK users. Affected users [will not be able to](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/1067) use 3rd party launchers, chat or commands.
 * [**26.1 Snapshot 7**](https://minecraft.wiki/w/Java_Edition_26.1_Snapshot_7#General) - Users affected by age verification who decide to not verify can open chat, use commands and see system messages again. On servers without chat reporting, they can also see player messages and sometimes even use `/msg`.
+* [**26.4 Snapshot 3**](https://minecraft.wiki/w/Java_Edition_26.4_Snapshot_3#General_2) - Chat can now be limited to friends only (in practice likely all players still) if set so on Xbox. Friend list and Social Interactions (now "Other players") have been redesigned. It is possible to report your friends' skin or username at any time.
 
 _See also: Minecraft Wiki's history sections for_ [_Social Interactions_](https://minecraft.wiki/w/Social_interactions#History) _and_ [_Chat_](https://minecraft.wiki/w/Chat#History)_._
 
