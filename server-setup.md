@@ -37,9 +37,9 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 
 ### Software
 
-For server software it is recommended to use [Paper](https://papermc.io), [Pufferfish](https://github.com/pufferfish-gg/Pufferfish) or [Purpur](https://github.com/PurpurMC/Purpur/), which are performance-optimized forks of Spigot, but support [all the same plugins](https://www.spigotmc.org/resources/categories/spigot.4/). [Using Realms is not advised](chat-reporting-faq.md#does-mojang-monitor-my-chats).
+For server software it is recommended to use [Paper](https://papermc.io) or [Purpur](https://purpurmc.org), which are performance-optimized forks of Spigot, but support [all the same plugins](https://modrinth.com/discover/plugins?g=categories:paper). [Using Realms is not advised](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
-If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/mods?f=categories!=cursed\&f=categories:optimization\&e=server\&g=categories:fabric), [including those in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth).
+If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/discover/mods?g=categories:fabric&e=server), [including those in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth).
 
 If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
@@ -81,7 +81,7 @@ Make sure you follow _all_ steps that match your server's configuration, not jus
   * Same comments apply as for "all 1.19+ backend servers" above.
 * **BungeeCord**: set `enforce_secure_profile` to `false` in _config.yml_
   * Same comments apply as for "all 1.19+ backend servers" above.
-* **Paper/Purpur/Pufferfish/Folia**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
+* **Paper/Purpur/Folia**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
   * Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
 * **Fabric/Forge/NeoForge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
   * FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
