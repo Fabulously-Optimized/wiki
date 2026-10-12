@@ -39,7 +39,7 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 
 For server software it is recommended to use [Paper](https://papermc.io) or [Purpur](https://purpurmc.org), which are performance-optimized forks of Spigot, but support [all the same plugins](https://modrinth.com/discover/plugins?g=categories:paper). [Using Realms is not advised](chat-reporting-faq.md#does-mojang-monitor-my-chats).
 
-If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/discover/mods?g=categories:fabric&e=server), [including those in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth).
+If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/discover/mods?e=server&g=categories:fabric&f=categories:optimization), [including those in FO](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth).
 
 If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
