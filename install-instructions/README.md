@@ -22,11 +22,11 @@ See this table for a comparison between the launchers:
 | --------------------------------------------- | :----------------------------------: | :-----------: | :-------------: | :-----------: | :-----------------: |
 | [CurseForge App](https://curseforge.com/download/app)                  |    [🔗&nbsp;Open](curseforge-app.md)    |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
 | [Modrinth App](https://modrinth.com/app)              | [🔗&nbsp;Open](modrinth-app.md) |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |     ✅&nbsp;Yes      |
-| [Prism Launcher](https://prismlauncher.org)               |  [🔗&nbsp;Open](prism-launcher.md)   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️<sup>[2]</sup>   |
-| [MultiMC](https://multimc.org)                    | [🔗&nbsp;Open](multimc.md#default)  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [MultiMC (auto-update)](https://multimc.org)           |   [🔗&nbsp;Open](multimc.md#auto-update)   |  ✅&nbsp;Easy  | ⏺️<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Minecraft Launcher](https://minecraft.net/en-us/download) (installer) | [🔗&nbsp;Open](minecraft-launcher.md#installer) |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
-| [Minecraft Launcher](https://minecraft.net/en-us/download) (manual setup) | [🔗&nbsp;Open](minecraft-launcher.md#manual-install)  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️<sup>[2]</sup>   |
+| [Prism Launcher](https://prismlauncher.org)               |  [🔗&nbsp;Open](prism-launcher.md)   |  ✅&nbsp;Easy  |   ✅&nbsp;Easy   |  ✅&nbsp;Easy  |   ⏺️&nbsp;Partial<sup>[2]</sup>   |
+| [MultiMC](https://multimc.org)                    | [🔗&nbsp;Open](multimc.md#default)  |  ✅&nbsp;Easy  |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️&nbsp;Partial<sup>[2]</sup>    |
+| [MultiMC (auto-update)](https://multimc.org)           |   [🔗&nbsp;Open](multimc.md#auto-update)   |  ✅&nbsp;Easy  | ⏺️&nbsp;Partial<sup>[1]</sup> | ❌&nbsp;Manual |   ⏺️&nbsp;Partial<sup>[2]</sup>    |
+| [Minecraft Launcher](https://minecraft.net/en-us/download) (installer) | [🔗&nbsp;Open](minecraft-launcher.md#installer) |  ✅&nbsp;Easy  | ✅&nbsp;Easy | ❌&nbsp;Manual |   ⏺️&nbsp;Partial<sup>[2]</sup>    |
+| [Minecraft Launcher](https://minecraft.net/en-us/download) (manual setup) | [🔗&nbsp;Open](minecraft-launcher.md#manual-install)  | ❌&nbsp;Manual |  ❌&nbsp;Manual  | ❌&nbsp;Manual |   ⏺️&nbsp;Partial<sup>[2]</sup>    |
 
 > **[1]**: Updates to the modpack within the same Minecraft version are automatic. The modpack cannot be updated automatically across Minecraft versions.
 >
