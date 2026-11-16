@@ -29,7 +29,7 @@ By using this modpack, you agree to the following:
   * Both LAN and Internet variants use the same world settings (gamemode, cheats enabled, etc.), including the player limit of host + up to 7 players.
 * The modpack disables Mojang's telemetry, as the data collection is not anonymous and because modified game statistics would skew collected data. [Read more](changed-options.md#telemetry)
 * The modpack disables certain mod network services (where present), including mod update checkers and cosmetic donor features, to avoid confusion and privacy concerns. These can be re-enabled by users [in the respective configs.](changed-options.md#configuring-mods)
-* Some tooltips and labels are changed to inform players of the mechanics of [Mojang's chat safety features](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ).
+* Some tooltips and labels are changed to better inform players of the mechanics of [Mojang's chat safety features](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ).
 
 ### License and legal
 
