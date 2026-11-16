@@ -18,7 +18,7 @@ How is the pack built: [🔣 Goals and principles](principles.md) [(why use Fabr
 
 You can help by [❤️ Supporting the pack](https://download.fo/thanks) | [✍️ Translating to your language](language-support.md)
 
-Additional tips about [📈 Improving performance](improving-performance.md) | [🗄️ Server setup](server-setup.md) | [🚨 Player Reporting](chat-reporting-faq.md)
+Additional tips about [📈 Improving performance](improving-performance.md) | [🗄️ Server setup](server-setup.md)
 
 Couldn't find the answer? [💬 Chat with us on Discord!](https://fabulously-optimized.github.io/discord)
 

@@ -46,4 +46,3 @@
 * [Language support](language-support.md)
 * [Improving performance](improving-performance.md)
 * [Server setup](server-setup.md)
-* [Unofficial Player Reporting FAQ](chat-reporting-faq.md)
