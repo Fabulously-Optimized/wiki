@@ -14,6 +14,7 @@ The CurseForge listing used to have "server packs", but [those were actually jus
 
 * [Do you even need a server?](server-setup.md#world-sharing)
 * [Use speedy server software](server-setup.md#software)
+* [Be aware of chat reporting](server-setup.md#chat-reporting)
 * [Give users flexibility with client version](server-setup.md#client-version-flexibility)
 * [Allow Bedrock users to join](server-setup.md#bedrock-compatibility)
 * [Server-side content mods](server-setup.md#server-side-content-mods)
@@ -33,6 +34,11 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 [More info about how it works](disclaimers.md#privacy-and-security)
 
 **Note: if you're using an outdated version of the modpack (between 4.x.x - 11.x.x) with this method, it is advised to update e4mc and Fabric API manually.**
+
+
+### Chat Reporting
+
+Minecraft 1.19.1 added a feature that lets users report chat messages to Mojang. Server admins are advised to [learn how it works](https://minecraft.wiki/w/Social_interactions), as their players could be banned for messages that go against Minecraft's, but not server's rules.
 
 ### Software
 
