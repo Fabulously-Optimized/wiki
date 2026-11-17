@@ -33,8 +33,6 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 
 [More info about how it works](disclaimers.md#privacy-and-security)
 
-**Note: if you're using an outdated version of the modpack (between 4.x.x - 11.x.x) with this method, it is advised to update e4mc and Fabric API manually.**
-
 ### Software
 
 For server software it is recommended to use [Paper](https://papermc.io) or [Purpur](https://purpurmc.org), which are performance-optimized forks of Spigot, but support all the same plugins found on [Modrinth](https://modrinth.com/discover/plugins?g=categories:paper) and [SpigotMC](https://www.spigotmc.org/resources/categories/spigot.4). [Using Realms is not advised](chat-reporting-faq.md#does-mojang-monitor-my-chats).
@@ -100,8 +98,6 @@ _This section is also reposted to_ [_No Chat Reports wiki_](https://github.com/A
 
 ### Client version flexibility
 
-**Before adding this, it is** [**recommended to disable chat reporting**](server-setup.md#chat-reporting) **to ensure it works properly on 1.19.2 and below.**
-
 Ever wondered, how some servers are able to update the same day a new Minecraft version is released? Chances are, they are using a plugin that enables this without having to change the server version (yet).
 
 **ViaVersion** and **ViaBackwards** are plugins that transform the network packets to let users join your server with a different client version. This is especially welcome for users who mod their client, such as Fabulously Optimized users, as not every mod is updated as soon as the new version of Minecraft is released, so users may be inclined to use outdated clients for a bit longer.
@@ -126,7 +122,7 @@ Note that there can be incompatibilities and weird glitches (e.g. with anticheat
 
 ### Server-side content mods
 
-**These mods are usually not compatible with** [**ViaVersion and ViaBackwards**](server-setup.md#server-side-content-mods) **and they require a Fabric server.**
+_These mods are usually not compatible with [ViaVersion and ViaBackwards](server-setup.md#server-side-content-mods) and they require a Fabric server._
 
 Did you know that it is possible to have content mods (e.g. new blocks and items) on the server without requiring them to be installed on the client? That means that you can add new stuff to the server while your users use unmodified Fabulously Optimized!
 
