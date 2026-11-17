@@ -33,13 +33,6 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 
 [More info about how it works](disclaimers.md#privacy-and-security)
 
-**Note: if you're using an outdated version of the modpack (between 4.x.x - 11.x.x) with this method, it is advised to update e4mc and Fabric API manually.**
-
-
-### Chat Reporting
-
-Minecraft 1.19.1 added a feature that lets users report chat messages to Mojang. Server admins are advised to [learn how it works](https://minecraft.wiki/w/Social_interactions), as their players could be banned for messages that go against Minecraft's, but not server's rules.
-
 ### Software
 
 For server software it is recommended to use [Paper](https://papermc.io) or [Purpur](https://purpurmc.org), which are performance-optimized forks of Spigot, but support all the same plugins found on [Modrinth](https://modrinth.com/discover/plugins?g=categories:paper) and [SpigotMC](https://www.spigotmc.org/resources/categories/spigot.4). Using Realms is not advised - read about their [proactive moderation](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE).
@@ -48,9 +41,11 @@ If you still like Fabric a lot, you can [install it on a server as well](https:/
 
 If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clients/aff.php?aff=2604). [This affiliate link](https://www.bisecthosting.com/clients/aff.php?aff=2604) will give you 25% off for the first month.
 
-### Client version flexibility
+### Chat Reporting
 
-**Before adding this, it is** [**recommended to disable chat reporting**](server-setup.md#chat-reporting) **to ensure it works properly on 1.19.2 and below.**
+Minecraft 1.19.1 added a feature that lets users report chat messages to Mojang. Server admins are advised to [learn how it works](https://minecraft.wiki/w/Social_interactions), as their players could be banned for messages that go against Minecraft's, but not server's rules.
+
+### Client version flexibility
 
 Ever wondered, how some servers are able to update the same day a new Minecraft version is released? Chances are, they are using a plugin that enables this without having to change the server version (yet).
 
