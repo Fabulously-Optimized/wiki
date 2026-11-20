@@ -29,7 +29,7 @@ By using this modpack, you agree to the following:
   * Both LAN and Internet variants use the same world settings (gamemode, cheats enabled, etc.), including the player limit of host + up to 7 players.
 * The modpack disables Mojang's telemetry, as the data collection is not anonymous and because modified game statistics would skew collected data. [Read more](changed-options.md#telemetry)
 * The modpack disables certain mod network services (where present), including mod update checkers and cosmetic donor features, to avoid confusion and privacy concerns. These can be re-enabled by users [in the respective configs.](changed-options.md#configuring-mods)
-* An indicator icon is added to inform players of the chat signing status in the server (whether the server supports [Mojang's chat safety features](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ)). On servers where chat signing is optional, the modpack opts out of it for the playing user to adhere to the server's intent. [Read more](chat-reporting-faq.md#what-does-this-modpack-do-for-me).
+* Some tooltips and labels are changed to better inform players of the mechanics of [Mojang's chat safety features](https://help.minecraft.net/hc/en-us/articles/7317376541197-Minecraft-Java-Edition-Player-Reporting-FAQ).
 
 ### License and legal
 

@@ -103,12 +103,11 @@ Bundled resource pack "Mod Menu Helper" shortly describes each mod's purpose and
 
 ### Chat Reporting Helper
 
-Bundled resource pack "Chat Reporting Helper" simplifies some vanilla and No Chat Reports phrases to make chat reporting availability and interactions easier to understand.
+Bundled resource pack "Chat Reporting Helper" simplifies some vanilla phrases to make chat reporting availability and interactions easier to understand.
 
 * In-game testing is needed only for the resource pack description - [use MMH's instructions](language-support.md#testing-tutorial).
-* Some phrases refer to similar vanilla or No Chat Reports' phrases. Read the phrase descriptions for instructions.
+* Some phrases refer to similar vanilla phrases. Read the phrase descriptions for instructions.
 * Untranslated languages use the original phrases instead of Chat Reporting Helper's, so your translation helps improve the consistency by a lot!
-* It is also advised to [translate No Chat Reports itself](https://github.com/Aizistral-Studios/No-Chat-Reports/blob/26.2-Unified/src/main/resources/assets/nochatreports/lang/en_us.json).
 
 ### Crash Assistant
 

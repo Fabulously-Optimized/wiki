@@ -14,7 +14,7 @@ The CurseForge listing used to have "server packs", but [those were actually jus
 
 * [Do you even need a server?](server-setup.md#world-sharing)
 * [Use speedy server software](server-setup.md#software)
-* [Protect users from chat reporting](server-setup.md#chat-reporting)
+* [Be aware of chat reporting](server-setup.md#chat-reporting)
 * [Give users flexibility with client version](server-setup.md#client-version-flexibility)
 * [Allow Bedrock users to join](server-setup.md#bedrock-compatibility)
 * [Server-side content mods](server-setup.md#server-side-content-mods)
@@ -35,7 +35,7 @@ Did you know Fabulously Optimized lets you play with anyone in your singleplayer
 
 ### Software
 
-For server software it is recommended to use [Paper](https://papermc.io) or [Purpur](https://purpurmc.org), which are performance-optimized forks of Spigot, but support all the same plugins found on [Modrinth](https://modrinth.com/discover/plugins?g=categories:paper) and [SpigotMC](https://www.spigotmc.org/resources/categories/spigot.4). [Using Realms is not advised](chat-reporting-faq.md#does-mojang-monitor-my-chats).
+For server software it is recommended to use [Paper](https://papermc.io) or [Purpur](https://purpurmc.org), which are performance-optimized forks of Spigot, but support all the same plugins found on [Modrinth](https://modrinth.com/discover/plugins?g=categories:paper) and [SpigotMC](https://www.spigotmc.org/resources/categories/spigot.4). Using Realms is not advised - read about their [proactive moderation](https://help.minecraft.net/hc/en-us/articles/8047895358605-Our-Commitment-to-Player-Safety#h_01G95X76WR1PM97XBXDE7G25KE).
 
 If you still like Fabric a lot, you can [install it on a server as well](https://fabricmc.net/use/?page=server) and use [server-side optimization mods](https://modrinth.com/discover/mods?e=server&g=categories:fabric&f=categories:optimization), [including those in Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/INCLUDED-MODS.md#smooth).
 
@@ -43,58 +43,7 @@ If you need a host, [check out BisectHosting](https://www.bisecthosting.com/clie
 
 ### Chat Reporting
 
-Minecraft 1.19.1 added a feature [that lets users report chat messages to Mojang](chat-reporting-faq.md). Most servers disable it, as it can result in users being banned for things that are allowed by server rules.
-
-#### How your server works in Fabulously Optimized
-
-The following icons show the status of the server. Icons are shown on the bottom right corner of the chat box.
-
-* **1.18.2 or below (e.g. ViaVersion)**: FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
-  * No messages can be reported by anyone. On vanilla clients, gray bars are displayed on the left of the messages.
-* **1.19 or up**:
-  1. Using [one of the mods/plugins](server-setup.md#how-to-protect-your-users): FO users will see ![disabled](https://i.ibb.co/QDFzXCT/secure.png)
-     * No messages can be reported by anyone. On vanilla clients, gray bars are displayed on the left of the messages.
-  2. In other cases, FO users will see ![unknown](https://i.ibb.co/Yb1n6fW/unknown.png) until they send the first chat message.
-     1. If `enforce-secure-profile` = `true` (default), FO users will see ![enabled](https://i.ibb.co/2YgMHpR/insecure.png).
-        * All messages can be reported.
-     2. If `enforce-secure-profile` = `false` (recommended), FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png).
-        * Vanilla users' messages can be reported and disabled FO users' messages can not. On vanilla clients, gray bars are displayed on the left of FO users' messages.
-* **Realms**: FO users will see ![realms](https://i.ibb.co/gTxw84X/realms.png)/![blue police badge with pink letter R](https://github.com/user-attachments/assets/9d68bc1e-ccba-4e7c-92e0-a22e361d3896).
-  * All messages can be reported and [Mojang monitors all chats](chat-reporting-faq.md#does-mojang-monitor-my-chats).
-
-#### How to protect your users
-
-Make sure you follow _all_ steps that match your server's configuration, not just one of them.
-
-* **All 1.18- backend servers**: no changes necessary, chat reporting doesn't exist.
-* **All 1.19+ backend servers**: set `enforce-secure-profile` to `false` in _server.properties_
-  * This doesn't disable chat reporting by itself, but allows users to join without requiring them to sign their messages, to protect their privacy.
-  * If no other measures are taken alongside this:
-    * FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png) and their messages cannot be reported.
-    * Vanilla users will see a warning toast in the top right corner and their messages can be reported. To avoid those problems, use one of the plugins/mods below.
-* **Vanilla server**: no known methods exist.
-  * You can disable forced signing for clients using "All 1.19+ backend servers" instructions above.
-  * For preventing reporting entirely, consider using another server platform, such as Paper, or [alternative chat methods](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
-* **Velocity**: set `force-key-authentication` to `false` in _velocity.toml_
-  * Same comments apply as for "all 1.19+ backend servers" above.
-* **BungeeCord**: set `enforce_secure_profile` to `false` in _config.yml_
-  * Same comments apply as for "all 1.19+ backend servers" above.
-* **Paper/Purpur/Folia**: install the [FreedomChat](https://modrinth.com/mod/freedomchat) plugin.
-  * Ensure `rewrite-chat` and `send-prevents-chat-reports-to-client` are set to `true` inside the FreedomChat's config file to make FO users see a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
-* **Fabric/Forge/NeoForge**: install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports)
-  * FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
-* **Quilt**: no known methods exist.
-  * You can disable forced signing for clients using "All 1.19+ backend servers" instructions above.
-  * For preventing reporting entirely, consider using another mod loader, such as Fabric, or [alternative chat methods](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
-* **Realms**: impossible to circumvent seamlessly; [Mojang monitors all chats in Realms!](chat-reporting-faq.md#does-mojang-monitor-my-chats)
-  * [Use alternative methods to chat](chat-reporting-faq.md#are-there-alternative-ways-to-chat).
-  * Consider [getting a real host](https://www.bisecthosting.com/clients/aff.php?aff=2604) to avoid surveillance altogether (affiliate link - 25% off first month).
-* **LAN worlds**: host from Fabulously Optimized or install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on the client
-  * FO users will get a ![disabled](https://i.ibb.co/QDFzXCT/secure.png) icon near chat.
-* **LAN-like worlds** ([e4mc](https://e4mc.link/) - in FO, [World Host](https://modrinth.com/mod/world-host), [Essential](https://essential.gg/) etc): host from Fabulously Optimized or install [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) on the client
-  * FO users will see ![optional](https://i.ibb.co/hstcjW7/neutral.png) and their messages cannot be reported.
-
-_This section is also reposted to_ [_No Chat Reports wiki_](https://github.com/Aizistral-Studios/No-Chat-Reports/wiki/Protecting-server-players)_._
+Minecraft 1.19.1 added a feature that lets users report chat messages to Mojang. Server admins are advised to [learn how it works](https://minecraft.wiki/w/Social_interactions), as their players could be banned for messages that go against Minecraft's, but not server's rules.
 
 ### Client version flexibility
 
